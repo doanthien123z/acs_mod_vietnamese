@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<DisplayName>Miêu Huyền Vũ</DisplayName>
+			<Desc>Miêu Huyền Vũ là thượng cổ linh thú được sinh ra từ sức mạnh của thiên địa. Nó đại diện cho một vài quy luật của tự nhiên.</Desc>
+			<TalkBefore>Khẹc...</TalkBefore>
+			<TalkAfter>...Khẹc!</TalkAfter>
+		</Text>
+		<Text Name="WuDang_WuDiYa">
+			<DisplayName>Vịt Võ Đang</DisplayName>
+			<Desc>Loài vịt bí ẩn sống trên núi Võ Đang.!</Desc>
+		</Text>
+	</List>
+</Texts>

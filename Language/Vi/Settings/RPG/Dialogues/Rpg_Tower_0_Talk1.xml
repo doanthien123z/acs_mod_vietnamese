@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Tower_0_Talk1">
+			<Nodes.0.Text>Lối vào</Nodes.0.Text>
+			<Nodes.1.Text>Ngươi hẳn là đã trải qua một hành trình dài, ta có thể giúp gì cho ngươi??</Nodes.1.Text>
+			<Nodes.2.Text>Vô Biên Giới? Nơi này rốt cuộc là gì??</Nodes.2.Text>
+			<Nodes.3.Text>Ta đến đây để làm gì??</Nodes.3.Text>
+			<Nodes.4.Text>Ta muốn đi xuống xem thử.!</Nodes.4.Text>
+			<Nodes.5.Text>Cáo từ!</Nodes.5.Text>
+			<Nodes.6.Text>Ồ... nơi này chẳng qua chỉ là một bãi rác thải sót lại... nói thế nào nhỉ, tất cả những thứ gì ngoan cố đến mức không thể bị thời gian phân hủy từ thế giới đều sẽ bị gom lại đây với sự không cam lòng diệt vong. Bây giờ ngươi đã hiểu chưa???</Nodes.6.Text>
+			<Nodes.7.Text>Hả? Đã bao lâu rồi không có kẻ ngoại lai nào bước vào Vô Biên Giới này nhỉ? Thật hiếm thấy.!</Nodes.7.Text>
+			<Nodes.8.Text>Định làm gì á? Nếu là ta, ta sẽ chẳng làm gì ngoài việc nằm yên tĩnh tại nơi này. Nhưng nếu ngươi thực sự cảm thấy chán, ngươi có thể thử xuống dưới kia xem sao. Tuy nhiên ta phải cảnh báo trước là chẳng có gì hay ho đâu, bởi vì bên dưới đó ngoài đống rác rưởi không thể phân hủy ra thì chẳng có gì cả.</Nodes.8.Text>
+			<Nodes.9.Text>Được rồi, được rồi, ta biết rồi. Nhưng hãy cẩn thận đấy, đám rác rưởi kia không hề hiền hòa như ta đâu.</Nodes.9.Text>
+			<Nodes.10.Text>Ồ? Ngươi sắp rời đi rồi sao? Rảnh thì nhớ ghé thăm ta thường xuyên nhé, đã lâu lắm rồi ta không nhìn thấy sinh vật sống nào.</Nodes.10.Text>
+			<Nodes.12.Text>Có thể cho ta biết ta đã đi sâu đến mức nào rồi không??</Nodes.12.Text>
+			<Nodes.13.Text>Hừm, ngươi đã đi sâu đến mức nào rồi sao? Để ta xem nào.
+Độ sâu hiện tại là: [LUA=WorldLua:GetWorldFlag(5000)]</Nodes.13.Text>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,59 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_MiBao_1">
+			<DisplayName>Truy Tiên Tịch: Tàn Phiến 1</DisplayName>
+			<Desc>Bí tịch kiếm pháp được truyền thừa từ thời cổ đại, ghi lại dấu vết của tiên khí hồng hoang và nỗ lực mô phỏng lại tứ đại tiên kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nTruy Tiên Kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_2">
+			<DisplayName>Tử Vong Dẫn Lục: Mảnh vỡ 2</DisplayName>
+			<Desc>Bí tịch kiếm pháp được truyền thừa từ thời cổ đại, ghi lại dấu vết của tiên khí hồng hoang và nỗ lực mô phỏng lại tứ đại tiên kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nTử Vong Kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_3">
+			<DisplayName>Vô Tận Kiếm Lục: Mảnh vỡ 3</DisplayName>
+			<Desc>Bí tịch kiếm pháp được truyền thừa từ thời cổ đại, ghi lại dấu vết của tiên khí hồng hoang và nỗ lực mô phỏng lại tứ đại tiên kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nVô Tận Kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_4">
+			<DisplayName>Bất Tử Kiếm Lục: Mảnh vỡ 4</DisplayName>
+			<Desc>Bí tịch kiếm pháp được truyền thừa từ thời cổ đại, ghi lại dấu vết của tiên khí hồng hoang và nỗ lực mô phỏng lại tứ đại tiên kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nBất Tử Kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_5">
+			<DisplayName>Vạn Độc Chân Kinh: Mảnh vỡ</DisplayName>
+			<Desc>Tông chỉ gốc của Nam Phương Giáo thời cổ đại. Đáng tiếc là nội dung chủ yếu đã thất truyền, chỉ còn lại một vài mảnh vụn trang sách. Cuốn kinh này ghi chép phương pháp luyện chế ba món pháp bảo hung hiểm của Ma Tông.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nNgũ Độc Tuyệt Tiên Kiếm\nHuyễn Thế\nDiệt Thế Sa[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_6">
+			<DisplayName>Quảng Thành Thiên Thư: Mảnh vỡ</DisplayName>
+			<Desc>Tông chỉ gốc do Quảng Thành Tử để lại trước khi phi thăng. Đáng tiếc là nội dung chủ yếu đã thất truyền, chỉ còn lại một vài mảnh vụn trang sách. Cuốn kinh này ghi chép phương pháp luyện chế hai món pháp bảo tùy thân của Quảng Thành Tử.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nCửu Thiên Côn\nThiên lôi phù[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_7">
+			<DisplayName>Lưỡng Giới Phật Lục: Mảnh vỡ</DisplayName>
+			<Desc>Có nguồn gốc từ Cổ Phật, thế nhưng hiện nay chỉ còn lại mảnh vỡ. Bên trong mảnh vỡ này ghi chép cách thức luyện chế một phần pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nThần Tâm Kiếm\nKim Liên\nThanh Liên Kỳ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_8">
+			<DisplayName>Huyết Quang Lục: Mảnh vỡ</DisplayName>
+			<Desc>Bí tịch lưu lạc từ Ma giới, nó ghi chép cách thức luyện chế rất nhiều ma bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nThiên Lang Nha\nThiên Ma Huyết Đao\nTrấn Hồn Châu[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_9">
+			<DisplayName>Lãng Quên Tinh Thư</DisplayName>
+			<Desc>Cuốn sách bí ẩn từ thế giới khác, không rõ tác giả. Nó ghi chép rất nhiều bảo vật chưa từng thấy trong giới tu chân truyền thống.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nTinh Thần Toa\nThôn Hồn Tiễn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_10">
+			<DisplayName>Dao Trì Kinh</DisplayName>
+			<Desc>Sách chép rằng có nguồn gốc từ Tây Vương Mẫu, ghi chép phương pháp luyện chế một trong Ngũ Phương Kỳ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nBạch Vân Kỳ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_MiBao_11">
+			<DisplayName>Chiến Thần Tẩy Luyện Lục</DisplayName>
+			<Desc>Cuốn sách do Chiến Thần tạo ra khi còn ở Thiên Phạt Đình, ghi chép phương pháp luyện chế một trong Ngũ Phương Kỳ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế thượng cổ pháp bảo: \nÔ Nha Kỳ[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

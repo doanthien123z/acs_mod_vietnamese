@@ -1,0 +1,178 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv1_3_1">
+			<DisplayName>Bí kiếm phẩm đức</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_2">
+			<DisplayName>Mật Chú Chứng Đạo</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_3">
+			<DisplayName>Giáp đuôi bọ cạp</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_4">
+			<DisplayName>Xà Vương Lân</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_5">
+			<DisplayName>Kiếm Vĩ Quy</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_6">
+			<DisplayName>Thuật biến hình rùa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_7">
+			<DisplayName>Vô Cấu Quy Giáp</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_8">
+			<DisplayName>Bão gai</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_9">
+			<DisplayName>Cuồng phong nguyền rủa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_10">
+			<DisplayName>Cổ Mật Thứ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_11">
+			<DisplayName>Linh hồn tàn mộc</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_12">
+			<DisplayName>Đá giam mộc</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_13">
+			<DisplayName>Kiếm khí</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_14">
+			<DisplayName>Bí phong vạn đạo</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_15">
+			<DisplayName>Chân Lý Bế</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_3_16">
+			<DisplayName>Vô Cực Biến</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_1">
+			<DisplayName>Cân bằng nhị giới</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_2">
+			<DisplayName>Hạc Minh</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_3">
+			<DisplayName>Lôi vân long</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_4">
+			<DisplayName>Thủy Long Đằng Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_5">
+			<DisplayName>Sóng kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_6">
+			<DisplayName>Bão táp cuồng phong</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_7">
+			<DisplayName>Kiếm chém đại địa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_8">
+			<DisplayName>Thần Chú Sa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_9">
+			<DisplayName>Trụ cột kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_10">
+			<DisplayName>Thiên Đạo Trụ</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_11">
+			<DisplayName>Trụ cột chân nghĩa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv1_4_12">
+			<DisplayName>Thâm Tâm Trụ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_1">
+			<DisplayName>Kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_2">
+			<DisplayName>Pháp thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_3">
+			<DisplayName>Đạo Đức</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_1_4">
+			<DisplayName>Ôn nhu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_1">
+			<DisplayName>Liên kết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_2">
+			<DisplayName>Phản ứng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_3">
+			<DisplayName>Đạo Đức Kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_4">
+			<DisplayName>Kiếm ôn nhu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_5">
+			<DisplayName>Đạo Đức Kinh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_6">
+			<DisplayName>Nhu Hòa Kinh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_7">
+			<DisplayName>Kiếm sắc</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_8">
+			<DisplayName>Tĩnh Tâm Kinh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_9">
+			<DisplayName>Đạo Đức Nhị Tâm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_2_10">
+			<DisplayName>Hòa hợp nhu thuận</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_1">
+			<DisplayName>Bí kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_2">
+			<DisplayName>Mật Chú</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_3">
+			<DisplayName>Đuôi bọ cạp</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_4">
+			<DisplayName>Vảy rắn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_5">
+			<DisplayName>Dạ dày cá sấu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_6">
+			<DisplayName>Long khúc</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_7">
+			<DisplayName>Quy Hóa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_8">
+			<DisplayName>Hạc Kiếm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_9">
+			<DisplayName>Huyễn ảnh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_10">
+			<DisplayName>Gai thông</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_11">
+			<DisplayName>Cổ Văn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_12">
+			<DisplayName>Giáp mây</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_13">
+			<DisplayName>Kiếm Ý</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_14">
+			<DisplayName>Phong Ấn Kinh</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_15">
+			<DisplayName>Chân Đạo Đức</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv1_3_16">
+			<DisplayName>Thâm Nhu</DisplayName>
+		</Text>
+	</List>
+</Texts>

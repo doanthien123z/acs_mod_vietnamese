@@ -1,0 +1,4 @@
+ItemName	Type
+Item_BambooShoot	Thức ăn
+Item_Bamboo	Nguyên liệu
+Item_BambooLeftover	Nguyên liệu

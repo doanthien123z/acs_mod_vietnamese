@@ -1,0 +1,119 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="OrnamentBase" sParam="Building">
+			<Desc>Vật phẩm trang trí, nó ảnh hưởng đến ngũ hành của môi trường tùy thuộc vào vật liệu chế tạo.</Desc>
+		</Text>
+		<Text Name="Building_StoneMan" sParam="Building">
+			<ThingName>Tượng đá</ThingName>
+		</Text>
+		<Text Name="Building_Flag1" sParam="Building">
+			<ThingName>Long Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_Flag2" sParam="Building">
+			<ThingName>Tam Đạo Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_Flag3" sParam="Building">
+			<ThingName>Thái Cực Kỳ</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion" sParam="Building">
+			<ThingName>Thạch Sư</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion2" sParam="Building">
+			<ThingName>Thạch Sư</ThingName>
+		</Text>
+		<Text Name="Building_StoneLion3" sParam="Building">
+			<ThingName>Thạch Sư</ThingName>
+		</Text>
+		<Text Name="Building_BigTripod" sParam="Building">
+			<ThingName>Lò</ThingName>
+		</Text>
+		<Text Name="Building_SmallTripod" sParam="Building">
+			<ThingName>Lò</ThingName>
+		</Text>
+		<Text Name="Building_BigCenser" sParam="Building">
+			<ThingName>Hương Lô</ThingName>
+		</Text>
+		<Text Name="Building_SmallCenser" sParam="Building">
+			<ThingName>Hương Lô</ThingName>
+		</Text>
+		<Text Name="Building_BigSwordPillar" sParam="Building">
+			<ThingName>Hộ Sơn Kiếm</ThingName>
+			<Desc>Công trình có thể kích hoạt trận pháp Hộ Sơn Kiếm. Có thể kích hoạt để phòng thủ trước sự tấn công của kẻ địch. Hộ thuẫn chỉ bảo vệ được đệ tử nội môn và không thể thu hồi pháp bảo.</Desc>
+		</Text>
+		<Text Name="Building_BigVase" sParam="Building">
+			<ThingName>Hoa Bình</ThingName>
+		</Text>
+		<Text Name="Building_SmallVase" sParam="Building">
+			<ThingName>Hoa Bình</ThingName>
+		</Text>
+		<Text Name="Building_Screen1" sParam="Building">
+			<ThingName>Bình Phong</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf" sParam="Building">
+			<ThingName>Thư Giá</ThingName>
+		</Text>
+		<Text Name="Building_ItemShelf" sParam="Building">
+			<ThingName>Giá Đỡ</ThingName>
+			<Desc>Có thể dùng để trưng bày vật phẩm mong muốn.</Desc>
+		</Text>
+		<Text Name="Building_ShuZhuangTai" sParam="Building">
+			<ThingName>Kính Trác</ThingName>
+		</Text>
+		<Text Name="Building_Tower" sParam="Building">
+			<ThingName>Cao Thâm Bảo Tháp</ThingName>
+		</Text>
+		<Text Name="Building_Tower2" sParam="Building">
+			<ThingName>Bảo tháp</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei" sParam="Building">
+			<ThingName>Thạch Bia</ThingName>
+		</Text>
+		<Text Name="Building_Zhong" sParam="Building">
+			<ThingName>Cảnh Chung</ThingName>
+			<Desc>Đại hồng chung có thể rung lên để cảnh báo và triệu tập toàn bộ đệ tử ngoại môn tránh nạn. Cần tự tay rung và dừng. Ngoài ra có thể dùng làm vật trang trí, ảnh hưởng đến ngũ hành môi trường tùy theo chất liệu.</Desc>
+		</Text>
+		<Text Name="Building_Gu" sParam="Building">
+			<ThingName>Hòm Đựng</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan1" sParam="Building">
+			<ThingName>Cảnh Quan Thạch (Đỉnh Núi))</ThingName>
+		</Text>
+		<Text Name="Building_JiaShan2" sParam="Building">
+			<ThingName>Cảnh Quan Thạch (Thung Lũng))</ThingName>
+		</Text>
+		<Text Name="Building_PenZai1" sParam="Building">
+			<ThingName>Bonsai (Xanh Tươi))</ThingName>
+		</Text>
+		<Text Name="Building_PenZai2" sParam="Building">
+			<ThingName>Bonsai (Tùng))</ThingName>
+		</Text>
+		<Text Name="Building_PenZai3" sParam="Building">
+			<ThingName>Bonsai (Thẳng Đứng))</ThingName>
+		</Text>
+		<Text Name="Building_Tower1" sParam="Building">
+			<ThingName>Kim Tháp</ThingName>
+		</Text>
+		<Text Name="Building_ShiBei1" sParam="Building">
+			<ThingName>Kiên Cố Thạch</ThingName>
+		</Text>
+		<Text Name="Building_Zhong1" sParam="Building">
+			<ThingName>Long Chung</ThingName>
+		</Text>
+		<Text Name="Building_Gu1" sParam="Building">
+			<ThingName>Long Cổ</ThingName>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing" sParam="Building">
+			<ThingName>Tàng Kinh H阁</ThingName>
+			<Desc>Giá dùng để lưu trữ các loại kinh thư. Mỗi giá có sức chứa 100 đơn vị. Kinh thư cấp càng cao thì càng chiếm nhiều không gian lưu trữ.</Desc>
+		</Text>
+		<Text Name="Building_StoneYiJi1" sParam="Building">
+			<ThingName>Bát Hi Hạ Thạch Bi</ThingName>
+		</Text>
+		<Text Name="Building_StoneYiJi2" sParam="Building">
+			<ThingName>Tượng Phế Tích</ThingName>
+		</Text>
+		<Text Name="Building_JuNengDeng" sParam="Building">
+			<ThingName>Thủy Nguyên Quang</ThingName>
+		</Text>
+	</List>
+</Texts>

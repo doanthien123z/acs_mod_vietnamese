@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BPQuenchingMethods_test1">
+			<DisplayName>Khảo Thí Lục Sắc</DisplayName>
+			<Desc>Một trong những pháp thuật luyện thể cơ bản nhất dành cho người tu luyện Bất Tử Thân. Mỗi lần sử dụng phương pháp này, bộ phận được chọn sẽ nhận được một lần luyện thể thông thường.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test2">
+			<DisplayName>Khảo Thí Tử Sắc</DisplayName>
+			<Desc>Một trong những pháp thuật luyện thể cơ bản nhất dành cho người tu luyện Bất Tử Thân. Mỗi lần sử dụng phương pháp này, bộ phận được chọn sẽ nhận được một lần luyện thể thông thường.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_test3">
+			<DisplayName>Khảo Thí Chanh Sắc</DisplayName>
+			<Desc>Một trong những pháp thuật luyện thể cơ bản nhất dành cho người tu luyện Bất Tử Thân. Mỗi lần sử dụng phương pháp này, bộ phận được chọn sẽ nhận được một lần luyện thể thông thường.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1">
+			<DisplayName>Luyện Huyệt</DisplayName>
+			<Desc>Một trong những pháp thuật luyện thể cơ bản nhất dành cho người tu luyện Bất Tử Thân. Mỗi lần sử dụng phương pháp này, bộ phận được chọn sẽ nhận được một lần luyện thể thông thường.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_1_1">
+			<DisplayName>Luyện Bát Mạch</DisplayName>
+			<Desc>Một trong những pháp thuật luyện thể cơ bản nhất dành cho người tu luyện Bất Tử Thân. Kết quả nhận được tương đương với việc sử dụng luyện huyệt 8 lần liên tiếp. Mỗi lần sử dụng, bộ phận được chọn sẽ được luyện thể thông thường 8 lần, và lần cuối cùng sẽ dẫn đến ít nhất một nhánh tiến hóa quý hiếm.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_2">
+			<DisplayName>Hung Thú Luyện Thể</DisplayName>
+			<Desc>Luyện thể bằng sức mạnh của hung thú, sử dụng đại lượng đạo nguyên để kích thích cơ thể sinh ra nhiều nhánh tiến hóa hơn. Mỗi lần sử dụng, bộ phận được chọn sẽ tạo ra nhiều nhánh tiến hóa hơn bình thường 1 lần.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_3">
+			<DisplayName>Lục Lục Đại Thuận</DisplayName>
+			<Desc>Sử dụng quy tắc của lục đạo vào việc luyện thể cùng với đạo nguyên, làm giảm đi thuộc tính nhưng mang lại hiệu quả cao. Mỗi lần sử dụng, bộ phận được chọn sẽ nhận được 6 lần luyện thể thông thường.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_4">
+			<DisplayName>Đế Đạo Luyện</DisplayName>
+			<Desc>Nghệ thuật tôi luyện thân thể do năm vị cổ đế đồng sáng tạo, sử dụng đại lượng đạo nguyên để kích thích sinh ra các nhánh tiến hóa quý hiếm. Mỗi lần sử dụng, bộ phận được chọn sẽ được luyện qua 1 lần nhánh tiến hóa cao cấp.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_5">
+			<DisplayName>Cửu Âm Luyện Thể</DisplayName>
+			<Desc>Bí pháp luyện thể sử dụng sức mạnh của Âm kết hợp với thần toán thuật. Mỗi lần sử dụng, bộ phận được chọn sẽ nhận được 8 lần luyện thể thông thường, và lần cuối cùng sẽ dẫn đến ít nhất một nhánh tiến hóa quý hiếm.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_6">
+			<DisplayName>Tử Tinh Luyện</DisplayName>
+			<Desc>Bí pháp luyện thể sử dụng sức mạnh từ các vì sao để hỗ trợ định hình nhánh tiến hóa. Mỗi lần sử dụng, bộ phận được chọn sẽ nhận được 14 lần luyện thể thông thường, và lần cuối cùng sẽ dẫn đến ít nhất một nhánh tiến hóa quý hiếm.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp1">
+			<DisplayName>Thái Dương Luyện Thể</DisplayName>
+			<Desc>Sử dụng máu của thánh thú hỏa diễm để kích thích luyện hóa đạo nguyên trong cơ thể. Mặc dù số lượng nhánh tiến hóa trong mỗi lần luyện ít, nhưng phương pháp này mang lại cơ hội cao hơn để nhận được nhánh tiến hóa cao cấp. Nếu sử dụng phương pháp này để luyện cột sống, sẽ có tỷ lệ nhỏ khiến cột sống xảy ra biến hóa kỳ bí, nâng cao tiềm năng tiến hóa của toàn bộ xương.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp2">
+			<DisplayName>Luyện hóa Quỷ Thể</DisplayName>
+			<Desc>Sử dụng ý thức của ác quỷ để kích thích việc luyện hóa Đạo căn trong cơ thể. Mặc dù số lượng tiến hóa trong mỗi lần luyện hóa là ít, nhưng phương pháp này sẽ giúp tăng cơ hội nhận được các lộ trình tiến hóa cao cấp. Nếu sử dụng phương pháp này để luyện não bộ, có xác suất thấp khiến lục phủ ngũ tạng xảy ra biến đổi huyền bí, từ đó phát triển tiềm năng tiến hóa của toàn bộ lục phủ ngũ tạng.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_Sp3">
+			<DisplayName>Luyện hóa Phản Thể</DisplayName>
+			<Desc>Sử dụng linh hồn của Đạo để khống chế năng lượng phản chất và dùng nó để kích thích luyện hóa Đạo căn trong cơ thể. Mặc dù số lượng tiến hóa trong mỗi lần luyện hóa là ít, nhưng phương pháp này sẽ giúp tăng cơ hội nhận được các lộ trình tiến hóa cao cấp. Nếu sử dụng phương pháp này để luyện tâm, có xác suất thấp khiến nhục thân xảy ra biến đổi huyền bí, từ đó phát triển tiềm năng tiến hóa của toàn bộ nhục thân.</Desc>
+		</Text>
+		<Text Name="BPQuenchingMethods_ReQuenching">
+			<DisplayName>Luyện hóa Diệt Thể</DisplayName>
+			<Desc>Ép chân khí trong cơ thể bài trừ tất cả các bộ phận đã luyện hóa trên cơ thể bằng cách sử dụng Tiên căn làm vật dẫn. Việc này sẽ khiến kết quả của việc luyện thể hoàn toàn bị phá hủy, khiến người tu luyện trở về làm người thường một lần nữa.</Desc>
+		</Text>
+	</List>
+</Texts>

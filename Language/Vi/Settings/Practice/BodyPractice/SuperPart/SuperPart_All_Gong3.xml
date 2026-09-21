@@ -1,0 +1,118 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_3_1">
+			<Prefix>Nanh Nhọn</Prefix>
+			<Suffix>Độc Sư</Suffix>
+			<Desc>Luyện hóa hai chiếc răng nanh và dung hợp chúng với độc khí. Thần thể bí ẩn này có khả năng nổi bật về mặt tấn công.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả tấn công của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_2">
+			<Prefix>Đuôi</Prefix>
+			<Suffix>Sát Ảnh</Suffix>
+			<Desc>Tái tạo một chiếc đuôi dài với khả năng tiêu diệt vạn vật chỉ trong chớp mắt. Thần thể bí ẩn này có khả năng nổi bật trong việc áp chế linh khí pháp bảo.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả tấn công của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_3">
+			<Prefix>Vuốt</Prefix>
+			<Suffix>Phá Toái Không Gian</Suffix>
+			<Desc>Luyện hóa bốn chiếc vuốt trở nên sắc bén khó tin. Tương truyền nếu người tu luyện đạt đến đại thành cảnh giới tối cao, nó thậm chí có thể cắt đứt cả không gian và không gì có thể né tránh đòn tấn công của nó.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_4">
+			<Prefix>Đạp</Prefix>
+			<Suffix>Thiên</Suffix>
+			<Desc>Thân thể bí ẩn cường đại được rèn luyện bằng sức mạnh của Âm Dương. Truyền thuyết kể rằng tu sĩ ma đạo cổ xưa từng sử dụng nó để leo lên đỉnh cao của giới tu tiên, giẫm đạp tất cả các tiên nhân khác dưới chân, vì vậy nó có tên là Đạp Thiên.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_5">
+			<Prefix>Yêu Giáp</Prefix>
+			<Suffix>Vạn Hào</Suffix>
+			<Desc>Rèn luyện phần cổ trở nên cứng cáp và dung hợp với chân khí, khiến chúng xuất hiện như hàng vạn tia sáng bạc bắn ra. Thân thể bí ẩn này cực kỳ nổi bật trong việc tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_6">
+			<Prefix>Dực</Prefix>
+			<Suffix>Xuyên Cốt</Suffix>
+			<Desc>Rèn luyện đôi cánh bằng bí pháp, có khả năng phóng thích chân khí mang tính ăn mòn. Thân thể bí ẩn này cực kỳ nổi bật trong việc tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_7">
+			<Prefix>Giáp</Prefix>
+			<Suffix>Thiên Yêu</Suffix>
+			<Desc>Toàn thân lông vũ được luyện hóa làm một, có khả năng chống lại mọi hình thức xâm hại.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng đáng kể tỷ lệ thành công khi phòng thủ bằng thân thể bí ẩn.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_8">
+			<Prefix>Lân</Prefix>
+			<Suffix>Ma Long</Suffix>
+			<Desc>Rèn luyện nhục thân cho đến khi có đặc điểm tựa như vảy rồng. Người ta nói rằng sức phòng thủ của nó gần như không gì có thể phá vỡ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_9">
+			<Prefix>Phượng Vũ</Prefix>
+			<Suffix>Vạn Kiếp</Suffix>
+			<Desc>Thân thể bí ẩn trong truyền thuyết, được cho là mô phỏng sự tái sinh bất tận của Phượng Hoàng cổ đại. Những chiếc lông vũ được luyện hóa qua hàng vạn lần biến đổi, tạo ra nguồn sức mạnh khó lòng tưởng tượng nổi.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_10">
+			<Prefix>Ý chí</Prefix>
+			<Suffix>Ma Ảo</Suffix>
+			<Desc>Sử dụng sức mạnh tối thượng của yêu tộc để rèn luyện đại não và tạo ra ý chí ảo ảnh ẩn giấu bên trong. Nếu dùng phương pháp này để luyện não, sẽ có cơ hội xảy ra biến đổi kỳ bí, phát triển tiềm năng tiến hóa của toàn bộ cơ quan trong cơ thể.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Học bí thuật luyện thể: Luyện Thể Quỷ Dữ</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_11">
+			<Prefix>Linh Khí</Prefix>
+			<Suffix>Vạn Yêu</Suffix>
+			<Desc>Thân thể bí ẩn được tạo ra từ việc kết hợp tất cả các bí thuật vận hành linh khí của yêu tộc. Nó có khả năng hồi phục chân khí cho tu sĩ một cách thần kỳ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tốc độ hồi phục Chân khí của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa tốc độ hồi phục chân nguyên của bí thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tốc độ hồi phục chân khí của ẩn thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_3_12">
+			<Prefix>Tinh</Prefix>
+			<Suffix>Tinh Thần</Suffix>
+			<Desc>Thân thể bí ẩn tà đạo, rèn luyện lại cái đuôi bằng bí thuật để dung hợp với sức mạnh tinh tú, giúp thân thể bí ẩn gia tăng độ ổn định đáng kể.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.\n Tăng mạnh né tránh cơ bản cho người tu luyện Thể Tu</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

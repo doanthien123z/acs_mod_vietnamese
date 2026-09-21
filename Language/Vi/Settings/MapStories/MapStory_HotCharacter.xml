@@ -1,0 +1,115 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="HotStory_Fun_LingWu">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+			<Selections.1.Display>Lĩnh hội được tri thức</Selections.1.Display>
+		</Text>
+		<Text Name="HotStory_Fun_LingWu_DuShu">
+			<DisplayName>Tìm kiếm</DisplayName>
+			<Desc>Trong lúc đang đọc cổ thư, đột nhiên [NAME] Lại phát hiện ra một điều không tầm thường</Desc>
+			<Selections.0.Display>Tiến tới cảnh giới giác ngộ</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingGan">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Work_LingWu_Feed">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingFailed">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Make_LingWu_CookingSucceed">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_LingWu">
+			<DisplayName>Lĩnh ngộ</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của một thứ gì đó!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Brokening">
+			<DisplayName>Linh hồn giác ngộ đột phá cảnh giới</DisplayName>
+			<Desc>Sau khi [NAME] Có thể đột phá cảnh giới [ENHIM]Lại nhận được giác ngộ từ quy tắc thiên địa</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenSucceed">
+			<DisplayName>Linh hồn giác ngộ</DisplayName>
+			<Desc>Sau khi [NAME] Có thể đột phá cảnh giới [ENHIM]Lại nhận được giác ngộ từ quy tắc thiên địa</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_BrokenFailed">
+			<DisplayName>Linh hồn giác ngộ</DisplayName>
+			<Desc>[NAME] Mặc dù [NAME] Dù không thể đột phá cảnh giới, nhưng[ENHIM]Lại ngộ ra chút đạo lý từ quy tắc thiên địa</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Golding">
+			<DisplayName>Linh hồn giác ngộ Kim Đan</DisplayName>
+			<Desc>[NAME] Đã ngộ nhập trạng thái Thiên Nhân Hợp Nhất trong lúc ngưng tụ Kim Đan</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_GoldSucceed">
+			<DisplayName>Linh hồn giác ngộ</DisplayName>
+			<Desc>Sau khi [NAME] Ngưng tụ Kim Đan thành công [ENHIM]Lại nhận được giác ngộ về quy tắc đại đạo</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_ThunderSucceed">
+			<DisplayName>Tribulation Linh hồn giác ngộ</DisplayName>
+			<Desc>[NAME] Có thể vượt qua Thiên Kiếp và nhận được giác ngộ về Đạo</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDan">
+			<DisplayName>Linh hồn giác ngộ Chân lý Đan dược</DisplayName>
+			<Desc>[NAME] Thức tỉnh trạng thái giác ngộ trong lúc luyện đan</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningDanFailed">
+			<DisplayName>Linh hồn giác ngộ Chân lý Đan dược</DisplayName>
+			<Desc>[NAME] Luyện đan thất bại, nhưng[ENHIM]Lại ngộ ra một phần chân lý luyện đan</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Refining">
+			<DisplayName>Linh hồn giác ngộ Chân lý Luyện khí</DisplayName>
+			<Desc>[NAME] Thức tỉnh trạng thái giác ngộ trong lúc luyện chế pháp bảo</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningGod">
+			<DisplayName>Linh hồn giác ngộ Chân lý Luyện khí</DisplayName>
+			<Desc>[NAME] Lĩnh hội chân ý sâu xa của việc luyện chế pháp bảo!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_RefiningFailed">
+			<DisplayName>Linh hồn giác ngộ Chân lý Luyện khí</DisplayName>
+			<Desc>[NAME] Luyện chế pháp bảo thất bại, nhưng[ENHIM]Lại ngộ ra một phần chân lý luyện khí</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Fei_LingWu">
+			<DisplayName>Đột nhiên ngộ ra chân lý tự nhiên</DisplayName>
+			<Desc>Đột nhiên [NAME] Lại nhận được giác ngộ trong lúc chơi đùa cùng Phi</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_LuShu_LingWu">
+			<DisplayName>Đột nhiên ngộ ra chân lý tự nhiên</DisplayName>
+			<Desc>Đột nhiên [NAME] Lại nhận được giác ngộ trong lúc chơi đùa cùng Lục Sơ</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

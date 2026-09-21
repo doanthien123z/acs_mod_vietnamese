@@ -1,0 +1,92 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>Bi quan</DisplayName>
+			<Desc>Cái thế giới này sinh ra để làm gì chứ? Tại sao chúng ta lại phải chịu đựng khổ sở thế này?</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>Lạc quan</DisplayName>
+			<Desc>Vạn vật trên đời đều có lúc thăng lúc trầm, ta nói có đúng không?</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>Chai sạn</DisplayName>
+			<Desc>Áp lực cuộc sống khiến người này có tâm lý chai sạn. Tuy nhiên, điều này có nghĩa là[IT]đã quen với áp lực và đau đớn, vì thế[IT]sẽ không lười biếng trong công việc do tinh thần sa sút.</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>Hiếu kỳ</DisplayName>
+			<Desc>[IT]Vô cùng tò mò về thế giới bên ngoài và không thể chịu nổi cuộc sống tẻ nhạt.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Thân thiện</DisplayName>
+			<Desc>[IT]Cực kỳ hòa đồng với tất cả mọi người</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Tự phong bế</DisplayName>
+			<Desc>[IT]Không tin vào tình yêu đích thực và không tin tưởng bất cứ ai</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>Tâm trí kiên định</DisplayName>
+			<Desc>[IT]Có tâm trí kiên định và khả năng chịu đau đớn vượt xa người thường.</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>Suy nhược</DisplayName>
+			<Desc>[IT]Luôn được bảo bọc nên gần như không thể chịu đựng được nỗi đau.</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>Tâm trí bất định</DisplayName>
+			<Desc>[IT]Thường xuyên bồn chồn lo lắng và hay bỏ dở công việc được giao.</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>Tâm trí vững vàng</DisplayName>
+			<Desc>[IT]Có tâm trí vô cùng vững vàng. [IT]Rất khó cảm thấy bực bội hoặc đau buồn.</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>Lơ đễnh</DisplayName>
+			<Desc>[IT]Thường xuyên cẩu thả trong công việc, mặc dù[IT]làm việc nhanh hơn người thường nhưng kết quả thường không mấy khả quan.</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>Cẩn thận tỉ mỉ</DisplayName>
+			<Desc>[IT]rất chỉn chu trong công việc của mình, điều này khiến[IT]làm việc khá chậm chạp nhưng kết quả đạt được lại rất tốt.</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>Lười biếng</DisplayName>
+			<Desc>[IT]Không thích làm việc.</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>Chăm chỉ</DisplayName>
+			<Desc>[IT]Có tinh thần cần cù và hiệu suất công việc rất tốt.</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>Tâm nữ nhi</DisplayName>
+			<Desc>Dẫu thân là nam, nhưng[IT]lại có tính cách và cử chỉ khá nữ tính.</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>Tâm nam nhi</DisplayName>
+			<Desc>Dẫu thân là nữ, nhưng[IT]lại có tính cách và cử chỉ khá nam tính.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Lương thiện</DisplayName>
+			<Desc>Người có lòng tốt, khiến người khác muốn kết giao</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Tàn nhẫn</DisplayName>
+			<Desc>Kẻ này lòng dạ hẹp hòi, tàn độc, thường xuyên gây chuyện khiến người khác không hài lòng</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>Có khúc mắc trong lòng</DisplayName>
+			<Desc>Người này có khúc mắc tâm lý vô cùng nặng nề. [IT]luôn có triệu chứng trầm cảm suốt thời gian dài, khi ngủ thì giấc ngủ không trọn vẹn do ác mộng liên tục đeo bám[IT]</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>U uất</DisplayName>
+			<Desc>Mọi thứ... Thật sự quá vô nghĩa</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>Giải thoát</DisplayName>
+			<Desc>Người này đã đạt đến cảnh giới vô ngã, khiến cho[IT]thoát khỏi mọi phiền não trần thế</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>Chứng sợ lửa</DisplayName>
+			<Desc>Người này cực kỳ sợ lửa và không thể làm bất cứ điều gì liên quan đến lửa</Desc>
+		</Text>
+	</List>
+</Texts>

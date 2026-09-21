@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SoulCrystalBase" sParam="Item">
+			<Item.FabaoSuffix>Linh châu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SoulCrystalYou" sParam="Item">
+			<ThingName>Oán Niệm Ma Ngọc</ThingName>
+			<Desc>Hạt ngọc bị nguyền rủa bởi sự oán hận, bên trong chứa đựng một phần ký ức đau khổ còn sót lại của người đã khuất.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalNing" sParam="Item">
+			<ThingName>Vô sầu tâm châu</ThingName>
+			<Desc>Linh châu tĩnh lặng, bên trong chứa đựng một phần ký ức của người đã khuất.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalLing" sParam="Item">
+			<ThingName>Hồn Ngọc</ThingName>
+			<Desc>Hạt ngọc tâm linh rực rỡ, bên trong chứa đựng một phần ký ức hạnh phúc còn sót lại của người đã khuất.</Desc>
+		</Text>
+		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+			<ThingName>Sơ nguyên linh châu</ThingName>
+			<Desc>Đó là một sai lầm của thiên đạo khi vật thể linh hồn có được tâm trí. Đồng thời, sơ nguyên linh châu này chính là kết quả được chắt lọc từ sai lầm đó, rút ra từ vật thể linh hồn có tri giác.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CatSoul" sParam="Item">
+			<ThingName>Mắt mèo</ThingName>
+			<Desc>Tàn hồn của yêu miêu, có lẽ có liên quan đến câu nói mèo có chín mạng. Nó mang một nguồn năng lượng kỳ bí, trực tiếp nuốt chửng sẽ giúp người tu luyện gia tăng thêm phân hồn. Cả đời một người chỉ có thể sử dụng vật này một lần duy nhất, hơn nữa nó chỉ có hiệu quả với người tu luyện ở cảnh giới Sơ Nguyên Linh.</Desc>
+		</Text>
+	</List>
+</Texts>

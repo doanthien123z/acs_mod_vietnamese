@@ -1,0 +1,22 @@
+talk	notarget	int	string	float	thing
+BabySleep1	Tú Tú muốn ngủ				
+BabySleep2	Tú Tú cảm thấy mệt				
+BabySleep3	Tú Tú chuẩn bị đi ngủ				
+BabyPandaTalk	Tú Tú lại đột phá rồi				
+BabySilly	Tú Tú muốn chơi cùng Tiên Tiên				
+BabyFollow1	Đi theo Tiên Tiên				
+BabyFollow2	Đi tìm Tiên Tiên				
+Roll	Lăn qua lăn lại				
+Chop	Tu luyện				
+Happy	Hạnh phúc				
+PlayBB	Ta thật tuyệt vời				
+NotEat_Item_Bamboo	Ta không muốn ăn tre				Ta không muốn ăn tre
+NotEat_Item_BambooShoot	Ta không muốn ăn măng				Ta không muốn ăn măng
+WannaEat_Item_Bamboo	Ta muốn ăn tre				Ta muốn ăn tre
+WannaEat_Item_BambooShoot	Ta muốn ăn măng				Ta muốn ăn măng
+DoTalkEat_Item_Bamboo	Ta đang ăn tre				Ta đang ăn tre
+DoTalkEat_Item_BambooShoot	Ta đang ăn măng				Ta đang ăn măng
+CantEat_Item_Bamboo	Không có tre để ăn				Không có tre để ăn
+CantEat_Item_BambooShoot	Không có măng để ăn				Không có măng để ăn
+EatTogether	Ăn cơm cùng Tiên Tiên
+BabyHelpPlay	Chơi cùng bọn họ				Chơi cùng {0}

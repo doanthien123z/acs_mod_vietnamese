@@ -1,0 +1,69 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Chúc Long</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongFight">
+			<DisplayName>Chúc Long</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_ShadowFight">
+			<DisplayName>Bóng chiến tranh</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YangShadow">
+			<DisplayName>Quang linh</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YinShadow">
+			<DisplayName>Ám linh</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_LongPuFix">
+			<DisplayName>Long tộc tòng thần</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhuLong_Part">
+			<DisplayName>Thân hình Thiên Long</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongShadow">
+			<DisplayName>Bóng hình Thiên Long</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_NightGod">
+			<DisplayName>Vị thần của đêm vĩnh hằng</DisplayName>
+			<Desc>Đã nhận [Hơi thở băng giá ánh trăng] 1 Mỗi 6 tầng, chỉ có pháp bảo và thần thông hệ dương (hỏa, mộc) mới có thể gây sát thương tối đa. Pháp bảo và thần thông hệ thổ chỉ gây sát thương rất nhỏ, trong khi toàn bộ sát thương hệ âm sẽ bị hấp thụ.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Night">
+			<DisplayName>Hơi thở băng giá ánh trăng</DisplayName>
+			<Desc>Khi hơi thở băng giá ánh trăng tăng đến cấp 100, nó sẽ giải phóng yêu thân thượng giới.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_DayGod">
+			<DisplayName>Vị thần của thái dương vô tận</DisplayName>
+			<Desc>Đã nhận [Hơi thở hỏa diễm thái dương] 1 Mỗi 6 tầng, chỉ có pháp bảo và thần thông hệ âm (kim, thủy) mới có thể gây sát thương tối đa. Pháp bảo và thần thông hệ thổ chỉ gây sát thương rất nhỏ, trong khi toàn bộ sát thương hệ dương sẽ bị hấp thụ.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Day">
+			<DisplayName>Hơi thở hỏa diễm thái dương</DisplayName>
+			<Desc>Khi hơi thở hỏa diễm thái dương tăng đến cấp 100, nó sẽ giải phóng sức mạnh luật nhân quả.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Shennian">
+			<DisplayName>Trấn áp linh hồn</DisplayName>
+			<Desc>Mỗi tầng sẽ giảm 2 trạng thái tâm trí, hiệu quả sẽ mất đi khi Thiên Long thay đổi trạng thái.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Zuinie">
+			<DisplayName>Vòng luân hồi nghiệp chướng</DisplayName>
+			<Desc>Mỗi tầng sẽ giảm 2 điểm nghiệp chướng, hiệu quả sẽ mất đi khi Thiên Long thay đổi trạng thái</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen">
+			<DisplayName>Nghiệp Hỏa</DisplayName>
+			<Desc>Điểm nghiệp chướng sẽ tạm thời tăng lên 1000, tuy nhiên khi kết thúc, điểm nghiệp chướng sẽ giảm vĩnh viễn một lượng là 200</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen_end">
+			<DisplayName>Nghiệp Hỏa</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao">
+			<DisplayName>Tâm Giáp</DisplayName>
+			<Desc>Trạng thái tâm trí sẽ tạm thời tăng lên 100, tuy nhiên khi kết thúc, trạng thái tâm trí sẽ giảm vĩnh viễn một lượng là 20</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao_end">
+			<DisplayName>Tâm Giáp</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongIdleEffect">
+			<DisplayName>Thiên Long Bí Thuật</DisplayName>
+		</Text>
+	</List>
+</Texts>

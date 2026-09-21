@@ -1,0 +1,8 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Trống rỗng]</DisplayName>
+			<Desc>Kiến trúc thất truyền không ai biết đến \n(Trống)</Desc>
+		</Text>
+	</List>
+</Texts>

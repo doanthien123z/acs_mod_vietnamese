@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JobLsDecide">
+			<DisplayName>Do dự</DisplayName>
+		</Text>
+		<Text Name="JobEatItem2">
+			<DisplayName>Ăn</DisplayName>
+		</Text>
+		<Text Name="JobAtk4Fun">
+			<DisplayName>Tấn công</DisplayName>
+		</Text>
+		<Text Name="JobGoShit">
+			<DisplayName>Đi vệ sinh</DisplayName>
+		</Text>
+		<Text Name="JobLsCarry">
+			<DisplayName>Vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobLsCutoff">
+			<DisplayName>Chặt gỗ</DisplayName>
+		</Text>
+		<Text Name="JobLsMine">
+			<DisplayName>Đào khoáng</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToBed">
+			<DisplayName>Vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobLsCarryToDest">
+			<DisplayName>Vận chuyển</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSelf">
+			<DisplayName>Đang vui vẻ</DisplayName>
+		</Text>
+		<Text Name="JobPlayWithSth">
+			<DisplayName>Đang chơi</DisplayName>
+		</Text>
+		<Text Name="JobLsFun">
+			<DisplayName>Đang chơi</DisplayName>
+		</Text>
+		<Text Name="JobLsHelpPlay">
+			<DisplayName>Đang chơi</DisplayName>
+		</Text>
+		<Text Name="JobLsTrain">
+			<DisplayName>Luyện tập thể chất</DisplayName>
+		</Text>
+		<Text Name="JobLsPee">
+			<DisplayName>Tưới nước</DisplayName>
+		</Text>
+		<Text Name="JobLsCure">
+			<DisplayName>Trị liệu</DisplayName>
+		</Text>
+		<Text Name="JobLsFollow">
+			<DisplayName>Theo dõi</DisplayName>
+		</Text>
+		<Text Name="JobLsFeedHim">
+			<DisplayName>Cho ăn</DisplayName>
+		</Text>
+		<Text Name="JobLsSleep">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="JobLsSleepWithNpc">
+			<DisplayName>Ngủ</DisplayName>
+		</Text>
+		<Text Name="JobLsGotoThing">
+			<DisplayName>Đang đi đến</DisplayName>
+		</Text>
+		<Text Name="JobConfuse">
+			<DisplayName>Mê mang</DisplayName>
+		</Text>
+	</List>
+</Texts>

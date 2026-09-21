@@ -1,0 +1,72 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="r0">
+			<StageInfo.0.0.DisplayName>Cường hóa</StageInfo.0.0.DisplayName>
+			<StageInfo.0.1.DisplayName>Dày đặc</StageInfo.0.1.DisplayName>
+			<StageInfo.0.2.DisplayName>Sắc nhọn</StageInfo.0.2.DisplayName>
+			<StageInfo.1.0.DisplayName>Tâm Môn</StageInfo.1.0.DisplayName>
+			<StageInfo.1.1.DisplayName>Lò luyện</StageInfo.1.1.DisplayName>
+			<StageInfo.1.2.DisplayName>Sắc bén</StageInfo.1.2.DisplayName>
+			<StageInfo.2.0.DisplayName>Kim Đan</StageInfo.2.0.DisplayName>
+			<StageInfo.2.1.DisplayName>Đan dược</StageInfo.2.1.DisplayName>
+			<StageInfo.2.2.DisplayName>Linh thai</StageInfo.2.2.DisplayName>
+			<StageInfo.3.0.DisplayName>Nguồn gốc linh thai</StageInfo.3.0.DisplayName>
+			<StageInfo.3.1.DisplayName>Linh hồn phi thăng</StageInfo.3.1.DisplayName>
+			<StageInfo.3.2.DisplayName>Nguyên Thần</StageInfo.3.2.DisplayName>
+			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>Pháp bảo</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>Pháp lực</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>Hộ Thể Chân Khí</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>Mong manh</SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>Ít</SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>Mong manh</SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>Quan trọng</SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>Quan trọng</SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>Ít</SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>Quan trọng</SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>Vĩ đại</SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>Khổng lồ</SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>Ít</SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>Quan trọng</SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>Vĩ đại</SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>Khổng lồ</SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>Mong manh</SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>Ít</SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>Mong manh</SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>Quan trọng</SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>Quan trọng</SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>Ít</SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>Quan trọng</SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>Vĩ đại</SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>Khổng lồ</SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>Ít</SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>Quan trọng</SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>Vĩ đại</SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>Khổng lồ</SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.FixNodes.0.DisplayName>Thiên Đạo Đan Thuật</SkillTree.FixNodes.0.DisplayName>
+			<SkillTree.FixNodes.1.DisplayName>Đạo khí</SkillTree.FixNodes.1.DisplayName>
+			<Desc.Format.0.Format>Công pháp có phẩm chất cực thấp, là tác phẩm nông cạn của {0} Môn công pháp này kế thừa tinh hoa của {1} và phát triển công pháp mới chứa đựng nhiều ý tưởng sáng tạo trong {2} Dù đây là một công pháp tương đối nông cạn, nhưng có thể vẫn ẩn chứa ngọc quý dưới lớp bùn lầy.</Desc.Format.0.Format>
+			<Desc.Format.1.Format>Công pháp có phẩm chất tương đối bình thường, là tác phẩm phổ thông của {0} Môn công pháp này kế thừa tinh hoa của {1} và phát triển công pháp mới chứa đựng nhiều ý tưởng sáng tạo trong {2} Tuy công pháp này chỉ có thể giúp đạt tới cảnh giới Kim Đan, nhưng nó cũng có thể ẩn chứa một vài ý tưởng thú vị.</Desc.Format.1.Format>
+			<Desc.Format.2.Format>Công pháp có hiểu biết tương đối sâu sắc, là tác phẩm xuất sắc về {0} Môn công pháp này kế thừa tinh hoa của {1} và phát triển công pháp mới chứa đựng nhiều ý tưởng sáng tạo trong {2} Dù không ai có thể thành tiên với công pháp này, nhưng nó vẫn hội tụ nhiều quy tắc tu luyện tinh diệu vô giá.</Desc.Format.2.Format>
+			<Desc.Format.3.Format>Công pháp có hiểu biết vô cùng sâu sắc, là tác phẩm tuyệt đỉnh về {0} Môn công pháp này kế thừa tinh hoa của {1} và phát triển công pháp mới chứa đựng nhiều ý tưởng sáng tạo trong {2} Công pháp này kết nối trực tiếp với Trường Sinh Đại Đạo, do đó nó ẩn chứa những điều thâm ảo và huyền diệu rất đáng để nghiên cứu.</Desc.Format.3.Format>
+			<Desc.ElementKind.0.Desc>Kim</Desc.ElementKind.0.Desc>
+			<Desc.ElementKind.1.Desc>Gỗ</Desc.ElementKind.1.Desc>
+			<Desc.ElementKind.2.Desc>Thủy</Desc.ElementKind.2.Desc>
+			<Desc.ElementKind.3.Desc>Hỏa</Desc.ElementKind.3.Desc>
+			<Desc.ElementKind.4.Desc>Thổ</Desc.ElementKind.4.Desc>
+			<Desc.ElementKind.5.Desc>Vô Biên</Desc.ElementKind.5.Desc>
+			<Desc.School.0.Name>Rất nhiều truyền thừa thất truyền phổ biến ở Tu Chân Giới.</Desc.School.0.Name>
+			<Desc.School.1.Name>Truyền thừa Mạn Thiên Tông</Desc.School.1.Name>
+			<Desc.School.2.Name>Truyền thừa Điện Côn Lôn</Desc.School.2.Name>
+			<Desc.School.3.Name>Truyền thừa Cung Thượng Thiên</Desc.School.3.Name>
+			<Desc.School.4.Name>Truyền thừa Tử Vân Quán</Desc.School.4.Name>
+			<Desc.School.5.Name>Truyền thừa Thái Huyền Môn</Desc.School.5.Name>
+			<Desc.School.6.Name>Truyền thừa Thanh Liên Quán</Desc.School.6.Name>
+			<Desc.School.7.Name>Truyền thừa Dạ Quang Tông</Desc.School.7.Name>
+			<Desc.School.8.Name>Truyền thừa Bách Trùng Sơn</Desc.School.8.Name>
+			<Desc.School.9.Name>Truyền thừa Vực U Tông</Desc.School.9.Name>
+			<Desc.School.10.Name>Truyền thừa Thất Sát Môn</Desc.School.10.Name>
+			<Desc.School.11.Name>Truyền thừa Tiêu Dao Môn</Desc.School.11.Name>
+			<Desc.School.12.Name>Truyền thừa Vạn Thú Quán</Desc.School.12.Name>
+		</Text>
+	</List>
+</Texts>

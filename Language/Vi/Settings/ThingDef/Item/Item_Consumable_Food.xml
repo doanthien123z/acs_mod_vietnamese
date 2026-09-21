@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SimpleFoodBase" sParam="Item">
+			<Item.FabaoSuffix>Linh bảo</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cake" sParam="Item">
+			<ThingName>Bánh Mì</ThingName>
+			<Desc>Thức ăn đơn giản dùng để xoa dịu cơn đói.</Desc>
+			<Item.FabaoSuffix>Bánh kếp</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Jerky" sParam="Item">
+			<ThingName>Thịt Khô</ThingName>
+			<Desc>Thức ăn đơn giản dùng để xoa dịu cơn đói.</Desc>
+			<Item.FabaoSuffix>Phơi khô</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PreservedFruit" sParam="Item">
+			<ThingName>Quả phách hổ phơi khô của gia tộc họ Lý</ThingName>
+			<Desc>[color=#FFA500]Từng có loại quả vị ngọt như mật ong\nĐợi cho đến khi mùa của nó tới, chúng ta sẽ treo phơi nó ở hiên nhà.\nCác thiếu nữ đều bị thu hút bởi loại quả ngọt lịm như mật ong ấy. \nCòn có gì để trông mong nữa khi mùa ấy đã qua đi.\n[/color]Quả hổ phách rất khó bảo quản, chỉ có gia tộc họ Lý ở Kim Lăng mới có thể chế biến nó thành quả phơi khô trong khi vẫn duy trì được dược hiệu của nó nhờ vào bí phương độc môn của gia tộc.</Desc>
+			<Item.FabaoSuffix>Phơi khô</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_BoarMeat" sParam="Item">
+			<ThingName>Thịt yêu thú heo rừng</ThingName>
+			<Desc>Thịt của yêu thú heo rừng không thể nấu chín bằng lửa thường. Ăn trực tiếp nó sẽ giúp bổ sung một lượng lớn thể lực đã mất.</Desc>
+			<Item.FabaoSuffix>Phơi khô</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,464 @@
+talk	notarget	int	string	float	thing
+NotEatShit	Ta sẽ không ăn phân				
+NotEatEssence	Ta sẽ không ăn khoáng thạch hiếm trừ khi họ đút cho ta				
+NotEatDrug	Ta sẽ không ăn linh dược trừ khi mạng sống của ta phụ thuộc vào nó hoặc họ đút cho ta				
+NotEatWheat	Ta chỉ ăn lúa mì khi ta đói				
+NotEatDryMeat	Ta sẽ không ăn thịt khô				
+NotEatPear	"Lê" là thứ gì? Ta có thể ăn nó không?				
+NotEatMeat	Thịt sống thật kinh tởm, ta chỉ ăn nó khi mạng sống của ta phụ thuộc vào nó				
+NotEatCook	Không có loại thức ăn nào ta chán ghét hơn thức ăn đã nấu chín				
+NotBiteBuilding	Ta không muốn tấn công công trình				
+NotBiteClothes	Ta sẽ không chơi với quần áo				
+NotBiteOuter	Ta sẽ không tấn công ngoại môn đệ tử				
+NotBiteInner	Ta sẽ không tấn công nội môn đệ tử				
+NotBiteVisitor	Ta sẽ không tấn công khách quý đến thăm				
+NotBiteIncoming	Ta sẽ không tấn công người phàm qua đường				
+NotAtkEnemy	Ta sẽ không chủ động tấn công kẻ địch trừ khi chúng ra tay trước				
+NotShitAtShitPlace	Ta sẽ không phóng uế tại khu vực đại tiện				
+NotShitAtPlants	Ta sẽ không phóng uế lên linh thực				
+NotShitAtDogHouse	Ta sẽ không phóng uế trên giường của mình				
+NotShitAtStorage	Ta sẽ không phóng uế trong kho chứa				
+NotShitOnBed	Ta sẽ không phóng uế trên giường ngủ				
+NotShitInFarm	Ta sẽ không phóng uế trong khu vực linh điền				
+NotCarryOuterToBed	Ta sẽ không di chuyển đệ tử ngất xỉu lên giường				
+NotCarryVisitorToDest	Ta sẽ không di chuyển khách quý ngất xỉu đến khu vực chỉ định				
+NotCarryEnemyToDest	Ta sẽ không di chuyển kẻ địch ngất xỉu đến khu vực chỉ định				
+NotCarryIncomingToDest	Ta sẽ không di chuyển người phàm ngất xỉu đến khu vực chỉ định				
+NotCarryEnemyBodyToDest	Ta sẽ không di chuyển thi thể kẻ địch đến khu vực chỉ định				
+NotCarryVisitorBodyToDest	Ta sẽ không di chuyển thi thể khách quý đến khu vực chỉ định				
+NotCarryIncomingBodyToDest	Ta sẽ không di chuyển thi thể người phàm đến khu vực chỉ định				
+NotHelpCarry	Ta sẽ không hỗ trợ di chuyển vật phẩm				
+NotHelpTimber	Ta sẽ không hỗ trợ chặt gỗ				
+NotHelpMine	Ta sẽ không hỗ trợ khai khoáng				
+NotHelpFind	Ta sẽ không hỗ trợ tìm kiếm vật phẩm				
+NotHelpKill	Ta sẽ không hỗ trợ săn bắt yêu thú				
+NotHelpPlant	Ta sẽ không hỗ trợ bón phân cho linh thực				
+NotCureFreeze	Ta sẽ không hỗ trợ chữa trị thương tổn do giá lạnh				
+NotCureHot	Ta sẽ không hỗ trợ chữa trị say nắng				
+NotHelpCook	Ta sẽ không hỗ trợ nấu nướng				
+NotHeatEndure	Ta sẽ không hỗ trợ tăng cường kháng nhiệt				
+NotColdEndure	Ta sẽ không hỗ trợ tăng cường kháng hàn				
+NotHelpPlay	Ta sẽ không chơi đùa với đệ tử trong tông môn				
+NotPlayToy	Ta sẽ không chơi đùa với đồ chơi				
+NotTrainQiGan	Ta sẽ không tu luyện chân khí				
+NotTrainNeiDan	Ta sẽ không luyện hóa yêu đan				
+NotTrainHuTi	Ta sẽ không tu luyện hộ thể cương khí				
+NotTrainLingZhi	Ta sẽ không tu luyện tâm thần				
+NotTrainShuFa	Ta sẽ không tu luyện pháp lực				
+WannaEatShit					{0} Cái này ngon không??
+WannaEatEssence					{0} Cái này làm ta thèm rõ dãi
+WannaEatDrug					Ta muốn dùng đan dược
+WannaEatWheat					{0} Cái này nhìn có vẻ ngon
+WannaEatDryMeat					Ta không thể cưỡng lại mùi hương của {0} được
+WannaEatPear					Không nhịn được nữa, ta muốn ăn{0}
+WannaEatMeat					Ta sẽ đi ăn {0}
+WannaEatCook					Ta muốn ăn{0}
+WannaBiteBuilding					{0} Ta đã nhịn ngươi quá lâu rồi
+WannaBiteClothes					{0} Thứ này chắc là tốt để xỉa răng
+WannaBiteOuter					Ta tự hỏi đệ tử ngoại môn {0} Sẽ có hương vị thế nào?
+WannaBiteInner					Đã đến lúc phô diễn thực lực chân chính của ta cho đệ tử nội môn {0}
+WannaBiteVisitor					Khách quý {0} Có vẻ là mục tiêu tốt để luyện khí
+WannaBiteIncoming					Khách viếng thăm {0} Có vẻ là mục tiêu tốt để luyện khí
+WannaAtkEnemy					{0} Ngày chết của ngươi đã đến
+WannaShitAtShitPlace					Ta muốn đi đại tiện ở điểm vệ sinh
+WannaShitAtPlants					Ta muốn đại tiện lên cây trồng
+WannaShitAtDogHouse					Ta muốn đại tiện lên giường
+WannaShitAtStorage					Phân của ta là báu vật, kho chứa là nơi tốt để cất giữ chúng
+WannaShitOnBed					Thật thú vị khi đi đại tiện trên giường
+WannaShitInFarm					Đại tiện trên đất trồng trọt chắc sẽ giúp bón phân cho chúng
+WannaCarryOuterToBed					Ta nên giúp đỡ {0} Người đã bất tỉnh
+WannaCarryVisitorToDest					Ta muốn cõng khách quý đang bất tỉnh {0} Đến vị trí quy định
+WannaCarryEnemyToDest					Ta muốn cõng kẻ địch đang bất tỉnh {0} Đến vị trí quy định
+WannaCarryIncomingToDest					Ta muốn cõng khách viếng thăm đang bất tỉnh {0} Đến vị trí quy định
+WannaCarryEnemyBodyToDest					Ta muốn cõng thi thể kẻ địch {0} Đến vị trí quy định
+WannaCarryVisitorBodyToDest					Ta muốn cõng thi thể khách quý {0} Đến vị trí quy định
+WannaCarryIncomingBodyToDest					Ta muốn cõng thi thể khách viếng thăm {0} Đến vị trí quy định
+WannaHelpCarry	Ta muốn giúp sắp xếp vật phẩm				
+WannaHelpTimber	Xem ra phải đốn cây, để ta giúp cho				Xem ra phải đốn cây, để ta giúp cho
+WannaHelpMine	Khoáng thạch này trông rất quý giá, ngươi cầm lấy đi!				Khoáng thạch này trông rất quý giá, ngươi cầm lấy đi!
+WannaHelpFind	Để ta xem kẻ này trên người có những gì				Để ta xem kẻ này trên người có những gì
+WannaHelpKill	Thi thể kia không nên để thối rữa, ta giúp ngươi dọn dẹp				Thi thể kia không nên để thối rữa, ta giúp ngươi dọn dẹp
+WannaHelpPlant	Cây trồng trên ruộng trông rất hữu dụng, ta sẽ giúp bón phân				Cây trồng trên ruộng trông rất hữu dụng, ta sẽ giúp bón phân
+WannaCureFreeze	Chứng tê cóng của {0} Xem ra rất nghiêm trọng, ta sẽ giúp chữa trị				Chứng tê cóng của {0} Xem ra rất nghiêm trọng, ta sẽ giúp chữa trị
+WannaCureHot	Chứng cảm nắng của {0} Xem ra rất nghiêm trọng, ta sẽ giúp chữa trị				Chứng cảm nắng của {0} Xem ra rất nghiêm trọng, ta sẽ giúp chữa trị
+WannaHeatEndure	Ta muốn giúp tăng cường kháng nhiệt				Ta muốn giúp tăng cường kháng nhiệt
+WannaColdEndure	Ta muốn giúp tăng cường kháng hàn				Ta muốn giúp tăng cường kháng hàn
+WannaHelpPlay	Dường như {0} Sẽ khó chịu đến mức nào				Dường như {0} Sẽ khó chịu đến mức nào
+WannaPlayToy	Ta muốn chơi đùa cùng {0} thật lâu				Ta muốn chơi đùa cùng {0} thật lâu
+DoTalkEatShit					Lúc này ta đang dùng{0}đang
+DoTalkEatEssence					Lúc này ta đang dùng{0}đang
+DoTalkEatDrug					Lúc này ta đang dùng{0}đang
+DoTalkEatWheat					Lúc này ta đang dùng{0}đang
+DoTalkEatDryMeat					Lúc này ta đang dùng{0}đang
+DoTalkEatPear					Lúc này ta đang dùng{0}đang
+DoTalkEatMeat					Lúc này ta đang dùng{0}đang
+DoTalkEatCook					Lúc này ta đang dùng{0}đang
+DoTalkEat					Ta đang tận hưởng{0}
+DoTalkBiteBuilding					Ta đang đánh răng bằng{0}
+DoTalkBiteClothes					Ta đang tấn công{0}
+DoTalkBiteOuter					Ta đang tấn công {0}
+DoTalkBiteInner					Ta đang cắn khách viếng thăm {0}
+DoTalkBiteVisitor					Ta đang cắn vị khách {0}
+DoTalkBiteIncoming					Ta đang cắn{0}
+DoTalkBiteBuildingEx					Ta đang cắn{0}một cách không thương tiếc
+DoTalkBiteClothesEx					Ta đang cắn và cố gắng nhai{0}
+DoTalkBiteOuterEx					Ta đang cắn {0} một cách không thương tiếc
+DoTalkBiteInnerEx					Ta đang cắn {0} một cách không thương tiếc
+DoTalkBiteVisitorEx					Ta đang cắn khách viếng thăm {0} một cách không thương tiếc
+DoTalkBiteIncomingEx					Ta đang cắn vị khách {0} một cách không thương tiếc
+DoTalkAtkEnemy					Ta đang tấn công {0}!
+DoTalkShitAtShitPlace					Ta đang đi vệ sinh ở khu vực đi vệ sinh
+DoTalkShitAtPlants					Ta đang đại tiện trên {0}
+DoTalkShitAtDogHouse					Ta đang đại tiện trên giường của ta
+DoTalkShitAtStorage					Ta đang đại tiện trong kho chứa
+DoTalkShitOnBed					Ta đang đại tiện trên giường
+DoTalkShitInFarm					Ta đang đại tiện ở khu vực linh điền
+DoTalkCarryOuterToBed					Ta đang khiêng {0} đang bất tỉnh về giường
+DoTalkCarryVisitorToDest					Ta đang khiêng vị khách đang bất tỉnh {0} Đến vị trí quy định
+DoTalkCarryEnemyToDest					Ta đang khiêng kẻ địch đang bất tỉnh {0} Đến vị trí quy định
+DoTalkCarryIncomingToDest					Ta đang khiêng vị khách viếng thăm đang bất tỉnh {0} Đến vị trí quy định
+DoTalkCarryEnemyBodyToDest					Ta đang khiêng thi thể của {0} Đến vị trí quy định
+DoTalkCarryVisitorBodyToDest					Ta đang khiêng thi thể của {0} Đến vị trí quy định
+DoTalkCarryIncomingBodyToDest					Ta đang khiêng thi thể của {0} Đến vị trí quy định
+DoTalkHelpCarry					Ta đang giúp sắp xếp vật phẩm
+DoTalkHelpTimber					Ta đang giúp chặt cây
+DoTalkHelpMine					Ta đang giúp khai thác khoáng thạch
+DoTalkHelpFind					Ta đang giúp vận chuyển vật phẩm
+DoTalkHelpKill					Ta đang giúp săn bắt yêu thú
+DoTalkHelpPlant					Ta đang bón phân cho linh thảo
+DoTalkCureFreeze					Ta đang trị thương bỏng lạnh cho {0}
+DoTalkCureHot					Ta đang trị chứng say nắng cho {0}
+DoTalkHelpCook					Ta đang giúp nấu đan dược
+DoTalkHeatEndure					Ta đang giúp tăng kháng tính hỏa
+DoTalkColdEndure					Ta đang giúp tăng kháng tính hàn
+DoTalkHelpPlay					Ta đang vui đùa cùng {0}
+DoTalkPlayToy					Ta đang chơi đùa cùng {0}
+DoTalkPlaySelf					Ta đang thong thả dạo bước theo cách của mình
+DoTalkTrainQiGan	Ta đang tu luyện luyện khí cơ bản				
+DoTalkTrainNeiDan	Ta đang luyện hóa yêu đan				
+DoTalkTrainHuTi	Ta đang tu luyện hộ thể cương khí				
+DoTalkTrainLingZhi	Ta đang tu luyện cơ bản về thần thức.				
+DoTalkTrainShuFa	Ta đang tu luyện cơ bản về linh khí.				
+DoTalkFollow					
+DoTalkLay					
+DoTalkWander					
+CantEatShit	Ta không tìm thấy phân để ăn.				
+CantEatEssence	Không có khoáng thạch hiếm để ăn.				
+CantEatDrug	Không có đan dược để ăn.				
+CantEatWheat	Không có lúa mì để ăn.				
+CantEatDryMeat	Không có thịt khô để ăn.				
+CantEatPear	Không có quả lê để ăn.				
+CantEatMeat	Không có thịt sống để ăn.				
+CantEatCook	Không có đồ ăn đã nấu chín để ăn.				
+CantBiteBuilding	Không có kiến trúc nào để ta gặm nhấm.				
+CantBiteClothes	Không có y phục để ta gặm nhấm.				
+CantBiteOuter	Không có đệ tử ngoại môn để ta gặm nhấm.				
+CantBiteInner	Không có đệ tử nội môn để ta gặm nhấm.				
+CantBiteVisitor	Không có khách đến thăm để ta gặm nhấm.				
+CantBiteIncoming	Không có người phàm để ta gặm nhấm.				
+CantAtkEnemy	Không có kẻ địch để ta tấn công.				
+CantShitAtShitPlace	Không có nhà xí để ta đi vệ sinh.				
+CantShitAtPlants	Không có cây cỏ để ta đi vệ sinh vào.				
+CantShitAtDogHouse	Không có nhà của ta để ta đi vệ sinh vào.				
+CantShitAtStorage	Không có kho chứa đồ để ta đi vệ sinh vào.				
+CantShitOnBed	Không có giường ngủ để ta đi vệ sinh vào.				
+CantShitInFarm	Không có đất canh tác để ta đi vệ sinh vào.				
+CantCarryOuterToBed	Không có đệ tử nào cần ta đưa về giường.			
+CantCarryVisitorToDest	Không có khách đến thăm nào cần ta đưa đến nơi quy định.				
+CantCarryEnemyToDest	Không có kẻ địch nào cần ta đưa đến nơi quy định.				
+CantCarryIncomingToDest	Không có người phàm nào cần ta đưa đến nơi quy định.				
+CantCarryEnemyBodyToDest	Không có xác kẻ địch nào cần ta đưa đến nơi quy định.				
+CantCarryVisitorBodyToDest	Không có xác khách đến thăm nào cần ta đưa đến nơi quy định.				
+CantCarryIncomingBodyToDest	Không có xác khách đến thăm nào cần ta đưa đến nơi quy định.				
+CantHelpCarry	Không có vật phẩm nào cần ta hỗ trợ vận chuyển.				
+CantHelpTimber	Không có cây cối nào cần ta hỗ trợ đốn hạ.				
+CantHelpMine	Không có mỏ quặng nào cần ta hỗ trợ khai thác.				
+CantHelpFind	Không có thi thể nào để ta tìm kiếm vật phẩm.				
+CantHelpKill	Không có kẻ địch nào để ta tiêu diệt.				
+CantHelpPlant	Không có cây trồng nào cần tưới nước.				
+CantCureFreeze	Không có ai bị bỏng lạnh cần ta trị liệu.				
+CantCureHot	Không có ai bị sốc nhiệt cần ta trị liệu.				
+CantHelpCook	Ta chưa sẵn sàng để giúp nấu ăn.				
+CantHeatEndure	Ta chưa sẵn sàng để tăng khả năng chống nóng.				
+CantColdEndure	Ta chưa sẵn sàng để tăng khả năng chống lạnh.				
+CantHelpPlay	Trong tông môn không có đệ tử nào để chơi cùng cả				
+CantPlayToy	Không có vật phẩm nào để chơi cả				
+NoParam2CarryVisitorToDest					Ta không thể tìm thấy vị trí cần khiêng khách viếng thăm {0} Có thể đi
+NoParam2CarryEnemyToDest					Ta không thể tìm thấy vị trí cần khiêng kẻ địch {0} Có thể đi
+NoParam2CarryIncomingToDest					Ta không thể tìm thấy vị trí cần khiêng người phàm {0} Có thể đi
+NoParam2CarryEnemyBodyToDest					Ta không thể tìm thấy vị trí cần khiêng thi thể kẻ địch {0} Có thể đi
+NoParam2CarryVisitorBodyToDest					Ta không thể tìm thấy vị trí cần khiêng thi thể khách viếng thăm {0} Có thể đi
+NoParam2CarryIncomingBodyToDest					Ta không thể tìm thấy vị trí cần khiêng thi thể người phàm {0} Có thể đi
+NoParam2HelpCarry	Ta chưa sẵn sàng giúp vận chuyển bất cứ thứ gì				
+NoParam2HelpTimber	Ta chưa sẵn sàng giúp chặt cây				
+NoParam2HelpMine	Ta chưa sẵn sàng giúp khai thác khoáng sản				
+NoParam2HelpPlant	Ta chưa sẵn sàng giúp bón phân				
+NoParam2CureFreeze	Ta chưa sẵn sàng giúp chữa trị tê cóng				
+NoParam2CureHot	Ta chưa sẵn sàng giúp chữa trị say nắng				
+NoParam2HelpCook	Ta chưa sẵn sàng để giúp nấu ăn.				
+DrinkTalk1	Ta muốn uống nước				
+DrinkTalk2	Ta cảm thấy rất khát nước				
+DrinkTalk3	Ta đang uống nước				
+NotAtkDizzyOuter	Ta sẽ không tấn công ngoại môn đệ tử đang ngất xỉu				
+NotAtkDizzyInner	Ta sẽ không tấn công nội môn đệ tử đang ngất xỉu				
+NotAtkDizzyComing	Ta sẽ không tấn công người phàm đang ngất xỉu				
+NotAtkDizzyVisitor	Ta sẽ không tấn công khách viếng thăm đang ngất xỉu				
+NoTongXie	Ta tìm hoài không thấy thuốc tẩy				
+WannaAtkDizzyOuter					Ta muốn chấm dứt nỗi đau của ngoại môn đệ tử {0}
+WannaAtkDizzyInner					Ta muốn chấm dứt nỗi đau của nội môn đệ tử {0}
+WannaAtkDizzyComing					Khách viếng thăm đang ngất xỉu {0} Dường như đã bị thương, may mắn là ta ở đây
+WannaAtkDizzyVisitor					Khách viếng thăm đang ngất xỉu {0} Dường như đã bị thương, may mắn là ta ở đây
+DoTalkAtkDizzyOuter					Ta đang tấn công ngoại môn đệ tử đang ngất xỉu {0}
+DoTalkAtkDizzyInner					Ta đang tấn công nội môn đệ tử đang ngất xỉu {0}
+DoTalkAtkDizzyComing					Ta đang tấn công người phàm đang ngất xỉu {0}
+DoTalkAtkDizzyVisitor					Ta đang tấn công khách viếng thăm đang ngất xỉu {0}
+CantAtkDizzyOuter	Không có ngoại môn đệ tử nào ngất xỉu để ta tấn công cả				
+CantAtkDizzyInner	Không có nội môn đệ tử nào ngất xỉu để ta tấn công cả				
+CantAtkDizzyComing	Không có người phàm nào ngất xỉu để ta tấn công cả				
+CantAtkDizzyVisitor	Không có khách viếng thăm nào ngất xỉu để ta tấn công cả				
+NotFeedTongXie	Ta sẽ không cho ngoại môn đệ tử uống thuốc tẩy				
+NotCureInner	Ta sẽ không chữa trị vết thương cho nội môn đệ tử			
+WannaFeedTongXie	Ta muốn cho ngoại môn đệ tử uống thuốc tẩy				Ta muốn cho ngoại môn đệ tử uống thuốc tẩy {0} Ăn
+WannaCureInner	Ta sẽ không chữa trị vết thương cho nội môn đệ tử			Ta sẽ không chữa trị vết thương cho nội môn đệ tử {0}
+DoTalkFeedTongXie					Ta đã trao thuốc xổ cho ngoại môn đệ tử {0} Ăn
+DoTalkCureInner					Ta đang chữa trị thương thế cho nội môn đệ tử {0}
+CantFeedTongXie	Không có ngoại môn đệ tử nào để ta cho uống thuốc xổ cả				
+CantCureInner	Không có nội môn đệ tử nào để ta chữa trị cả				
+NoParam2FeedTongXie					Ta muốn trao thuốc xổ cho ngoại môn đệ tử {0} Nhưng ta không tìm thấy thuốc xổ đâu cả
+NoParam2CureInner					Ta muốn chữa trị cho nội môn đệ tử {0} Nhưng ta vẫn chưa tìm được thời gian rảnh
+NotHelpPlantD	Ta không muốn tiểu tiện vào vườn thảo dược				
+WannaHelpPlantD	Ta muốn giúp tưới nước cho vườn thảo dược				
+DoTalkHelpPlantD	Ta đang giúp tưới nước cho vườn thảo dược				
+CantHelpPlantD	Không đời nào ta lại giúp tưới nước cho vườn thảo dược				
+NoParam2HelpPlantD	Ta vẫn chưa muốn giúp tưới nước				
+NotCarryOuterBodyToDest	Ta sẽ không di chuyển thi thể ngoại môn đệ tử đến điểm chỉ định				
+NotCarryInnerBodyToDest	Ta sẽ không di chuyển thi thể nội môn đệ tử đến điểm chỉ định				
+WannaCarryOuterBodyToDest	Ta muốn giúp mang thi thể ngoại môn đệ tử đến điểm chỉ định				
+WannaCarryInnerBodyToDest	Ta muốn giúp mang thi thể nội môn đệ tử đến điểm chỉ định				
+DoTalkCarryOuterBodyToDest	Ta đang mang thi thể ngoại môn đệ tử {0} Đến vị trí quy định				
+DoTalkCarryInnerBodyToDest	Ta đang mang thi thể nội môn đệ tử {0} Đến vị trí quy định				
+CantCarryOuterBodyToDest	Không đời nào ta lại giúp mang thi thể ngoại môn đệ tử đến điểm chỉ định				
+CantCarryInnerBodyToDest	Không đời nào ta lại giúp mang thi thể nội môn đệ tử đến điểm chỉ định				
+Sleep1	Ta muốn đi ngủ				
+Sleep2	Mí mắt của ta sắp đóng lại rồi				
+Sleep3	Chiếc giường êm ái đang vẫy gọi ta				
+Wonder1	Quan sát xung quanh				
+Wonder2	Ngắm nhìn phong cảnh xung quanh				
+Wonder3	Dạo chơi!				
+Lay1	Tận hưởng gió mát				
+Lay2	Nghỉ ngơi một chút thì tốt hơn				
+Lay3	Ta không muốn cử động chút nào				
+Follow1	Xem thử kẻ này đang làm gì				
+Follow2	Kẻ này có mùi là lạ				
+Follow3	Kẻ này thu hút sự chú ý của ta				
+Eat1	Ta đói quá				
+Eat2	Ta đói nhưng vẫn còn có thể nhịn được				
+Eat3	Đã đến lúc ăn rồi				
+NotFeed_Item_Dan_Happiness	Thỉnh thoảng ta có tặng Linh tâm đan cho nội môn đệ tử				
+NotFeed_Item_Dan_PracticeSpeed	Ta sẽ không đưa Tăng khí đan cho nội môn đệ tử				
+NotFeed_Item_Dan_CalmDown	Ta sẽ không đưa Tịnh tâm đan cho nội môn đệ tử				
+NotFeed_Item_LingStone	Ta sẽ không đưa linh thạch cho nội môn đệ tử				
+NotFeed_Item_LingCrystal	Ta sẽ không đưa linh tinh cho nội môn đệ tử				
+WannaFeed_Item_Dan_Happiness	Ta muốn tặng Linh tâm đan cho nội môn đệ tử				
+WannaFeed_Item_Dan_PracticeSpeed	Ta muốn ban đan dược tề tụ linh khí cho đệ tử nội môn sử dụng				
+WannaFeed_Item_Dan_CalmDown	Ta muốn ban Thanh Tâm Đan cho đệ tử nội môn sử dụng				
+WannaFeed_Item_LingStone	Ta muốn ban linh thạch cho đệ tử nội môn sử dụng				
+WannaFeed_Item_LingCrystal	Ta muốn ban linh tinh cho đệ tử nội môn sử dụng				
+DoTalkFeed_Item_Dan_Happiness	Ta đang ban khoái ý đan cho đệ tử nội môn sử dụng				
+DoTalkFeed_Item_Dan_PracticeSpeed	Ta đang ban đan dược tề tụ linh khí cho đệ tử nội môn sử dụng				
+DoTalkFeed_Item_Dan_CalmDown	Ta đang ban Thanh Tâm Đan cho đệ tử nội môn sử dụng				
+DoTalkFeed_Item_LingStone	Ta đang ban linh thạch cho đệ tử nội môn sử dụng				
+DoTalkFeed_Item_LingCrystal	Ta đang ban linh tinh cho đệ tử nội môn sử dụng				
+CantFeed_Item_Dan_Happiness	Không đời nào ta lại ban khoái ý đan cho đệ tử nội môn sử dụng				
+CantFeed_Item_Dan_PracticeSpeed	Không đời nào ta lại ban đan dược tề tụ linh khí cho đệ tử nội môn sử dụng				
+CantFeed_Item_Dan_CalmDown	Không đời nào ta lại ban Thanh Tâm Đan cho đệ tử nội môn sử dụng				
+CantFeed_Item_LingStone	Không đời nào ta lại ban linh thạch cho đệ tử nội môn sử dụng				
+CantFeed_Item_LingCrystal	Không đời nào ta lại ban linh tinh cho đệ tử nội môn sử dụng				
+NoParam2Feed_Item_Dan_Happiness	Ta hoàn toàn không thể tìm thấy khoái ý đan				
+NoParam2Feed_Item_Dan_PracticeSpeed	Ta hoàn toàn không thể tìm thấy đan dược tề tụ linh khí				
+NoParam2Feed_Item_Dan_CalmDown	Ta hoàn toàn không thể tìm thấy Thanh Tâm Đan				
+NoParam2Feed_Item_LingStone	Ta hoàn toàn không thể tìm thấy linh thạch				
+NoParam2Feed_Item_LingCrystal	Ta hoàn toàn không thể tìm thấy linh tinh				
+QiGanResult_Low	Chân khí tăng nhẹ				
+NeiDanResult_Low	Yêu đan chi lực tăng nhẹ				
+HuTiResult_Low	Chân khí hộ thuẫn tăng nhẹ				
+LingZhiResult_Low	Ngộ tính tăng nhẹ				
+ShuFaResult_Low	Pháp lực tăng nhẹ				
+QiGanResult_Mid	Chân khí tăng vừa phải				
+NeiDanResult_Mid	Yêu đan chi lực tăng vừa phải				
+HuTiResult_Mid	Chân khí hộ thuẫn tăng vừa phải				
+LingZhiResult_Mid	Ngộ tính tăng vừa phải				
+ShuFaResult_Mid	Pháp lực tăng vừa phải				
+QiGanResult_High	Chân khí tăng đáng kể				
+NeiDanResult_High	Yêu đan chi lực tăng đáng kể				
+HuTiResult_High	Chân khí hộ thuẫn tăng đáng kể				
+LingZhiResult_High	Ngộ tính tăng đáng kể				
+ShuFaResult_High	Pháp lực tăng đáng kể				
+NotBiteExpel	Ta không thể cắn một kẻ phàm nhân xa lạ không quen biết				
+WannaBiteExpel					Ta muốn cắn phàm nhân {0} xa lạ!
+DoTalkBiteExpel					Lúc này ta đang cắn phàm nhân {0} xa lạ
+CantBiteExpel	Không đời nào ta đi cắn phàm nhân xa lạ không quen biết!				
+NotCarryMortalToDest	Ta sẽ không di chuyển người phàm ngất xỉu đến khu vực chỉ định				
+NotCarryMortalBodyToDest	Ta sẽ không di chuyển thi thể người phàm đến khu vực chỉ định				
+WannaCarryMortalToDest					Phàm nhân {0} Đang bất tỉnh, ta muốn cõng hắn đi
+WannaCarryMortalBodyToDest					Phàm nhân {0} Đã chết rồi, ta muốn cõng hắn đi
+DoTalkCarryMortalToDest					Hiện tại ta đang cõng một người phàm đang hôn mê {0} Đến vị trí quy định
+DoTalkCarryMortalBodyToDest					Hiện tại ta đang cõng thi thể của một người phàm {0} Đến vị trí quy định
+CantCarryMortalToDest	Ta không thể giúp cõng người phàm đang hôn mê tới vị trí chỉ định				
+CantCarryMortalBodyToDest	Ta không thể giúp cõng thi thể người phàm tới vị trí chỉ định				
+Nothing	Thật sự rất rảnh rỗi				
+No_NutritionQiGan	Không có chất dinh dưỡng để bồi bổ chân khí, vì vậy ta không thể tu luyện nó				
+No_NutritionNeiDan	Không có chất dinh dưỡng để bồi bổ yêu đan, vì vậy ta không thể tu luyện nó				
+No_NutritionHuTi	Không có chất dinh dưỡng để bồi bổ linh giáp, vì vậy ta không thể tu luyện nó				
+No_NutritionLingZhi	Không có chất dinh dưỡng để bồi bổ trí tuệ, vì vậy ta không thể tu luyện nó				
+No_NutritionShufa	Không có chất dinh dưỡng để bồi bổ linh lực, vì vậy ta không thể tu luyện nó				
+WannaEat					Theo bảng thực đơn đã định, ta đang đi tìm thứ gì đó để ăn
+WannaTrainShuFa	Ta muốn tu luyện căn cơ linh lực				
+WannaTrainLingZhi	Ta muốn tu luyện căn cơ trí tuệ				
+WannaTrainHuTi	Ta muốn tu luyện căn cơ linh giáp				
+WannaTrainNeiDan	Ta muốn tu luyện yêu đan				
+WannaTrainQiGan	Ta muốn tu luyện căn cơ chân khí				
+NothingToEat	Không có gì để ăn cả! Ta đói quá				
+NotEat_Item_SnakeGallbladder	Ta sẽ không ăn mật rắn				
+NotEat_Item_BearGallbladder	Ta sẽ không ăn mật gấu				
+NotEat_Item_RedGinseng	Ta sẽ không ăn hồng sâm				
+NotEat_Item_PurpleGanodermaLucidum	Ta sẽ không ăn tử linh chi				
+NotEat_Item_TuEssence	Ta sẽ không ăn hoàng thổ hạch				
+NotEat_Item_HuoEssence	Ta sẽ không ăn hỏa diễm quả				
+NotEat_Item_ShuiEssence	Ta sẽ không ăn ngũ sắc kim liên				
+NotEat_Item_JinEssence	Ta sẽ không ăn kim tinh quả				
+NotEat_Item_MuEssence	Ta sẽ không ăn sơn lâm đằng				
+NotEat_Item_LifeStream	Ta sẽ không uống sinh mệnh chi tuyền				
+NotEat_Item_LongEgg	Ta sẽ không ăn thủy long noãn				
+NotEat_Item_FengEgg	Ta sẽ không ăn hỏa phượng noãn				
+NotEat_Item_DragonShit	Ta sẽ không ăn long phân				
+NotEat_Item_Jiaozi	Ta sẽ không ăn màn thầu				
+NotEat_Item_BossFeng_Meat	Ta sẽ không ăn thịt hỏa phượng				
+NotEat_Item_BossLong_Meat	Ta sẽ không ăn thịt rồng				
+NotEat_Item_BossZhuLong_Meat	Ta sẽ không ăn thịt nguyên thủy				
+NotEat_Item_Cake	Ta sẽ không ăn bánh mì				
+NotEat_Item_MonsterBlood	Ta sẽ không uống máu yêu thú				
+NotEat_Item_EarthEssence	Ta sẽ không uống địa chi dịch				
+NotEat_Item_SilverGrit	Ta sẽ không ăn bột băng tinh				
+NotEat_Item_CopperGrit	Ta sẽ không ăn bột hỏa đồng				
+NotEat_Item_Cinnabar	Ta sẽ không ăn chu sa				
+NotEat_Item_LingMuXueJie	Ta sẽ không ăn mộc tâm				
+NotEat_Item_EarthEssence_1	Ta sẽ không ăn thánh hạch				
+NotEat_Item_EarthEssence1_1	Ta sẽ không ăn ma hạch				
+NotEat_Item_Healroot	Ta sẽ không ăn linh dược trị thương				
+NotEat_Item_Mint	Ta sẽ không ăn thanh tâm thảo				
+NotEat_Item_MagicHerb	Ta sẽ không ăn linh thảo				
+NotEat_Item_Laxative	Ta sẽ không ăn thuốc xổ				
+WannaEat_Item_SnakeGallbladder					Ta muốn ăn mật rắn
+WannaEat_Item_BearGallbladder					Ta muốn ăn mật gấu
+WannaEat_Item_RedGinseng					Ta muốn ăn hồng sâm
+WannaEat_Item_PurpleGanodermaLucidum					Ta muốn ăn tử linh chi
+WannaEat_Item_TuEssence					Ta muốn ăn hoàng thổ hạch
+WannaEat_Item_HuoEssence					Ta muốn ăn nghiệp hỏa quả
+WannaEat_Item_ShuiEssence					Ta muốn ăn ngũ sắc kim liên
+WannaEat_Item_JinEssence					Ta muốn ăn kim tinh quả
+WannaEat_Item_MuEssence					Ta muốn ăn linh đằngs
+WannaEat_Item_LifeStream					Ta muốn uống sinh mệnh chi tuyền
+WannaEat_Item_LongEgg					Ta muốn ăn long đản
+WannaEat_Item_FengEgg					Ta muốn ăn phượng hoàng noãn
+WannaEat_Item_DragonShit					Ta muốn ăn long phân
+WannaEat_Item_Jiaozi					Ta muốn ăn bánh bao
+WannaEat_Item_BossFeng_Meat					Ta muốn ăn thịt phượng hoàng
+WannaEat_Item_BossLong_Meat					Ta muốn ăn long nhục
+WannaEat_Item_BossZhuLong_Meat					Ta muốn ăn hồng hoang thú nhục
+WannaEat_Item_Cake					Ta muốn ăn bánh mì
+WannaEat_Item_MonsterBlood					Ta muốn uống yêu thú huyết
+WannaEat_Item_EarthEssence					Ta muốn uống đại địa chi dịch
+WannaEat_Item_SilverGrit					Ta muốn ăn băng tinh phấn
+WannaEat_Item_CopperGrit					Ta muốn ăn xích đồng phấn
+WannaEat_Item_Cinnabar					Ta muốn ăn chu sa
+WannaEat_Item_LingMuXueJie					Ta muốn ăn mộc tâm
+WannaEat_Item_EarthEssence_1					Ta muốn ăn thánh hạch
+WannaEat_Item_EarthEssence1_1					Ta muốn ăn ma hạch
+WannaEat_Item_Healroot					Ta muốn ăn linh dược trị thương
+WannaEat_Item_Mint					Ta muốn ăn thanh tâm thảo
+WannaEat_Item_MagicHerb					Ta muốn ăn linh thảo
+WannaEat_Item_Laxative					Ta muốn ăn thuốc xổ
+DoTalkEat_Item_SnakeGallbladder					Ta đang ăn mật rắn
+DoTalkEat_Item_BearGallbladder					Ta đang ăn mật gấu
+DoTalkEat_Item_RedGinseng					Ta đang ăn Hồng Sâm
+DoTalkEat_Item_PurpleGanodermaLucidum					Ta đang ăn Tử Linh Chi
+DoTalkEat_Item_TuEssence					Ta đang ăn Hoàng Thổ Tinh
+DoTalkEat_Item_HuoEssence					Ta đang ăn Hỏa Diệm Quả
+DoTalkEat_Item_ShuiEssence					Ta đang ăn Ngũ Sắc Kim Liên
+DoTalkEat_Item_JinEssence					Ta đang ăn Kim Tinh Quả
+DoTalkEat_Item_MuEssence					Ta đang ăn Lâm Lang Đằng
+DoTalkEat_Item_LifeStream					Ta đang uống Sinh Mệnh Chi Tuyền
+DoTalkEat_Item_LongEgg					Ta đang ăn Thủy Long Đản
+DoTalkEat_Item_FengEgg					Ta đang ăn Hỏa Phượng Đản
+DoTalkEat_Item_DragonShit					Ta đang ăn Long Phân
+DoTalkEat_Item_Jiaozi					Ta đang ăn bánh bao
+DoTalkEat_Item_BossFeng_Meat					Ta đang ăn thịt Hỏa Phượng
+DoTalkEat_Item_BossLong_Meat					Ta đang ăn thịt rồng
+DoTalkEat_Item_BossZhuLong_Meat					Ta đang ăn thịt Nguyên Thủy
+DoTalkEat_Item_Cake					Ta đang ăn bánh mì
+DoTalkEat_Item_MonsterBlood					Ta đang uống máu yêu thú
+DoTalkEat_Item_EarthEssence					Ta đang uống Địa Chi Lộ
+DoTalkEat_Item_SilverGrit					Ta đang ăn bột Băng Tinh
+DoTalkEat_Item_CopperGrit					Ta đang ăn bột Xích Đồng
+DoTalkEat_Item_Cinnabar					Ta đang ăn Hồng Thủy Ngân
+DoTalkEat_Item_LingMuXueJie					Ta đang ăn Mộc Tâm
+DoTalkEat_Item_EarthEssence_1					Ta đang ăn Thánh Tâm
+DoTalkEat_Item_EarthEssence1_1					Ta đang ăn Ma Tâm
+DoTalkEat_Item_Healroot					Ta đang ăn thảo dược trị liệu
+DoTalkEat_Item_Mint					Ta đang ăn Minh Tâm Thảo
+DoTalkEat_Item_MagicHerb					Ta đang ăn Linh Thảo
+DoTalkEat_Item_Laxative					Ta đang ăn thuốc xổ
+CantEat_Item_SnakeGallbladder	Ta không thể tìm thấy mật rắn để ăn			
+CantEat_Item_BearGallbladder	Ta không thể tìm thấy mật gấu để ăn			
+CantEat_Item_RedGinseng	Ta không thể tìm thấy Hồng Sâm để ăn			
+CantEat_Item_PurpleGanodermaLucidum	Ta không thể tìm thấy Tử Linh Chi để ăn			
+CantEat_Item_TuEssence	Ta không thể tìm thấy Hoàng Thổ Tinh để ăn			
+CantEat_Item_HuoEssence	Ta không thể tìm thấy Hỏa Diệm Quả để ăn			
+CantEat_Item_ShuiEssence	Ta không thể tìm thấy Ngũ Sắc Kim Liên để ăn			
+CantEat_Item_JinEssence	Ta không thể tìm thấy Kim Tinh Quả để ăn			
+CantEat_Item_MuEssence	Ta không thể tìm thấy Lâm Lang Đằng để ăn			
+CantEat_Item_LifeStream	Ta không thể tìm thấy Sinh Mệnh Chi Tuyền để uống				
+CantEat_Item_LongEgg	Ta không thể tìm thấy Thủy Long Đản để ăn			
+CantEat_Item_FengEgg	Ta không thể tìm thấy Hỏa Phượng Đản để ăn			
+CantEat_Item_DragonShit	Ta hoàn toàn không tìm được phân rồng để ăn.			
+CantEat_Item_Jiaozi	Ta hoàn toàn không tìm được bánh bao để ăn.			
+CantEat_Item_BossFeng_Meat	Ta hoàn toàn không tìm được thịt phượng hoàng lửa để ăn.			
+CantEat_Item_BossLong_Meat	Ta hoàn toàn không tìm được thịt rồng để ăn.			
+CantEat_Item_BossZhuLong_Meat	Ta hoàn toàn không tìm được thịt nguyên thủy để ăn.			
+CantEat_Item_Cake	Ta hoàn toàn không tìm được bánh mì để ăn.			
+CantEat_Item_MonsterBlood	Ta hoàn toàn không tìm được máu yêu thú để uống.			
+CantEat_Item_EarthEssence	Ta hoàn toàn không tìm được cam lộ đại địa để uống.				
+CantEat_Item_SilverGrit	Ta hoàn toàn không tìm được bột tinh thể băng để ăn.			
+CantEat_Item_CopperGrit	Ta hoàn toàn không tìm được bột đồng hỏa diễm để ăn.			
+CantEat_Item_Cinnabar	Ta hoàn toàn không tìm được chu sa đỏ để ăn.			
+CantEat_Item_LingMuXueJie	Ta hoàn toàn không tìm được tâm mộc để ăn.			
+CantEat_Item_EarthEssence_1	Ta hoàn toàn không tìm được linh căn thánh vật để ăn.			
+CantEat_Item_EarthEssence1_1	Ta hoàn toàn không tìm được ma hạch để ăn.			
+CantEat_Item_Healroot	Ta hoàn toàn không tìm được thảo dược chữa thương để ăn.			
+CantEat_Item_Mint	Ta hoàn toàn không tìm được thanh tâm thảo để ăn.			
+CantEat_Item_MagicHerb	Ta hoàn toàn không tìm được linh thảo để ăn.			
+CantEat_Item_Laxative	Ta hoàn toán không tìm được thuốc nhuận tràng để ăn.			
+Leave1					{0} Lên đường cẩn thận nhé.
+Leave2					{0} Mau trở về nhé.
+Leave3					{0} Chúc thượng lộ bình an.
+Back1					{0} Cuối cùng ngươi cũng trở về rồi.
+Back2					Chào mừng về nhà. {0}
+Back3					{0} Ta rất nhớ ngươi.
+NotBack1					{0} Sao ngươi vẫn chưa trở về?
+NotBack2					{0} Ngươi đang làm gì vậy?
+NotBack3					Ta thật sự nghi ngờ rằng... {0} Đang làm gì thế?
+BackComa1					{0} Rốt cuộc đã xảy ra chuyện gì với ngươi vậy?
+BackComa2					{0} Đang cần sự giúp đỡ.
+BackComa3					{0} Cố gắng kiên trì lên nhé.
+SleepHelp1					Mau hồi phục nhé. {0}!
+SleepHelp2					Mau hồi phục nhé. {0}!
+SleepHelp3					Mau hồi phục nhé. {0}!
+Lacrimosa1		...			
+Lacrimosa2		...			
+Lacrimosa3		...			
+QiGan_FullTalk	Chân khí của ta đã đạt đến giới hạn rồi.				
+NeiDan_FullTalk	Yêu đan của ta đã đạt đến giới hạn rồi.				
+HuTi_FullTalk	Hộ thuẫn chân khí của ta đã đạt đến giới hạn rồi.				
+LingZhi_FullTalk	Ngộ tính của ta đã đạt đến giới hạn rồi.				
+ShuFa_FullTalk	Pháp lực của ta đã đạt đến giới hạn rồi.				

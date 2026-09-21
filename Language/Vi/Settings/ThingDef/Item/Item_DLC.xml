@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooShoot" sParam="Item">
+			<ThingName>Măng tre.</ThingName>
+			<Desc>Măng tre, chồi non của cây trúc, có thể dùng để chế biến món ăn, hương vị giòn ngọt thanh mát.</Desc>
+			<Item.FabaoSuffix>Dây, Cuộn chỉ.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bamboo" sParam="Item">
+			<ThingName>Trúc</ThingName>
+			<Desc>Bó trúc dùng để làm cần câu và một số vật dụng xây dựng. Chỉ gấu trúc mới ăn được.</Desc>
+			<Item.FabaoSuffix>Thanh.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_FishStick" sParam="Item">
+			<ThingName>Cần câu.</ThingName>
+			<Desc>Cần câu cá. Một số loại cá sẽ bị thu hút bởi các yếu tố đặc thù và chỉ xuất hiện vào những thời điểm nhất định. Ngoài ra, cần câu có phẩm cấp càng cao thì tỉ lệ bắt được cá hiếm càng lớn.</Desc>
+			<Item.FabaoSuffix>Móc câu, Dây cước, Dây.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PandaJade" sParam="Item">
+			<ThingName>Ngọc Gấu Trúc</ThingName>
+			<Desc>Ngọc thạch tìm thấy trong rừng trúc cổ, có vẻ như nó là một phần trong bộ trang bị nào đó.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra Gấu Trúc Ngọc</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Panda" sParam="Item">
+			<ThingName>Linh Thư Khế Ước: Gấu Trúc</ThingName>
+		</Text>
+	</List>
+</Texts>

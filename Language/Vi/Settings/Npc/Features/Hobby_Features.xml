@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Reader">
+			<DisplayName>Thông minh</DisplayName>
+			<Desc>Người này có sự giáo dục tốt và có thể thấu hiểu những nội dung khó một cách dễ dàng.</Desc>
+		</Text>
+		<Text Name="Craftsman">
+			<DisplayName>Thợ thủ công</DisplayName>
+			<Desc>Người này rất giỏi về thủ công. [IT]Có thể chế tạo hoặc tạo tác các loại pháp khí một cách nhanh chóng và kết quả đạt chất lượng cao.</Desc>
+		</Text>
+		<Text Name="CraftsmanEX">
+			<DisplayName>Tín đồ Gunpla</DisplayName>
+			<Desc>Người này là kẻ cuồng mô hình Gunpla, giúp họ có kỹ năng thủ công tinh xảo, có thể chế tạo hoặc tạo tác các loại pháp khí một cách nhanh chóng và chất lượng cao.</Desc>
+		</Text>
+		<Text Name="Artist">
+			<DisplayName>Thiên tài nghệ thuật</DisplayName>
+			<Desc>Người này là bậc thầy về tâm hồn nghệ thuật, khiến cho[IT]Có trí tưởng tượng vượt trội và sâu khôn lường</Desc>
+		</Text>
+		<Text Name="Warrior">
+			<DisplayName>Chiến sĩ</DisplayName>
+			<Desc>Kẻ này sinh ra đã là một chiến sĩ bẩm sinh [IT]Có khả năng chịu đựng nỗi đau cực tốt và giữ được sự bình tĩnh trong mọi hoàn cảnh</Desc>
+		</Text>
+		<Text Name="DeepPotential">
+			<DisplayName>Thiên phú</DisplayName>
+			<Desc>Kẻ này sinh ra đã sở hữu linh căn xuất chúng, giúp cho việc tu luyện chân khí trở nên dễ dàng và nhanh chóng hơn người khác</Desc>
+		</Text>
+	</List>
+</Texts>

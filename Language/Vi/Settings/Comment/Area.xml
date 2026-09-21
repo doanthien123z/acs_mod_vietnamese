@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AreaRoom">
+			<Notes>Đánh giá về cấu trúc phòng</Notes>
+			<Title>Phòng</Title>
+			<Desc>Khu vực giới hạn được bao quanh bởi tường và đá</Desc>
+		</Text>
+		<Text Name="AreaWarehouse">
+			<Notes>Đánh giá về khu vực kho chứa</Notes>
+			<Title>Túi trữ vật</Title>
+			<Desc>Khu vực dùng để cất giữ vật phẩm</Desc>
+		</Text>
+		<Text Name="AreaFarmland">
+			<Notes>Đánh giá về khu vực trồng trọt</Notes>
+			<Title>Linh điền</Title>
+			<Desc>Khu vực dùng để trồng trọt thực vật</Desc>
+		</Text>
+		<Text Name="AreaHerbsField">
+			<Notes>Đánh giá về dược điền</Notes>
+			<Title>Dược viên</Title>
+			<Desc>Khu vực dùng để trồng linh dược</Desc>
+		</Text>
+		<Text Name="AreaTransaction">
+			<Notes>Đánh giá về khu vực giao dịch</Notes>
+			<Title>Khu vực giao dịch</Title>
+			<Desc>Khu vực dùng để mua bán trao đổi</Desc>
+		</Text>
+	</List>
+</Texts>

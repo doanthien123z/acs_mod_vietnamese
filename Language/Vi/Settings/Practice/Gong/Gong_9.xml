@@ -1,0 +1,42 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>Lục Đạo Luân Hồi Quyết</DisplayName>
+			<Desc>Một trong năm bộ công pháp Ngũ Hành chân lý của Thái Ất Tông. Người tu luyện bộ này sẽ cực kỳ mạnh mẽ ở giai đoạn đầu của mỗi cảnh giới, nhưng khi tu vi tiến triển, sức mạnh sẽ dần suy yếu theo từng bậc, cuối cùng trở nên yếu ớt như phàm nhân cho đến khi đột phá vòng lặp luân hồi và tiến vào cảnh giới cao hơn. Vì vậy, mặc dù bộ công pháp này khá phổ biến trong các đệ tử Thái Ất Tông, nhưng số người có thể tu luyện đến đại thành lại không nhiều.</Desc>
+			<SelectDesc>Công pháp này mạnh mẽ và nổi bật trong chiến đấu, nhưng lại yếu về mặt luyện chế pháp bảo và đan dược. Hơn nữa, người tu luyện bộ này phải trải qua việc luân hồi chuyển thế liên tục và dần dần mất đi sức mạnh cho đến khi đạt đến đỉnh cao của công pháp và phi thăng lên tiên giới. Người có chắc chắn muốn tu luyện bộ công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Nhân Đạo</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Sơ Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Suy Thoái</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Súc Sinh Đạo</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Sơ Sinh</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Suy Thoái</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Ngạ Quỷ Đạo</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Sơ Sinh</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Suy Thoái</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Tu La Đạo</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Sơ Sinh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Suy Thoái</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Địa Ngục Đạo</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Sơ Sinh</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Suy Thoái</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Thiên Đạo</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Sơ Sinh</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc đột phá cảnh giới này sẽ khó khăn đối với những người có tư chất thấp.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Suy Thoái</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Luân Hồi Chuyển Thế</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>Sau lần luân hồi này, người tu luyện sẽ bỏ lại lục đạo ở phía sau và thực hiện phi thăng lên tiên giới.</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

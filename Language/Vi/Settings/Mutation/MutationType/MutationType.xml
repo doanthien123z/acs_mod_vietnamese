@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Type_HengDing">
+			<DisplayName>Cố định</DisplayName>
+			<Desc>Chọn hiệu ứng hỗn loạn</Desc>
+		</Text>
+		<Text Name="Mutation_Type_DongDang">
+			<DisplayName>Hỗn loạn</DisplayName>
+			<Desc>Chọn một tùy chọn từ cả điều kiện và hiệu ứng để tạo thành một hiệu ứng hỗn loạn hoàn chỉnh</Desc>
+		</Text>
+		<Text Name="Mutation_Type_YinYang">
+			<DisplayName>Âm Dương</DisplayName>
+			<Desc>Chọn một hiệu ứng Âm và một hiệu ứng Dương để tạo ra một hỗn loạn hoàn chỉnh</Desc>
+		</Text>
+	</List>
+</Texts>

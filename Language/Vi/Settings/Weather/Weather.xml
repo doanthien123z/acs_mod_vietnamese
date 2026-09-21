@@ -1,0 +1,148 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SunnyDay">
+			<DisplayName>Trời quang mây tạnh</DisplayName>
+			<StoryDesc>Trời quang mây tạnh, thời tiết trong lành</StoryDesc>
+		</Text>
+		<Text Name="Overcast">
+			<DisplayName>Nhiều mây</DisplayName>
+			<StoryDesc>Mây đen dày đặc bao phủ bầu trời</StoryDesc>
+		</Text>
+		<Text Name="LightRain">
+			<DisplayName>Mưa phùn</DisplayName>
+			<StoryDesc>Mưa nhẹ nhàng rơi xuống</StoryDesc>
+		</Text>
+		<Text Name="HeavyRain">
+			<DisplayName>Mưa to</DisplayName>
+			<StoryDesc>Mưa trút xuống như trút nước, khắp khu vực ngập tràn vũng nước</StoryDesc>
+		</Text>
+		<Text Name="LightSnow">
+			<DisplayName>Tuyết rơi nhẹ</DisplayName>
+			<StoryDesc>Tuyết rơi lả tả trong không trung, lấp lánh trên mặt đất</StoryDesc>
+		</Text>
+		<Text Name="HeavySnow">
+			<DisplayName>Tuyết rơi dày</DisplayName>
+			<StoryDesc>Tuyết rơi dày đặc cùng gió lạnh hoành hành</StoryDesc>
+		</Text>
+		<Text Name="DenseFog">
+			<DisplayName>Sương mù dày đặc</DisplayName>
+			<StoryDesc>Màn sương tích tụ trên bầu trời, khiến sương mù dày đặc bao phủ khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Melancholy">
+			<DisplayName>Bầu không khí u ám</DisplayName>
+			<StoryDesc>Tâm trạng u ám bao trùm trong không gian</StoryDesc>
+		</Text>
+		<Text Name="SpringAir">
+			<DisplayName>Hơi thở mùa xuân</DisplayName>
+			<StoryDesc>Hương thơm tươi mát của mùa xuân lan tỏa khắp đại địa</StoryDesc>
+		</Text>
+		<Text Name="HarvestAir">
+			<DisplayName>Mùa thu hoạch</DisplayName>
+			<StoryDesc>Đã đến thời điểm thu hoạch, bầu không khí náo nhiệt sắp đến</StoryDesc>
+		</Text>
+		<Text Name="Ambiguous">
+			<DisplayName>Bầu không khí tình yêu</DisplayName>
+			<StoryDesc>Hơi thở của tình yêu lan tỏa khắp toàn bộ khu vực</StoryDesc>
+		</Text>
+		<Text Name="Impetuous">
+			<DisplayName>Bầu không khí náo nhiệt</DisplayName>
+			<StoryDesc>Bầu không khí náo nhiệt cuồn cuộn</StoryDesc>
+		</Text>
+		<Text Name="MouldRains">
+			<DisplayName>Mùa mưa</DisplayName>
+			<StoryDesc>Mưa phùn lất phất rơi khắp đại địa</StoryDesc>
+		</Text>
+		<Text Name="Drought">
+			<DisplayName>Mùa hạn hán</DisplayName>
+			<StoryDesc>Mặt trời thiêu đốt vạn vật phía dưới bằng sức nóng cực độ</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Bão giông sấm sét dữ dội</StoryDesc>
+		</Text>
+		<Text Name="Fohn">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<StoryDesc>Cơn gió nóng đang thổi qua</StoryDesc>
+		</Text>
+		<Text Name="DustStorm">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Bầu trời tối sầm lại khi bụi và cát bay đầy trong không khí</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave">
+			<DisplayName>Linh khí khô kiệt</DisplayName>
+			<StoryDesc>Thời kỳ thiên địa linh khí khô kiệt đã đến</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave">
+			<DisplayName>Linh khí bùng nổ</DisplayName>
+			<StoryDesc>Linh khí cuồn cuộn bay lên trời, lan tỏa khắp thế gian không có điểm dừng</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Little">
+			<DisplayName>Đám mây linh khí</DisplayName>
+			<StoryDesc>Linh khí đã lan tỏa khắp toàn bộ khu vực</StoryDesc>
+		</Text>
+		<Text Name="HeatWave">
+			<DisplayName>Sóng nhiệt</DisplayName>
+			<StoryDesc>Sóng nhiệt cuồn cuộn thiêu đốt không ngừng nghỉ</StoryDesc>
+		</Text>
+		<Text Name="ColdWave">
+			<DisplayName>Sóng lạnh</DisplayName>
+			<StoryDesc>Gió lạnh và bão băng thổi qua</StoryDesc>
+		</Text>
+		<Text Name="HeatWaveInWinter">
+			<DisplayName>Gió ấm</DisplayName>
+			<StoryDesc>Ánh hoàng hôn rực rỡ trong mùa đông khi dòng gió ấm thổi qua</StoryDesc>
+		</Text>
+		<Text Name="ColdWaveInSummer">
+			<DisplayName>Gió lạnh</DisplayName>
+			<StoryDesc>Cơn gió mát lạnh sảng khoái thổi qua trong mùa hè</StoryDesc>
+		</Text>
+		<Text Name="PermanentNight">
+			<DisplayName>Vĩnh Dạ</DisplayName>
+			<StoryDesc>Đó là một đêm dài dằng dặc như thể không có điểm kết thúc</StoryDesc>
+		</Text>
+		<Text Name="Miasma">
+			<DisplayName>Sương độc</DisplayName>
+			<StoryDesc>Phấn hoa độc bay lơ lửng khắp tầng khí quyển</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Sấm chớp vang dội từ bầu trời giáng xuống mặt đất như lôi đình đang nhảy múa trên chín tầng mây</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Sấm chớp vang dội từ bầu trời giáng xuống mặt đất như lôi đình đang nhảy múa trên chín tầng mây</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<StoryDesc>Cơn gió nóng đang thổi qua</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Long">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Bão giông sấm sét dữ dội</StoryDesc>
+		</Text>
+		<Text Name="LuShu_SunnyDay">
+			<DisplayName>Bầu trời quang đãng (Sức mạnh của Lục Ngô))</DisplayName>
+			<StoryDesc>Trời quang mây tạnh, thời tiết trong lành</StoryDesc>
+		</Text>
+		<Text Name="Fei_HeavyRain">
+			<DisplayName>Mưa như trút nước (Sức mạnh của Phi Liêm))</DisplayName>
+			<StoryDesc>Mưa trút xuống như trút nước, khắp khu vực ngập tràn vũng nước</StoryDesc>
+		</Text>
+		<Text Name="Fei_Overcast">
+			<DisplayName>Mây đen dày đặc (Sức mạnh của Phi Liêm))</DisplayName>
+			<StoryDesc>Mây đen dày đặc bao phủ bầu trời</StoryDesc>
+		</Text>
+		<Text Name="MuYu_LightRain">
+			<DisplayName>Mưa lất phất (Bởi Kiếm Chiêu Vũ))</DisplayName>
+			<StoryDesc>Mưa nhẹ nhàng rơi xuống</StoryDesc>
+		</Text>
+		<Text Name="SpringFestival">
+			<DisplayName>Tiết Xuân</DisplayName>
+			<StoryDesc>Khi Tiết Xuân đến, khắp nơi trong cõi giới đều ngập tràn bầu không khí lễ hội chúc mừng.</StoryDesc>
+		</Text>
+		<Text Name="ZuShiBiHu">
+			<DisplayName>Khí tức Thiên Khí</DisplayName>
+			<StoryDesc>Đây là khí tức Thiên Khí, là thời cơ vô cùng thích hợp để tu luyện.</StoryDesc>
+		</Text>
+	</List>
+</Texts>

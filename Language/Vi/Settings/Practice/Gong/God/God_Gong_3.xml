@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_3">
+			<DisplayName>Thập Đại U Minh Thần Thuật</DisplayName>
+			<Desc>Một phương pháp tu luyện thần lực đã thất truyền từ thời hồng hoang. Đó là phương pháp tu hành bằng cách hấp thu tín ngưỡng của chúng sinh để chuyển hóa thành thần lực. Các tông môn tu luyện thần đạo đều có phương pháp tương tự nhau, chỉ khác ở quy trình chuyển hóa lực tín ngưỡng thành thần lực và dùng thần lực đó làm môi giới để triệu hồi các vị thần hộ mệnh khác nhau. Thập Đại U Minh Thần Thuật là di thừa của vị đại thần thống trị U Minh giới. Tu luyện môn công pháp này, tu sĩ có thể sử dụng sức mạnh của tử địa làm môi giới để triệu hồi thần hộ mệnh từ cõi chết, môn công pháp này nổi bật ở khả năng tạo ra hộ thể chân khí cường đại.</Desc>
+			<SelectDesc>Tu sĩ thần đạo khác với tu sĩ tiên đạo ở chỗ họ hoàn toàn dựa vào tín ngưỡng của chúng sinh để tu hành. Dù không có yêu cầu về thiên phú đối với việc tu luyện thần đạo, nhưng ngươi vẫn cần một trí tuệ cực kỳ cao nếu muốn đi đến đỉnh cao. Biết được điều này, ngươi có còn muốn bước chân vào con đường tu luyện thần đạo nữa không??</SelectDesc>
+			<Stages.0.DisplayName>Đạo Sĩ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hi Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Luyện Tâm</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Sáng Tạo</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Thần Giới</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Luật Lệnh: Linh Sứ</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Luật Lệnh: Linh Tướng</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Luật Lệnh: Vô Thường</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Luật Lệnh: Phán Xét</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.4.DisplayName>Thần Giới</Stages.2.Necks.4.DisplayName>
+			<Stages.3.DisplayName>Niết Bàn</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Siêu Phàm</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

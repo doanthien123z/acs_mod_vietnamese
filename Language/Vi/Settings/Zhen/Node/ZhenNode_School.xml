@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_School_1">
+			<DisplayName>Màn Thiên Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_2">
+			<DisplayName>Côn Lôn Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_3">
+			<DisplayName>Hải Thượng Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_4">
+			<DisplayName>Tử Vân Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_5">
+			<DisplayName>Huyền Bí Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_6">
+			<DisplayName>Thiên Liên Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_7">
+			<DisplayName>Dạ Quang Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_8">
+			<DisplayName>Bách Trùng Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_9">
+			<DisplayName>A Tì Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_10">
+			<DisplayName>Thất Sát Kim Đan</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_School_11">
+			<DisplayName>Dung Hợp Kim Đan</DisplayName>
+		</Text>
+	</List>
+</Texts>

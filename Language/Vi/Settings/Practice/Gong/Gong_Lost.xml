@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>Công pháp tu luyện sai lầm</DisplayName>
+			<Desc>Công pháp tu luyện thất truyền\n(Mod thất lạc)</Desc>
+			<Stages.0.DisplayName>Lỗi</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Lỗi</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Lỗi</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Lỗi</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

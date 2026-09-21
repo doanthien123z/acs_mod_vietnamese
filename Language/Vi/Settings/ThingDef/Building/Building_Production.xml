@@ -1,0 +1,68 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WorkPlace" sParam="Building">
+			<ThingName>trạm chế tác</ThingName>
+			<Desc>Không cần vật liệu, chỉ dùng làm không gian để chế tạo công cụ đơn giản.</Desc>
+		</Text>
+		<Text Name="MaterialWorkPlace" sParam="Building">
+			<ThingName>Điểm gia công nguyên liệu</ThingName>
+			<Desc>Không cần vật liệu, chỉ dùng làm không gian để gia công nguyên liệu đơn giản.</Desc>
+		</Text>
+		<Text Name="Bonfire" sParam="Building">
+			<ThingName>Đống lửa</ThingName>
+			<Desc>Nguồn lửa bình thường tạo từ củi, mang lại ánh sáng và hơi ấm cho xung quanh, có thể dùng để nấu ăn đơn giản.</Desc>
+		</Text>
+		<Text Name="Kitchen" sParam="Building">
+			<ThingName>Lò lửa</ThingName>
+			<Desc>Dùng để nấu ăn</Desc>
+		</Text>
+		<Text Name="StoneMaker" sParam="Building">
+			<ThingName>Cối xay đá</ThingName>
+			<Desc>Bàn làm việc dùng để mài khối đá thành gạch đá.</Desc>
+		</Text>
+		<Text Name="WeaponMaker" sParam="Building">
+			<ThingName>Lò rèn</ThingName>
+			<Desc>Trạm làm việc dùng để nung chảy quặng thành các loại vũ khí.</Desc>
+		</Text>
+		<Text Name="Furnace" sParam="Building">
+			<ThingName>Lò luyện</ThingName>
+			<Desc>Trạm làm việc dùng để luyện quặng thành thỏi kim loại.</Desc>
+		</Text>
+		<Text Name="TextileTable" sParam="Building">
+			<ThingName>Khung cửi</ThingName>
+			<Desc>Trạm làm việc dùng để dệt vải.</Desc>
+		</Text>
+		<Text Name="TailorTable" sParam="Building">
+			<ThingName>Bàn may vá</ThingName>
+			<Desc>Trạm làm việc dùng để cắt may y phục.</Desc>
+		</Text>
+		<Text Name="WoodShed" sParam="Building">
+			<ThingName>Xưởng mộc</ThingName>
+			<Desc>Trạm làm việc dùng để gia công các loại gỗ, giúp nâng cao hiệu quả gia công gỗ.</Desc>
+		</Text>
+		<Text Name="MillStone" sParam="Building">
+			<ThingName>Cối xay</ThingName>
+			<Desc>Trạm làm việc dùng để xay hạt giống thành bột để bảo quản, giúp nâng cao hiệu quả gia công hạt giống.</Desc>
+		</Text>
+		<Text Name="HandWorkTable" sParam="Building">
+			<ThingName>Bàn thủ công</ThingName>
+			<Desc>Trạm làm việc dùng để chế tạo các vật dụng thông thường.</Desc>
+		</Text>
+		<Text Name="Well" sParam="Building">
+			<ThingName>giếng nước</ThingName>
+			<Desc>Nguồn nước sạch, nước trong giếng đảm bảo vệ sinh hơn nước sông hồ, ít có nguy cơ mang bệnh.</Desc>
+		</Text>
+		<Text Name="MedicineTable" sParam="Building">
+			<ThingName>Bàn luyện dược</ThingName>
+			<Desc>Trạm làm việc dùng để chế tạo thuốc chữa bệnh.</Desc>
+		</Text>
+		<Text Name="Building_YiTui" sParam="Building">
+			<ThingName>Thể xác tiên</ThingName>
+			<Desc>Thể xác bị bỏ lại bởi vị tiên phi thăng lên cửu tiêu.</Desc>
+		</Text>
+		<Text Name="Building_YiTui1" sParam="Building">
+			<ThingName>Thể xác thần</ThingName>
+			<Desc>Thể xác bị bỏ lại bởi vị thần phi thăng lên cửu tiêu.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_SunnyDay">
+			<DisplayName>Trời quang mây tạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_Overcast">
+			<DisplayName>Nhiều mây</DisplayName>
+		</Text>
+		<Text Name="Weather_LightRain">
+			<DisplayName>Mưa phùn</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavyRain">
+			<DisplayName>Mưa to</DisplayName>
+		</Text>
+		<Text Name="Weather_LightSnow">
+			<DisplayName>Tuyết rơi nhẹ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeavySnow">
+			<DisplayName>Tuyết rơi dày</DisplayName>
+		</Text>
+		<Text Name="Weather_DenseFog">
+			<DisplayName>Sương mù dày đặc</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringAir">
+			<DisplayName>Hơi thở mùa xuân</DisplayName>
+		</Text>
+		<Text Name="Weather_Melancholy">
+			<DisplayName>Bầu không khí u ám</DisplayName>
+		</Text>
+		<Text Name="Weather_HarvestAir">
+			<DisplayName>Mùa thu hoạch</DisplayName>
+		</Text>
+		<Text Name="Weather_Impetuous">
+			<DisplayName>Không khí nồng nặc</DisplayName>
+		</Text>
+		<Text Name="Weather_Hail">
+			<DisplayName>Mưa đá</DisplayName>
+		</Text>
+		<Text Name="Weather_MouldRains">
+			<DisplayName>Mùa mưa</DisplayName>
+		</Text>
+		<Text Name="Weather_Drought">
+			<DisplayName>Mùa hạn hán</DisplayName>
+		</Text>
+		<Text Name="Weather_Rainstorm">
+			<DisplayName>Mưa bão</DisplayName>
+		</Text>
+		<Text Name="Weather_Fohn">
+			<DisplayName>Bão gió nóng</DisplayName>
+		</Text>
+		<Text Name="Weather_DustStorm">
+			<DisplayName>Bão cát</DisplayName>
+		</Text>
+		<Text Name="Weather_LingRarefiedWave">
+			<DisplayName>Linh khí khô kiệt</DisplayName>
+		</Text>
+		<Text Name="Weather_LingUpWave">
+			<DisplayName>Linh khí bùng nổ</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWave">
+			<DisplayName>Sóng nhiệt</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWave">
+			<DisplayName>Sóng lạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_HeatWaveInWinter">
+			<DisplayName>Gió ấm</DisplayName>
+		</Text>
+		<Text Name="Weather_ColdWaveInSummer">
+			<DisplayName>Gió lạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_PermanentNight">
+			<DisplayName>Vĩnh Dạ</DisplayName>
+		</Text>
+		<Text Name="Weather_Miasma">
+			<DisplayName>Độc Chướng</DisplayName>
+		</Text>
+		<Text Name="Weather_LightningStorm">
+			<DisplayName>Bão sấm sét</DisplayName>
+		</Text>
+		<Text Name="Weather_LuShu_SunnyDay">
+			<DisplayName>Trời quang mây tạnh</DisplayName>
+		</Text>
+		<Text Name="Weather_Fei_HeavyRain">
+			<DisplayName>Mưa to</DisplayName>
+		</Text>
+		<Text Name="Weather_SpringFestival">
+			<DisplayName>Lễ hội mùa xuân</DisplayName>
+		</Text>
+		<Text Name="Weather_ZuShiBiHu">
+			<DisplayName>Đại Tông Sư Thần Thuẫn</DisplayName>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Thủy vực lĩnh vực</DisplayName>
+			<Desc>Tăng mạnh tốc độ hồi phục chân khí và độ bền khi ở trong Thủy vực lĩnh vực</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_BeiDouJianJie">
+			<DisplayName>Kim kiếm lĩnh vực</DisplayName>
+			<Desc>Tăng mạnh uy lực pháp bảo khi ở trong Kim kiếm lĩnh vực</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Cửu Dương Hỏa Thần lĩnh vực</DisplayName>
+			<Desc>Tăng mạnh uy lực pháp thuật khi ở trong Cửu Dương Hỏa Thần lĩnh vực</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Season_DanQi">
+			<DisplayName>Dược Khí Cuồn Cuộn</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Wu">
+			<DisplayName>Đan khí cuồn cuộn (Tiên thiên chân khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, giảm đạo quả, tăng tốc độ lĩnh hội</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Jin">
+			<DisplayName>Đan khí cuồn cuộn (Kim đan chân khí)</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Mu">
+			<DisplayName>Đan khí cuồn cuộn (Mộc khí)</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Shui">
+			<DisplayName>Đan khí cuồn cuộn (Thủy khí)</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Huo">
+			<DisplayName>Đan khí cuồn cuộn (Hỏa khí)</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_Tu">
+			<DisplayName>Đan khí cuồn cuộn (Thổ khí)</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMu">
+			<DisplayName>Đan khí cuồn cuộn (Hạn hán chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ đốn củi và thu hoạch</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShui">
+			<DisplayName>Đan khí cuồn cuộn (Vi tế chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ thủ công và may vá</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuo">
+			<DisplayName>Đan khí cuồn cuộn (Luyện khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ khai khoáng</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinTu">
+			<DisplayName>Đan khí cuồn cuộn (Tích lũy chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng sản lượng khai khoáng</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShui">
+			<DisplayName>Đan khí cuồn cuộn (Phì nhiêu chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng sản lượng thu hoạch của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuo">
+			<DisplayName>Đan khí cuồn cuộn (Phần diệt chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ rèn đúc và nấu nướng</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuTu">
+			<DisplayName>Đan khí cuồn cuộn (Phong ấn chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ xây dựng</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuo">
+			<DisplayName>Đan khí cuồn cuộn (Diệt vong chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ giải trừ thiên tai và tỷ lệ thành công</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiTu">
+			<DisplayName>Đan khí cuồn cuộn (Phá giới chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tỷ lệ thành công trong y thuật và tốc độ hồi phục tự nhiên</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_HuoTu">
+			<DisplayName>Đan khí cuồn cuộn (Hôi tàn chi khí)</DisplayName>
+			<Desc>Đan khí lan tỏa khắp nơi, tăng tốc độ tháo dỡ và tốc độ gia công đá</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuShui">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Mầm Non))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng độ tương thích với công pháp hệ Mộc.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuHuo">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Cây Đại Thụ))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng sản lượng khi luyện đan.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinMuTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Đất Mẹ))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng tốc độ trúc cơ, tốc độ tu luyện và nền tảng tâm cảnh.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiHuo">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Kim Tinh Thuần Khiết))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng tỉ lệ thành công khi luyện chế pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinShuiTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Vực Nước Sâu))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng độ tương thích với công pháp hệ Thủy.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_JinHuoTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Kim Loại Cứng))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng độ tương thích với công pháp hệ Kim.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiHuo">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Lửa Cháy))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng độ tương thích với công pháp hệ Hỏa.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuShuiTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Nước Lạnh Tĩnh Lặng))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng tốc độ luyện đan.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_MuHuoTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Đất Vững Chắc))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng độ tương thích với công pháp hệ Thổ.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_ShuiHuoTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Mặt Trời Thiêu Đốt))</DisplayName>
+			<Desc>Linh khí của đan dược lan tỏa khắp nơi, tăng tốc độ luyện chế pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoJin">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Chặt Kim))</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoMu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Chặt Mộc))</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoShui">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Chặt Thủy))</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoHuo">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Chặt Hỏa))</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+		<Text Name="Modifier_Weather_Elixir_NoTu">
+			<DisplayName>Linh Khí Đan Phun Trào (Linh Khí Chặt Thổ))</DisplayName>
+			<Desc>Dược khí lan tỏa khắp nơi</Desc>
+		</Text>
+	</List>
+</Texts>

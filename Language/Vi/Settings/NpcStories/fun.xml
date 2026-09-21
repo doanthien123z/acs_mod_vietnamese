@@ -1,0 +1,109 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NormalFun">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền thở dài một tiếng</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Dance">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj] [name] vô tình đá trúng[obj_nearthing]một cách vô tình</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj] [name] vô tình bị trật cổ chân</Events.14.Story>
+		</Text>
+		<Text Name="Fun_Music">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj] [name] không kìm được mà ngân nga giai điệu</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayBird">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj] [name] không kìm được mà kêu chiêu chiếp</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Calligraphy">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền làm đổ mực</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayChess">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy mình đã đi sai bước và tự giận bản thân</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayTicTacToe">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đang ở lặng lẽ, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Ở một mình, đột nhiên vô số suy nghĩ và cảm xúc tràn vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy khó thở</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>Việc[obj]bị quấy rấy [name] chỉ có thể[obj_badmood]mới có thể giải tỏa bực bội</Events.11.Story>
+			<Events.12.Story>[name] vô cùng phấn khởi vì[obj_goodmood]và không khỏi[obj]một cách vui vẻ</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] [name] đột nhiên cát bay vào mắt khi đang[obj]</Events.13.Story>
+		</Text>
+	</List>
+</Texts>

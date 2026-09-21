@@ -1,0 +1,18 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc	UnlockNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数(SECRET为事件ID)	文本参数		
+
+Chat_Place_WuDang_JinDing	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ xuất hiện vào mùa hè thôi.
+Chat_Place_WuDang_NanYanGong	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ xuất hiện vào mùa hè thôi.
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ xuất hiện vào mùa hè thôi.
+Chat_Place_WuDang_Taizipo	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ xuất hiện vào mùa hè thôi.
+Chat_Place_WuDang_JinDing	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ ăn những thứ mang thuộc tính kim mà thôi.
+Chat_Place_WuDang_NanYanGong	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ ăn những thứ mang thuộc tính kim mà thôi.
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ ăn những thứ mang thuộc tính kim mà thôi.
+Chat_Place_WuDang_Taizipo	0	Ở đây có linh ngư nào không nhỉ??	Nghe nói có một loại cua trong màn sương kia và chúng chỉ ăn những thứ mang thuộc tính kim mà thôi.
+Chat_Place_WuDang_JinDing	0	Ở đây có linh ngư nào không nhỉ??	Hãy chú ý đến màn sương gần đây, Người có thể tìm thấy vài con hắc ngư, nhưng chúng không xuất hiện vào ban ngày đâu.
+Chat_Place_WuDang_NanYanGong	0	Ở đây có linh ngư nào không nhỉ??	Hãy chú ý đến màn sương gần đây, Người có thể tìm thấy vài con hắc ngư, nhưng chúng không xuất hiện vào ban ngày đâu.
+Chat_Place_WuDang_ZiXiaoGong	0	Ở đây có linh ngư nào không nhỉ??	Hãy chú ý đến màn sương gần đây, Người có thể tìm thấy vài con hắc ngư, nhưng chúng không xuất hiện vào ban ngày đâu.
+Chat_Place_WuDang_Taizipo	0	Ở đây có linh ngư nào không nhỉ??	Hãy chú ý đến màn sương gần đây, Người có thể tìm thấy vài con hắc ngư, nhưng chúng không xuất hiện vào ban ngày đâu.
+Chat_Npc_Npc_WuDang_1	0	Bằng Hữu……	Đạo hữu, chúng ta có duyên phận với nhau! Ngươi và ta nên kết giao bằng hữu, cùng thề nguyện huynh đệ, mời cùng bước trên con đường tu hành.…					
+Chat_Npc_Npc_WuDang_1	0	Đạo hữu, gần đây thế nào rồi??	Quạc quạc quạc, Vô Địch Áp (vịt) của phái Võ Đang.!					
+Chat_Npc_Npc_WuDang_1	0	Đạo hữu, công cuộc tạo thế giới của ngươi thế nào rồi??	Ừm.… Việc khai thiên lập địa vốn chẳng phải chuyện dễ dàng, vẫn cần thêm chút thời gian, đạo hữu chớ nên vội vàng.					

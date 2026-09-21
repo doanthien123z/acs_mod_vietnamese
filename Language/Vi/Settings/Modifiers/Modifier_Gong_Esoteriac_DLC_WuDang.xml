@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_DLC_WuDang_YinYang1">
+			<DisplayName>Thuần Dương</DisplayName>
+			<Desc>Trong cơ thể chỉ có Dương khí lưu thông, khi dùng để điều khiển Pháp bảo có thể hủy diệt muôn vật.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang2">
+			<DisplayName>Chí Dương</DisplayName>
+			<Desc>Trong cơ thể hầu như đều là Dương khí lưu thông, có tác dụng nâng cao kỹ năng Pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang3">
+			<DisplayName>Dương Khí Cao</DisplayName>
+			<Desc>Trong cơ thể có khá nhiều Dương khí lưu thông, gây ảnh hưởng xấu đến sự ổn định của tâm cảnh, nhưng giúp kháng lại tác dụng phụ của tâm cảnh xấu và tăng cường Giáp Khí.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang4">
+			<DisplayName>Dương Khí Thấp</DisplayName>
+			<Desc>Trong cơ thể có một ít Dương khí lưu thông, giúp nâng cao tâm cảnh và Giáp Khí.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang5">
+			<DisplayName>Âm Dương Cân Bằng</DisplayName>
+			<Desc>Âm khí và Dương khí lưu thông cân bằng trong cơ thể, giúp trạng thái trở nên thuần khiết rõ ràng, Chân khí quanh người xoay chuyển cân bằng.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang6">
+			<DisplayName>Âm Khí Thấp</DisplayName>
+			<Desc>Trong cơ thể có một ít Âm khí lưu thông, giúp nâng cao tâm cảnh và Giáp Khí.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang7">
+			<DisplayName>Âm Khí Cao</DisplayName>
+			<Desc>Trong cơ thể có khá nhiều Âm khí lưu thông, gây ảnh hưởng xấu đến sự ổn định của tâm cảnh, nhưng giúp kháng lại tác dụng phụ của tâm cảnh xấu và tăng cường Giáp Khí.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang8">
+			<DisplayName>Chí Âm</DisplayName>
+			<Desc>Trong cơ thể hầu như đều là Âm khí lưu thông, có tác dụng nâng cao kỹ năng Pháp thuật.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang9">
+			<DisplayName>Thuần Âm</DisplayName>
+			<Desc>Trong cơ thể chỉ có Âm khí lưu thông, khi thi triển Pháp thuật có thể hủy diệt muôn vật.</Desc>
+		</Text>
+		<Text Name="Modifier_DLC_WuDang_YinYang10">
+			<DisplayName>Không</DisplayName>
+		</Text>
+	</List>
+</Texts>

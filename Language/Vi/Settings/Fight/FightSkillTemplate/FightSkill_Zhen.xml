@@ -1,0 +1,90 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ChangeZhen">
+			<DisplayName>Thay đổi trận pháp</DisplayName>
+			<Tip>Thay đổi biến thể đại trận để bảo vệ người làm trận nhãn</Tip>
+		</Text>
+		<Text Name="CancelZhen">
+			<DisplayName>Tiêu giải</DisplayName>
+			<Tip>Tiêu giải đại trận. Sau khi tiêu giải, cần đợi một khoảng thời gian mới có thể dựng lại đại trận</Tip>
+		</Text>
+		<Text Name="JointJian">
+			<DisplayName>Dung hợp pháp bảo</DisplayName>
+			<Tip>Hợp lực chân khí của tất cả mọi người trong đại trận để điều khiển pháp bảo và hồi phục chân khí của nó, tăng mạnh uy lực pháp bảo dựa vào giá trị buff kỹ năng pháp bảo. Tất cả mọi người trong đại trận sẽ chia đều lượng chân khí tiêu hao</Tip>
+		</Text>
+		<Text Name="JointSkill">
+			<DisplayName>Dung hợp pháp thuật</DisplayName>
+			<Tip>Hợp lực chân khí của tất cả mọi người trong đại trận để tăng cường uy lực pháp thuật dựa vào giá trị buff kỹ năng pháp thuật. Tất cả mọi người trong đại trận sẽ chia đều lượng chân khí tiêu hao</Tip>
+		</Text>
+		<Text Name="ZhenTempAura">
+			<DisplayName>Phí đằng</DisplayName>
+		</Text>
+		<Text Name="ZhenModifyArea">
+			<DisplayName>Mở rộng</DisplayName>
+		</Text>
+		<Text Name="ZhenShield">
+			<DisplayName>Tăng giáp</DisplayName>
+		</Text>
+		<Text Name="TransLing">
+			<DisplayName>Di chuyển chân khí</DisplayName>
+		</Text>
+		<Text Name="Reducetability">
+			<DisplayName>Độ ổn định thấp</DisplayName>
+		</Text>
+		<Text Name="RevealZhen">
+			<DisplayName>Trận nhãn đã bị phơi bày</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen1">
+			<DisplayName>Thiên sinh</DisplayName>
+			<HeadMsg>Chọn trận nhãn của địch</HeadMsg>
+			<Tip>Hành động theo quy luật thiên cơ để tấn công điểm yếu của đại trận địch, giảm độ ổn định và có cơ hội phơi bày trận nhãn của đại trận địch</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_RevealZhen2">
+			<DisplayName>Kim kiếm lĩnh vực</DisplayName>
+			<Tip>Gây lượng lớn sát thương chân khí cho mục tiêu</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield1">
+			<DisplayName>Ngũ vực lĩnh vực</DisplayName>
+			<Tip>Tạo ra lĩnh vực bán kính 5 mét quanh mục tiêu và tiêu thụ chân khí của đại trận để phòng thủ</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenShield2">
+			<DisplayName>Vô cực lĩnh vực</DisplayName>
+			<Tip>Tạo ra lĩnh vực bán kính 12 mét quanh mục tiêu và tiêu thụ chân khí của đại trận để phòng thủ</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea1">
+			<DisplayName>Mộc linh lĩnh vực</DisplayName>
+			<Tip>Tạo ra lĩnh vực bán kínhn 8 mét quanh mục tiêu, bón phân cho đất trong phạm vi chỉ định và tăng khả năng kháng tự nhiên của nhân vật đồng minh</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhenArea2">
+			<DisplayName>Thần thiên lĩnh vực</DisplayName>
+			<Tip>Tạo ra lĩnh vực bán kínhn 8 mét quanh mục tiêu, tăng trạng thái tâm tính, cảm xúc và tốc độ tu luyện của tu sĩ trong lĩnh vực</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointJian1">
+			<DisplayName>Thần hỏa điểu kiếm</DisplayName>
+			<Tip>Hợp lực chân khí của tất cả mọi người trong đại trận để điều khiển pháp bảo và hồi phục chân khí của nó, tăng mạnh uy lực pháp bảo dựa vào giá trị buff kỹ năng pháp bảo. Tất cả mọi người trong đại trận sẽ chia đều lượng chân khí tiêu hao</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_JointSkill1">
+			<DisplayName>Thiên long gầm</DisplayName>
+			<Tip>Hợp lực chân khí của tất cả mọi người trong đại trận để tăng cường uy lực pháp thuật dựa vào giá trị buff kỹ năng pháp thuật. Tất cả mọi người trong đại trận sẽ chia đều lượng chân khí tiêu hao</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability1">
+			<DisplayName>Thần sát</DisplayName>
+			<HeadMsg>Chọn trận nhãn của địch</HeadMsg>
+			<Tip>Gây sát thương lớn cho độ ổn định của đại trận địch</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_Stability2">
+			<DisplayName>Niết Bàn</DisplayName>
+			<Tip>Khôi phục sự ổn định của trận pháp</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian">
+			<DisplayName>Sát Tiên</DisplayName>
+			<Tip>Sau một thời gian chờ đợi, gây sát thương linh lực lớn cho kẻ địch trong phạm vi 12 mét</Tip>
+		</Text>
+		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
+			<DisplayName>Phạm vi Kiếm vực Kim loại</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
+			<DisplayName>Phạm vi Sát Tiên</DisplayName>
+		</Text>
+	</List>
+</Texts>

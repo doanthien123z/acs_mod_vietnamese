@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Magic_XuanWuHeart">
+			<DisplayName>Vận khí tịnh tâm</DisplayName>
+			<Desc>Không cần ăn uống hay nghỉ ngơi trong 3 ngày, nhưng sẽ khiến tốc độ di chuyển chậm lại.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuShield">
+			<DisplayName>Hắc Thiết Thuẫn</DisplayName>
+			<Desc>Tăng mạnh hộ thể chân khí và độ bền của cơ thể bí ẩn trong thời gian ngắn.</Desc>
+		</Text>
+		<Text Name="Modifier_XuanWuBreak">
+			<DisplayName>Liệt Khích</DisplayName>
+			<Desc>Giảm đáng kể hộ thể chân khí và độ bền của cơ thể bí ẩn trong thời gian ngắn.</Desc>
+		</Text>
+		<Text Name="Modifier_JinFish">
+			<DisplayName>Kim Trảo Tinh</DisplayName>
+			<Desc>Nâng cao hộ thể chân khí và độ bền của cơ thể bí ẩn trong thời gian ngắn.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou1">
+			<DisplayName>Tâm trí thông suốt</DisplayName>
+			<Desc>Nâng cao một chút tâm cảnh sau khi thành tâm cầu nguyện và xin ban phước tại lễ dâng hương rồng hàng năm.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou2">
+			<DisplayName>Thiền định cao cấp</DisplayName>
+			<Desc>Tăng mạnh cơ hội đột phá cảnh giới sau khi thành tâm cầu nguyện và xin ban phước tại lễ dâng hương rồng hàng năm..</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou3">
+			<DisplayName>Vận may dẫn lối</DisplayName>
+			<Desc>Tăng nhẹ cơ hội né tránh sau khi thành tâm cầu nguyện và xin ban phước tại lễ dâng hương rồng hàng năm.</Desc>
+		</Text>
+		<Text Name="Modifier_LongTou5">
+			<DisplayName>Trừng phạt kẻ tham lam</DisplayName>
+			<Desc>Do lòng tham cầu xin quá nhiều phúc lộc trong đại lễ dâng hương long mạch hàng năm, Người đã phải chịu hình phạt từ thiên đạo, khiến ngũ hành thuộc tính bị giảm sút nghiêm trọng.</Desc>
+		</Text>
+	</List>
+</Texts>

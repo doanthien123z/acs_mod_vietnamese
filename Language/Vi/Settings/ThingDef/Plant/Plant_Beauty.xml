@@ -1,0 +1,44 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>Bạch Chỉ hoa</ThingName>
+			<Desc>Đóa hoa nhỏ bé xinh đẹp</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>Xuân diệp thảo</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa chút mộc nguyên khí mờ nhạt</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>Băng hoa</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa chút mộc nguyên khí mờ nhạt</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>Kim Tiền hoa</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa chút kim nguyên khí mờ nhạt</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>Hỏa Linh Lung hoa</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa linh khí hỏa thuộc tính nhàn nhạt</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>Thủy Linh Chung</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa linh khí thủy thuộc tính nhàn nhạt</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>Kim Nguyệt Hoa</ThingName>
+			<Desc>Thực vật xinh đẹp ẩn chứa linh khí thổ thuộc tính nhàn nhạt</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>Cúc hoa</ThingName>
+			<Desc>Thực vật xinh đẹp sinh trưởng giữa nơi sa mạc</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>Sa mạc nhân sâm</ThingName>
+			<Desc>Thực vật xinh đẹp sinh trưởng giữa nơi sa mạc</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>Kim liên</ThingName>
+			<Desc>Thực vật xinh đẹp sinh trưởng giữa nơi sa mạc</Desc>
+		</Text>
+	</List>
+</Texts>

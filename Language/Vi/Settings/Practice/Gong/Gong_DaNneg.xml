@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_DaNeng">
+			<DisplayName>Công pháp bí ẩn</DisplayName>
+			<Desc>Công pháp đặc biệt vô danh được truyền thừa từ thời cổ đại.</Desc>
+			<Stages.0.DisplayName>Bí ẩn</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Bí ẩn</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Bí ẩn</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Bí ẩn</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Bí ẩn</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Bí ẩn</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Bí ẩn</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Bí ẩn</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Bí ẩn</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Bí ẩn</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Bí ẩn</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Bí ẩn</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Bí ẩn</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Bí ẩn</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Bí ẩn</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Bí ẩn</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Bí ẩn</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Bí ẩn</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Bí ẩn</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Bí ẩn</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Bí ẩn</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Bí ẩn</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Bí ẩn</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Bí ẩn</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

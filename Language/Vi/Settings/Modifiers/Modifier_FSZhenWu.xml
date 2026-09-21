@@ -1,0 +1,252 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NI_FSZhenWu">
+			<DisplayName>Hiệu ứng bất lợi - Hào quang pháp bảo</DisplayName>
+			<Desc>Phong thủy pháp bảo trong phòng này xung khắc với môi trường xung quanh; Nhân vật trong phòng sẽ chịu ảnh hưởng tiêu cực khiến thực lực suy yếu</Desc>
+		</Text>
+		<Text Name="SHUN_FSZhenWu">
+			<DisplayName>Hiệu ứng có lợi - Hào quang pháp bảo</DisplayName>
+			<Desc>Phong thủy pháp bảo trong phòng này hòa hợp với môi trường xung quanh; Nhân vật trong phòng sẽ chịu ảnh hưởng tích cực khiến thực lực được đề cao</Desc>
+		</Text>
+		<Text Name="FSZhenWu_1">
+			<DisplayName>Thưởng hiệu suất công việc tổng thể</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_2">
+			<DisplayName>Thưởng tốc độ trị liệu</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_3">
+			<DisplayName>Thưởng hiệu quả trị liệu</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_4">
+			<DisplayName>Thưởng tốc độ nấu nướng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_5">
+			<DisplayName>Thưởng tốc độ mổ xẻ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_6">
+			<DisplayName>Thưởng sản lượng mổ xẻ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_7">
+			<DisplayName>Thưởng tốc độ thợ đá</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_8">
+			<DisplayName>Thưởng tốc độ xây dựng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_9">
+			<DisplayName>Thưởng tốc độ nông nghiệp</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_10">
+			<DisplayName>Tốc độ thu hoạch</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_11">
+			<DisplayName>Sản lượng thu hoạch</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_12">
+			<DisplayName>Tốc độ khai khoáng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_13">
+			<DisplayName>Sản lượng khai khoáng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_14">
+			<DisplayName>Chất lượng chế tác</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_15">
+			<DisplayName>Tốc độ luyện khí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_16">
+			<DisplayName>Tốc độ chế tác</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_17">
+			<DisplayName>Tốc độ may vá</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_18">
+			<DisplayName>Tốc độ đốn củi</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_19">
+			<DisplayName>Tốc độ dập lửa</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_20">
+			<DisplayName>Tốc độ dọn dẹp</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_21">
+			<DisplayName>Chỉ số tâm trạng cơ bản</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_22">
+			<DisplayName>Tốc độ di chuyển</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_23">
+			<DisplayName>Kháng lạnh)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_24">
+			<DisplayName>Kháng nhiệt)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_25">
+			<DisplayName>Tốc độ hồi phục tự nhiên</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_26">
+			<DisplayName>Khả năng chịu đau</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_27">
+			<DisplayName>Tốc độ học tập</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_28">
+			<DisplayName>Tỷ lệ gặp ác mộng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_29">
+			<DisplayName>Tỷ lệ gặp mộng lành</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_30">
+			<DisplayName>Tỷ lệ tiêu hao năng lượng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_31">
+			<DisplayName>Tỷ lệ hồi phục năng lượng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_32">
+			<DisplayName>Tỷ lệ tiêu thụ thức ăn</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_33">
+			<DisplayName>Tỷ lệ tiêu thụ thức ăn</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_34">
+			<DisplayName>Độ no</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_35">
+			<DisplayName>Tỷ lệ tiêu thụ nước</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_36">
+			<DisplayName>Độ khát</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_37">
+			<DisplayName>Tỷ lệ giải trí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_38">
+			<DisplayName>Độ thỏa mãn giải trí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_39">
+			<DisplayName>Tỷ lệ rèn luyện thể chất</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_40">
+			<Desc>Tỷ lệ hồi phục thể lực</Desc>
+		</Text>
+		<Text Name="FSZhenWu_41">
+			<DisplayName>Cộng hưởng tiềm năng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_42">
+			<DisplayName>Thưởng tốc độ tu luyện</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_43">
+			<DisplayName>Trạng thái tinh thần</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_44">
+			<DisplayName>Tỷ lệ ngộ tính</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_45">
+			<DisplayName>Thưởng tốc độ luyện chế pháp bảo</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_46">
+			<DisplayName>Tỷ lệ thành công khi luyện khí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_47">
+			<DisplayName>Cấp bậc luyện khí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_48">
+			<DisplayName>Chất lượng luyện khí</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_49">
+			<DisplayName>Hiệu suất luyện khí nâng cao</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_50">
+			<DisplayName>Thưởng tốc độ luyện đan</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_51">
+			<DisplayName>Tỷ lệ thành công khi luyện đan</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_52">
+			<DisplayName>Sản lượng luyện đan</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_53">
+			<DisplayName>Tỷ lệ đột phá cảnh giới</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_54">
+			<DisplayName>Phúc lợi Đạo Chủng</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_55">
+			<DisplayName>Độ chính xác</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_56">
+			<DisplayName>Tỷ lệ né tránh tấn công</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_57">
+			<DisplayName>Linh giác</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_58">
+			<DisplayName>Constitution</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_59">
+			<DisplayName>Thể phách</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_60">
+			<DisplayName>Trí tuệ</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_61">
+			<DisplayName>Khí vận</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_62">
+			<DisplayName>Ngũ hành thuộc tính</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1a">
+			<DisplayName>Đạo đức ấn</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1b">
+			<DisplayName>Hồng Mông ấn</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1c">
+			<DisplayName>Huyền bí ấn</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_2">
+			<DisplayName>Thiên Tháp</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_3">
+			<DisplayName>Linh Tháp</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_4">
+			<DisplayName>Âm Dương bình</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_5">
+			<DisplayName>Tế đỉnh</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_6">
+			<DisplayName>Vô tự bi</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_7">
+			<DisplayName>Ngọc sư tử</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_8">
+			<DisplayName>Bất Chu sơn thạch</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_9">
+			<DisplayName>Âm Dương thư quyển</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_10">
+			<DisplayName>Tiên thực lục</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_11">
+			<DisplayName>Thần trận đồ</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_12">
+			<DisplayName>Pháp bảo phù lục</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_13">
+			<DisplayName>Huyền kiếm</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_14">
+			<DisplayName>Kim hồ lô</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_15">
+			<DisplayName>Xích Long bí bảo</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_16">
+			<DisplayName>Thần châu</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOSTPLANT" sParam="Plant">
+			<ThingName>Thực vật đã thất truyền</ThingName>
+			<Desc>Bị lãng quên không ai biết kiến trúc \n(Trống rỗng)</Desc>
+		</Text>
+	</List>
+</Texts>

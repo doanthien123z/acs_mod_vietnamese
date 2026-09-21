@@ -1,0 +1,112 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponKnife">
+			<List.0.Name>Huyết Trảm Đao</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>U Minh Liệt Hỏa Đao</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Phá Sát Đao</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Huyết Vụ Đao</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Tinh Thần Đao</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+		</Text>
+		<Text Name="Item_WeaponSword">
+			<List.0.Name>Phong Ma Kiếm</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Kỳ Lân Kiếm</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Xà Kiếm</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Thiên Ngoại Kiếm</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Ảnh Ảnh Kiếm</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+			<List.5.Name>Ma Kiếm</List.5.Name>
+			<List.5.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.5.Desc>
+			<List.6.Name>Thiết Kiếm</List.6.Name>
+			<List.6.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.6.Desc>
+			<List.7.Name>Bách Nhẫn Kiếm</List.7.Name>
+			<List.7.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.7.Desc>
+			<List.8.Name>Huyết Ẩm Kiếm</List.8.Name>
+			<List.8.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.8.Desc>
+		</Text>
+		<Text Name="Item_WeaponLance">
+			<List.0.Name>Chấn Thế Thương</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Danh Tướng Thương</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Lưu Tinh Thương</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Nguyền Rủa Thương</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Vô Tình Thương</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+			<List.5.Name>Vong Ưu Thương</List.5.Name>
+			<List.5.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.5.Desc>
+			<List.6.Name>Thiên Sát Thương</List.6.Name>
+			<List.6.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.6.Desc>
+			<List.7.Name>Yêu Châm Thương</List.7.Name>
+			<List.7.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.7.Desc>
+			<List.8.Name>Đại Nhật Thương</List.8.Name>
+			<List.8.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.8.Desc>
+			<List.9.Name>A Tỳ Thương</List.9.Name>
+			<List.9.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.9.Desc>
+			<List.10.Name>Ma Thương</List.10.Name>
+			<List.10.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.10.Desc>
+		</Text>
+		<Text Name="Item_WeaponHalbert">
+			<List.0.Name>Vô Tận Qua</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Quỷ Nha Qua</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Hồn Động Qua</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Trừ Tà Qua</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Phượng Trảo Qua</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+			<List.5.Name>Độc Yết Qua</List.5.Name>
+			<List.5.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.5.Desc>
+			<List.6.Name>Đả Thiên Qua</List.6.Name>
+			<List.6.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.6.Desc>
+			<List.7.Name>Cao Lặc Qua</List.7.Name>
+			<List.7.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.7.Desc>
+		</Text>
+		<Text Name="Item_WeaponAxeRing">
+			<List.0.Name>Phân Hải Luân</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Cuồng Phong Luân</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Trục Tai Luân</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Nghiền Tinh Luân</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Phong Thiên Luân</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+		</Text>
+		<Text Name="Item_WeaponBow">
+			<List.0.Name>Long Cung</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Tinh Quang Cung</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+			<List.2.Name>Yêu Nha Cung</List.2.Name>
+			<List.2.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.2.Desc>
+			<List.3.Name>Chấp Pháp Cung</List.3.Name>
+			<List.3.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.3.Desc>
+			<List.4.Name>Sát Hồn Cung</List.4.Name>
+			<List.4.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.4.Desc>
+			<List.5.Name>Đoạt Mệnh Cung</List.5.Name>
+			<List.5.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.5.Desc>
+			<List.6.Name>Cổ Xà Cung</List.6.Name>
+			<List.6.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.6.Desc>
+		</Text>
+		<Text Name="Item_WeaponWoodBow">
+			<List.0.Name>Linh Mộc Cung</List.0.Name>
+			<List.0.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.0.Desc>
+			<List.1.Name>Siêu Cường Cung</List.1.Name>
+			<List.1.Desc>Binh khí tinh xảo tuyệt mỹ này được tạo ra từ nỗ lực, huyết lệ và mồ hôi cay đắng của người rèn</List.1.Desc>
+		</Text>
+	</List>
+</Texts>

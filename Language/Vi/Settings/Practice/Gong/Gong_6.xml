@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_6_Huo">
+			<DisplayName>Thái Sơ Đan Thần Quyết</DisplayName>
+			<Desc>Công pháp được sáng tạo bởi một vị Đan Tiên thiên tài. Mặc dù không chuyên về chân khí hay chiến đấu, nhưng người tu luyện công pháp này có thể sử dụng đan dược của chính mình để mở ra tiên môn thông qua việc tu luyện 9 cảnh giới bên trong công pháp. Khi đạt đến thành tựu cao nhất, người đó có thể phi thăng lên tiên giới.</Desc>
+			<SelectDesc>Công pháp này cực kỳ nổi bật trong việc luyện đan. Việc đột phá mỗi tầng cảnh giới đều cần các loại đan dược khác nhau để thúc đẩy. Người có chắc chắn muốn tu luyện bộ công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Cửu Đỉnh Luyện</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Cửu Đỉnh Luyện</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Thiên hỏa</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thiên hỏa</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Hiền Giả Thạch</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Hiền Giả Thạch</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Kim Đan</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Kim Đan</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Đại Đạo Ngưng Tụ</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Đại Đạo Ngưng Tụ</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Vạn Vật Biến Hóa</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Vạn Vật Biến Hóa</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.6.DisplayName>Tinh Khiết</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Tinh Khiết</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.6.Necks.0.Desc>
+			<Stages.7.DisplayName>Khổ Hải</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Khổ Hải</Stages.7.Necks.0.DisplayName>
+			<Stages.7.Necks.0.Desc>Vượt qua Khổ Hải. Bằng cách dung hợp Nguyên Thần của bản thân vào Đạo trời, người đó sẽ phải đối mặt trực tiếp với cơn thịnh nộ của thiên đạo.</Stages.7.Necks.0.Desc>
+			<Stages.8.DisplayName>Thuần Dương</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Thuần Dương</Stages.8.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

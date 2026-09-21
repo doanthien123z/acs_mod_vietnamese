@@ -1,0 +1,164 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Give1">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, Đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn thức ăn cho người qua đường.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give2">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, Đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn cho người qua đường. Có rất nhiều ăn xin đến xin tiền dọc hai bên đường.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give3">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, Đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn cho người qua đường. Sau đó y thấy một cầu đá sụp đổ khiến người dân không thể qua lại được nữa.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give4">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, Đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn cho người qua đường. Y thấy hai dân làng đang cãi nhau vì một chú chó.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give5">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy hai người đàn ông đang tranh chấp một nữ tử.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give6">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Họ thấy hai người đàn ông vạm vỡ đang đánh nhau. Người qua đường giải thích rằng do một người trồng cây nhưng quả rụng sang nhà người kia, và người kia không chịu trả lại quả.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give7">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] Đang chuẩn bị đi phát chẩn, đột nhiên có một mỹ phụ bước vào nhà của Đại diện tông môn. [NAME] Sau đó nàng bắt đầu khóc lóc và kể rằng con của nàng đã mất tích.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give8">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] Đang chuẩn bị đi phát chẩn, đột nhiên có một nam tử bước vào van xin Đại diện tông môn [NAME] cứu lấy người vợ đang hấp hối của mình.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give9">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã đi đến một nơi xa xôi để truyền đạo, nhưng lại bị một nhóm sơn tặc tấn công.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give10">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã tình cờ gặp các đệ tử đến từ[SCHOOL0] và thấy họ đang phát chẩn cho người qua đường.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give11">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã tình cờ gặp các đệ tử đến từ[SCHOOL0] và thấy họ đang thuyết pháp truyền đạo.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give12">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã tình cờ gặp các đệ tử đến từ[SCHOOL0] và thấy họ đang ngồi thiền cầu nguyện.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give13">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y gặp một căn nhà gỗ mục nát, chủ nhà lại bị tàn tật không thể tự mình sửa chữa.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give14">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy một nam tử mặc trang phục dị quốc đang lừa gạt người qua đường.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give15">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y đi qua hai tửu quán đối diện nhau, có vẻ như họ đang tranh chấp chuyện kinh doanh.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give16">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y tình cờ gặp một nhóm người tị nạn.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give17">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy một người đàn ông bệnh nặng sắp chết bên đường, người đó khẩn cầu Đại diện tông môn [NAME] giúp hắn giải thoát khỏi nỗi đau khổ.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Give18">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã dẫn các tín đồ vào thành phố phân phát đồ quyên góp cho người qua đường. Anh ta vô tình chạm phải một ông lão. Sau đó ông lão liền nằm vật xuống đất và hét lên: "Á à à à! Có người làm gãy chân ta! Chính ngươi đã làm gãy chân ta!"</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon1">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã vào trong thành chuẩn bị thuyết pháp truyền đạo.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon2">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã tiến hành thuyết pháp truyền đạo. Đột nhiên có một nam tử quát lên: "Ngươi đang nói nhảm cái quái gì vậy!"!"</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon3">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã tiến hành thuyết pháp truyền đạo. Sau đó có một văn nhân bước đến tranh luận và bảo những điều Đại diện tông môn [NAME] nói là sai... Toàn là lời lừa đảo.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Sermon4">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã tiến hành thuyết pháp truyền đạo. Có một phụ nữ trung niên vỗ tay điên cuồng, nhưng phụ nữ đó lại không phải là đệ tử.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret1">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã bước vào Mật Các và chuẩn bị lập mưu kế.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret2">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã phát hiện[SCHOOL0]đang chuẩn bị phát chẩn để lôi kéo dân làng gia nhập, vì vậy Đại diện tông môn [NAME] đang chuẩn bị kế hoạch ngăn cản</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret3">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã phát hiện[SCHOOL0]đang chuẩn bị truyền bá đạo pháp... đột nhiên một kế hoạch hiện lên trong đầu</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Secret4">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn[NAME] đã phát hiện[SCHOOL0]đang chuẩn bị tổ chức đại lễ, thế nên đại biểu tông môn [NAME] liền quyết định vạch ra một số kế hoạch....</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp1">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp, Đại diện tông môn [NAME] đã bước vào đạo quán và chuẩn bị tiến hành Tẩy Tủy Đại Lễ</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp2">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn[NAME] thấy chúng sinh sống trong xa hoa lãng phí nên quyết định cử hành Tẩy Tủy Đại Lễ</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp3">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn[NAME] thấy kẻ giàu sống xa hoa lãng phí, còn người nghèo chết bên đường không ai quan tâm, thế nên quyết định cử hành Tẩy Tủy Đại Lễ</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp4">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn[NAME] thấy kẻ gian xảo hoành hành khắp nơi, kẻ có quyền lực lại dung túng, thậm chí còn chống lưng cho chúng, thế nên quyết định cử hành Tẩy Tủy Đại Lễ để giáo hóa người trong thành</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Disp5">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn[NAME] thấy binh lính không bảo vệ dân mà còn ức hiếp, người chấp pháp lại lạm dụng luật pháp, thế nên quyết định cử hành Tẩy Tủy Đại Lễ</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_God1">
+			<DisplayName>Kỳ tích</DisplayName>
+			<Desc>Đại diện tông môn[NAME] quyết định hôm nay là ngày lành để các đệ tử chứng kiến thần tích của thần đạo tu sĩ</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

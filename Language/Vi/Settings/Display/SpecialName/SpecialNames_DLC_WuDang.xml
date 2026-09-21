@@ -1,0 +1,87 @@
+<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_HomeFood">
+			<Fish_SkyCrab>
+				<li Name="Cua hấp" Desc=""></li>
+				<li Name="Canh cua" Desc=""></li>
+				<li Name="Cua lột chiên" Desc=""></li>
+				<li Name="Cháo cua" Desc=""></li>
+				<li Name="Cua xào đậu phụ" Desc=""></li>
+				<li Name="Cua xào cay" Desc=""></li>
+				<li Name="Cua sốt cà ri" Desc=""></li>
+				<li Name="Cơm chiên cua" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Cháo cá" Desc=""></li>
+				<li Name="Chả cá" Desc=""></li>
+				<li Name="Chả giò cá" Desc=""></li>
+				<li Name="Cá nướng" Desc=""></li>
+				<li Name="Cá chiên" Desc=""></li>
+				<li Name="Canh cá" Desc=""></li>
+				<li Name="Cá hấp" Desc=""></li>
+				<li Name="Cá hầm dược thiện" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Cháo cá" Desc=""></li>
+				<li Name="Chả cá" Desc=""></li>
+				<li Name="Chả giò cá" Desc=""></li>
+				<li Name="Cá nướng" Desc=""></li>
+				<li Name="Cá chiên" Desc=""></li>
+				<li Name="Canh cá" Desc=""></li>
+				<li Name="Cá hấp" Desc=""></li>
+				<li Name="Cá hầm dược thiện" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DeliciousFood">
+			<Fish_SkyCrab>
+				<li Name="Cà ri cua" Desc=""></li>
+				<li Name="Cua xào cay" Desc=""></li>
+				<li Name="Càng cua hấp" Desc=""></li>
+				<li Name="Trứng cua kho miến" Desc=""></li>
+				<li Name="Cua xào cay kiểu Thái" Desc=""></li>
+				<li Name="Thịt cua sốt đậu phụ" Desc=""></li>
+				<li Name="Thịt cua xào cay" Desc=""></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Cá xào cay" Desc=""></li>
+				<li Name="Cơm cá niêu đất" Desc=""></li>
+				<li Name="Cá sốt dầu ớt" Desc=""></li>
+				<li Name="Cá viên" Desc=""></li>
+				<li Name="Chả cá" Desc=""></li>
+				<li Name="Cá hầm gia vị" Desc=""></li>
+				<li Name="Canh chua cá" Desc=""></li>
+				<li Name="Cá hấp rượu" Desc=""></li>
+				<li Name="Cá chiên" Desc=""></li>
+				<li Name="Cá kho nước dùng" Desc=""></li>
+				<li Name="Đầu cá hấp tiêu đen" Desc=""></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Cá xào cay" Desc=""></li>
+				<li Name="Cơm cá niêu đất" Desc=""></li>
+				<li Name="Cá sốt dầu ớt" Desc=""></li>
+				<li Name="Cá viên" Desc=""></li>
+				<li Name="Chả cá" Desc=""></li>
+				<li Name="Cá hầm gia vị" Desc=""></li>
+				<li Name="Canh chua cá" Desc=""></li>
+				<li Name="Cá hấp rượu" Desc=""></li>
+				<li Name="Cá chiên" Desc=""></li>
+				<li Name="Cá kho nước dùng" Desc=""></li>
+				<li Name="Đầu cá hấp tiêu đen" Desc=""></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+		<SpecialItem Name="Item_DelicacyFood">
+			<Fish_SkyCrab>
+				<li Name="Bao tử hoàng đế" Desc="Trộn gạch cua tươi với thịt rồi bọc trong lớp vỏ mỏng. Khi hấp xong, chan thêm dầu cua vàng óng lên trên. Tương truyền từng có một vị hoàng đế sẵn sàng từ bỏ ngai vàng chỉ để được thưởng thức món này."></li>
+				<li Name="Cua hấp rượu Thiệu Hưng" Desc="Dùng loại rượu Thiệu Hưng thượng hạng để hấp cua vào cuối mùa thu. Rượu giúp trừ tính hàn của cua, hương vị đậm đà của rượu Thiệu Hưng hòa quyện hoàn hảo với vị ngọt của thịt cua."></li>
+			</Fish_SkyCrab>
+			<Fish_SkySnake>
+				<li Name="Lươn xào cay" Desc="Cắt lươn tươi thành từng đoạn nhỏ rồi xào với gia vị, đòi hỏi kỹ thuật cắt điêu luyện và tốc độ nhanh chóng."></li>
+				<li Name="Lươn xào hành tây" Desc="Luộc chín lươn tươi, sau đó đem xào với hành tây để khử mùi tanh. Đây là món ăn thượng hạng vừa tốt cho sức khỏe vừa ngon miệng."></li>
+			</Fish_SkySnake>
+			<Fish_SkyFish>
+				<li Name="Long ngư canh" Desc="Liên tưởng đến cảnh cá chép vượt Long Môn, món canh này phụ thuộc chủ yếu vào thứ tự nấu nướng và sự kết hợp phức tạp của các loại gia vị, khiến hương vị vượt trội hơn hẳn các món cá thông thường."></li>
+				<li Name="Dương hiểm ngư" Desc="Nhồi cá vào bên trong miếng thịt dê lớn đã cắt khúc, nêm nếm gia vị để tạo nên hương vị tinh tế. Vị cá quyện với thịt dê làm món ăn càng thêm phần hấp dẫn, thịt dê mềm mọng nước, nhân cá bên trong mềm mịn."></li>
+			</Fish_SkyFish>
+		</SpecialItem>
+	</List>
+</SpecialNames>

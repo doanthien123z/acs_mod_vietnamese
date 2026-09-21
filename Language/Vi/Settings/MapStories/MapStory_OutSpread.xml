@@ -1,0 +1,48 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_Start">
+			<DisplayName>Gầy dựng lại uy thế của tông môn</DisplayName>
+			<Desc>Mọi người ở đây từng tôn sùng Thái Ất tông, nhưng hiện tại Thái Ất tông đã diệt vong, cho nên bọn họ lúc này đang thiếu đi chỗ dựa tinh thần</Desc>
+			<Selections.0.Display>Dò hỏi</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_Accelerate">
+			<DisplayName>Sử dụng nhân công</DisplayName>
+			<Desc>[NAME] Đã quản lý công nhân</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_TreasureHunt">
+			<DisplayName>Săn bảo vật</DisplayName>
+			<Desc>[NAME] Đã đi săn lùng bảo vật</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+		<Text Name="Outs1">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>[NAME] Đã bị cướp</Desc>
+			<Selections.0.Display>Đưa linh thạch cho chúng</Selections.0.Display>
+			<Selections.1.Display>Đàm phán</Selections.1.Display>
+		</Text>
+		<Text Name="Outs2">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Trên đường đi [NAME] Bắt gặp một nhóm người lánh nạn, thật đáng thương khi họ không còn nhà để về</Desc>
+			<Selections.0.Display>Trao linh thạch cho họ</Selections.0.Display>
+			<Selections.1.Display>Đàm phán</Selections.1.Display>
+		</Text>
+		<Text Name="Outs3">
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Trên đường đi [NAME] Bắt gặp một nhóm dân làng đang bị một số tu sĩ bắt nạt</Desc>
+			<Selections.0.Display>Đưa linh thạch cho chúng</Selections.0.Display>
+			<Selections.1.Display>Đàm phán</Selections.1.Display>
+			<Selections.2.Display>Giả vờ như không thấy</Selections.2.Display>
+		</Text>
+		<Text Name="CollectFaith">
+			<DisplayName>Thu thập tín ngưỡng</DisplayName>
+			<Desc>Có các đệ tử ở đây, chúng ta có thể thu thập tín ngưỡng từ họ</Desc>
+			<Selections.0.Display>Nhận lấy</Selections.0.Display>
+		</Text>
+		<Text Name="OutSpread_GoodMood">
+			<DisplayName>Bích Ngọc Tháp</DisplayName>
+			<Desc>Các đệ tử có thể thư giãn tại Bích Ngọc Tháp</Desc>
+			<Selections.0.Display>Tùy ý</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

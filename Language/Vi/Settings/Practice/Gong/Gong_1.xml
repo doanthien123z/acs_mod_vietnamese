@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_1_Shui">
+			<DisplayName>Thập Lục Bộ Nhập Tiên Công</DisplayName>
+			<Desc>Một trong ngũ đại công pháp quy luật chân chính của Thái Ất Tông, nó có 4 đại cảnh giới và 16 tiểu tầng khác nhau, người tu luyện cần phải từ từ tu luyện từng bước một. Không dễ gì để đạt đến cảnh giới cao nhất trong công pháp này, nhưng ít nhất thì lúc khởi đầu lại vô cùng dễ dàng. Người tu luyện sẽ từng bước vững chắc tiến bước trên con đường tu tiên, cho đến khi cuối cùng bước lên cảnh giới tiên nhân.</Desc>
+			<SelectDesc>Công pháp này đòi hỏi phải tu luyện từng bước một và cần có căn cơ vững chắc. Hơn nữa, người tu luyện sẽ phải đối mặt với thiên kiếp lần đầu tiên ngay từ khi còn ở cảnh giới Kết Đan. Ngươi có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Ngưng khí</Stages.0.DisplayName>
+			<Stages.0.Desc>Cảnh giới đầu tiên của công pháp này đòi hỏi trạng thái thiền định kiên định và thời gian luyện khí lâu dài. Có lẽ sẽ rất khó đối với những kẻ có trí tuệ cao để có thể gạt bỏ những suy nghĩ hỗn loạn ra khỏi tâm trí và vượt qua cảnh giới này.</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Tâm Thiền</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Tĩnh tâm nhất niệm, loại bỏ tạp niệm trong lòng[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có trí tuệ cao.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Tĩnh tọa quán tưởng</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Sau khi tĩnh tâm, hãy cảm nhận sự thay đổi bên trong cơ thể, giống như người mù cảm nhận vạn vật xung quanh, cuối cùng đạt đến trạng thái có thể cảm nhận rõ tình trạng nội tạng của chính mình[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có trí tuệ cao.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Vận chuyển chân khí</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Khi suy ngẫm không ngừng, người tu luyện có thể tìm thấy cảm nhận về linh khí từ trong thiền định. Đây là khởi đầu của sự thay đổi sức mạnh, được gọi là 'Nhập môn nhất giai''[color=#D06508]\nĐột phá cảnh giới ở giai đoạn này rất khó đối với những người có linh căn thấp\nNếu đột phá thất bại có thể dẫn đến bị thương.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.0.Necks.3.DisplayName>Thông thiên</Stages.0.Necks.3.DisplayName>
+			<Stages.0.Necks.3.Desc>Ở giai đoạn này, người tu luyện phải từ từ tăng cường nội lực linh khí của bản thân và vận chuyển qua các huyệt đạo cũng như kinh mạch toàn thân để tạo thành vòng tuần hoàn nội tại. Điều này gọi là 'Chu thiên tuần hoàn'' </Stages.0.Necks.3.Desc>
+			<Stages.1.DisplayName>Ngưng tụ chân đan</Stages.1.DisplayName>
+			<Stages.1.Desc>Tại cảnh giới thứ 2, người tu luyện phải mạo hiểm tính mạng để kiểm soát sự cân bằng của thủy hỏa nhằm ngưng tụ Kim Đan</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Tâm Môn</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Mở cửa tâm trí, kết nối với thiên địa, bỏ lại mọi tạp niệm thế tục phía sau</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Bồi dưỡng tâm cảnh</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Để linh khí tự do lưu chuyển khắp cơ thể, giúp người tu luyện đạt đến trạng thái viên mãn </Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Khí hải</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc>Tạo ra biển linh khí để xây dựng linh đan. Một là vùng ngực, hai là vùng đan điền, ví như lò luyện; trái tim ví như lửa, thận ví như nước, sinh mệnh ví như nhiên liệu[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.\nNếu đột phá thất bại có thể dẫn đến bị thương.[/color]</Stages.1.Necks.2.Desc>
+			<Stages.1.Necks.3.DisplayName>Ngưng tụ Kim Đan</Stages.1.Necks.3.DisplayName>
+			<Stages.1.Necks.3.Desc>Kết hợp nhục thân, chân khí và linh hồn để ngưng tụ thành Kim Đan</Stages.1.Necks.3.Desc>
+			<Stages.2.DisplayName>Luyện hóa nội đan</Stages.2.DisplayName>
+			<Stages.2.Desc>Tại cảnh giới thứ 3, người tu luyện quay về bản chất thuần khiết nguyên sơ, giải phóng tâm trí và nhận thức được chân ngã trong trạng thái này </Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Nhất trọng thiên kiếp</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Người tu luyện phải đối mặt với lôi kiếp của thiên đạo sau khi tạo thành Kim Đan</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Khởi nguyên</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Chân ngã của người tu luyện sẽ dần hình thành bên trong Kim Đan, giống như đang ở giai đoạn đầu của thai nhi[color=#D06508]\nĐột phá cảnh giới ở giai đoạn này rất khó đối với những người có tư chất thấp[/color]</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Linh thai</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Chân ngã của người tu luyện dần hình thành và sẵn sàng để phát triển [color=#D06508]nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.2.Necks.3.DisplayName>Nguyên Anh</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.3.Desc>Thân thể thuần khiết bên trong linh hồn mạnh mẽ, bắt đầu đột phá khỏi giới hạn của cơ thể con người để tiến vào trạng thái bất tử</Stages.2.Necks.3.Desc>
+			<Stages.3.DisplayName>Nguyên Thần</Stages.3.DisplayName>
+			<Stages.3.Desc>Tại cảnh giới thứ 4, linh hồn bên trong của người tu luyện phải vượt qua\nThiên kiếp để tạo thành thuần dương chi thể\nTừ bỏ nhục thân phàm trần để thực sự trở thành tiên</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Ngưng tụ nguyên thần</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Luyện hóa linh hồn bằng hơi thở thuần âm của Địa Mẫu</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Xuất khiếu</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Tách rời khỏi xác phàm, để linh hồn ngao du khắp thiên hạ[color=#D06508]\nLưu ý rằng việc đột phá cảnh giới sẽ tiêu hao rất nhiều tuổi thọ[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Linh hồn giác ngộ</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Linh hồn thức tỉnh nhờ thiên ân. Khi đạt đến cảnh giới tối cao, người tu luyện phải đối mặt với thiên kiếp[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.3.Necks.2.Desc>
+			<Stages.3.Necks.3.DisplayName>Chuyển sinh thiên giới</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.3.Desc>Sau khi vượt qua thiên địa kiếp, người đó có thể phi thăng thành tiên. Nếu không, thiên đạo sẽ xóa sổ sự tồn tại của người đó nếu vẫn cố chấp ở lại nhân gian</Stages.3.Necks.3.Desc>
+		</Text>
+	</List>
+</Texts>

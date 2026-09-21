@@ -1,0 +1,59 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WeaponBow" sParam="Item">
+			<ThingName>Cung</ThingName>
+			<Desc>Cung dùng để săn mục tiêu từ khoảng cách xa.</Desc>
+			<Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponWoodBow" sParam="Item">
+			<ThingName>Cung</ThingName>
+			<Desc>Cung dùng để săn mục tiêu từ khoảng cách xa.</Desc>
+			<Item.FabaoSuffix>Cung</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponKnife" sParam="Item">
+			<ThingName>Đao</ThingName>
+			<Desc>Đao một lưỡi có thể dùng để chém và chặt rất tốt.</Desc>
+			<Item.FabaoSuffix>Đao</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponLance" sParam="Item">
+			<ThingName>Thương</ThingName>
+			<Desc>Thương dài có khả năng tấn công nội tạng đối thủ một cách hiệu quả.</Desc>
+			<Item.FabaoSuffix>Thương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponSword" sParam="Item">
+			<ThingName>Kiếm</ThingName>
+			<Desc>Kiếm vừa nhẹ vừa linh hoạt, độ bén vô cùng sắc sảo.</Desc>
+			<Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponHalbert" sParam="Item">
+			<ThingName>Yểm Nguyệt Đao</ThingName>
+			<Desc>Vũ khí cùn và nặng, lực va chạm đủ mạnh để phá hủy xương cốt và gân mạch của kẻ địch.</Desc>
+			<Item.FabaoSuffix>Yểm Nguyệt Đao</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponAxeRing" sParam="Item">
+			<ThingName>Luân</ThingName>
+			<Desc>Vũ khí kỳ lạ dùng bằng cách nắm trong tay như nắm đấm. Nó có thể tạo ra vô số vết thương trên người đối thủ một cách nhanh chóng.</Desc>
+			<Item.FabaoSuffix>Luân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="SP_Sword1" sParam="Item">
+			<ThingName>Bùm Bùm Tinh</ThingName>
+			<Desc>Tương truyền ở vùng đất xa xôi phía Tây, có một chiến binh tên là Darabumba đã dùng thanh kiếm này để giết chết sinh vật hùng mạnh gọi là "Rồng". Vì thế, toàn bộ thanh kiếm đỏ thẫm như bị nhuộm bởi máu rồng. Khi tấn công bằng thanh kiếm này, có cơ hội khiến kẻ địch bị thương do tẩu hỏa nhập ma.</Desc>
+		</Text>
+		<Text Name="SP_Sword2" sParam="Item">
+			<ThingName>Thỉnh Vũ Kiếm</ThingName>
+			<Desc>Kiếm gỗ được tạo ra bởi Bạch Mộc Tiên. Ngoại hình trông vô cùng bình thường, nhưng nó lại có khả năng gọi gió gọi mưa một cách thần kỳ.</Desc>
+		</Text>
+		<Text Name="SP_Sword3" sParam="Item">
+			<ThingName>Quang Kiếm Tương Lai</ThingName>
+			<Desc>Phi kiếm của một nam nhân mang tên Vương Lão Chu, người là tông chủ của tông môn mang tên Khoa Tông. Nhìn thấy thanh phi kiếm này cũng giống như nhìn thấy Vương Lão Chu. Nó có năng lực nâng cao sĩ khí cho thuộc hạ, khiến bọn họ trở nên nhiệt huyết hơn trong công việc.</Desc>
+		</Text>
+		<Text Name="SP_Sword4" sParam="Item">
+			<ThingName>Song Long Ảnh Kiếm</ThingName>
+			<Desc>Thanh phi kiếm này là của Kiếm Tiên Ánh Sắc Hắc Ám trong quá khứ. Nó sở hữu uy năng cường đại có thể chẻ núi cắt sông.</Desc>
+		</Text>
+		<Text Name="SP_Bow1" sParam="Item">
+			<ThingName>Cung săn bắn</ThingName>
+			<Desc>Cây cung được thiết kế đặc biệt để săn bắn, sử dụng mũi tên đặc biệt được tẩm thuốc tê và không thể đâm xuyên sâu vào da thịt, do đó thông thường sẽ không gây ra thương tích nghiêm trọng.</Desc>
+		</Text>
+	</List>
+</Texts>

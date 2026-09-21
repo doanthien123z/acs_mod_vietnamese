@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>Luyện thể đúc thân</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>Luyện thể đúc thân khi chiến đấu</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>Cuồng lực</DisplayName>
+			<Desc>Thể chất ẩn của người này sở hữu tiềm năng sức mạnh to lớn đến mức có thể san bằng núi non và lật đổ biển cả.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>Kiên cố</DisplayName>
+			<Desc>Thể chất ẩn của người này có tiềm năng kiên cố vô song. Tương truyền khi thể chất này đại thành thì không gì có thể phá hủy được.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>Né tránh</DisplayName>
+			<Desc>Người này có tốc độ và sự linh hoạt mà không ai có thể chạm tới.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>Đoạt lấy</DisplayName>
+			<Desc>Người này có đôi tay nhanh nhẹn vượt qua cả pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>Phá giáp</DisplayName>
+			<Desc>Người này cực kỳ thông tuệ, có thể dễ dàng nhìn thấu điểm yếu và sơ hở của giáp linh khí, từ đó dùng sơ hở đó để đánh xuyên qua lớp giáp.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>Mạnh mẽ</DisplayName>
+			<Desc>Thân thể của người này vô cùng cường tráng, hơn nữa tâm trí cũng kiên định vững vàng, không có bất kỳ nỗi đau nào có thể cản trở họ.</Desc>
+		</Text>
+	</List>
+</Texts>

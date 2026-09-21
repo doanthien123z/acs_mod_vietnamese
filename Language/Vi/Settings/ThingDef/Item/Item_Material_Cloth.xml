@@ -1,0 +1,49 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothBase" sParam="Item">
+			<Desc>Vải dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.FabaoSuffix>Hàng dệt, sợi chỉ, lưới</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Vải</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CottonCloth" sParam="Item">
+			<ThingName>Hoa văn vải</ThingName>
+			<Desc>Vải có hoa văn đặc trưng [Hoa văn] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoa văn vải</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DeepBlueCloth" sParam="Item">
+			<ThingName>Lam bố</ThingName>
+			<Desc>Vải có màu [Lam] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Lam bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_PurpleCloth" sParam="Item">
+			<ThingName>Tử bố</ThingName>
+			<Desc>Vải có màu [Tử] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Tử bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YellowCloth" sParam="Item">
+			<ThingName>Hoàng bố</ThingName>
+			<Desc>Vải có màu [Hoàng] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlueCloth" sParam="Item">
+			<ThingName>Thanh bố</ThingName>
+			<Desc>Vải có màu [Thanh] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Thanh bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RedCloth" sParam="Item">
+			<ThingName>Xích bố</ThingName>
+			<Desc>Vải có màu [Xích] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Xích bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WhiteCloth" sParam="Item">
+			<ThingName>Bạch bố</ThingName>
+			<Desc>Vải có màu [Bạch] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Bạch bố</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BlackCloth" sParam="Item">
+			<ThingName>Vải đen</ThingName>
+			<Desc>Vải có màu [Hắc] Dệt từ bông, có thể dùng để chế tạo y phục và các vật phẩm khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải đen</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

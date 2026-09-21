@@ -1,0 +1,23 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_FirstNoLing">
+			<DisplayName>Linh khí của Linh Thú đã cạn kiệt</DisplayName>
+			<Desc>Linh khí của Linh Thú đã tiêu hao sạch sẽ. Người cần phải chế tác tượng điêu khắc tương ứng để hồi sinh nó, quá trình này sẽ mất ba ngày ba đêm.</Desc>
+			<Selections.0.Display>Xác nhận</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_SecLs">
+			<DisplayName>Linh Thú thứ hai</DisplayName>
+			<Desc>Người chỉ có thể sở hữu một Linh Thú cùng lúc. Nếu triệu hoán Linh Thú mới, Linh Thú này sẽ tạm thời biến mất. Để triệu hoán lại Linh Thú này, Người cần phải chế tác tượng điêu khắc của nó trước.</Desc>
+		</Text>
+		<Text Name="Ls_Outspread_Stability">
+			<DisplayName>Uy Mệnh Của Rồng</DisplayName>
+			<Desc>Rồng thần uốn lượn trên bầu trời giăng đầy mây đen cùng sấm chớp đùng đùng, chúng sinh ngước nhìn lên trong nỗi kinh hoàng.</Desc>
+			<Selections.0.Display>Xác nhận</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_Outspread_Attractive">
+			<DisplayName>Tường Phượng Báo Điềm Lành</DisplayName>
+			<Desc>Hỏa Phượng lượn quanh trên không suốt nhiều ngày trước khi sà xuống đại điện, cất tiếng hót vang trong trẻo ba lần rồi mới bay đi. Đại đa số đều tin rằng đây chính là điềm lành đại cát.</Desc>
+			<Selections.0.Display>Xác nhận</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

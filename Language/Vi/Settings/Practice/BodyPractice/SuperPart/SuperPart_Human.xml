@@ -1,0 +1,10 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>Phong ấn</Prefix>
+			<Suffix>Ngũ Hành Đạo</Suffix>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng độ chính xác cơ bản cho đòn tấn công của Huyền Thể</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

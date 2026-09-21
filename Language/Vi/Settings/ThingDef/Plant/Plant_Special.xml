@@ -1,0 +1,26 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Ginseng" sParam="Plant">
+			<ThingName>Nhân Sâm</ThingName>
+			<Desc>Dược liệu quý hiếm, có năng lực trị thương mạnh mẽ và có thể gia tăng chân khí rất tốt cho những kẻ mới bắt đầu bước chân vào con đường tu luyện. Sinh trưởng ở nhiệt độ từ [temperature]-30[/temperature] Đến [temperature]40[/temperature] và chỉ phát triển ở những nơi có linh khí đậm đặc</Desc>
+		</Text>
+		<Text Name="GanodermaLucidum" sParam="Plant">
+			<ThingName>Linh Chi</ThingName>
+			<Desc>Dược liệu quý hiếm, có năng lực trị thương mạnh mẽ và có thể gia tăng chân khí rất tốt cho những kẻ mới bắt đầu bước chân vào con đường tu luyện. Sinh trưởng ở nhiệt độ từ [temperature]10[/temperature] Đến [temperature]40[/temperature] và chỉ phát triển ở những nơi có linh khí đậm đặc</Desc>
+		</Text>
+		<Text Name="Mint" sParam="Plant">
+			<ThingName>Thanh Tâm Thảo</ThingName>
+			<Desc>Nguyên liệu có công hiệu dược liệu thông thường, nó mang tính hàn giúp thư giãn và tĩnh tâm rất tốt. Sinh trưởng ở nhiệt độ từ [temperature]-30[/temperature] Đến [temperature]40[/temperature] và chỉ phát triển ở những nơi có linh khí đậm đặc</Desc>
+		</Text>
+		<Text Name="MagicHerb" sParam="Plant">
+			<ThingName>Linh thảo</ThingName>
+			<Desc>Thảo dược ẩn chứa linh khí, được coi là khá hiếm. Sinh trưởng ở nhiệt độ từ [temperature]-30[/temperature] Đến [temperature]40[/temperature] và chỉ phát triển ở những nơi có linh khí đậm đặc. Linh thảo mọc hầu như ở khắp mọi nơi trên đỉnh Dược Sơn nằm ở Trung Nguyên</Desc>
+		</Text>
+		<Text Name="WarmHerb" sParam="Plant">
+			<ThingName>Hỏa Tuyết Trùng</ThingName>
+			<Desc>Loại thảo dược có hình thái đa dạng, chỉ phát triển vào mùa đông và mùa hạ. Nó còn có một cái tên khác trong dân gian là "Biến Hóa Thảo". Khi ăn vào, nó có thể tạm thời cải thiện khả năng thích ứng với môi trường khắc nghiệt</Desc>
+			<StoryBnts.0.Name>Cất</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thu hoạch bằng pháp thuật</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

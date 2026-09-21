@@ -1,0 +1,305 @@
+ID	Name	Desc	sParam1	sParam2
+
+1	Thời tiết quang đãng	Đó vốn là một ngày sáng sủa trời quang mây tạnh, nhưng ta lại chẳng biết loại thời tiết này sẽ còn kéo dài đến bao giờ nữa	SunnyDay	
+2	Mây đen giăng kín	Bầu trời âm u mây mù che phủ, và ta cũng chẳng biết thời tiết thế này sẽ tiếp tục kéo dài bao lâu	Overcast	
+3	Mưa phùn	Bắt đầu xuất hiện những hạt mưa nhỏ	LightRain	
+4	Mưa to	Bắt đầu đổ mưa lớn	HeavyRain	
+5	Sương mù dày đặc	Sương mù dày đặc đột ngột kéo đến	DenseFog	
+6	Bầu không khí u ám	Tâm trạng u ám nặng nề bắt đầu lan tỏa khắp bầu không khí	Melancholy	
+7	Đạo vận nồng nàn tình ái	Hơi thở của tình yêu lan tỏa khắp toàn bộ khu vực	Ambiguous	
+8	Huyết khí phương cương	Người người khắp toàn bộ tông môn đều cảm thấy dễ nổi giận hơn ngày thường	Impetuous	
+9	Mưa đá	Xuất hiện mưa đá (chưa thực hiện)	Impetuous	
+10	Mùa mưa	Bắt đầu bước vào mùa mưa	MouldRains	
+11	Hạn hán	Bắt đầu bước vào mùa hạn hán	Drought	
+12	Mưa bão	Xuất hiện bão mưa dữ dội, thiên địa linh khí thuộc tính Thủy ngưng tụ vô cùng nồng đậm	Rainstorm	
+13	Bão gió nóng	Cái nóng bức thiêu đốt mặt đất khô cằn, thiên địa linh khí thuộc tính Hỏa ngưng tụ vô cùng nồng đậm	Fohn	
+14	Bão cát	Bão cát thổi vùng trời mịt mù, thiên địa linh khí thuộc tính Thổ ngưng tụ vô cùng nồng đậm	DustStorm	
+15	Linh khí khô kiệt	Vì một lý do nào đó, linh khí đột nhiên khô kiệt đi	LingRarefiedWave	
+16	Sóng nhiệt	Làn sóng nhiệt từ mùa hè oi ả đã kéo theo nhiệt độ tăng vọt. Xin hãy chú ý bảo trọng thân thể và đề phòng cảm nắng	HeatWave	
+17	Sóng lạnh	Làn sóng lạnh giá từ mùa đông buốt giá đã kéo đến, khiến nhiệt độ giảm mạnh. Xin hãy chú ý bảo trọng thân thể và đề phòng chết cóng	ColdWave	
+18	Vĩnh Dạ	Mây mù kỳ bí bao phủ lấy bầu trời và vầng thái dương, và nó sẽ kéo dài một thời gian mà không thấy ánh trăng hay mặt trời	PermanentNight	
+19	Bão Phấn Hoa Độc	Cơn lốc phấn hoa độc lan tràn khắp khu vực, thiên địa linh khí thuộc tính Mộc ngưng tụ vô cùng nồng đậm	Miasma	
+20	Bão sấm sét	Cơn bão sấm sét cuồng nộ đang kéo đến, thiên địa linh khí thuộc tính Kim ngưng tụ vô cùng nồng đậm	LightningStorm	
+21	Yêu thú hiếm có	Phì đã xuất hiện ở khu vực lân cận, nó mang theo những trận mưa phùn cùng bệnh dịch hoành hành	Fei	
+22	Yêu thú hiếm có	Lục Ngô đã xuất hiện ở khu vực lân cận, nó mang theo bầu trời quang đãng cùng bầu không khí cát tường như ý	Lushu	
+23	Tiểu yêu tinh kỳ lạ	Tiểu yêu tinh từ thế giới khác đã đi ngang qua tông môn của Người mang theo vô số bảo vật. Do quy luật của hai giới hoàn toàn khác biệt, những phương pháp thông thường của giới tu tiên không thể tác động đến chúng. Vì vậy, chúng thường nghênh ngang đi lại không chút kiêng dè. Nếu Người muốn thu thập bảo vật từ chúng, bắt buộc phải nghĩ ra một số biện pháp thích hợp	Lushu	
+24	Yêu thú	Yêu thú đã xuất hiện ở khu vực lân cận	Null	
+25	Bảo vật	Kim quang từ bầu trời giáng xuống khu vực bên dưới, xem ra đó chính là một kiện pháp bảo trân quý nào đó	FightFabao	
+26	Bảo vật	Một trận chiến vô cùng ác liệt đã nổ ra trên bầu trời cách đây không xa, có vẻ như đã có bảo vật rơi xuống nơi này	FightFabao	
+27	Bảo vật	Có luồng ánh sáng chói lọi phóng thẳng lên trời, dường như có bảo vật xuất hiện tại khu vực này	FightFabao	
+28	Người tị nạn đi ngang qua	Người tị nạn chiến tranh đã đi đến tông môn của Người, và[IT]cũng bày tỏ nguyện vọng muốn gia nhập tông môn của Người	Human	
+29	Bí mật		1	
+30	Bí mật		2	
+31	Bí mật		3	
+32	Bí mật		4	
+33	Bí mật		5	
+34	Bị tấn công	Một đám dã nhân từ phương nam hoang dã đã tập kích tông môn của Người	Poorest	Human
+35	Bị tấn công	Một nhóm đạo tặc sống bằng nghề cướp bóc khắp chốn rừng sâu núi thẳm đã tấn công và cướp đoạt bảo vật của Người	Poor	Human
+36	Bị tấn công	Nhóm tán tu từ Đông Hải đã tấn công tông môn của Người, cướp đoạt tài nguyên và bảo vật quý giá.	Normal	Human
+37	Bị xâm nhập	Người bị tấn công bởi một nhóm tu sĩ tà ác từ Tây Vực.	Rich	Human
+38	Bị xâm nhập	Tông môn của Người bị một nhóm tu sĩ côn đồ từ Ma tông tấn công.	Richest	Human
+39	Bị xâm nhập	Tông môn của Người bị một nhóm tu sĩ hùng mạnh tấn công.	Normal	Human
+40	Bị xâm nhập	Tông môn của Người bị một nhóm tu sĩ ma đạo vô liêm sỉ tấn công.	Normal	Human
+41	Thời khắc chuyển mình	Gần đây tại khu vực rừng rậm Nam Cương đã xảy ra địa chấn dữ dội, khiến nhiều kẻ man di và sơn tặc bỏ trốn khỏi nơi đó.	33|34	
+42	Đạo hữu.	Một vị đạo hữu đã đến thăm tông môn của Người, và có vẻ như[IT]người đó muốn ở lại đây một thời gian.	Immortal Visitor	Human
+43	Dân làng lạc lối	Có một dân làng đã đi lạc đến tông môn của Người và[IT]đang cần sự giúp đỡ của Người.	Confused Stranger	
+44	Dân làng tò mò	Có một dân làng đã tìm đến đây vì hiếu kỳ và[IT]muốn biết mọi người đang làm gì ở đây.	Curious Stranger	
+45	Dân làng bị thương	Có một dân làng bị thương đã tìm đến đây và[IT]đang khẩn cầu sự giúp đỡ của Người.	Injured Stranger	RandomDamage
+46	Tuyết rơi nhẹ	Tuyết bắt đầu rơi lất phất.	LightSnow	
+47	Tuyết rơi dày	Tuyết bắt đầu rơi dày đặc.	HeavySnow	
+48	Người quan sát	Một tu sĩ đang quan sát Người, có vẻ như họ không có ý định xấu. 	Observer	Human
+49	Thú dữ tấn công	Một đàn sói đói khát xuất hiện ở khu vực gần đây, trông chúng vô cùng hung dữ.	Wolf	
+50	Thú dữ tấn công	Một bầy thỏ điên cuồng xuất hiện ở khu vực gần đây, trông chúng vô cùng hung dữ.	Rabbit	
+51	Thú dữ tấn công	Một bầy rắn hung hãn xuất hiện ở khu vực gần đây, trông chúng vô cùng hung dữ.	Snake	
+52	Thú dữ tấn công	Một bầy lợn rừng cuồng bạo xuất hiện ở khu vực gần đây, trông chúng vô cùng hung dữ.	Boar	
+53	Bí mật		6	
+54	Bí mật		7	
+55	Bí mật		8	
+56	Bí mật		9	
+57	Bí mật		10	
+58	Bí mật		11	
+59	Bí mật		11	
+61	Bí mật		14	
+62	Bí mật		15	
+63	Bí mật		16	
+64	Bí mật		17	
+65	Bí mật		18	
+66	Bí mật		19	
+67	Bí mật		20	
+68	Bí mật		21	
+69	Bí mật		22	
+70	Bí mật		29	
+71	Bí mật		30	
+72	Bí mật		31	
+73	Bí mật		32	
+74	Bí mật		33	
+75	Bí mật		34	
+80	Ngọn gió ấm áp	Trong những ngày lạnh giá nhất, một làn gió ấm áp đã thổi qua. Làn gió này khiến khí trời lạnh lẽo bỗng trở nên ấm áp tức thì.	HeatWaveInWinter	
+81	Ngọn gió mát lành	Trong những ngày nóng bức nhất, một làn gió mát lạnh đã thổi qua. Làn gió này khiến không khí nóng nực trở nên dễ chịu tức thì.	ColdWaveInSummer	
+82	Thời điểm tốt để thu hoạch	Linh khí thảo dược bắt đầu lan tỏa khắp nơi, đây là thời điểm tốt lành để thu hoạch.	HarvestAir	
+83	Linh khí bùng nổ	Vì một lý do nào đó, linh khí đất trời trong tự nhiên đột ngột trở nên dày đặc liên tục. Một vài cái cây đã chịu ảnh hưởng từ sự kiện này và biến thành linh thụ.	LingUpWave	
+84	Bí mật		49	
+85	Mùa xuân đang đến	Hơi ấm của mùa xuân lan tỏa khắp không trung.	SpringAir	
+86	Thú dữ xâm nhập	Một đám thỏ yêu đã xuất hiện gần đây, chúng vô cùng hung dữ.	JYRabbit	TongYong_DropList
+87	Thú dữ xâm nhập	Một đám sói yêu đã xuất hiện gần đây, chúng vô cùng hung dữ.	JYWolf	TongYong_DropList
+88	Thú dữ xâm nhập	Một đám yêu thú xà loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYSnake	TongYong_DropList
+89	Thú dữ xâm nhập	Một đám yêu thú trư loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYBoar	TongYong_DropList
+90	Thú dữ xâm nhập	Một đám yêu thú hùng loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYBear	TongYong_DropList
+91	Thú dữ xâm nhập	Một đám yêu thú cáp loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYFrog	TongYong_DropList
+92	Thú dữ xâm nhập	Một đám yêu thú quy loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYTurtle	TongYong_DropList
+93	Thú dữ xâm nhập	Có vài con yêu thú đã xuất hiện ở gần đây và chúng vô cùng hung ác.		TongYong_DropList
+94	Dấu vết của Thủy Long.		53	
+95	Dấu vết của Hỏa Phượng.		54	
+96	Dấu vết của Thiên Long		55	
+97	Cổ tu		56	
+98	Bí mật		59	
+99	Bí mật		60	
+100	Bí mật		61	
+101	Bí mật		62	
+102	Đạo hữu.	Một vị đạo hữu đã đến thăm tông môn của Người, và có vẻ như[IT]người đó muốn ở lại đây một thời gian.	Immortal Visitor	
+103	Dấu vết được tìm thấy			
+104	Bí mật		64	
+105	Linh vật vô tình đi ngang qua	Linh vật [NAME] Đã xuất hiện ở gần đây, tràn đầy sự tò mò		
+106	Linh vật vô tình đi ngang qua	Linh vật [NAME] Đã xuất hiện ở gần đây, tràn đầy sự tò mò	Building	
+107	Thú dữ xâm nhập	Một đám yêu thú kê loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYChicken	TongYong_DropList
+108	Thú dữ xâm nhập	Một đám yêu thú miêu loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYCat	TongYong_DropList
+109	Thú dữ xâm nhập	Một đám yêu thú ngưu loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYCattle	TongYong_DropList
+110	Thú dữ xâm nhập	Một đám yêu thú hổ loại đã xuất hiện ở gần đây, chúng cực kỳ hung ác.	JYTiger	TongYong_DropList
+111	Thú dữ tấn công	Một bầy gà cuồng loạn đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Chicken	
+112	Thú dữ tấn công	Một nhóm gấu hung hăng đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Bear	
+113	Thú dữ tấn công	Một nhóm rùa cuồng nộ đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Turtle	
+114	Thú dữ tấn công	Một nhóm cóc cuồng nộ đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Frog	
+115	Thú dữ tấn công	Một nhóm mèo hung dữ đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Cat	
+116	Thú dữ tấn công	Một bầy trâu cuồng nộ đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Cattle	
+117	Thú dữ tấn công	Một nhóm hổ hung dữ đã xuất hiện ở khu vực lân cận, trông chúng cực kỳ hung ác.	Tiger	
+118	Bị tấn công	Một nhóm tu sĩ bán yêu nhìn chằm chằm vào bảo vật trong tông môn của Người với ánh mắt thèm thuồng, sau đó chúng xuất hiện với thái độ thù địch.	Poorest	RANDOMYAOGUAI
+119	Bị tấn công	Một nhóm tu sĩ bán yêu có ý định san bằng tông môn của Người, chúng đang đi quanh với ánh mắt khát máu.	Poor	RANDOMYAOGUAI
+120	Bị tấn công	Vì lý do nào đó, một nhóm tu sĩ bán yêu tràn đầy sự căm hận đối với tông môn của Người và chúng chuẩn bị ra tay.	Normal	RANDOMYAOGUAI
+121	Bị xâm nhập	Một nhóm tu sĩ bán yêu hùng mạnh có ý định cướp đoạt tài sản của tông môn Người để nâng cao thực lực cho bản thân.	Rich	RANDOMYAOGUAI
+122	Bị xâm nhập	Một nhóm tu sĩ bán yêu hùng mạnh có ý định săn lùng và tàn sát người trong tông môn của Người, mục tiêu của chúng là san bằng tông môn của Người.	Richest	RANDOMYAOGUAI
+123	Bị xâm nhập	Một nhóm tu sĩ bán yêu cuồng loạn đang tấn công tông môn của Người.	Normal	RANDOMYAOGUAI
+124	Cầu cứu	Một tộc nhân bán yêu cần sự giúp đỡ của Người, do[IT]Hy vọng[IT]có thể sống sót qua Hóa Hình Kiếp nhờ sự giúp đỡ của Người.	RANDOMYAOGUAI	
+125	Linh thú gia nhập	 Miêu đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Cat	
+126	Linh thú gia nhập	 Kê đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Chicken	
+127	Linh thú gia nhập	 Ngưu đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Cattle	
+128	Linh thú gia nhập	 Quy đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Turtle	
+129	Linh thú gia nhập	 Thỏ đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Rabbit	
+130	Linh thú gia nhập	 Cáp đã đến tông môn của Người và có vẻ như nó rất thích ở đây.	Frog	
+1000	Chân long vô tình đi ngang qua			Item_DragonShit|Item_DragonScale
+1001	Linh khí bùng nổ			
+1002	Phượng hoàng vô tình đi ngang qua			Item_BossFeng_HuoYu
+10000	Sáng lập tông môn	Chúng ta đã rút lui đến nơi này để chỉnh đốn lại đội ngũ và cố gắng xây dựng lại nền móng cho chính mình. Lúc này, chúng ta đã gây dựng nên tông môn mới. Có lẽ đây chính là điểm khởi đầu cho một huyền thoại mới.?\n\n[color=#D06508]Mở khóa vật trang trí\nMở khóa thêm kiến trúc[/color]	FoundOrganization1	
+10001	Bắt đầu có danh tiếng	Hiện tại, tông môn mới của chúng ta đã bắt đầu có chút danh tiếng, điều này không hề dễ dàng chút nào. Tuy nhiên, chúng ta vẫn mang trong mình mục tiêu xây dựng tông môn ngày càng lớn mạnh hơn nữa.\n\n[color=#D06508]Số lượng đệ tử tối đa của tông môn đã tăng[/color]	FoundOrganization2	
+10002	Kiệt xuất	Giờ đây, tông môn của chúng ta đã vô cùng nổi bật trong thế giới tu tiên, trở thành nơi mà những kẻ khao khát bước vào con đường tu đạo đều mong muốn gia nhập.\n\n[color=#D06508]Số lượng đệ tử tối đa của tông môn đã tăng\nNgười có thể quản lý cơ cấu các phân nhánh bên trong tông môn.	FoundOrganization3	
+10003	Tông chủ mới	[NAME] Đã trở thành vị tông chủ mới của chúng ta. [IT]Chắc chắn sẽ dẫn dắt tông môn hướng tới sự hưng thịnh một lần nữa.		
+10004	Vô chủ	Chúng ta vẫn đang cần một người có tài năng đứng lên làm người lãnh đạo tông môn.\n[color=#D06508]Người có thể bổ nhiệm tông chủ thông qua [Kiến trúc tông môn] Trong thực đơn Tông môn[/color]		
+10005	Đệ tử được tiến cử	Đệ tử được tiến cử sắp sửa tới nơi rồi.		
+10006	Trốn chạy tai ương	Do các người chạy trốn một cách vội vã nên không mang theo được bao nhiêu tài nguyên. Hiện tại các người đã chạy liên tục hai ba ngày, thể lực đã sắp cạn kiệt.\nVì vậy, các người không còn cách nào khác ngoài việc dừng chân tại đây để hồi phục.	BaseExpect1	
+10007	Ổn định chỗ ở	Đống lửa ấm áp giúp xoa dịu đi phần nào sự mệt mỏi và lo âu của Người. Sau khi bàn bạc trong chốc lát, mọi người quyết định nơi này khá an toàn nên đã lập trại nghỉ chân tạm thời tại đây.\n\n[color=#D06508]Mở khóa kiến trúc cơ bản\nMở khóa nội thất cơ bản\nMở khóa trạm chế tác cơ bản\nMở khóa tường và mái nhà[/color]	BaseExpect2	
+10008	Bắt đầu thư giãn	Trong khoảng thời gian này, dù nỗi đau mất đi sư huynh đệ và sư phụ vẫn luôn ám ảnh các người, nhưng tình hình đã dần tốt hơn nhiều. Hơn nữa, có vẻ như kẻ thù đã từ bỏ việc truy sát các người, nên tâm trí các người cũng dần cảm thấy thư thái hơn. Sau khi bàn bạc, các người quyết định tiếp tục ở lại đây.\n\n[color=#D06508][/color]		
+10009	Nhà mới	Có vẻ như Người đã dần quen với cuộc sống nơi đây. Tuy không khiến lòng cảm thấy an tâm như thời còn ở tông môn Thái Ất, nhưng Người vẫn có thể sống ở đây mà không thiếu thốn gì nhiều. Tại sao Người không thử xây dựng lại nền móng tu luyện của các người??\nĐây là ngôi nhà mới giữa chốn hỗn loạn và bất ổn. Nó chắc hẳn sẽ là một khởi đầu mới tốt đẹp và mọi người đều tràn đầy hy vọng.\n\n[color=#D06508]Mở khóa nội thất cao cấp\nMở khóa trạm chế tác cao cấp[/color]	BaseExpect3	
+10010	Đệ tử ngoại môn đã bỏ trốn	Đệ tử ngoại môn [NAME] Đã trốn chạy vào ban đêm vì[IT]Không thể chịu đựng cuộc sống tại đây thêm được nữa.		
+10011	Bước vào con đường tu tiên	Một người trong số chúng ta đã có thể trúc cơ và đột phá cảnh giới trở thành tu sĩ.!\nNgười này có thể cảm nhận được linh khí thiên địa mạnh mẽ giữa trời đất.: \nChân khí\nCánh cửa dẫn đến con đường tu tiên đã mở ra.\n\n[color=#D06508]Giờ đây Người đã có thể nhìn thấy dòng chảy của linh khí.\nBây giờ Người có thể thành lập tông môn rồi[/color]		
+10012	Tách đoàn	Ta không biết mình đã làm sai điều gì, nhưng đãi ngài đã yêu cầu ta rời đi, ta sẽ đi. Ta vô cùng cảm tạ ngài vì tất cả mọi chuyện đã qua.\n[TXT] Ta rất vui mừng và hạnh phúc vì đã từng có khoảng thời gian đồng hành cùng ngài.		
+10013	Bói toán tương lai	Bói toán tương lai của [NAME] Là:\n[TXT]		
+10014	Hộp đá phát sáng	Đêm nay là đêm trăng tròn, chiếc hộp đá mà tu sĩ kia giao cho Người bỗng dưng tỏa sáng rực rỡ vào lúc nửa đêm. Sau đó, nắp hộp từ từ mở ra.		
+10015	Nhận công pháp	Người đã nhận được công pháp mới: [TXT]		
+10016	Mở khóa con đường tu luyện	Người đã nhận được bộ công pháp đầu tiên. Lúc này, Người đã đủ tư chất để bước chân vào con đường tu tiên. Con đường hướng tới sự trường sinh vô cùng gian khó, trên con đường này Người phải vượt qua muôn vàn bể khổ. Có lẽ khi ngộ ra đại đạo, Người mới có thể thoát khỏi những nỗi thống khổ và cay đắng đó.\n\n[color=#D06508]Mở khóa hệ thống tu luyện\nMở khóa các kiến trúc liên quan đến tu luyện\n(Xem trang công pháp trong mục tông môn)[/color]		
+10017	Kẻ địch tập kích	Một nhóm kẻ mang ý đồ xấu đã xuất hiện ở đây.		
+10018	Chuyển sinh thiên giới	[NAME] Đã vượt qua muôn vàn bể khổ và cuối cùng cũng phi thăng thành công lên tiên giới, chỉ để lại nhục thân cho thế hệ mai sau chiêm bái.\nThiên thư chứng đạo:\n[color=#D06508]Giữa chốn hỗn mang của vũ trụ HumanBàn Cổ là người đầu tiên sinh ra, nhất khí hóa lưỡng nghi và tứ tượng bảo vệ thế giới.\nNữ Oa tạo ra vạn vật từ bùn đất, sau đó Phục Hy vẽ quẻ phân định Âm Dương.\nTrăm năm tu luyện trôi qua HumanPhàm nhân tàn sát lẫn nhau không dứt, thế nhưng khoảng thời gian trăm năm, ngàn năm của tu sĩ lại trôi qua chỉ trong chớp mắt.\nGiờ đây khi thiên kiếp đã qua, ta không còn oán trách điều gì nữa. Ta đã vứt bỏ hết thảy vướng bận trần gian và trở thành kẻ tự tại tiêu dao.[/color]	SeeGod	
+10019	Bị xâm nhập	[TXT]đã phái một nhóm đệ tử tinh anh đến tấn công tông môn của Người để báo thù.	Rich	Human
+10020	Bị xâm nhập	[TXT]đã phái đệ tử thân truyền đến tấn công tông môn của Người để báo thù.	Rich	Human
+10021	Bị xâm nhập	[TXT]đã phái trưởng lão tông môn đến tấn công tông môn của Người để báo thù.	Rich	Human
+10022	Lôi đình nộ hỏa	Hành động của Người đã khiến[TXT]cảm thấy bất mãn và chúng chuẩn bị ra tay.		
+10023	Thời khắc thiên kiếp	tu vi của [NAME] đã đạt đến bình頸 và thiên kiếp sắp giáng lâm.!		
+10024	Tu giả bí ẩn	Mấy ngày nay Người liên tục trốn chạy và ẩn nấp ngày đêm, cuối cùng cũng tìm được một nơi tương đối an toàn để nghỉ ngơi và hồi phục thể lực. Nào ngờ đột nhiên có một luồng kim quang lóe lên, sau đó bóng dáng của một lão giả bước ra từ trong luồng sáng đó.		
+10025	Tu giả bí ẩn	Tu sĩ bí ẩn nhìn xung quanh với vẻ trầm ngâm, rồi biến mất trong luồng sáng truyền tống.		
+10026	Hướng dẫn tân thủ	Chúc mừng! Người đã nắm vững cơ chế cơ bản của Amazing Cultivation Simulator Đã xong\nTiếp theo, Người có thể tạo nhân vật của riêng mình trong chế độ cổ điển và bắt đầu hành trình đích thực.\nKính mời Người tận hưởng trò chơi!		
+10027	Tử vong	Đây là một kết cục tồi tệ, con đường tu tiên của Người đã kết thúc ngay cả khi chưa kịp bắt đầu, chỉ còn lại đất trời và biển cả mênh mông chìm đẫm trong bầu không khí thê lương.		
+10028	Bị hủy hoại	[TXT]Chỉ còn lại mảnh đất và biển khơi rộng lớn bị nhuốm bởi bầu không khí tang thương.		
+10029	Khởi đầu mới	Một kẻ lữ hành ẩn mình trong núi non và đống đổ nát, khi không còn nơi nào để đi [IT]liền quyết định tạm thời ở lại nơi đây.		
+10030	Tu giả bí ẩn	Người cảm nhận được hơi thở dịu nhẹ xung quanh mình một lát, trước khi nó dần phai nhạt và biến mất như thể chưa từng tồn tại....		
+10031	Vận may tốt	[TXT]Được phát triển, đột nhiên nhận được nhiều danh tiếng và xảy ra thay đổi to lớn.		
+10032	Về tông môn	[NAME] Cần trở về tông môn để bế quan tu luyện ngay lập tức vì[IT]đã ngao du bên ngoài tông môn quá lâu.		
+10033	Bị thương	Bởi vì [NAME] Bị thương trong lúc làm nhiệm vụ, vì vậy[IT]cần trở về tông môn để tĩnh dưỡng trị thương.		
+10034	Thích nghi	Sau khoảng thời gian chung sống [NAME] đã hòa nhập hoàn toàn với những người khác trong tông môn.		
+10035	Bồn chồn	Khi cảm nhận được sự xuất hiện của người tu luyện cảnh giới Kim Đan, [NAME] kẻ trú ngụ tại đây có vẻ trở nên bồn chồn và bất an đôi chút....		
+10036	Bị tấn công	Để ngăn cản Người trưởng thành và trở nên mạnh mẽ hơn nữa, [NAME] kẻ trú ngụ tại đây đã quyết định tiêu diệt Người.		
+10037	Bồn chồn	Khi cảm thấy tông môn của Người không phải là mối đe dọa, [NAME] kẻ trú ngụ tại đây dần trở nên ngang ngược hơn....		
+10038	Bị tấn công	Khi không thể cưỡng lại sự cám dỗ của mùi máu và thịt thơm ngọt được nữa, [NAME] kẻ trú ngụ tại đây đã quyết định tấn công Người..		
+10039	Phát triển	Nhờ tác động của thời tiết và linh khí thích hợp, cuối cùng [NAME] đã tiến hóa cơ thể và trở thành yêu thú mạnh mẽ.		
+10040	Yêu thú hung ác	Trong lúc [NAME] đã đến nơi này, đột nhiên [IT]cảm thấy hào quang nguy hiểm, như thể có điều gì đó bất tường lởn vởn gần đây và dựa theo bản năng của[IT] [IT]cảm nhận được rằng thứ đó vô cùng mạnh mẽ, vì vậy tốt hơn là nên tránh xa nơi này.		
+10041	Sơn động bí ẩn	Đột nhiên, trận động đất thường xuyên xảy ra trong tông môn của Người đã dừng lại, đồng thời xuất hiện một hang động bí ẩn trên mặt đất. Người có thể cảm nhận được ý chí mạnh mẽ nhưng mơ hồ của một sinh vật từ bên trong hang động. Người không thể xác định được đó chính xác là loại sinh vật nào.\nCác bậc tu giả cổ xưa bắt đầu xuất hiện thường xuyên hơn ở vùng đất này, có lẽ Người có thể hỏi thăm thông tin từ họ.		
+10042	Uy hiếp	Đột nhiên, hang động bí ẩn giải phóng ra linh khí đáng sợ và mạnh mẽ, nó muốn Người[TXT]		
+10043	Tế bái	Người đã thực hiện nghi thức tế lễ trước hang động bí ẩn và sinh vật bí ẩn bên trong vô cùng hài lòng.		
+10044	Mưa bão	Sinh vật bí ẩn bên trong hang động vô cùng tức giận, và bão tố bắt đầu gào thét trong cơn thịnh nộ.	Rainstorm_AllSeason	
+10045	Linh khí khô kiệt	Sinh vật bí ẩn bên trong hang động vô cùng tức giận, lực hút bí ẩn từ trong hang đã hút cạn linh khí thiên địa xung quanh.	LingRarefiedWave	
+10046	Vĩnh Dạ	Sinh vật bí ẩn bên trong hang động vô cùng tức giận, thời khắc đêm trường vĩnh cửu đã giáng xuống như hệ quả từ cơn thịnh nộ của nó.	PermanentNight	
+10047	Thảm họa yêu thú	Sinh vật bí ẩn bên trong hang động vô cùng tức giận, và nó đã thu hút vô số yêu thú đến tấn công tông môn của Người.		
+10048	Thủy tai	Sinh vật bí ẩn trong động cực kỳ tức giận, nó tạo ra sóng lớn uy lực vô song càn quét mọi thứ trong khu vực này.		
+10049	Long vương thức tỉnh	Sinh vật bí ẩn trong động không thể kìm nén cơn giận thêm nữa, tiếng gầm chấn động vang dội vạn dặm. Sau đó, một yêu thú khổng lồ phá động mà ra.		
+10050	Nóng bức cực hạn	Không rõ nguyên nhân, nhiệt độ trung bình tại vùng đất này đột ngột tăng vọt. Sự gia tăng nhiệt độ này vượt xa biến đổi tự nhiên thông thường, đây có thể là điềm báo cho thấy vùng đất này đang xảy ra dị biến.	Weather_Boss_Drought	
+10051	Yêu thú bạo động	Hạn hán khốc liệt khiến đám yêu thú hoảng loạn cuồng nộ, một số yêu thú đã lao thẳng về phía tông môn.	Wolf|Rabbit|Snake|Boar	
+10052	Hỏa vũ rơi rụng	Sóng nhiệt lan tràn khắp bầu trời, có thứ kỳ lạ đang rơi xuống.		Item_BossFeng_HuoYu
+10053	Hạn hán kéo dài	Nhiệt độ không ngừng tăng cao gây ra đại hạn, hơn nữa nhiệt độ có vẻ vẫn tiếp tục dâng lên. Nếu Người không làm gì đó, tình hình có thể trở nên tồi tệ hơn.	Weather_Boss_HighTemp	
+10054	Thú triều hoảng loạn	Dường như đám linh thú bị thứ gì đó làm cho kinh hãi đến mức cuồng loạn. Lúc này, một số hung thú cuồng nộ đang lao thẳng về phía tông môn của Người.		
+10055	Hỏa vũ rơi rụng	Sóng nhiệt lan tràn khắp bầu trời, có thứ kỳ lạ đang rơi xuống.		Item_BossFeng_HuoYu
+10056	Tiếng gầm đáng sợ	Sau khi thi pháp giải trừ đợt hạn hán kéo dài, mọi thứ dường như đã trở lại quỹ đạo. Nhưng chỉ một nén nhang sau, đột nhiên vô số loài chim bay ra từ dãy núi, tiếp theo là tiếng gầm thét của một sinh vật phá vỡ sự tĩnh lặng này.		
+10057	Hỏa Phượng giáng thế	Hỏa Phượng xuất hiện mang theo chân hỏa nóng bỏng.		
+10058	Vĩnh dạ giáng lâm	Vì nguyên nhân nào đó, thiên địa Âm Dương nhị khí đột ngột hỗn loạn, khiến màn đêm tăm tối bao trùm toàn bộ tông môn của Người.		
+10059	Âm noãn	Vào lúc nửa đêm, một quả trứng kỳ lạ đột ngột xuất hiện gần tông môn của Người, bên trong dường như đang ẩn giấu thứ gì đó....		
+10060	Vĩnh trú ban ngày	Vì nguyên nhân nào đó, thiên địa Âm Dương nhị khí đột ngột hỗn loạn, khiến mọi thời khắc trong tông môn của Người đều biến thành ban ngày. Người không biết sự hỗn loạn này sẽ kéo dài bao lâu nữa.		
+10061	Dương noãn	Vào chính ngọ, một quả trứng kỳ lạ đột ngột xuất hiện gần tông môn của Người, bên trong dường như đang ẩn giấu thứ gì đó....		
+10062	Thiên Long thức tỉnh	Cuối cùng, sự mất cân bằng của Âm Dương đã đạt đến cực hạn. Sau đó, một tiếng thở dài vang dội cùng với thân hình khổng lồ của một sinh vật xuất hiện từ hư không.!		
+10063	Quái noãn ấp nở	Khi quả trứng kỳ lạ nở ra, linh khí Âm Dương của trời đất bắt đầu rơi vào hỗn loạn.!		
+10064	Quái noãn vỡ vụn	Khi quả trứng kỳ lạ bị phá hủy, linh khí Âm Dương của trời đất bắt đầu rơi vào hỗn loạn.!		
+10065	Đại biến cục	Gần đây, linh khí đất trời đột ngột bùng nổ ở một khu vực xa xôi thuộc Trung Nguyên. Ban đầu không ai quan tâm đến nó, họ nghĩ đó chỉ là một hiện tượng kỳ lạ bình thường. Tuy nhiên, theo thời gian, mọi người phát hiện ra tần suất và cường độ bùng nổ của linh khí ngày càng dày đặc và dữ dội hơn, chứng minh rằng hiện tượng lần này thực chất là một đại biến cục ảnh hưởng đến tất cả tu sĩ.\nLúc này, dư chấn từ đợt bùng nổ linh khí đã lan đến tông môn của Người. Trong lúc các đệ tử đang tận hưởng thiên địa linh khí nồng đậm này, trong lòng mỗi người không khỏi hoài nghi đại biến cục này mang ý nghĩa gì....	LingUpWave_Sp	
+10066	Thiên niên linh triều	Đã nhiều ngày trôi qua kể từ khi sự kiện bùng nổ linh khí lan rộng khắp thế giới. Sau khi tra cứu cổ tịch, các đại tông môn danh tiếng đã thảo luận và cuối cùng đi đến kết luận rằng đây là dòng chảy thiên địa linh khí cứ 3.000 năm lại tăng lên một lần. Ảnh hưởng từ thiên niên linh triều này đã đánh thức một số tiền bối tu sĩ cổ đại từng chìm vào giấc ngủ vì những lý do nào đó.\n Thời thượng cổ không có nhiều quy củ như hiện tại. Quá khứ chỉ có đạo lý cá lớn nuốt cá bé, sự xuất hiện của những tu sĩ cổ đại này đã gây ra không ít sóng gió trong tu chân giới....		
+10067	Thiên tai Nam Cương	Khi các tu sĩ ở khu vực lân cận đến nơi, họ phát hiện toàn bộ núi non sông nước trong phạm vi hàng trăm dặm đã chìm trong biển nước, đồng thời họ còn cảm nhận được yêu khí dày đặc lan tỏa.\nDường như một số hung thú thượng cổ ẩn náu trong núi sâu hồ lớn đã bị ảnh hưởng bởi thiên niên linh triều và bắt đầu hoạt động trở lại.		
+10068	Tiếng vọng từ lòng đất	Sự kiện linh khí ngàn năm đã trôi qua hơn một tháng. Trong khoảng thời gian đó, các tu sĩ thượng cổ và linh thú viễn cổ lại bắt đầu hoạt động trở lại... Điều này khiến thế giới tu chân thay đổi rất lớn. Tuy nhiên, theo thời gian, thế giới tu chân dần khôi phục ổn định và mọi thứ dường như đã trở lại bình thường.\nMặc dù vậy, dường như tại tông môn của Người thường xuyên xảy ra các cơn chấn động. Có lẽ đây là một điềm báo gì đó....		
+10069	Sự xâm lược của tu sĩ thượng cổ	Sau khi tìm kiếm kỹ lưỡng, vị tu sĩ thượng cổ này cuối cùng cũng đã tìm ra tông môn của Người.		
+10070	Hung thú thức tỉnh	Thượng cổ hung thú của nơi này đã thức tỉnh.		
+10071	Thiên phạt diệt rồng	Sức mạnh của Thiên phạt đã phá hủy sinh mệnh lực của con rồng chưa kịp ấp nở.......		
+10072	Đại loạn dị giới	Có tin đồn rằng giữa đại dương bao la, một khe nứt không gian dẫn đến thế giới khác đột nhiên mở ra, khiến nhiều bảo vật quý giá từ khe nứt đó bắn ra và phân tán khắp nơi trên thế giới. Người cảm nhận được điều gì đó kỳ lạ, dường như Người có mối liên kết tâm linh với những bảo vật này. Tuy nhiên, việc tìm kiếm chúng cần phải hết sức cẩn trọng.		
+10073	Đại loạn dị giới	Có tin đồn rằng giữa đại dương bao la, một khe nứt không gian dẫn đến thế giới khác đột nhiên mở ra, khiến nhiều bảo vật quý giá từ khe nứt đó bắn ra và phân tán khắp nơi trên thế giới. Người cảm nhận được điều gì đó kỳ lạ, dường như Người có mối liên kết tâm linh với những bảo vật này. Tuy nhiên, việc tìm kiếm chúng cần phải hết sức cẩn trọng.		
+10074	Đại loạn dị giới	Có tin đồn rằng giữa đại dương bao la, một khe nứt không gian dẫn đến thế giới khác đột nhiên mở ra, khiến nhiều bảo vật quý giá từ khe nứt đó bắn ra và phân tán khắp nơi trên thế giới. Người cảm nhận được điều gì đó kỳ lạ, dường như Người có mối liên kết tâm linh với những bảo vật này. Tuy nhiên, việc tìm kiếm chúng cần phải hết sức cẩn trọng.		
+10075	Đại loạn dị giới	Có tin đồn rằng giữa đại dương bao la, một khe nứt không gian dẫn đến thế giới khác đột nhiên mở ra, khiến nhiều bảo vật quý giá từ khe nứt đó bắn ra và phân tán khắp nơi trên thế giới. Người cảm nhận được điều gì đó kỳ lạ, dường như Người có mối liên kết tâm linh với những bảo vật này. Tuy nhiên, việc tìm kiếm chúng cần phải hết sức cẩn trọng.		
+10076	Tách đoàn	Tại sao Người lại đem ta làm vật phẩm tặng cho[TXT]với?		
+10077	Chuyển sinh thiên giới	[NAME] đã đạt đến cảnh giới tối cao của tâm thần, khiến người đó không còn cảm xúc và tình cảm của nhân loại nữa. [IT]đã cắt đứt mọi duyên trần và thực hiện phi thăng lên tiên giới.	SeeGod	
+10078	Thương hội cấm vận	Do thái độ thiếu tôn trọng của Người, Thương hội đã quyết định đưa Người vào danh sách đen, cấm giao dịch vĩnh viễn.		
+10079	Báo thù	Các trưởng lão và đồng môn của [TXT] đã đến tông môn của Người với thái độ giận dữ và ngạo mạn để yêu cầu lời xin lỗi và giải thích từ Người.	Rich	
+10080	Báo thù	[TXT] đã phản bội lại tông môn của chính mình vì Người là nguyên nhân. Các trưởng lão, sư phụ và đồng môn của[IT]cảm thấy vô cùng tức giận và đã tìm đến tận nơi để yêu cầu lời xin lỗi và giải thích từ Người.		
+10081	Quan hệ	Đệ tử của[TXT]đã phản bội lại tông môn của chính mình vì Người là nguyên nhân. Nhưng vì Người và[TXT]có mối quan hệ tốt đẹp, các trưởng lão cấp cao của họ đã ra lệnh bỏ qua chuyện này.\n(Mối quan hệ giảm sút)		
+10082	Quan hệ	Đệ tử của[TXT]đã phản bội lại tông môn của chính mình vì Người là nguyên nhân. Nhưng vì Người và[TXT]có mối quan hệ tốt đẹp, họ đã bỏ qua chuyện này mà không truy cứu. Tuy nhiên, mức độ thân thiết mà Người có vẫn chưa đủ để ngăn cản họ thực hiện những mưu đồ phía sau lưng Người.\n(Mối quan hệ giảm sút)		
+10083	Đại diện Thương hội ghé thăm	[NAME] Đại diện từ Thương hội đã đến thăm Người và sẽ lưu lại đây trong 1 ngày.		
+10084	Trở về từ dị giới	Cách đây vài ngày, một nhóm thương nhân của Thương hội đột nhiên mất tích khi đang thám hiểm khe nứt dị giới. Khi mọi người nghĩ rằng họ sẽ không bao giờ trở lại, đột nhiên khe nứt đó lại mở ra lần nữa và tất cả thương nhân mất tích đã trở về an toàn. Họ thậm chí còn mang theo rất nhiều vật phẩm kỳ lạ từ thế giới đó.\nTuy nhiên, vô số vật phẩm từ thế giới khác đó đã mang theo Thiên đạo của thế giới đó đến. Dưới ảnh hưởng của Thiên đạo ngoại lai, thế giới này đã xảy ra một vài thay đổi. Ngay cả Thiên Long, đại diện cho Thiên đạo Âm Dương của trời đất cũng có chút khác thường....		
+10085	Sự thức tỉnh của Gấu		Bear,10,10,10,10,10,3,Target,,3	ở[TXT] Một con Gấu đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10086	Sự thức tỉnh của Thỏ		Rabbit,10,10,10,10,10,3,Target,,3	ở[TXT] Một con Thỏ đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10087	Sự thức tỉnh của Gà		Chicken,10,10,10,10,10,3,Target,,3	ở[TXT] Một con Gà đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10088	Sự thức tỉnh của Sói		Wolf,10,10,10,10,10,3,Target,,3	ở[TXT] Một con Sói đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10089	Sự thức tỉnh của Rắn		Snake,10,10,10,10,10,3,Target,,3	ở[TXT] Một con đại xà đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10090	Sự thức tỉnh của yêu trư		Boar,10,10,10,10,10,3,Target,,3	ở[TXT] Một con yêu trư đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10091	Sự thức tỉnh của linh ếch		Frog,10,10,10,10,10,3,Target,,3	ở[TXT] Một con linh ếch đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10092	Sự thức tỉnh của linh quy		Turtle,10,10,10,10,10,3,Target,,3	ở[TXT] Một con linh quy đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10093	Sự thức tỉnh của linh miêu		Cat,10,10,10,10,10,3,Target,,3	ở[TXT] Một con linh miêu đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10094	Sự thức tỉnh của yêu hổ		Tiger,10,10,10,10,10,3,Target,,3	ở[TXT] Một con yêu hổ đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10095	Sự thức tỉnh của thiết ngưu		Cattle,10,10,10,10,10,3,Target,,3	ở[TXT] Một con thiết ngưu đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10096	Tuệ căn ngộ đạo từ sư tôn	Nhờ cơ duyên cực lớn [NAME] Nhận được tuệ căn ngộ đạo từ [TNAME] Trong khoảng thời gian [TIME] Và đã hóa thành linh vật		
+10097	Thế giới linh vật	Nhờ cơ duyên cực lớn [NAME] Hấp thụ thiên địa linh khí trong thời gian[WEATHER]Đã thức tỉnh linh trí của bản thân và hóa thành linh vật		
+10098	Sự thức tỉnh của linh vật	Nhờ cơ duyên cực lớn [NAME] Đã ở bên cạnh [TNAME] Suốt thời gian dài, dần hấp thụ thiên địa linh khí, cho đến một ngày đã ngộ đạo, thức tỉnh linh trí của bản thân và cuối cùng đã lột xác thành linh vật		
+10099	Sự thức tỉnh của Gấu		Bear,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con yêu hùng vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10100	Sự thức tỉnh của Thỏ		Rabbit,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con ngọc thỏ vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10101	Sự thức tỉnh của Gà		Chicken,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con linh kê vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10102	Sự thức tỉnh của Sói		Wolf,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con yêu lang vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10103	Sự thức tỉnh của Rắn		Snake,10,10,10,10,10,3,Emotion,,3	ở[TXT] Một con đại xà đã ngộ đạo "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+10104	Sự thức tỉnh của yêu trư		Boar,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con yêu trư vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10105	Sự thức tỉnh của linh ếch		Frog,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con linh ếch vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10106	Sự thức tỉnh của linh quy		Turtle,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con linh quy vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10107	Sự thức tỉnh của linh miêu		Cat,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con linh miêu vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10108	Sự thức tỉnh của yêu hổ		Tiger,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con yêu hổ vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10109	Sự thức tỉnh của thiết ngưu		Cattle,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một nguyên nhân nào đó, một con thiết ngưu vô tình "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+10110	Sự thức tỉnh của Gấu		Bear,10,10,10,10,10,3,Scene,,3	ở[TXT] Một con yêu hùng đã "[FRAG]" Trải qua vô số lần, nhận được tuệ căn và thành công ngộ đạo
+10111	Sự thức tỉnh của Thỏ		Rabbit,10,10,10,10,10,3,Scene,,3	ở[TXT] Một con ngọc thỏ đã "[FRAG]" Trải qua vô số lần, nhận được tuệ căn và thành công ngộ đạo
+10112	Sự thức tỉnh của Gà		Chicken,10,10,10,10,10,3,Scene,,3	ở[TXT] Một con linh kê đã "[FRAG]" Trải qua vô số lần, nhận được tuệ căn và thành công ngộ đạo
+10113	Sự thức tỉnh của Sói		Wolf,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Trải qua vô số lần, yêu lang cuối cùng cũng nhận được tuệ căn và ngộ đạo tại[TXT]
+10114	Sự thức tỉnh của Rắn		Snake,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con rắn nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10115	Sự thức tỉnh của yêu trư		Boar,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con lợn rừng nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10116	Sự thức tỉnh của linh ếch		Frog,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con ếch nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10117	Sự thức tỉnh của linh quy		Turtle,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con rùa nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10118	Sự thức tỉnh của linh miêu		Cat,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con mèo nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10119	Sự thức tỉnh của yêu hổ		Tiger,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con hổ nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10120	Sự thức tỉnh của thiết ngưu		Cattle,10,10,10,10,10,3,Scene,,3	Sau khi "[FRAG]" Vô số lần, một con bò tót nhận được linh trí, ngộ đạo mà tỉnh thức tại[TXT]
+10121	Kẻ địch rút lui	Sát khí thù địch dự định tấn công người đã quyết định đầu hàng và rút lui sau khi cân nhắc kỹ lưỡng danh tiếng tông môn của người.		
+10122	Chuyển sinh thiên giới	[NAME] Đã tôi luyện cơ thể thuần khiết và mạnh mẽ đến cực hạn, cuối cùng cũng có thể phá vỡ hư không. [IT]Đã dùng nhục thân bất diệt của mình phá vỡ hư không, bước vào tiên giới, không để lại gì ngoài những lời kể về truyền thuyết được lưu truyền về sau.\n Thiên thư chứng đạo:\n[color=#D06508]Giữa sự hỗn loạn của vũ trụ, nhân loại đầu tiên Bàn Cổ được sinh ra. Sự thống nhất có trước sự nhị nguyên, Bàn Cổ đã tiến hành phân tách trời đất.\nNữ Oa tạo ra vạn vật từ bùn đất, sau đó Phục Hy vẽ quẻ phân định Âm Dương.\nTrăm năm tu luyện trôi qua, phàm nhân không ngừng chém giết lẫn nhau, nhưng trăm năm, ngàn năm đối với người tu tiên lại trôi qua chỉ như một cái chớp mắt.\nGiờ đây khi thiên kiếp đã qua, ta không còn oán trách điều gì nữa. Ta đã vứt bỏ hết thảy vướng bận trần gian và trở thành kẻ tự tại tiêu dao.[/color]	Hải Thần	
+10123	Thương nhân từ dị giới	[NAME] Từ thương hội đã xuyên qua không gian đến đây thông qua vết nứt dị giới.		
+10124	Khe nứt không gian	Bầy hung thú đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+10125	Khe nứt không gian	Một vài yêu thú đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+10126	Khe nứt không gian	Một nhóm kẻ địch đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+10127	Vận mệnh hội tụ	Sau khi chinh phục mọi tông môn bằng sức mạnh vô song, vận mệnh thiên đạo của thế giới này đã hội tụ về tông môn của người. Khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10128	Vận mệnh hội tụ	Chỉ trong vài năm, số lượng đệ tử trong tông môn của người có thể tu luyện đến cảnh giới phi thăng tiên giới đã vượt quá 50 người. Vận mệnh thiên đạo của thế giới này đã hội tụ về tông môn của người. Khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10129	Vận mệnh hội tụ	Sau quá trình khổ tu, cuối cùng cũng có một vị tu tiên giả trong tông môn của người vượt qua cửu trọng thiên kiếp. Điều này đã dẫn dắt vận mệnh thiên đạo hội tụ về đây. Khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10130	Vận mệnh hội tụ	Thời gian thấm thoát thoi đưa, nay người đã xây dựng tông môn tại đây được vài chục năm, những năm qua đã khiến vận mệnh tông môn của người dần trở thành một thể với thiên địa. Giờ đây khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10131	Vận mệnh hội tụ	Để vạch trần sự thật đằng sau việc tông môn Thái Ất bị diệt vong, người đã trải qua muôn vàn gian khổ. Trong quá trình tìm tòi, người vô tình phát hiện ra bí mật kinh thiên động địa của thế giới này, cũng chính vì vậy mà người đã dẫn dắt vận mệnh thiên đạo hội tụ về đây. Khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10132	Vận mệnh hội tụ	Gần đây, thiên đạo của thế giới này đã có sự thay đổi lớn, khiến cho vận mệnh thiên đạo hội tụ cùng mặt đất. Khi cảm nhận được vận mệnh thiên đạo, "Tiểu Vũ Trụ" đột nhiên bắt đầu tỏa ra ánh sáng nhàn nhạt.		
+10133	Đã đến lúc.	Tiểu Vũ Trụ đột nhiên rung chuyển kỳ lạ, đây có thể là dấu hiệu cảnh báo mà Phó Bì Khổng đã từng nói với người.		
+10123	Thương nhân từ dị giới	[NAME] Từ thương hội đã xuyên qua không gian đến đây thông qua vết nứt dị giới.		
+10124	Khe nứt không gian	Bầy hung thú đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+10125	Khe nứt không gian	Một vài yêu thú đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+10126	Khe nứt không gian	Một nhóm kẻ địch đã được dịch chuyển đến đây thông qua vết nứt dị giới.		
+30001	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		TongYong_DropList
+30002	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		TongYong_DropList
+30003	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		TongYong_DropList
+30004	Bị xâm nhập	Một nhóm sát thủ bí ẩn đã nhận lệnh đến tấn công tông môn của người.	Richest	Human
+30005	Bị xâm nhập	Một nhóm sát thủ bí ẩn đã nhận lệnh đến tấn công tông môn của người.	Richest	Human
+30006	Bị xâm nhập	Một nhóm sát thủ bí ẩn đã nhận lệnh đến tấn công tông môn của người.	Richest	Human
+30008	Vĩnh Dạ	Vì lý do nào đó khiến sự cân bằng Âm Dương bị rối loạn, khiến âm khí tăng mạnh che khuất mặt trời, ánh sáng không thể chiếu xuống.	YinChaos	
+30009	Sóng nhiệt	Do vết nứt linh hồn không ổn định, nhiệt độ trong lãnh địa này tăng cao bất thường.	Hotpot_Heat	
+30010	Sóng lạnh	Do lò luyện hàn băng không ổn định, nhiệt độ trong lãnh địa này giảm xuống thấp bất thường.	ColdHole_Cold	
+30012	Mưa bão	Xảy ra bão tố dữ dội, linh khí tự nhiên thuộc tính Thủy ngưng tụ đậm đặc.	Rainstorm	
+30013	Bão gió nóng	Cái nóng bức thiêu đốt mặt đất khô cằn, thiên địa linh khí thuộc tính Hỏa ngưng tụ vô cùng nồng đậm	Fohn	
+30014	Bão cát	Bão cát thổi mạnh khiến bầu trời tối sầm, linh khí tự nhiên thuộc tính Thổ ngưng tụ đậm đặc.	DustStorm	
+30015	Linh khí khô kiệt	Vì một lý do nào đó, linh khí đột nhiên khô kiệt đi	LingRarefiedWave_Longer	
+30018	Vĩnh Dạ	Mây mù kỳ bí bao phủ lấy bầu trời và vầng thái dương, và nó sẽ kéo dài một thời gian mà không thấy ánh trăng hay mặt trời	PolarNight	
+30019	Bão Phấn Hoa Độc	Cơn lốc phấn hoa độc lan tràn khắp khu vực, thiên địa linh khí thuộc tính Mộc ngưng tụ vô cùng nồng đậm	Miasma	
+30020	Bão sấm sét	Cơn bão sấm sét cuồng nộ đang kéo đến, thiên địa linh khí thuộc tính Kim ngưng tụ vô cùng nồng đậm	LightningStorm	
+30021	Bị xâm nhập	Một nhóm sát thủ bí ẩn đã nhận lệnh đến tấn công tông môn của người.	Normal	Human
+30022	Bão sấm sét	Như thể phản ánh sự hỗn loạn trong hang động bí ẩn, bão sấm sét đột nhiên xuất hiện.	Lightning_DragonHole	
+30028	Người tị nạn đi ngang qua	Người tị nạn chiến tranh đã đi đến tông môn của người và[IT]cũng bày tỏ nguyện vọng muốn gia nhập tông môn của Người	Human	
+30043	Dân làng lạc lối	Có một dân làng đã đi lạc đến tông môn của Người và[IT]đang cần sự giúp đỡ của Người.	Confused Stranger	
+30044	Dân làng tò mò	Có một dân làng vì tò mò đã đi đến nơi này và[IT]muốn biết mọi người đang làm gì ở đây.	Curious Stranger	
+30045	Dân làng bị thương	Có một dân làng bị thương đã đi đến nơi này và[IT]đang khẩn cầu sự giúp đỡ của Người.	Injured Stranger	RandomDamage
+30083	Linh khí bùng nổ	Vì lý do nào đó, linh khí thiên địa trong tự nhiên đột nhiên trở nên đậm đặc liên tục. Một vài cây cối bị ảnh hưởng bởi sự kiện này và đã trở thành linh mộc.	LingUpWave_Shorter	
+30111	Bão cát	Do uy năng của miếu Thổ Địa nên đã xảy ra bão cát.	DustStorm_Dimu	
+30112	Thú dữ xâm nhập	Địa Mẫu đã hấp thụ dưỡng chất của đại địa và khiến một số yêu thú nổi giận, khiến chúng tràn ngập sự thù hận!!		
+30113	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		
+30114	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		
+30115	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		
+30116	Thú dữ xâm nhập	Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		
+30117	Chấn Thiên Tế Đàn	Linh thạch đã ngưng tụ hoàn toàn！		
+50001	Tàn tích của đại kiếp nạn	    Đột nhiên vang lên một tiếng động lớn, ánh sáng ngũ sắc phóng thẳng từ chân trời xuống và đáp xuống gần đó, nhưng vẫn chưa thể xác định đó là thứ gì		
+50002	Thú dữ xâm nhập	    Có vài con yêu thú xuất hiện gần tông môn và chúng vô cùng hung dữ.		
+50003	Bị xâm nhập	    Một nhóm sát thủ bí ẩn đã nhận lệnh đến tấn công tông môn của người.		
+50004	Dân làng lạc lối	    Có một dân làng đã đi lạc đến tông môn của Người và[IT]đang cần sự giúp đỡ của Người.	Confused Stranger	
+50005	Đạo hữu.	    Một vị đạo hữu đã đến thăm tông môn của Người, và có vẻ như[IT]người đó muốn ở lại đây một thời gian.	Immortal Visitor	
+50006	Linh vật vô tình đi ngang qua	    Linh vật [NAME] Đã xuất hiện ở gần đây, tràn đầy sự tò mò		
+50007	Cầu cứu	    Một tộc nhân bán yêu cần sự giúp đỡ của Người, do[IT]Hy vọng[IT]có thể sống sót qua Hóa Hình Kiếp nhờ sự giúp đỡ của Người.		

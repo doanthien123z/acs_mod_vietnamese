@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Panda1">
+			<DisplayName>Lười biếng và nghịch ngợm</DisplayName>
+			<Desc>Có tính cách chểnh mảng không lo làm việc nhưng lại cực kỳ nghịch ngợm. Làm mọi việc rất chậm chạp nhưng lại mang một sức hút khó tả.</Desc>
+		</Text>
+		<Text Name="Panda2">
+			<DisplayName>Âm Dương Thể</DisplayName>
+			<Desc>Thân thể có dòng khí âm dương lưu chuyển một cách cân bằng, điều này khiến cho[IT]Có thể rèn luyện thân thể cực kỳ nhanh chóng, đồng thời còn giúp cho[IT]Có thể lĩnh hội vạn vật một cách dễ dàng</Desc>
+		</Text>
+	</List>
+</Texts>

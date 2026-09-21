@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_3">
+			<DisplayName>Hỗn Mang Yêu Thần Thể</DisplayName>
+			<Desc>Đồn rằng đây là môn công pháp luyện thể được truyền lại từ yêu thần thời hồng hoang. Môn công pháp này nổi bật ở khả năng rèn luyện ngũ tạng lục phủ. Ngươi ta đồn rằng bên trong cơ thể có một nguồn năng lượng bí ẩn chứa đựng sức mạnh vô tận. Khi tu sĩ tu luyện đến cảnh giới đại thành của công pháp này, người đó sẽ có được nhục thân bất tử có thể phá hủy cả hư không. *Cảnh báo* Môn công pháp này được tạo ra bởi yêu thần hồng hoang chuyên dành riêng cho yêu tộc, do đó có những thần thể phải dựa vào các bộ phận cơ thể độc quyền của yêu tộc. Nếu cơ thể ngươi không có cấu trúc thích hợp, ngươi sẽ không thể chạm đến tinh túy của môn công pháp này.</Desc>
+			<SelectDesc>Bước chân vào con đường luyện thể bất tử nghĩa là ngươi phải dung hợp thân thể, chân khí và nguyên thần làm một. Điều này khiến ngươi không thể triển khai pháp thuật hay thậm chí sử dụng pháp bảo. Thứ duy nhất ngươi có thể dựa vào chính là thân thể của mình. Biết được điều này, ngươi có còn muốn bước chân vào con đường luyện thể bất tử nữa không??</SelectDesc>
+			<Stages.0.DisplayName>Giai đoạn Luyện Thể</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tạo Thể</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Giai đoạn Tẩy Tủy</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Phạt Tủy</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Giai đoạn Ngưng Tụ Linh Thể</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Dung Hợp Thân Tâm</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Thần Biến Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Kiếp Thể</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

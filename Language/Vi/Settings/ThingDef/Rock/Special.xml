@@ -1,0 +1,12 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Darksteel" sParam="Plant">
+			<Desc>Thiên địa chí bảo, tinh túy linh khí ngưng tụ của Hắc Thiết trong địa mạch.</Desc>
+			<ThingName>Hắc Thiết địa mạch</ThingName>
+		</Text>
+		<Text Name="LingStone" sParam="Plant">
+			<Desc>Nguồn gốc của mọi linh khí, một khi bị phá hủy, toàn bộ linh khí trong khu vực đó sẽ tiêu tán.</Desc>
+			<ThingName>Linh mạch</ThingName>
+		</Text>
+	</List>
+</Texts>

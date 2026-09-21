@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="HeYin">
+			<DisplayName>Hồi Thủy Thành</DisplayName>
+			<Desc>Đây là thành trì có thể xây dựng nhiều loại công trình và chiêu mộ đệ tử</Desc>
+		</Text>
+		<Text Name="GuanHai">
+			<DisplayName>Thành trì Cảnh Quan Biển</DisplayName>
+		</Text>
+		<Text Name="PanShe">
+			<DisplayName>Xà Vĩ Thôn</DisplayName>
+		</Text>
+		<Text Name="Feng">
+			<DisplayName>Đại Phú Thành</DisplayName>
+		</Text>
+		<Text Name="DaLiang">
+			<DisplayName>Đại Lương Thành</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,117 @@
+ID	Desc
+	Description
+1	Tất cả người ở trong phòng phải là người phàm
+2	Tất cả người ở trong phòng phải là tu sĩ Luyện Khí Kỳ
+3	Tất cả người ở trong phòng phải là tu sĩ Trúc Cơ Kỳ
+4	Tất cả người ở trong phòng phải là tu sĩ Kim Đan Kỳ
+5	Tất cả người ở trong phòng phải là tu sĩ Nguyên Anh Kỳ
+6	Tất cả người ở trong phòng phải là tu sĩ Hóa Thần Kỳ
+7	Tất cả người ở trong phòng phải là đệ tử nội môn
+8	Tất cả người ở trong phòng phải là đệ tử ngoại môn
+9	Tất cả người ở trong phòng phải là khách mời
+10	Tất cả người ở trong phòng phải có tuổi thọ trên 30 năm
+11	Tất cả người ở trong phòng phải có tuổi thọ trên 90 năm
+12	Tất cả người ở trong phòng phải có tuổi thọ trên 270 năm
+13	Tất cả người ở trong phòng phải có tuổi thọ trên 810 năm
+14	Tất cả người ở trong phòng phải có tuổi thọ trên 2.430 năm
+15	Tất cả người ở trong phòng phải có tuổi thọ dưới 30 năm
+16	Tất cả người ở trong phòng phải có tuổi thọ dưới 90 năm
+17	Tất cả người ở trong phòng phải có tuổi thọ dưới 270 năm
+18	Tất cả người ở trong phòng phải có tuổi thọ dưới 810 năm
+19	Tất cả người ở trong phòng phải có tuổi thọ dưới 2.430 năm
+20	Tổng tuổi thọ người ở trong phòng không quá 100 năm
+21	Tổng tuổi thọ người ở trong phòng không quá 200 năm
+22	Tổng tuổi thọ người ở trong phòng không quá 500 năm
+23	Tổng tuổi thọ người ở trong phòng không quá 1.000 năm
+24	Tổng tuổi thọ người ở trong phòng không ít hơn 500 năm
+25	Tổng tuổi thọ người ở trong phòng không ít hơn 1.000 năm
+26	Tổng tuổi thọ người ở trong phòng không ít hơn 2.000 năm
+27	Tổng tuổi thọ người ở trong phòng không ít hơn 4.000 năm
+28	Tất cả người ở trong phòng phải là nam giới
+29	Tất cả người ở trong phòng phải là nữ giới
+30	Người ở trong phòng phải bao gồm cả nam và nữ
+31	Phòng phải có đúng 1 người ở
+32	Phòng cần có 2 người cư trú
+33	Phòng cần có 3 người cư trú
+34	Phòng cần có từ 3 người cư trú trở lên
+35	Phòng cần có từ 5 người cư trú trở lên
+36	Phòng cần có không quá 3 người cư trú
+37	Phòng cần có không quá 5 người cư trú
+38	Phòng cần có ít nhất 1 giường
+39	Phòng cần có ít nhất 2 giường
+40	Phòng cần có ít nhất 3 giường
+41	Phòng cần có không quá 1 giường
+42	Phòng cần có không quá 2 giường
+43	Phòng cần có không quá 3 giường
+44	Phòng cần có ít nhất 1 giường đôi
+45	Phòng cần có ít nhất 1 vật chiếu sáng
+46	Phòng cần có ít nhất 2 vật chiếu sáng
+47	Phòng cần có ít nhất 3 vật chiếu sáng
+48	Phòng cần có không quá 1 vật chiếu sáng
+49	Phòng cần có không quá 2 vật chiếu sáng
+50	Phòng cần có không quá 3 vật chiếu sáng
+51	Phòng cần có ít nhất 1 vò nước
+52	Phòng cần có ít nhất 1 bình phong
+53	Phòng cần có ít nhất 1 bức tượng
+54	Phòng cần có ít nhất 1 lò
+55	Phòng cần có ít nhất 1 chậu
+56	Phòng cần có ít nhất 1 cây
+57	Phòng cần có ít nhất 1 lá cờ
+58	Phòng cần có ít nhất 1 kệ
+59	Phòng cần có ít nhất 1 ngôi mộ
+60	Phòng cần có ít nhất 2 vò nước
+61	Phòng cần có ít nhất 2 bình phong
+62	Phòng cần có ít nhất 2 bức tượng
+63	Phòng cần có ít nhất 2 lò
+64	Phòng cần có ít nhất 2 chậu
+65	Phòng cần có ít nhất 2 cây
+66	Phòng cần có ít nhất 2 lá cờ
+67	Phòng cần có ít nhất 1 kệ
+68	Phòng không được có khu vực nước
+69	Phòng cần có ít nhất 1 khu vực nước
+70	Phòng cần có ít nhất 1 khu vực linh hồn
+71	Phòng không được có khu vực đất
+72	Phòng cần có ít nhất 1 công trình và phải có pháp bảo tương sinh ngũ hành
+73	Phòng cần có ít nhất 2 kiến trúc và phải có pháp bảo mang thuộc tính tương sinh.
+74	Phòng cần có ít nhất 3 kiến trúc và phải có pháp bảo mang thuộc tính tương sinh.
+75	Phòng không được có kiến trúc nào mang thuộc tính tương khắc với pháp bảo.
+76	Phòng không được có quá 1 kiến trúc và phải có pháp bảo mang thuộc tính tương khắc.
+77	Phòng không được có quá 2 kiến trúc và phải có pháp bảo mang thuộc tính tương khắc.
+78	Phòng không được có quá 3 kiến trúc và phải có pháp bảo mang thuộc tính tương khắc.
+79	Phòng cần có ít nhất 1 kiến trúc và phải có pháp bảo mang cùng thuộc tính.
+80	Phòng cần có ít nhất 2 kiến trúc và phải có pháp bảo mang cùng thuộc tính.
+81	Phòng cần có ít nhất 3 kiến trúc và phải có pháp bảo mang cùng thuộc tính.
+82	Cần có pháp bảo với linh khí ít nhất 1.000 đơn vị.
+83	Cần có pháp bảo với linh khí ít nhất 5.000 đơn vị.
+84	Cần có pháp bảo với linh khí ít nhất 10.000 đơn vị.
+85	Cần có pháp bảo với linh khí ít nhất 30.000 đơn vị.
+86	Cần có pháp bảo với linh khí không quá 1.000 đơn vị.
+87	Cần có pháp bảo với linh khí không quá 5.000 đơn vị.
+88	Cần có pháp bảo với linh khí không quá 10.000 đơn vị.
+89	Cần có pháp bảo với linh khí không quá 30.000 đơn vị.
+90	Cần có pháp bảo với linh khí đầy.
+91	Tất cả kiến trúc trong phòng phải có phong thủy hung (Hung nhẹ/Hung/Đại hung).)
+92	Tất cả kiến trúc trong phòng phải có phong thủy cát (Cát nhẹ/Cát/Đại cát).)
+93	Phòng không được có bất kỳ kiến trúc nào mang thuộc tính Đại cát.
+94	Phòng cần có 1 kiến trúc mang thuộc tính Đại cát.
+95	Phòng không được có quá 1 kiến trúc mang thuộc tính Đại cát.
+96	Phòng phải có hơn 2 kiến trúc mang thuộc tính Đại cát.
+97	Phòng cần có ít nhất 1 kiến trúc Đại hung.
+98	Phòng cần có ít nhất 2 kiến trúc Đại hung.
+99	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+100	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+101	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+102	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+103	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+10001	Cần có pháp bảo với linh khí ít nhất 100.000 đơn vị.
+10002	Phòng cần có ít nhất 5 kiến trúc Đại hung.
+10003	Phòng cần có ít nhất 1 vật phẩm phong thủy.
+10004	Phòng cần có 8 vật phát sáng.
+10005	Phòng cần có ít nhất 3 lò lửa.
+10006	Phòng cần có 7 vật phát sáng.
+10007	Phòng cần có 5 ngôi mộ.
+10008	Phòng cần có 2 chậu hoa.
+10009	Phòng cần có 2 lá cờ.
+10010	Phòng cần có 1 chiếc giường.
+10011	Phòng không được có bất kỳ kiến trúc nào là đệm ngồi hoặc bồ đoàn.
+20000	Phòng cần có 1 linh bảo.

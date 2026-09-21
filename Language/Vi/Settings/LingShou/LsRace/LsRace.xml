@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<PossibleMagic.0.DisplayName>Tưới cây</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Tưới nước giúp linh thực sinh trưởng nhanh hơn, chỉ phụ thuộc vào hành vi của linh thú, không thể ép buộc</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Bón phân</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Hy sinh sự sinh trưởng và dưỡng chất của bản thân để biến thổ địa thành linh nhưỡng màu mỡ\n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Làm nũng</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Tỏ ra tinh nghịch với nhân vật, dùng sự làm nũng, quyến rũ và trí tuệ để làm tan chảy trái tim khép kín của họ\n[color=#FF0000]Cần 100 thần thức để sử dụng[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần hộ thể linh khí 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần hộ thể linh khí 100[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Cần pháp khí 100[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsFox">
+			<PossibleMagic.0.DisplayName>Khí Trị Thương</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị thương势 cho đệ tử trong tông môn, chỉ phụ thuộc vào hành vi của linh thú, không thể cưỡng ép</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Tạo linh điền</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Đổi lấy sự trưởng thành và dinh dưỡng của bản thân để biến mảnh đất thành Linh Thổ \n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Làm nũng</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Đùa giỡn với thương nhân để lấy lòng tin từ họ \n [color=#FF0000]Cần 100 thần thức để sử dụng[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần yêu đan 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần chân khí 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Cần chân khí 100[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsDragon">
+			<PossibleMagic.0.DisplayName>Pháp thuật thanh lương</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị chứng say nắng cho đệ tử trong tông môn, chỉ phụ thuộc vào hành vi của linh thú, không thể cưỡng ép</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Giải trừ Hàn Băng Ngục</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Vì là sinh vật cùng chủng loại với Thủy Long, nó có thể xua tan nhà giam băng giá mà Thủy Long để lại phía sau \n [color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Hàn Băng Thổ Tức</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Sử dụng chân khí thuần khiết của Thủy Long để xua tan cái nóng thiêu đốt \n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Uy Mệnh Của Rồng</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Thể hiện uy năng kinh ngạc trước mặt đại diện tông môn để tăng cường sự ổn định [color=#FF0000]Cần 100 thần thức để sử dụng[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>Lôi hà</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần pháp khí 100[/color]</PossibleSkill.2.Desc>
+		</Text>
+		<Text Name="LsPhoenix">
+			<PossibleMagic.0.DisplayName>Pháp thuật ôn thân</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Chữa trị chứng tê cóng vì lạnh cho đệ tử trong tông môn, chỉ phụ thuộc vào hành vi của linh thú, không thể cưỡng ép</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Hỏa Tức</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Dùng chân khí của Hỏa Phượng để xua tan hàn khí \n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Tuệ Nhãn</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Ban Tuệ Nhãn cho đệ tử nội môn, giúp nhìn thấu chân diện mục của vật phẩm trong buổi đấu giá \n[color=#FF0000]Cần 50 thần thức để sử dụng[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Tường Phượng Báo Điềm Lành</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Thể hiện thần thông quảng đại trước mặt đại diện tông môn để gia tăng sức hút của tông môn [color=#FF0000]Cần 100 thần thức để sử dụng[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần yêu đan 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Cần pháp khí 100[/color]</PossibleSkill.2.Desc>
+		</Text>
+	</List>
+</Texts>

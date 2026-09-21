@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TestABC">
+			<DisplayName>Đấu giá</DisplayName>
+			<Selections.0.Display>Sách công pháp</Selections.0.Display>
+			<Selections.1.Display>Đan dược</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_HeiShan">
+			<Hate.0>Lại là ngươi sao??</Hate.0>
+			<Hate.1>Đừng lại gần ta, nếu không ta sẽ đánh cho ngươi đến mức mẹ ngươi cũng không nhận ra.</Hate.1>
+			<Hate.2>Chỉ có một mình? Thật đáng thương.</Hate.2>
+			<Normal.0>Ồ, có chuyện gì không?</Normal.0>
+			<Normal.1>Có gì thì nói mau, đừng làm lãng phí thời gian luyện kiếm của ta.</Normal.1>
+			<Like.0>((Đặt kiếm xuống) Là ngươi sao? Mời ngươi cứ tự nhiên lựa chọn.</Like.0>
+			<Like.1>Ồ? Là ngươi à? Dạo này tu vi của ngươi có tiến triển gì không??</Like.1>
+			<Submiss.0>Ồ? Là ngài sao? Ngài muốn tìm người tỉ thí? Xin hãy hạ thủ lưu tình.</Submiss.0>
+			<Submiss.1>Hoan nghênh, tu vi của ngài lại tiến thêm một bước rồi, xin chúc mừng.</Submiss.1>
+			<GiftLike.0>Ta đã tìm kiếm vật này suốt trăm năm nay, cuối cùng cũng có người trao cho ta rồi.</GiftLike.0>
+			<GiftLike.1>Dường như thiên đạo đã an bài để chúng ta gặp nhau.</GiftLike.1>
+			<GiftLike.2>Có lần ta từng mơ rằng sẽ có người tặng ta vật này, nay giấc mộng đó đã thành hiện thực.</GiftLike.2>
+			<LowValueGift.0>Vật này chỉ đủ để làm bia tập kiếm xem kiếm của ta bén đến mức nào thôi.</LowValueGift.0>
+			<LowValueGift.1>((Rút kiếm chém) Nhìn xem, nó thật mỏng manh biết bao.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>

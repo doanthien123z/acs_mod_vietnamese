@@ -1,0 +1,45 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_PartFight">
+			<DisplayName>Chỉ số nội tạng boss</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong">
+			<DisplayName>Thủy Long</DisplayName>
+		</Text>
+		<Text Name="Boss_JiaolongFight">
+			<DisplayName>Chỉ số chiến đấu của thủy long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part">
+			<DisplayName>Thân hình thủy long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part1">
+			<DisplayName>Điểm yếu thủy long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_JiSiGongYang">
+			<DisplayName>Phát triển</DisplayName>
+			<Desc>Yêu long nhận được sức mạnh từ việc hiến tế, khiến linh lực của nó tăng lên cực kỳ mạnh mẽ.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Shuiling">
+			<DisplayName>Chân linh hệ thủy</DisplayName>
+			<Desc>Thủy long ngưng tụ linh hồn nước, khi tích tụ đạt tới cấp 100, một lượng nước khổng lồ sẽ được giải phóng.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu">
+			<DisplayName>Long Nộ</DisplayName>
+			<Desc>Yêu long bước vào trạng thái cuồng nộ, mọi chỉ số đều tăng lên.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Longxi">
+			<DisplayName>Long Thôn Thủy</DisplayName>
+			<Desc>Yêu long hít một hơi cực mạnh, khiến nước bên trong cơ thể kẻ địch cũng bị hút ra ngoài.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_zhenlong">
+			<DisplayName>Chân Long</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_fanshi">
+			<DisplayName>Cắn ngược - Thủy long phản chiếu bóng hình</DisplayName>
+			<Desc>Sau một khoảng thời gian, thủy long sẽ làm pháp bảo của kẻ địch trở nên hỗn loạn, khiến uy lực pháp bảo giảm đi một nửa. Nếu pháp bảo đó là hệ hỏa, hiệu quả sẽ tăng gấp đôi, tuy nhiên hiệu quả sẽ giảm hơn một nửa nếu là pháp bảo hệ thổ.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong2">
+			<DisplayName>Thủy Long</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,34 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpellEsoterica_1">
+			<DisplayName>Bản ghi chép tại Ngọc Tiên Động</DisplayName>
+			<Desc>Bí mật về Đạo giáo, ghi chép lại ba loại linh phù vô cùng hữu ích cho việc tu luyện.</Desc>
+			<EffectDesc>Nhận được phương pháp vẽ bùa: \nNgộ Tâm Phù\nBồi Nguyên Phù\nPhá Thiên Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_2">
+			<DisplayName>Ngũ Hành Thánh Phù</DisplayName>
+			<Desc>Bí tịch ghi chép linh phù của Ngũ Thiên Phái</Desc>
+			<EffectDesc>Nhận được phương pháp vẽ bùa: \nẢnh Thuấn Phù\nHuyễn Ảnh Phù\nVạn Mộc Phù\nThiên Tâm Phù\nTĩnh Tâm Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_3">
+			<DisplayName>Lục Đạo Ngũ Hành Kim Thư</DisplayName>
+			<Desc>Cuốn sách ghi lại sáu loại phù văn thông dụng và thiết thực, có ích rất lớn cho người phàm.</Desc>
+			<EffectDesc>Nhận được phương pháp vẽ bùa: \nĐằng Vân Phù\nHồi Dược Phù\nThiên Lý Phù\nMộng Đẹp Phù\nTịch Cốc Phù\nTụ Linh Phù\nThư Thái Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_4">
+			<DisplayName>Đế Hoàng Phù Điển</DisplayName>
+			<Desc>Loại phù chú được truyền lại từ hoàng tộc. Họ là hậu duệ của tiên nhân từng được phong làm hoàng đế trong các triều đại trước.</Desc>
+			<EffectDesc>Nhận được phương pháp vẽ bùa: \nĐại Nhật Phù\nĐại Nguyệt Phù\nThanh Minh Phù\nBinh Gia Phù\nCần Tâm Phù\nLuyện Khí Phù\nNông Tác Phù\nY Dược Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_5">
+			<DisplayName>Cơ Bản Phù Điển</DisplayName>
+			<Desc>Cuốn sách ghi lại các loại phù chú thường dùng.</Desc>
+			<EffectDesc>Nhận được phương pháp vẽ bùa: \nMộng Đẹp Phù\nTịch Cốc Phù\nThanh Minh Phù\nĐại Nhật Phù\nĐại Nguyệt Phù\nCần Tâm Phù\nLuyện Khí Phù\nNông Tác Phù\nY Dược Phù</EffectDesc>
+		</Text>
+		<Text Name="SpellEsoterica_6">
+			<DisplayName>Xuân Cung Đồ</DisplayName>
+			<Desc>Bức họa bí ẩn từ thế giới khác, ghi lại nhiều văn hóa và phong tục của một nền văn minh vĩ đại.</Desc>
+			<EffectDesc>Đã nhận phương pháp vẽ: \nVĩnh Hưng Đồ\nTrường Sinh Đồ\nVô Sát Sinh Hoạt Đồ\n\nMở khóa kiến trúc: \nĐăng Hỏa Phù Sinh\nThanh Lương Đăng\nMái nhà (Xuân))\nMái nhà (Lễ hội))\nPháo hoa (Rồng))</EffectDesc>
+		</Text>
+	</List>
+</Texts>

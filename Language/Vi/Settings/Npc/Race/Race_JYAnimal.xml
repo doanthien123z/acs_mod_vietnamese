@@ -1,0 +1,86 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>Thỏ yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Thỏ yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>Kê yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Kê yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>Lang yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Lang yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>Xà yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Xà yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>Trư yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Trư yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>Hùng yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Hùng yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>Cáp yêu</DisplayName>
+			<Desc>Dã thú nhận được sức mạnh nhưng chưa thức tỉnh: Cáp yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>Quy Rùa</DisplayName>
+			<Desc>Yêu thú nhận được sức mạnh mà không cần thức tỉnh: Quy Rùa</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>Miêu Yêu</DisplayName>
+			<Desc>Yêu thú nhận được sức mạnh mà không cần thức tỉnh: Miêu Yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>Ngưu Yêu</DisplayName>
+			<Desc>Yêu thú nhận được sức mạnh mà không cần thức tỉnh: Ngưu Yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>Hổ Yêu</DisplayName>
+			<Desc>Yêu thú nhận được sức mạnh mà không cần thức tỉnh: Hổ Yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>Long Bộc (Đêm))</DisplayName>
+			<Desc>Bộc nhân nhận được sức mạnh của âm dương</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>Long Bộc (Ngày))</DisplayName>
+			<Desc>Bộc nhân nhận được sức mạnh của âm dương</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>Ma Long Hóa Thân</DisplayName>
+			<Desc>Hiển lộ sự tà ác trong tâm trí</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>Thần Long Hóa Thân</DisplayName>
+			<Desc>Hiển lộ sự lương thiện trong tâm trí</Desc>
+		</Text>
+	</List>
+</Texts>

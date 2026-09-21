@@ -1,0 +1,36 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report	无成功失败/中性回答	Success!	Failed!	数值参数	文本参数
+LingHun_AskTNpc	0	Nói tất cả những gì Người biết về[TSCHOOL]của[TNAME]!	Ta không biết về[TIT]	Ta sẽ nói..	Thật sự không có gì cả, ta thề đấy.		
+LingHun_AskTNpcData	0	Nói tất cả những gì Người biết về[TXT]liên quan đến[TSCHOOL]của[TNAME]!	Ta không biết... ta không biết....	Ta sẽ nói..	Thật sự không có gì cả, ta thề đấy.		
+LingHun_AskTNpcSecret	0	Nói cho ta biết về tất cả bí mật của[TSCHOOL]của[TNAME]!	Ta không biết... ta không biết....	Ta sẽ nói..	Ta sẽ không bao giờ nói cho ngươi biết, dù ngươi có giết ta đi chăng nữa.		
+							
+							
+LingHun_Die	0	[HENAME] Hấp hối	...				
+LingHun_AskNpc	0	Chỉ cần nói cho ta biết những gì ngươi biết. Hãy nhớ rằng người ta chỉ có một mạng thôi. Nếu câu trả lời của ngươi khiến ta hài lòng, có lẽ ta sẽ tha cho ngươi. Bằng không, ta e rằng ngươi sẽ mất đi cái mạng nhỏ của mình đấy, có phải không??	...	C-Cũng được... Ta sẽ nói cho Ngươi mọi thứ ta biết....	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_DontKnow	0	Nói cho ta nghe về chuyện này, ngươi sẽ có lợi ích gì nếu cứ tiếp tục kháng cự??	... Ta-Ta thực sự không biết....				
+							
+LingHun_Feature	0	Ta biết ngươi được phái đến từ...[TXT] Ta có cách khiến ngươi phải mở miệng. Thế nên, chẳng phải sẽ tốt hơn nếu ngươi giúp ta bớt phiền phức về chuyện này sao?	...	C-Cũng được... Cũng được... Ta sẽ nói cho Ngươi, xin hãy dừng tay lại....	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_Feature_Open	0	Ha ha, ta biết ngươi là kẻ...[TXT] Hãy cho ta thấy.	... (Linh hồn của... [NAME] đang chấn động dữ dội và có vẻ như nó đang cực kỳ đau đớn....)				
+							
+LingHun_LikeItem	0	Ngươi thích...[TXT]chứ gì? Đừng có giả vờ cứng rắn nữa. Nếu ngươi nói cho ta biết những gì ngươi biết, ngươi có thể lấy...[TXT]toàn bộ tùy theo ý muốn. Cớ sao phải làm mọi chuyện phức tạp lên thế? (Hóa ra...[TXT]số lượng lớn bằng huyễn thuật))	...	C-Cũng được... Cũng được... Nếu ngươi giao...[TXT] Ta sẽ nói cho Ngươi....	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_LikeItem_Open	0	Ngươi thích...[TXT]Chứ gì? Đáng tiếc thật, tất cả chúng đều là của ta! (Hóa ra...[TXT]số lượng lớn bằng huyễn thuật và cất chúng đi))	... (Linh hồn của... [NAME] đang chấn động dữ dội và có vẻ như nó đang cực kỳ đau đớn....)				
+							
+LingHun_HateItem	0	Ngươi căm ghét...[TXT]chứ gì? Nếu ngươi nói cho ta biết những gì ngươi biết, ta hứa sẽ không dùng những thứ này... (Hóa ra...[TXT]vây quanh...[HENAME]với số lượng lớn bằng huyễn thuật))	...	C-Cũng được... Cũng được... Ta sẽ nói cho Ngươi, xin hãy dừng tay lại....	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_HateItem_Open	0	Ngươi căm ghét...[TXT]Chứ gì? Hửm?! Ngươi cứng đầu lắm sao? (Hóa ra...[TXT]với số lượng lớn bằng huyễn thuật và đặt lên đỉnh đầu của...[NAME])	... (Linh hồn của... [NAME] đang chấn động dữ dội và có vẻ như nó đang cực kỳ đau đớn....)				
+							
+LingHun_Hobby	0	Ta nghe nói đây là...[TXT]của ngươi phải không? Nếu ngươi nói cho ta biết những gì ngươi biết, ta sẽ thả ngươi đi.	...	Xin hãy dừng tay lại! Xin hãy dừng tay lại! Nói đây! Ta sẽ nói cho Ngươi mọi thứ ta biết.!	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_Hobby_Open	0	Hả? Ta nghe nói đây là...[TXT]của ngươi phải không? Ngươi không biết là bản thân khá có tiếng tăm sao? Nhưng cứ yên tâm, ta sẽ dùng thứ này hủy hoại danh tiếng của ngươi và khiến ngươi chìm trong tuyệt vọng suốt đời! Hạ ha ha ha!!	... (Linh hồn của... [NAME] đang chấn động dữ dội và có vẻ như nó đang cực kỳ đau đớn....)				
+							
+LingHun_Esoterica	0	Ta nghe tin ngươi rất giỏi về...[TXT]? Mau khai ra, bằng không toàn bộ công pháp của ngươi sẽ chấm dứt vào ngày hôm nay.?	...	C-Cũng được... Ta sẽ nói, ta sẽ kể cho Ngươi mọi thứ ta biết....	Hừ, vậy thì sao? Muốn làm gì thì làm đi....		
+LingHun_Esoterica_Open	0	Kẻ như ngươi mà cũng xứng đáng có...[TXT]sao? Nếu không giao nó cho ta, bảo vật này coi như bỏ phí rồi. Cứ yên tâm, ta sẽ cho ngươi chết thật thống khoái.!	...	C-Cũng được, cũng được, ta đưa cho ngươi... Xin hãy dừng tay lại..	... Hừm......		
+							
+LingHun_Secret	0	Ngươi đã che giấu bí mật về...[TXT]trong suốt một thời gian dài. Ngươi biết gì về nó? Hãy khai hết ra cho ta.!	...	C-Cũng được, cũng được, ta sẽ nói cho Ngươi! Xin hãy tha cho ta....	Ta không biết gì thêm nữa....		
+LingHun_Secret_Open	0	Tell me everything about [TXT], so you can be free.	...	C-Cũng được, cũng được, ta sẽ nói cho Ngươi! Xin hãy tha cho ta....	Ta không biết gì thêm nữa....		
+							
+LingHun_KnowClue	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	Ta biết chuyện này và những chuyện khác nữa. Ta sẽ nói cho ngươi biết tất cả những gì ta biết.!	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		
+LingHun_DontKnowClue	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	Ta không biết về chuyện này, nhưng ta biết một vài thứ có thể liên quan... Ta sẽ nói cho ngươi biết, chỉ cần cho ta chết mà không phải chịu đau đớn....	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		
+LingHun_KnowOtherClue	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	Ta thật sự không biết, nhưng ta biết về một bí mật khác. Ta sẽ khai hết, vì vậy làm ơn dừng tay đi....	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		
+							
+LingHun_KnowSecret	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	T-ta biết, ta sẽ nói cho ngươi biết tất cả những gì ta biết! Làm ơn hãy thả ta ra....	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		
+LingHun_KnowOtherSecret_Open	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	Ta không biết, nhưng ta biết về một bí mật khác. Làm ơn đừng làm thế nữa....	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		
+LingHun_KnowOtherSecret_Close	0	Vì kẻ đó sắp chết rồi, hà tất phải tốn công giữ bí mật? Mau khai ra tất cả manh mối về[TXT] Ta sẽ cho ngươi chết một cách nhanh chóng.	...	Ta không biết về chuyện này, thứ ta biết chẳng liên quan gì cả. Tại sao ngươi phải đối xử với ta như vậy?!	Ta không biết, ta không biết gì cả. Đừng ép buộc ta.!		

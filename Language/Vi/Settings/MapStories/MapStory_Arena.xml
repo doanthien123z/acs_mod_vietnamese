@@ -1,0 +1,10 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="RPGOnlineNpc">
+			<DisplayName>Thử nghiệm</DisplayName>
+			<Selections.0.Display>Tải lên nhân vật</Selections.0.Display>
+			<Selections.1.Display>Kết thù</Selections.1.Display>
+			<Selections.2.Display>Thoát</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

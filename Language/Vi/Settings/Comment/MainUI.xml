@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainUIWorldTime">
+			<Notes>Giới thiệu về Đồng Hồ Thế Giới</Notes>
+			<Title>Đồng Hồ Thế Giới</Title>
+			<Desc>Thời gian của thế giới sẽ tăng lên theo tiến trình của trò chơi.</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Đồng Hồ Thế Giới[/color]</Tips>
+		</Text>
+		<Text Name="MainUIWeather">
+			<Notes>Chỉ dùng để hiển thị gợi ý giới thiệu trong cửa sổ thời tiết.</Notes>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Thời tiết[/color]</Tips>
+		</Text>
+		<Text Name="MainUISectFengShui">
+			<Notes>Giới thiệu về Phong Thủy Tông Môn</Notes>
+			<Title>Phong Thủy Tông Môn</Title>
+			<Desc>Về Phong Thủy Tông Môn</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Phong Thủy Tông Môn[/color]</Tips>
+		</Text>
+		<Text Name="MainUIRoomFengShui">
+			<Notes>Nhận xét về phong thủy phòng</Notes>
+			<Title>Phong thủy phòng</Title>
+			<Desc>Về phong thủy phòng</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Phong thủy phòng[/color]</Tips>
+		</Text>
+		<Text Name="MainUILingShi">
+			<Notes>Nhận xét về Linh Thạch</Notes>
+			<Title>Linh thạch</Title>
+			<Desc>Vật phẩm được công nhận và sử dụng trong giao dịch ở giới tu tiên.</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Linh thạch[/color]</Tips>
+		</Text>
+		<Text Name="MainUIInfluence">
+			<Notes>Nhận xét về thế lực</Notes>
+			<Title>Thế lực</Title>
+			<Desc>Thứ thể hiện ảnh hưởng của tông môn Ngài đối với thế gian, có thể dùng để khuếch trương uy thế của Ngài ở nhân gian.</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Thế lực[/color]</Tips>
+		</Text>
+		<Text Name="MainUIWuXingGraph">
+			<Notes>Nhận xét về quy luật Ngũ Hành</Notes>
+			<Title>Quy luật Ngũ Hành</Title>
+			<Desc>Quy luật Ngũ Hành thể hiện sự tương sinh và tương khắc của ngũ hành gồm: Kim, Mộc, Thủy, Hỏa, Thổ.</Desc>
+			<Tips>Nhấp chuột phải để mở trang giới thiệu[color=#D06508]Quy luật Ngũ Hành[/color]</Tips>
+		</Text>
+	</List>
+</Texts>

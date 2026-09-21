@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Đá, phong ấn, bia đá, ngọc bội, tấm bảng, tháp, đá tảng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRockBlock" sParam="Item">
+			<ThingName>Gạch đá nâu</ThingName>
+			<Desc>Gạch thông thường làm từ đá nâu, có thể dùng để chế tạo nhiều loại thiết bị, nhưng vẻ ngoài và độ hấp dẫn của thành phẩm khá kém.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockBlock" sParam="Item">
+			<ThingName>Gạch đá xám</ThingName>
+			<Desc>Gạch làm từ đá xám, có thể dùng để chế tạo nhiều loại thiết bị, vẻ ngoài và độ hấp dẫn của thành phẩm ở mức trung bình.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleBlock" sParam="Item">
+			<ThingName>Gạch đá cẩm thạch</ThingName>
+			<Desc>Gạch làm từ đá cẩm thạch, có thể dùng để chế tạo nhiều loại thiết bị, vẻ ngoài và độ hấp dẫn của thành phẩm có chất lượng tốt.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeBlock" sParam="Item">
+			<ThingName>Gạch ngọc</ThingName>
+			<Desc>Gạch làm từ ngọc, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneBlock" sParam="Item">
+			<ThingName>Gạch đá thánh</ThingName>
+			<Desc>Gạch làm từ đá thánh, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá thánh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneBlock" sParam="Item">
+			<ThingName>Gạch linh thạch</ThingName>
+			<Desc>Gạch làm từ linh thạch, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalBlock" sParam="Item">
+			<ThingName>Gạch linh tinh</ThingName>
+			<Desc>Gạch làm từ linh tinh, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh tinh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

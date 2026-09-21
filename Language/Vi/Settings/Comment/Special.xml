@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SpecialZhen">
+			<Notes>Giới thiệu Trận Pháp</Notes>
+			<Title>Trận pháp</Title>
+			<Desc>Ngưng tụ sức mạnh của vô số người thành một, đó chính là cảnh giới tối cao của Trận Đạo.</Desc>
+		</Text>
+		<Text Name="SpecialElixirGas">
+			<Notes>Giới thiệu về Luyện Đan Khí</Notes>
+			<Title>Luyện Đan Khí</Title>
+			<Desc>Luyện Đan Khí Tông Môn</Desc>
+		</Text>
+		<Text Name="SpecialSacrific">
+			<Notes>Giới thiệu về Tế Lễ Yêu Thú</Notes>
+			<Title>Hiến tế yêu thú</Title>
+			<Desc>Cửa sổ Tế Lễ Yêu Thú</Desc>
+		</Text>
+		<Text Name="SpecialMutation">
+			<Notes>Giới thiệu về Thiên Đạo Hỗn Loạn</Notes>
+			<Title>Thiên Đạo Hỗn Loạn</Title>
+			<Desc>Thiên Đạo ở giới này đã tiến vào giai đoạn mạt kỳ, càng khiến cho quy tắc thiên đạo vốn đã rối loạn trở nên bất ổn hơn.</Desc>
+		</Text>
+	</List>
+</Texts>

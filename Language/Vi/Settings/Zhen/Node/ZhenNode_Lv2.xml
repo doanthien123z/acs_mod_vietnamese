@@ -1,0 +1,310 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv2_4_1">
+			<DisplayName>Thiên Địa</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_2">
+			<DisplayName>Gió và sét</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_3">
+			<DisplayName>Âm đổi Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_4">
+			<DisplayName>Dương đổi Âm</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_5">
+			<DisplayName>Thuần Âm</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv2_4_6">
+			<DisplayName>Thuần Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_1">
+			<DisplayName>Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_2">
+			<DisplayName>Địa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_3">
+			<DisplayName>Thủy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_4">
+			<DisplayName>Hỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_5">
+			<DisplayName>Lôi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_6">
+			<DisplayName>Phong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_7">
+			<DisplayName>Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_1_8">
+			<DisplayName>Trạch Quốc</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_9">
+			<DisplayName>Khai thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_10">
+			<DisplayName>Khai thế</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_11">
+			<DisplayName>Thâm uyên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_12">
+			<DisplayName>Hỏa bất diệt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_13">
+			<DisplayName>Lôi phẫn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_14">
+			<DisplayName>Phong nhu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_15">
+			<DisplayName>Kiên Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_16">
+			<DisplayName>Hỷ Lạc Trạch</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_17">
+			<DisplayName>Hòa Bình</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_18">
+			<DisplayName>Quyền năng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_19">
+			<DisplayName>Thịnh vượng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_20">
+			<DisplayName>Phú quý</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_21">
+			<DisplayName>Kỳ vọng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_22">
+			<DisplayName>Nguyện vọng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_23">
+			<DisplayName>Cứu trợ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_24">
+			<DisplayName>Đình trệ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_25">
+			<DisplayName>Nhiệt huyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_26">
+			<DisplayName>Chia lìa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_27">
+			<DisplayName>Tiến cấp</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_28">
+			<DisplayName>Hợp nhất</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_29">
+			<DisplayName>Thu thập</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_30">
+			<DisplayName>Suy ngẫm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_31">
+			<DisplayName>Thuần khiết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_32">
+			<DisplayName>Hồi Quy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_33">
+			<DisplayName>Ấm áp</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_34">
+			<DisplayName>Thôn phệ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_35">
+			<DisplayName>Mầm non</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_36">
+			<DisplayName>Theo dõi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_37">
+			<DisplayName>Mở rộng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_38">
+			<DisplayName>Thoái lui</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_39">
+			<DisplayName>Khiêm tốn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_40">
+			<DisplayName>Dư thừa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_41">
+			<DisplayName>Phiêu Bạt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_42">
+			<DisplayName>Trở Ngại</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_43">
+			<DisplayName>Sức Hút</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_44">
+			<DisplayName>Phát triển</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_45">
+			<DisplayName>Tình bằng hữu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_46">
+			<DisplayName>Lún sâu</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_47">
+			<DisplayName>Phóng khoáng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_48">
+			<DisplayName>Lễ nghi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_49">
+			<DisplayName>Hoàn mỹ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_50">
+			<DisplayName>Cách mạng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_51">
+			<DisplayName>Gia tộc</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_52">
+			<DisplayName>Xung đột</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_53">
+			<DisplayName>Đội quân</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_54">
+			<DisplayName>Tự do</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_55">
+			<DisplayName>Bỏ qua</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_56">
+			<DisplayName>Bất toàn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_57">
+			<DisplayName>Gian khổ</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_58">
+			<DisplayName>Lan tỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_59">
+			<DisplayName>Bước Chân</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_60">
+			<DisplayName>Tiếp Cận</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_61">
+			<DisplayName>Tân Nương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_62">
+			<DisplayName>Giảm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_63">
+			<DisplayName>Kẻ Phản Kháng</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_64">
+			<DisplayName>Giới hạn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_65">
+			<DisplayName>Trung Thành</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_66">
+			<DisplayName>Đối mặt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_67">
+			<DisplayName>Đăng thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_68">
+			<DisplayName>Thời gian duy trì</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_69">
+			<DisplayName>Tai kiếp</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_70">
+			<DisplayName>Lò</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_71">
+			<DisplayName>giếng nước</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_2_72">
+			<DisplayName>Siêu việt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_1">
+			<DisplayName>Vũ Trụ Kiếm Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_2">
+			<DisplayName>Vũ Trụ Pháp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_3">
+			<DisplayName>Vũ Trụ Giáp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_4">
+			<DisplayName>Đại Địa Kiếm Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_5">
+			<DisplayName>Đại Địa Pháp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_6">
+			<DisplayName>Đại Địa Giáp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_7">
+			<DisplayName>Lôi Đình Kiếm Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_8">
+			<DisplayName>Lôi Đình Pháp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_9">
+			<DisplayName>Lôi Đình Giáp Quyết</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_10">
+			<DisplayName>Phong Kiếm Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_11">
+			<DisplayName>Phong Pháp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_12">
+			<DisplayName>Phong Giáp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_13">
+			<DisplayName>Thủy Kiếm Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_14">
+			<DisplayName>Thủy Pháp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_15">
+			<DisplayName>Thủy Giáp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_16">
+			<DisplayName>Hỏa Kiếm Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_17">
+			<DisplayName>Hỏa Pháp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_18">
+			<DisplayName>Hỏa Giáp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_19">
+			<DisplayName>Thổ Kiếm Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_20">
+			<DisplayName>Thổ Pháp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_21">
+			<DisplayName>Thổ Giáp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_22">
+			<DisplayName>Biến Kiếm Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_23">
+			<DisplayName>Biến Pháp Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv2_3_24">
+			<DisplayName>Biến Giáp Thuật</DisplayName>
+		</Text>
+	</List>
+</Texts>

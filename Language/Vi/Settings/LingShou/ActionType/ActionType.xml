@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Rest">
+			<Desc>Nghỉ ngơi</Desc>
+			<Tip>Ngủ để hồi phục thể lực</Tip>
+		</Text>
+		<Text Name="Eat">
+			<Desc>Ăn</Desc>
+			<Tip>Dùng bữa: Khi bước vào giai đoạn học tập, Người có thể chọn thức ăn cho nó.</Tip>
+		</Text>
+		<Text Name="Fun">
+			<Desc>Đùa giỡn</Desc>
+			<Tip>Vui đùa: Các hành vi đa dạng sẽ làm tăng tâm ý của nó.</Tip>
+		</Text>
+		<Text Name="Shit">
+			<Desc>Đại tiểu tiện</Desc>
+			<Tip>Có thể đại tiểu tiện tại nhiều vị trí khác nhau.</Tip>
+		</Text>
+		<Text Name="Attack">
+			<Desc>Tấn công</Desc>
+			<Tip>Tấn công mọi loại nhân vật</Tip>
+		</Text>
+		<Text Name="Help">
+			<Desc>Hỗ trợ</Desc>
+			<Tip>Đôi khi giúp đỡ nội môn đệ tử, đôi khi giúp đỡ ngoại môn đệ tử.</Tip>
+		</Text>
+		<Text Name="HighHelp">
+			<Desc>Hỗ trợ tu luyện</Desc>
+			<Tip>Hỗ trợ trong việc tu luyện (Yêu cầu 80 điểm thông minh khi mở khóa))</Tip>
+		</Text>
+		<Text Name="Carry">
+			<Desc>Vận chuyển nhân vật</Desc>
+			<Tip>Di chuyển nhân vật bị ngất hoặc đã chết (Yêu cầu 50 điểm thông minh để mở khóa))</Tip>
+		</Text>
+		<Text Name="Train">
+			<Desc>Tu luyện</Desc>
+			<Tip>Tu luyện sẽ gia tăng toàn bộ chỉ số và hiệu quả của nó có thể được gia tăng thông qua thức ăn và đồ uống. Thức ăn và đồ uống càng cao cấp, hiệu quả tu luyện càng lớn (Phải đạt đến giai đoạn học tập để mở khóa).) </Tip>
+		</Text>
+	</List>
+</Texts>

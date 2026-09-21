@@ -1,0 +1,92 @@
+ID	Desc	HelpTitle
+
+1	Nhóm lửa	Châm lửa
+2	Đốn củi	Đốn củi
+3	Xây giếng	Múc nước
+4	Làm thịt khô	Nấu ăn
+5	Xây khu sản xuất vật liệu	Khu sản xuất vật liệu
+6	Sản xuất 5 khối gỗ từ khu sản xuất vật liệu	Sản xuất gỗ
+7	Thiết lập khu vực lưu trữ	Xây khu vực lưu trữ
+8	Mở và kiểm tra bộ lọc khu vực lưu trữ	Thiết lập khu vực lưu trữ
+9	Mở và kiểm tra bảng tâm trạng nhân vật	Kiểm tra tâm trạng
+10	Xây phòng có giường rồi giao giường cho đệ tử	Sắp xếp phòng ở
+11	Xây nơi làm việc	Nơi làm việc
+12	Chế tạo nông cụ từ nơi làm việc	Chế tạo nông cụ
+13	Chỉ định ruộng và trồng lúa mì	Trồng lúa mì
+14	Chế tạo cung tên từ trạm chế tác	Chế tạo cung tên
+15	Giao cung tên cho thợ săn	Trang bị cung tên
+16	Xuất săn	Xuất săn!
+17	Chế tạo cuốc từ trạm chế tác	Chế tạo cuốc
+18	Giao cuốc cho thợ mỏ	Trang bị cuốc
+19	Ban lệnh khai thác để thu thập quặng	Thu thập quặng
+20	Mở bảng công việc và đặt độ ưu tiên thành Thợ	Phân công thợ
+21	Cho đệ tử dùng Tạo Hóa Đan	Dùng Tạo Hóa Đan
+22	Cho đệ tử thăng cấp	Thăng cấp thành Nội môn
+23	Xây dựng và cấp phòng cho đệ tử nội môn	Sắp xếp phòng đệ tử nội môn
+24	Lập tông môn mới	Lập tông môn mới
+25	Phái đệ tử ra ngoài phiêu lưu	Phiêu lưu lần đầu
+26	Thiết lập khu vực giao thương	Khu vực giao dịch
+27	Giao thương với thương nhân lưu động	Giao thương
+28	Thiết lập vườn dược liệu và trồng Linh Diệp	Trồng Linh Diệp
+29	Xây bàn chế tác	Bàn chế tác
+30	Xây lò luyện đan	Lò luyện đan
+31	Xây đài quan sát	Xây đài quan sát
+32	Chạm vào Thái Cực ở góc trên bên phải để kiểm tra Ngũ Hành Đồ	Ngũ Hành Đồ
+33	Xây giường bằng vật liệu Kim hành	Giường Kim hành
+34	Theo quy luật Thổ sinh Kim, hãy xây đèn dầu bằng vật liệu Thổ cạnh giường Kim hành	Hành sinh thành
+35	Trang trí liên tục xung quanh giường Kim hành bằng vật liệu Thổ để giường đạt cát lợi cực hạn	Giường cát lợi
+36	Chọn phòng và kiểm tra phong thủy của phòng	Phong thủy phòng
+37	Xây dựng căn phòng đại cát	Phòng cát lợi
+38	Kiểm tra thuộc tính công pháp của đệ tử nội môn rồi xây giường bằng vật liệu tương sinh	Phòng tương thích công pháp
+39	Chạm vào biểu tượng Thái Cực để vào chế độ phong thủy	Chế độ phong thủy
+40	Khiến mọi kiến trúc phong thủy trong tông môn đạt ít nhất cấp Cát tường	Đại cát
+41	Chặt cây linh thụ để thu thập linh mộc	Chặt linh thụ
+42	Tạo bồ đoàn rồi ban cho đệ tử nội môn	Ban bồ đoàn
+43	Tạo giá đặt cạnh bồ đoàn rồi đặt linh mộc lên	Tụ khí
+44	Mở bảng Linh cảm rồi học bất kỳ công pháp nào	Linh cảm lần đầu
+45	Thiết lập mục tiêu đệ tử là "Tâm""	Thiết lập mục tiêu là Tâm
+46	Thiết lập mục tiêu là "Tu luyện" sau khi đạt Tâm 75	Thiết lập mục tiêu là Tu luyện
+47	Cố gắng đột phá khi đệ tử nội môn gặp bình cảnh	Đột phá cảnh giới
+48	Cố gắng tạo pháp bảo từ bàn chế tạo	Chế tạo pháp bảo
+49	Sản xuất đan dược từ lò luyện đan	Luyện đan
+50	Vẽ bùa tùy ý	Vẽ bùa
+51	Xác định cổ vật phong thủy	Cổ vật phong thủy
+52	Đặt cổ vật vào phòng để kích hoạt hiệu quả	Đặt để kích hoạt
+53	Quy hoạch khu vực nuôi thú	Khu vực nuôi thú
+54	Thuần hóa linh thú	Huấn thú
+55	Trồng linh căn	Trồng linh căn
+56	Khiến linh căn trưởng thành	Linh căn trưởng thành
+57	Bồi dưỡng linh căn	Bồi dưỡng linh căn
+58	Kết nối tâm linh với linh căn	Kết nối tâm linh
+59	Ghé thăm cổ hiền giả để hỏi về linh thú thượng cổ	Cổ hiền giả
+60	Sử dụng phòng đạt Đại cát để áp chế động phủ bí ẩn	Sơn động bí ẩn
+61	Vào cảnh quan tự nhiên	Cảnh quan tự nhiên
+62	Xây dựng cơ quan	Xây dựng cơ quan
+63	Phái 10 đệ tử ngoại môn cho cơ quan	Phái đệ tử ngoại môn
+64	Chọn chính sách của cơ quan và giải quyết sự kiện chính sách	Chọn chính sách
+65	Xây dựng cơ quan một lần	Xây dựng cơ quan
+66	Thăm cơ quan và thu thập tín ngưỡng một lần	Thu thập tín ngưỡng
+67	Trò chuyện với bất kỳ nhân vật nào để nhận tin nhắn	Nhận tin nhắn
+68	Tặng một món quà yêu thích cho tông chủ	Đúng trọng tâm
+69	Nhận quyền gia nhập tông môn	Nhận quyền
+70	Thăng cấp đệ tử bằng Thần Kinh	Tu luyện thần đạo
+71	Mua "Thú Quyển" từ Bách Trùng Sơn và chế tạo Khai Trí Đan	Khai Trí Đan
+72	Nhận linh thú thức tỉnh	Linh thú thức tỉnh
+73	Đặt linh thú thức tỉnh vào chỗ ở thoải mái	Sắp xếp chỗ ở thoải mái
+74	Khiến linh thú thức tỉnh nhận được mảnh tư duy	Nhận mảnh tư duy
+75	Khiến linh thú thức tỉnh nhận được tư duy	Nhận tư duy
+76	Khiến linh thú thức tỉnh nhận được mảnh trí tuệ	Mảnh trí tuệ
+77	Khiến linh thú thức tỉnh khai trí tuệ	Khai trí tuệ
+78	Nhận tri thức linh hồn	Tri thức linh hồn
+79	Chuyển hóa ngũ hành của tri thức linh hồn thông qua thôn phệ	Chuyển hóa ngũ hành
+80	Thăng cấp đệ tử bằng Thể Kinh	Tu luyện thể đạo
+81	Thăng cấp đệ tử bằng Phù Kinh	Tu luyện phù đạo
+82	Nhận bí kíp trận pháp từ thi thể Đại sư huynh ở Đồng Sơn	Tàn tích quen thuộc
+83	Thiết kế trận pháp trong menu trận pháp	Thiết kế trận pháp
+84	Xây dựng trận pháp thành công	Xây dựng trận pháp
+85	Trang bị áo choàng	Mặc áo choàng
+86	Phong ấn khế ước bằng kỳ tích	Phong ấn khế ước
+87	Nhận thiệp mời đấu giá từ thương nhân rong	Thiệp mời đấu giá
+88	Tham gia đấu giá	Tham gia đấu giá
+89	Nhận linh hồn mảnh	Nhận linh mảnh
+90	Hoàn thành nhiệm vụ liên kết	Liên kết

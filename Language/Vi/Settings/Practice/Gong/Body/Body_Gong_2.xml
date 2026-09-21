@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_2">
+			<DisplayName>Phá Thiên Kim Thể</DisplayName>
+			<Desc>Một môn công pháp luyện thể do một vị nhân tộc đại năng sáng tạo ra từ thời cổ đại, dựa trên công pháp luyện thể của yêu thú thời hồng hoang. Môn công pháp này nổi tiếng với sự hung hãn và bá đạo, tôi luyện xương cốt để tạo ra một thể phách kiên cố và cường đại, cuối cùng sinh ra một thể xác bất bại có thể phá hủy cả hư không.</Desc>
+			<SelectDesc>Bước chân vào con đường luyện thể bất tử nghĩa là ngươi phải dung hợp thân thể, chân khí và nguyên thần làm một. Điều này khiến ngươi không thể triển khai pháp thuật hay thậm chí sử dụng pháp bảo. Thứ duy nhất ngươi có thể dựa vào chính là thân thể của mình. Biết được điều này, ngươi có còn muốn bước chân vào con đường luyện thể bất tử nữa không??</SelectDesc>
+			<Stages.0.DisplayName>Giai đoạn Luyện Thể</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tạo Thể</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Giai đoạn Tẩy Tủy</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Phạt Tủy</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Giai đoạn Ngưng Tụ Linh Thể</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Dung Hợp Thân Tâm</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Thần Biến Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Kiếp Thể</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

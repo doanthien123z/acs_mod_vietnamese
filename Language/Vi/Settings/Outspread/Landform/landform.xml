@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Forest">
+			<DisplayName>Rừng rậm</DisplayName>
+		</Text>
+		<Text Name="Plain">
+			<DisplayName>Bình nguyên</DisplayName>
+		</Text>
+		<Text Name="Mountain">
+			<DisplayName>Núi</DisplayName>
+		</Text>
+		<Text Name="Aqua">
+			<DisplayName>Dòng sông</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,63 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_CapeBase" sParam="Item">
+			<Item.FabaoSuffix>Tơ, sợi, lụa</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cape_Nomal1" sParam="Item">
+			<ThingName>Liệt Diễm Bào</ThingName>
+			<Desc>Áo choàng được giới tu tiên ưa chuộng.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal2" sParam="Item">
+			<ThingName>Vân Ẩn Bào</ThingName>
+			<Desc>Áo choàng được giới tu tiên ưa chuộng.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal3" sParam="Item">
+			<ThingName>Hắc Ám Bào</ThingName>
+			<Desc>Áo choàng được giới tu tiên ưa chuộng.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Nomal4" sParam="Item">
+			<ThingName>Quang Minh Bào</ThingName>
+			<Desc>Áo choàng được giới tu tiên ưa chuộng.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp1" sParam="Item">
+			<ThingName>Chu Lưu</ThingName>
+			<Desc>Áo choàng với hoa văn tinh xảo, là biểu tượng của người chiến thắng cuộc thi đấu khí trong Lễ hội Côn Luân.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp2" sParam="Item">
+			<ThingName>Phần Thiên Hỏa</ThingName>
+			<Desc>Biểu tượng của chiến thắng trước Hỏa Phượng. Hoa văn trên áo thể hiện bản chất cốt lõi trên cơ thể Hỏa Phượng, vô cùng bí ẩn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp3" sParam="Item">
+			<ThingName>Băng Vân</ThingName>
+			<Desc>Biểu tượng của chiến thắng trước Thủy Long. Hoa văn trên áo thể hiện bản chất cốt lõi trên cơ thể Thủy Long, vô cùng bí ẩn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp4" sParam="Item">
+			<ThingName>Đại vận</ThingName>
+			<Desc>Áo choàng với hoa văn tinh xảo, là biểu tượng của người chiến thắng cuộc thi Luyện Khí trong Lễ hội Côn Luân.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp5" sParam="Item">
+			<ThingName>Đan Tê</ThingName>
+			<Desc>Áo choàng với hoa văn tinh xảo, là biểu tượng của người chiến thắng cuộc thi Luyện Đan trong Lễ hội Côn Luân.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp6" sParam="Item">
+			<ThingName>Bộ Ảnh</ThingName>
+			<Desc>Áo choàng với hoa văn tinh xảo, là biểu tượng của người chiến thắng cuộc thi Kỹ năng Pháp bảo trong Lễ hội Côn Luân.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp7" sParam="Item">
+			<ThingName>Vạn Vật</ThingName>
+			<Desc>Áo choàng đến từ thế giới khác. Hoa văn của nó tượng trưng cho việc mùa đông kết thúc, mùa xuân đang đến, vạn vật hồi sinh.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp8" sParam="Item">
+			<ThingName>Ẩn Ảnh Thể</ThingName>
+			<Desc>Biểu tượng của chiến thắng trước Thiên Long. Hoa văn trên áo thể hiện bản chất Âm trên cơ thể Thiên Long, vô cùng bí ẩn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp9" sParam="Item">
+			<ThingName>Tỏa Quang Vũ</ThingName>
+			<Desc>Biểu tượng của chiến thắng trước Thiên Long. Hoa văn trên áo thể hiện bản chất Dương trên cơ thể Thiên Long, vô cùng bí ẩn.</Desc>
+		</Text>
+		<Text Name="Item_Cape_Sp10" sParam="Item">
+			<ThingName>Tự Nhiên Đạo</ThingName>
+			<Desc>Áo choàng với hoa văn tinh xảo, là biểu tượng của người chiến thắng cuộc thi Luận Đạo trong Lễ hội Côn Luân. Nghe nói hoa văn trên áo ẩn chứa đạo lý cổ xưa, đúng như câu nói: Hiểu thấu tiền nhân chính là hiểu thấu bản chất của Đạo, Tự Nhiên Đạo.</Desc>
+		</Text>
+	</List>
+</Texts>

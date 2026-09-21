@@ -1,0 +1,11 @@
+ID	Desc
+
+1	Tu sĩ mới
+2	Phân công công việc
+3	Sáng lập tông môn
+4	Ngũ hành và Phong thủy
+5	Con đường tu hành
+6	Thượng cổ dị thú
+7	Tiên và Phàm
+8	Yêu ma nổi loạn
+9	Bí tịch

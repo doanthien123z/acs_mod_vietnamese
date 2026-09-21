@@ -1,0 +1,132 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>Đan khí bão hòa</DisplayName>
+			<StoryDesc>Đan khí tràn ngập trong không khí, khiến linh khí trở nên náo động hơn</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>Tiên thiên chân khí</DisplayName>
+			<StoryDesc>Đan khí tràn ngập trong không khí, khiến linh khí trở nên náo động hơn</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>Kim chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>Mộc chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>Thủy chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>Hỏa chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>Thổ chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>Hủy diệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>Cuồng bạo chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>Dung hợp chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>Tụ khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>Nguyên đan</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>Liệt hỏa chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>Ổn định chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>Lụi tàn chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>Tràn đầy chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>Hôi tàn chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>Giáp mộc chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>Ất mộc chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>Mậu thổ chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>Canh kim chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>Nhâm thủy chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>Tân kim chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>Bính hỏa chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>Quý thủy chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>Kỷ thổ chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>Đinh hỏa chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>Kim tuyệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>Mộc tuyệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>Thủy tuyệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>Hỏa tuyệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>Thổ tuyệt chân khí</DisplayName>
+			<StoryDesc>Đan khí nồng đậm lan tỏa khắp bầu không khí</StoryDesc>
+		</Text>
+	</List>
+</Texts>

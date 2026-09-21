@@ -1,0 +1,1246 @@
+<Helps>
+	<List>
+		<Help Name="1">
+			<Title>Giới thiệu cơ bản</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="2">
+			<Title>Giao diện nhân vật</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="3">
+			<Title>Nhiệm vụ của ngoại môn đệ tử</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="4">
+			<Title>Cơ bản xây dựng phòng ốc</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="5">
+			<Title>Ngũ hành và phong thủy</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="6">
+			<Title>Tu luyện của nội môn đệ tử</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="7">
+			<Title>Tông môn chiến</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="8">
+			<Title>Buôn bán và mở rộng lãnh thổ</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="9">
+			<Title>Tu luyện thần đạo</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="10">
+			<Title>Bí mật và xã hội</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="11">
+			<Title>Chăm sóc linh thú trấn sơn</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="12">
+			<Title>Hóa hình của linh thú</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="13">
+			<Title>Tu luyện thể tu bất diệt</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="14">
+			<Title>Đạo hồn</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="P1">
+			<Title>Hệ thống khác</Title>
+			<Text>[img]ui/Help_en/001[/img]</Text>
+		</Help>
+		<Help Name="C1" Root="1">
+			<Title>Ý tưởng trò chơi</Title>
+			<Text><![CDATA[[img]ui/Help_en/002[/img]
+			Amazing Cultivation Simulator Đây là một trò chơi mô phỏng roguelike kết hợp các yếu tố từ nhiều thể loại game bao gồm sinh tồn, nhập vai, chiến thuật và nhiều hơn nữa. 
+			
+			Từ góc nhìn của thiên đạo, Người sẽ hướng dẫn các đệ tử sinh tồn, sản xuất và cuối cùng xây dựng tông môn của riêng mình. Sau đó, họ sẽ vượt qua muôn vàn kiếp nạn để phi thăng tiên giới. Do đó, Người có thể[color=#2E589A]ban hành mệnh lệnh chung[/color]cho nhân vật, và nhân vật sẽ hoàn thành mệnh lệnh của Người theo lịch trình làm việc của họ. Trong phần lớn các trường hợp, Người không thể trực tiếp yêu cầu nhân vật làm một công việc cụ thể nào đó. 
+			Kiểm tra tâm trạng và cảm xúc của từng nhân vật trong vai trò[color=#2E589A]người quan sát[/color]chính là niềm vui của trò chơi này.]]></Text>
+		</Help>
+		<Help Name="C2" Root="1">
+			<Title>Điều khiển</Title>
+			<Text><![CDATA[
+				[color=#9e6404]Điều chỉnh góc nhìn[/color]
+					Sử dụng nút giữa của chuột, nút W A S D hoặc các phím mũi tên để di chuyển góc nhìn. 
+				[img]ui/Help_en/003[/img]
+				[color=#9e6404]Tốc độ trò chơi[/color]
+					Sử dụng các nút ở góc trên bên trái để điều chỉnh tốc độ trò chơi. Bốn nút đó là: Tạm dừng (Phím tắt: Spacebar), Tốc độ 1x, Tốc độ 2x, Tốc độ 3x (Sử dụng phím Q để giảm tốc độ trò chơi và sử dụng phím E để tăng tốc độ.) 
+				[img]ui/Help_en/004[/img] 
+				[color=#9e6404]Chọn và hủy[/color]
+					Nhấp chuột trái để chọn mục tiêu, nhấp chuột phải để hủy chọn. 
+				[img]ui/Help_en/005[/img]]]></Text>
+		</Help>
+		<Help Name="C3" Root="1">
+			<Title>Phím tắt</Title>
+			<Text><![CDATA[[color=#9e6404]Xem các phím tắt tùy chỉnh trong menu hệ thống.[/color]]]></Text>
+		</Help>
+		<Help Name="21" Root="2">
+			<Title>Menu nhân vật</Title>
+			<Text><![CDATA[[img]ui\Help2_en\001[/img] 
+				Giao diện nhân vật chứa thông tin khác nhau của nhân vật. Người có thể xem các chỉ số cơ bản như[color=#D06508]Độ đói[/color], [color=#D06508]Lượng chân khí[/color], [color=#D06508]Tâm trạng[/color], Và các thứ khác
+				Các nút ở góc trên bên trái của bảng nhân vật liên quan đến chiến đấu. Sử dụng chúng để ra lệnh tấn công/né tránh.
+				Các nút ở phía trên bảng menu dùng để tương tác trực tiếp. Sử dụng chúng để ra lệnh cụ thể tương tác trực tiếp với nhân vật.
+				Bảng thần thông ('Pháp bảo' trong chiến đấu) nằm ở bên phải menu nhân vật, có thể dùng để xem/sử dụng thần thông hoặc pháp bảo mà nhân vật có thể sở hữu.]]></Text>
+		</Help>
+		<Help Name="22" Root="2">
+			<Title>Trạng thái cơ bản</Title>
+			<Text><![CDATA[
+				Cảm nhận: Khả năng của nhân vật trong việc thăm dò và thu thập thông tin từ thế giới bên ngoài, ảnh hưởng đến tầm nhìn và hiệu quả làm việc của nhân vật.
+				Thể chất: Sức mạnh cơ thể của nhân vật, ảnh hưởng đến tuổi thọ, khả năng chịu đựng lạnh nóng và hiệu quả làm việc tay chân.
+				Mị lực: Khả năng được người khác yêu mến của nhân vật, dù là thông qua ngoại hình hay tính cách, ảnh hưởng đến kỹ năng xã hội của nhân vật.
+				Trí tuệ: Khả năng tư duy của nhân vật, ảnh hưởng đến tốc độ học tập. Vận may: Mức độ được thiên đạo ưu ái, ảnh hưởng đến các chỉ số liên quan đến cơ duyên. 
+				Tiềm năng: Nhân vật trẻ tuổi có chỉ số tốt sẽ có tiềm năng cao hơn nhân vật lớn tuổi. Tiềm năng ảnh hưởng đến tốc độ tu luyện cơ bản và dung lượng đan điền của nhân vật. 
+				[img]ui/Help_en/006[/img]]]></Text>
+		</Help>
+		<Help Name="23" Root="2">
+			<Title>Tâm trạng và Nhu cầu</Title>
+			<Text><![CDATA[
+				Nhìn chung, Người có thể hiểu nhu cầu của nhân vật thông qua tâm trạng của họ. Nếu nhân vật "cảm thấy lạnh", nghĩa là nhân vật cần các phương pháp giữ ấm hiệu quả hơn. 
+				Người có thể xem tâm trạng của nhân vật thông qua giao diện.[color=#2E589A]Tâm trạng và Xã hội[/color]Trong menu nhân vật.
+				
+				Người nên chú ý đến tâm trạng của nhân vật. Nếu tâm trạng quá tiêu cực, nó sẽ dẫn đến nhiều rắc rối.
+				Đối với đệ tử ngoại môn, tâm trạng tồi tệ nghĩa là họ sẽ[color=#2E589A]Trốn việc[/color]và còn làm tăng mức độ bất mãn. Mức độ bất mãn cao có thể khiến họ rời bỏ tông môn. 
+				[img]ui/Help_en/007[/img]]]></Text>
+		</Help>
+		<Help Name="24" Root="2">
+			<Title>Quan hệ xã hội</Title>
+			<Text><![CDATA[
+				Nhân vật sẽ xây dựng mối quan hệ với những người khác trong tông môn: bạn bè, người yêu, đối thủ tình trường, v.v.
+				Nhân vật sẽ có những tương tác khác nhau tùy thuộc vào mối quan hệ: bạn bè và người yêu thường trò chuyện với nhau, trong khi đối thủ và kẻ thù sẽ hạ thấp hoặc thậm chí tấn công lẫn nhau.
+				Vì vậy, việc giữ gìn mối quan hệ tốt đẹp giữa các thành viên trong tông môn là vô cùng quan trọng.
+				
+				Người có thể xem quan hệ xã hội của nhân vật thông qua thẻ.[color=#2E589A]Tâm trạng và Xã hội[/color]Trong menu nhân vật.
+				
+				Nhân vật dùng bữa cùng nhau tại bàn sẽ giúp cải thiện mối quan hệ một cách hiệu quả. Người có thể dùng cách này để quản lý quan hệ xã hội giữa các thành viên trong tông môn. 
+				[img]ui/Help_en/007[/img]]]></Text>
+		</Help>
+		<Help Name="25" Root="2">
+			<Title>Sinh lực</Title>
+			<Text><![CDATA[
+				Người có thể xem tình trạng sức khỏe của nhân vật thông qua[color=#2E589A]Sức khỏe[/color]Trong menu nhân vật. 
+			[color=#9e6404]Vết thương[/color] 
+				[img]ui\Help2_en\032[/img]
+				Khi nhân vật bị thương và không có đan dược phù hợp, nhân vật phụ trách y tế sẽ tự động đến chữa trị cho người bị thương.
+				
+				Sự hồi phục vết thương liên quan đến[color=#D06508]Khả năng hồi phục của người bị thương[/color], [color=#D06508]Kinh nghiệm y thuật của người trị liệu[/color], Và[color=#D06508]Đan dược sử dụng[/color] Nếu người bị thương không hồi phục sau khi trị liệu, hãy thử cải thiện ít nhất một trong các yếu tố trên. 
+				
+			[color=#9e6404]Nội thương[/color]
+				[img]ui\Help2_en\033[/img]
+				Trong quá trình chơi, nhân vật có thể bị thương do tẩu hỏa nhập ma. Nhân vật không thể tự hồi phục từ vết thương do tẩu hỏa nhập ma. Loại tổn thương này chỉ có thể chữa trị bằng cách cho người bị thương[color=#D06508]Dùng đúng loại đan dược[/color]mà thôi
+				Sự hồi phục nội thương liên quan đến[color=#D06508]Chỉ số hồi phục của người bị thương[/color]Và[color=#D06508]Phẩm cấp của đan dược[/color] Nếu người bị thương không hồi phục sau khi trị liệu, hãy thử cải thiện ít nhất một trong các yếu tố trên. 
+			[color=#9e6404]Functions[/color]
+				Thông tin liên quan đến chức năng sẽ nằm ở thẻ sức khỏe, nơi Người có thể xem chức năng của nhân vật có đang hoạt động hay không. Chức năng ảnh hưởng đến hiệu quả của nhân vật khi thực hiện các công việc liên quan. 
+				
+				Đau đớn: Mức độ cảm nhận đau đớn ảnh hưởng đến thần trí của nhân vật. Mỗi nhân vật có khả năng chịu đau khác nhau. Thuốc giảm đau có thể được sử dụng để làm dịu cơn đau.
+				Thần trí: Ý thức của nhân vật bị ảnh hưởng bởi chấn thương não hoặc đau đớn dữ dội.
+				Kinh mạch: Sự lưu thông linh khí của nhân vật, ảnh hưởng đến quá trình tu luyện và lượng chân khí tối đa của nhân vật.
+				Di chuyển: Khả năng vận động của nhân vật, bị ảnh hưởng bởi chấn thương ở chân hoặc cột sống. Khả năng di chuyển ảnh hưởng đến tốc độ và hiệu suất di chuyển của nhân vật trong hầu hết các công việc. 
+				Sự chính xác: Khả năng điều khiển cơ thể của nhân vật, bị ảnh hưởng bởi chấn thương ở tay hoặc cột sống. Sự khéo léo ảnh hưởng đến hiệu quả làm việc của nhân vật trong hầu hết các công việc. 
+				Quan sát: Khả năng nhận thức thế giới bên ngoài của nhân vật sẽ bị ảnh hưởng khi mắt và tai bị tổn thương. Quan sát ảnh hưởng đến tầm nhìn và hiệu quả của phần lớn công việc. 
+				[img]ui/Help_en/008[/img]]]></Text>
+		</Help>
+		<Help Name="31" Root="3">
+			<Title>Lịch trình</Title>
+			<Text><![CDATA[
+				Người có thể sử dụng giao diện[color=#2E589A]Lịch trình[/color]ở góc bên phải để tiến hành bố trí công việc.
+				Nhân vật sẽ hoàn thành công việc theo thứ tự ưu tiên hiển thị, từ trái sang phải. Nếu công việc không được phân công cho một số nhân vật nhất định trong giao diện công việc, những nhân vật đó sẽ không làm việc.
+				Do đó, việc sử dụng giao diện chiến lược công việc có thể gia tăng hiệu suất của toàn bộ tông môn. 
+				[img]ui/Help_en/009[/img]
+			[color=#9e6404]Sắp xếp thứ tự ưu tiên[/color] 
+				Nhân vật sẽ hoàn thành công việc theo thứ tự ưu tiên trước khi làm các công việc khác. 
+				[img]ui/Help_en/010[/img]
+			[color=#9e6404]Lịch trình của ngoại môn đệ tử[/color]
+				Lịch trình tổng thể cho các hoạt động hàng ngày của ngoại môn đệ tử. Một thời gian biểu hợp lý sẽ sắp xếp cho nhân vật ăn, uống và ngủ nghỉ trước khi tích tụ cảm xúc tiêu cực do đói khát hoặc thiếu ngủ. 
+				[img]ui/Help_en/011[/img]]]></Text>
+		</Help>
+		<Help Name="32" Root="3">
+			<Title>Lệnh xây dựng</Title>
+			<Text><![CDATA[[img]ui/Help_en/012[/img]
+				Người có thể đưa ra lệnh xây dựng tại menu công trình ở góc dưới bên trái.
+				Khi trò chơi tiến triển, sẽ có thêm nhiều công trình được mở khóa.
+				Đừng do dự mà hãy kiến tạo nên một tông môn độc đáo của riêng Người.]]></Text>
+		</Help>
+		<Help Name="33" Root="3">
+			<Title>Lệnh cơ bản</Title>
+			<Text><![CDATA[
+				Người có thể sử dụng thanh lệnh ở phía dưới màn hình để ban hành các lệnh cơ bản. 
+				Người có thể ra lệnh thu thập tài nguyên nhắm vào nhiều đối tượng bằng cách chọn và kéo.
+				
+				Thu hoạch: Thu hoạch sản phẩm từ thực vật như quả và hạt giống trong khu vực được chọn.
+				Đốn củi: Chặt cây trong khu vực được chọn.
+				Khai khoáng: Khai thác khoáng sản trong khu vực được chọn.
+				Dọn dẹp: Dọn dẹp vệ sinh trong khu vực được chọn.
+				Tháo dỡ: Tháo dỡ các công trình trong khu vực được chọn.
+				Thám hiểm: Chỉ định điểm đến để thám hiểm. Nhân vật sẽ tiến về điểm được chọn và giải tán sương mù dọc đường.
+				Dập lửa: Dập tắt ngọn lửa trong khu vực được chọn.
+				Hủy bỏ: Hủy tất cả các lệnh đã ban hành trong khu vực được chọn. [img]ui/Help_en/013[/img]]]></Text>
+		</Help>
+		<Help Name="34" Root="3">
+			<Title>Lệnh sản xuất</Title>
+			<Text><![CDATA[
+				Một số công trình có thể dùng để chế tạo vật phẩm. Nhấp vào 'Sản xuất' trong bảng tương tác của công trình để mở menu sản xuất.
+				Trong menu sản xuất, nhấp chuột trái vào sản phẩm để thêm vào hàng đợi sản xuất. 
+				[img]ui/Help_en/014[/img]
+			[color=#9e6404]Select Main Material[/color]
+				Trong menu sản xuất, nhấp chuột phải vào biểu tượng sản phẩm để chọn nguyên liệu chính dùng để chế tạo vật phẩm này. 
+				[img]ui/Help_en/017[/img]
+			[color=#9e6404]Repeat Manufacture[/color] 
+				Trong menu sản xuất, nhấp chuột trái vào nút 'Lặp lại' trong hàng đợi sản xuất để chọn kiểu lặp lại cho sản phẩm. 
+				[img]ui/Help_en/016[/img]
+			[color=#9e6404]Arrange Queue[/color]
+				Trong menu sản xuất, nhấp chuột trái vào nút 'Ưu tiên cao nhất' trong hàng đợi sản xuất để chọn công việc cần ưu tiên. 
+				[img]ui/Help_en/015[/img]]]></Text>
+		</Help>
+		<Help Name="35" Root="3">
+			<Title>Lệnh tương tác</Title>
+			<Text><![CDATA[
+				Khi một nhân vật được chọn, các lệnh tương tác có thể áp dụng cho nhân vật này sẽ hiển thị ở phía trên thanh nhân vật.
+				Người có thể chọn lệnh tương tác, sau đó chọn mục tiêu để thực hiện hành động tương tác cụ thể cho nhân vật.
+				
+				Các lệnh tương tác cơ bản bao gồm:: 
+				Ăn: Tiêu thụ vật phẩm đã chọn. 
+				Mặc: Trang bị vật phẩm đã chọn. 
+				Tấn công: Tấn công mục tiêu đã chọn. 
+				Tạo pháp bảo: Luyện hóa vật phẩm đã chọn thành pháp bảo.
+				Luyện đan: Đi luyện đan dược. 
+				[img]ui/Help_en/018[/img]]]></Text>
+		</Help>
+		<Help Name="36" Root="3">
+			<Title>Quy hoạch khu vực</Title>
+			<Text><![CDATA[
+				Khi trò chơi tiến triển, Người có thể quy hoạch ba loại khu vực: kho lưu trữ, đất canh tác và vườn thảo dược. 
+				[color=#9e6404]Túi trữ vật[/color]
+				[img]ui\Help2_en\021[/img] 
+				Sau khi quy hoạch khu vực lưu trữ, đệ tử phụ trách vận chuyển sẽ di chuyển các vật phẩm đáp ứng yêu cầu lưu trữ đến khu vực đó. 
+				Người có thể chọn khu vực lưu trữ và thiết lập quy tắc lọc, điều này giúp phân loại vật phẩm và dễ dàng tìm kiếm hơn. 
+				
+				[color=#9e6404]Đất canh tác và vườn thảo dược[/color]
+				[img]ui\Help2_en\019[/img]
+				Sau khi quy hoạch khu vực, đệ tử phụ trách canh tác sẽ đến đây để thực hiện công việc.
+				Người có thể chọn ruộng và loại cây muốn trồng. Tạo môi trường thích hợp có thể đẩy nhanh quá trình sinh trưởng của cây trồng.. 
+				[img]ui\Help2_en\018[/img]
+				[color=#9e6404]Mở rộng[/color]
+				Người có thể mở rộng khu vực hiện có bằng cách vẽ chồng lên các ô chọn.]]></Text>
+		</Help>
+		<Help Name="41" Root="4">
+			<Title>Chọn nguyên liệu chính</Title>
+			<Text><![CDATA[
+				Người có thể chọn[color=#2E589A]Nguyên liệu chính[/color]các loại nguyên liệu khác nhau để chế tạo vật phẩm và công trình.
+				Nguyên liệu chính ảnh hưởng đến màu sắc của công trình. Công trình sẽ kế thừa thuộc tính ngũ hành của nguyên liệu và mang các đặc tính đó. 
+				[img]ui/Help_en/019[/img]
+				
+				[color=#9e6404]Ví dụ:[/color]
+				Tường làm bằng sắt chứa nhiều kim loại, giúp nó cứng cáp và khó bắt lửa hơn tường gỗ. 
+				Đồ nội thất làm từ ngọc thạch sẽ mang thổ tính, khiến nó bền hơn nhưng cũng thu hút hơn. 
+				[img]ui/Help_en/020[/img]]]></Text>
+		</Help>
+		<Help Name="42" Root="4">
+			<Title>Tương tác với công trình</Title>
+			<Text><![CDATA[
+				Một số công trình yêu cầu đệ tử phải đứng ở vị trí quy định mới có thể tương tác.
+				Khi đặt công trình, đừng quên chừa lại không gian tại điểm mà đệ tử có thể tiếp cận để sử dụng.
+				[img]ui/Help_en/021[/img]]]></Text>
+		</Help>
+		<Help Name="43" Root="4">
+			<Title>Phòng</Title>
+			<Text><![CDATA[
+				Phòng là khu vực được bao quanh hoàn toàn bởi tường và cửa. 
+				Diện tích phòng không được nhỏ hơn [color=#2E589A]3[/color] nhưng không lớn hơn [color=#2E589A]400[/color] Ô 
+				Phân loại phòng theo kích thước như sau:
+
+				Cực nhỏ: dưới 10 ô
+				Nhỏ: 10-20 ô 
+				Trung bình: 20-50 ô 
+				Lớn: 50-100 ô 
+				Cực lớn: hơn 100 ô 
+				
+				Tường có thể dùng làm cách nhiệt cho phòng. Kiểm soát nguồn nhiệt trong phòng để duy trì nhiệt độ thoải mái. 
+				
+				Các loại phòng có điểm đánh giá khác nhau. Xem ví dụ bên dưới.: 
+			[img]ui/Help_en/022[/img]
+				Người có thể nâng cao điểm đánh giá của phòng bằng cách lát sàn hoặc đặt thêm đồ nội thất.]]></Text>
+		</Help>
+		<Help Name="51" Root="5">
+			<Title>Ngũ Hành</Title>
+			<Text><![CDATA[
+				Việc thành lập tông môn sẽ mở khóa các công trình.: [color=#2E589A]Tinh Tượng Đài[/color] 
+			[img]ui/Help_en/023[/img]
+				Sau khi xây dựng Tinh Tượng Đài, Người có thể xem mức độ tập trung của ngũ hành tại khu vực cụ thể, cùng ảnh hưởng của mọi vật đến môi trường và phong thủy của công trình. 
+				[color=#9e6404]Ngũ Hành[/color]
+				Di chuột vào khu vực chỉ định ở phía trên màn hình sẽ hiển thị nồng độ ngũ hành. 
+			[img]ui/Help_en/024[/img]
+			[color=#9e6404]Ngũ hành[/color] 
+				Chuột trái vào công trình, khu vực hoặc vật phẩm để kiểm tra nồng độ ngũ hành xung quanh. Vòng tròn đại diện cho hành sẽ hiển thị tùy theo vị trí Người chọn. Màu sắc vòng tròn biểu thị nguyên tố, còn bán kính biểu thị phạm vi ảnh hưởng của vật phẩm đó. 
+				
+				[color=#9e6404]Phong thủy của vật phẩm[/color] Màu xanh lá nghĩa là công trình có phong thủy tốt. Màu càng sáng thì phong thủy càng cát tường. 
+				Màu vàng nghĩa là công trình có phong thủy xấu. Màu vàng sẽ chuyển sang đỏ khi phong thủy càng tệ và mang điềm hung. 
+				Công trình không có màu sắc (như tường) nghĩa là không ảnh hưởng đến phong thủy. 
+				Xem tương tác giữa ngũ hành bên dưới: 
+			[img]ui/Help_en/025[/img]]]></Text>
+		</Help>
+		<Help Name="52" Root="5">
+			<Title>Tu luyện chân khí và ngũ hành</Title>
+			<Text><![CDATA[
+				Tu luyện của nhân vật có mối liên hệ mật thiết với thuộc tính ngũ hành của họ. Nhìn chung, mỗi công pháp tu luyện đều có thuộc tính riêng.
+				
+				Nếu thuộc tính ngũ hành của môi trường xung quanh khắc chế thuộc tính của công pháp, nhân vật sẽ gặp trở ngại lớn trong quá trình tu luyện, thậm chí có thể thất bại hoặc bị thương khi đột phá cảnh giới. 
+				Ngược lại, nếu thuộc tính ngũ hành của môi trường phù hợp với công pháp tu luyện, việc tu luyện và đột phá cảnh giới sẽ trở nên dễ dàng hơn. 
+			[img]ui/Help_en/026[/img]
+				[color=#9e6404]Lấy Thập Lục Bộ Đăng Tiên Quyết (Thủy) làm ví dụ.: [/color]
+				Vì Thổ khắc Thủy, công pháp này không thích hợp với những nơi có nồng độ thổ khí cao. Trong trường hợp này, nên tránh sử dụng đá để làm đồ đạc trong phòng. 
+				Ngược lại, vì Kim sinh Thủy, công pháp này rất thích hợp cho môi trường có nồng độ kim khí cao. Do đó, việc đặt nhiều đồ đạc có thuộc tính Kim trong phòng sẽ giúp ích cho việc tu luyện.
+				]]></Text>
+		</Help>
+		<Help Name="53" Root="5">
+			<Title>Phong thủy và ngũ hành</Title>
+			<Text><![CDATA[
+				Phong thủy mô tả mối quan hệ giữa công trình kiến trúc và môi trường, chịu ảnh hưởng bởi[color=#2E589A]sự tương tác lẫn nhau của ngũ hành.[/color]: 
+				Nếu thuộc tính ngũ hành của công trình không tương thích với môi trường, phong thủy sẽ trở nên xấu. 
+				
+				[color=#9e6404]Lấy bàn gỗ làm ví dụ.:[/color]
+				Nếu có quặng sắt đặt ở gần, phong thủy của chiếc bàn sẽ bị ảnh hưởng do Kim khắc Mộc. 
+				[img]ui/Help_en/036[/img]
+				Nếu xây một cái giếng bên cạnh bàn, phong thủy sẽ tốt hơn vì Thủy sinh Mộc. 
+				[img]ui/Help_en/035[/img]]]></Text>
+		</Help>
+		<Help Name="54" Root="5">
+			<Title>Phong thủy của công trình kiến trúc</Title>
+			<Text><![CDATA[
+			Có hai loại công trình kiến trúc.: 
+			[color=#9e6404]1. Công trình trang trís[/color]
+			Nói chung, các công trình thuộc nhóm[color=#2E589A]Trang trí[/color], [color=#2E589A]Kiến trúc[/color], Và[color=#2E589A]Sàn nhà[/color]sẽ được xếp vào loại này.
+			Công trình trang trí có thể tác động đến thuộc tính của môi trường dựa trên vật liệu chính được sử dụng để xây dựng.
+			Các công trình trang trí bản thân chúng không có phong thủy, chúng thường được dùng để điều chỉnh phong thủy của các công trình có công năng thực tế. 
+			[color=#9e6404]2. Công trình có công năng[/color] 
+			Nói chung, các công trình thuộc nhóm[color=#2E589A]Sinh hoạt hằng ngày[/color], [color=#2E589A]Công việc[/color], [color=#2E589A]Tông môn[/color], Và[color=#2E589A]Tiêu khiển giải trí[/color]sẽ được xếp vào loại này. 
+			Phong thủy sẽ tồn tại trong các công trình có công năng. Bí quyết về "công trình phong thủy" sẽ được hiển thị ở các công trình có công năng (xem bên dưới)) 
+			Phong thủy của công trình có công năng chịu ảnh hưởng bởi sự phân bố ngũ hành tại vị trí của nó. Thuộc tính của công trình càng hòa hợp với vị trí đặt thì phong thủy của công trình càng tốt. 
+			[img]ui/Help_en/038[/img]]]></Text>
+		</Help>
+		<Help Name="55" Root="5">
+			<Title>Phong thủy phòng</Title>
+			<Text><![CDATA[
+			Phong thủy của căn phòng chịu ảnh hưởng bởi các yếu tố sau:  
+			I. Phong thủy của toàn bộ các công trình phong thủy trong phòng 
+			II. Bố cục căn phòng (quá chật chội hoặc trống trải đều làm giảm phong thủy)) 
+			III. Khi cửa phòng quay về hướng đúng, phong thủy sẽ tốt 
+				Cửa phòng hướng Nam: Phòng ngủ, Tông chủ đường 
+				Cửa phòng hướng Đông: Phòng làm việc, Phòng luyện khí, Phòng luyện đan 
+				Cửa phòng hướng Tây: Phòng bếp 
+				
+			Phòng trống sẽ không có phong thủy
+			Khi một căn phòng được bố trí nhiều công trình khác nhau, phong thủy của phòng sẽ được quyết định bởi điểm số phong thủy thấp nhất trong danh sách các công trình có trong phòng (ví dụ như: đừng đặt giường trong phòng bếp, nếu không phong thủy sẽ trở nên kém đi)) 
+			
+			Sau khi xây dựng tinh bàn, Người có thể xem chi tiết phong thủy tại bảng phong thủy của phòng. 
+			[img]ui/Help_en/037[/img]
+			
+			Tình huống đặc biệt:
+			Khi căn phòng có nhiều cửa, phong thủy của phòng sẽ được quyết định theo quy tắc sau: 
+				Phòng nào không có phong thủy thì không tính vào quy tắc này. 
+				1. Nếu chỉ có một cửa dẫn ra bên ngoài, nó sẽ quyết định hướng của căn phòng. 
+				2. Nếu có nhiều hơn hai cửa dẫn ra bên ngoài sẽ gây ra hiện tượng thất thoát phong thủy, khiến điểm phong thủy của căn phòng giảm mạnh. 
+				3. Khi không có cửa dẫn ra bên ngoài, phong thủy của phòng sẽ được quyết định bởi cánh cửa gần hướng chính xác nhất.]]></Text>
+		</Help>
+		<Help Name="56" Root="5">
+			<Title>Phong Thủy Tông Môn</Title>
+			<Text><![CDATA[
+			Phong thủy của tông môn được đánh giá bởi tất cả các căn phòng và công trình kiến trúc khác trong tông môn. 
+			Phong thủy tông môn ảnh hưởng đến vận khí của tất cả đệ tử. Dù ảnh hưởng đến đời sống hàng ngày rất nhỏ, nhưng nó có thể quyết định sự sống chết tại những thời khắc mấu chốt. 
+			Xem phong thủy tông môn tại menu Tông Môn. Sau khi xây dựng đồ hình tinh tú, Người có thể xem trực tiếp bằng nút Phong Thủy ở góc trên bên trái. 
+			[img]ui/Help_en/039[/img]]]></Text>
+		</Help>
+		<Help Name="61" Root="6">
+			<Title>Luyện khí</Title>
+			<Text><![CDATA[
+			Khi nhân vật trở thành đệ tử nội môn, Người có thể chọn hành vi của nhân vật đó bằng cách thay đổi thiết lập sau. 
+			[img]ui\Help_en\028[/img]
+			[color=#9e6404]1. Cân bằng[/color] 
+			Nhân vật sẽ thực hiện bế quan, tu tâm hoặc rèn luyện theo hình thức tối ưu nhất tại thời điểm đó. 
+			[color=#9e6404]2. Bồi dưỡng[/color] 
+			Nhân vật sẽ tập trung vào bồi dưỡng chân khí. 
+			[color=#9e6404]3. Tâm cảnh[/color] 
+			Nhân vật sẽ tập trung vào việc nâng cao trạng thái tâm cảnh. 
+			[color=#9e6404]4. Tu luyện[/color] 
+			Nhân vật sẽ tập trung vào rèn luyện để tăng cường lĩnh ngộ.]]></Text>
+		</Help>
+		<Help Name="62" Root="6">
+			<Title>Tốc độ tu luyện</Title>
+			<Text><![CDATA[
+			Người có thể xem tốc độ tu luyện hiện tại của nhân vật trong menu tu luyện. Hãy chú ý đến mọi yếu tố ảnh hưởng đến tốc độ tu luyện để cải thiện và tăng tốc độ tiến bộ. 
+			[color=#9e6404]1. Độ tương thích công pháp[/color] 
+			Biểu thị độ tương thích giữa thuộc tính cơ bản của nhân vật và công pháp tu luyện. Có thể cải thiện bằng cách nâng cao ngũ duy căn cốt. 
+			[color=#9e6404]2. Độ tương thích thuộc tính[/color] 
+			Biểu thị độ tương thích giữa thuộc tính của khu vực đó và công pháp tu luyện. Có thể nâng cao bằng cách chọn địa điểm tu luyện phù hợp. 
+			[color=#9e6404]3. Nhận truyền thừa[/color] 
+			Nếu nhân vật được sư phụ có cảnh giới cao hơn truyền dạy, tốc độ tu luyện sẽ được cải thiện. Tốc độ sẽ tăng vọt nếu sư phụ tu luyện cùng một loại công pháp. 
+			[color=#9e6404]4. Chân khí cộng thêm[/color]
+			Biểu thị mật độ linh khí trong khu vực đó có phù hợp để tu luyện hay không. Có thể nâng cao bằng cách chọn địa điểm tu luyện phù hợp. 
+			[color=#9e6404]5. Điểm cộng thoải mái[/color]
+			Biểu thị mức độ hỗ trợ của nội thất trong phòng tu luyện đối với người tu tiên. Có thể cải thiện bằng cách tu luyện trong căn phòng có phong thủy tốt. 
+			[color=#9e6404]6. Điểm cộng mùa[/color] 
+			Biểu thị mùa hỗ trợ cho việc tu luyện. Mộc đại diện cho mùa xuân, Hỏa đại diện cho mùa hè, Kim đại diện cho mùa thu, trong khi Thủy đại diện cho mùa đông. Việc đột phá cảnh giới của công pháp hệ Thổ sẽ đạt hiệu quả cao nhất vào cuối mỗi mùa. 
+			[color=#9e6404]7. Điểm cộng tâm trạng[/color] 
+			Biểu thị trạng thái tâm trạng hỗ trợ cho việc tu luyện. Có thể cải thiện bằng cách cung cấp những thứ đệ tử đó mong muốn. 
+			[color=#9e6404]8. Điểm cộng tâm cảnh[/color] 
+			Biểu thị trạng thái tâm cảnh hỗ trợ cho việc tu luyện. Có thể cải thiện bằng cách tu luyện tâm cảnh. 
+			[img]ui/Help_en/027[/img]
+			Sau khi nhân vật tiến vào cảnh giới Kim Đan, căn cơ tu luyện cần thiết để đột phá cảnh giới sẽ tăng lên rất nhiều. Người nên thi triển pháp thuật để hỗ trợ việc tu luyện của đệ tử. 
+			[img]ui/Help_en/040[/img]]]></Text>
+		</Help>
+		<Help Name="63" Root="6">
+			<Title>Thể lực và tu luyện</Title>
+			<Text><![CDATA[
+				Sau khi trở thành đệ tử nội môn, nhân vật sẽ bắt đầu tiêu hao một loại tài nguyên mới gọi là thể lực. Khi sử dụng thể lực, nhân vật có thể tinh luyện và gia tăng chân khí tối đa. 
+				Việc tiêu hao thể lực liên quan trực tiếp đến tốc độ tu luyện. Hiệu quả của việc nâng cao linh hải liên quan đến tiềm năng của nhân vật. 
+				
+				Tiêu thụ thức ăn có thể hồi phục thể lực cho nhân vật. Mỗi lần nhân vật ăn một lượng thức ăn nhất định, họ cũng sẽ hồi phục một lượng thể lực tương ứng. 
+				Khi tu luyện tiến triển, tốc độ trao đổi chất sẽ tăng lên, nhưng nhân vật sẽ có khả năng hấp thụ năng lượng từ tự nhiên. Điều này được gọi là 'Tích cốc và hấp thụ linh khí'.' 
+				Điều chỉnh tốc độ tiêu thụ thức ăn và hiệu quả hấp thụ linh khí để duy trì sự cân bằng giữa tài nguyên tông môn và tốc độ tu luyện. 
+				
+				Ngoài ra, một số loại đan dược hoặc bảo vật hiếm có thể được sử dụng để trực tiếp gia tăng thể lực. 
+			[img]ui/Help_en2/030[/img]]]></Text>
+		</Help>
+		<Help Name="64" Root="6">
+			<Title>Tâm cảnh</Title>
+			<Text><![CDATA[
+			Tư tưởng về tâm cảnh rất quan trọng đối với đệ tử nội môn. 
+			Tâm cảnh của đệ tử nội môn ảnh hưởng đến người đó trên nhiều phương diện, bao gồm:: 
+				1. Sự bồi dưỡng 
+				2. Đột phá cảnh giới 
+				3. Luyện đan 
+				4. Luyện chế pháp bảo 
+				Thông thường, tâm cảnh càng tốt thì kết quả cuối cùng đạt được càng cao. 
+				
+				Trạng thái cảm xúc sẽ ảnh hưởng rất lớn đến tâm cảnh. 
+				Cảm xúc bực bội sẽ làm tổn hại tâm cảnh và khiến quá trình hồi phục tâm cảnh trở nên chậm chạp. Ngược lại, nếu tâm trạng vui vẻ thì sẽ có thể hồi phục tâm cảnh nhanh hơn. 
+				
+				Nếu tâm trạng của đệ tử nội môn quá thấp, họ rất dễ sa chân vào ma đạo. 
+				Khi ở trạng thái đó, Người sẽ không thể khống chế được đệ tử ấy. 
+				[img]ui/Help_en/028[/img]]]></Text>
+		</Help>
+		<Help Name="65" Root="6">
+			<Title>Đột phá cảnh giới</Title>
+			<Text><![CDATA[
+			Khi người tu luyện đạt đến điểm nghẽn, họ sẽ không thể tiếp tục tiến bước, lúc này cần phải phá cảnh để bước sang cảnh giới tu luyện tiếp theo. 
+			Điểm nghẽn có thể chia thành các loại sau::  
+			[color=#9e6404]1. Điểm nghẽn thông thường[/color] 
+			Chọn địa điểm thích hợp để phá cảnh. Nếu giá trị thuộc tính của nhân vật và điều kiện của vị trí được chọn đáp ứng yêu cầu, cơ hội phá cảnh thành công sẽ càng cao hơn. 
+			[color=#9e6404]2. Điểm nghẽn lịch lãm[/color] 
+			Loại phá cảnh này đòi hỏi người tu hành phải ra ngoài lịch lãm. Nếu kỹ năng xã giao của nhân vật đủ cao, họ sẽ có thể dễ dàng phá cảnh. 
+			[color=#9e6404]3. Điểm nghẽn hư không[/color] 
+			Một khi đã bắt đầu, loại phá cảnh này không thể dừng lại giữa chừng. Người tu hành sẽ mất hết chân khí và lại trở thành đệ tử ngoại môn. Họ sẽ phải khôi phục tâm ý thuần khiết nhất thông qua lao động vất vả mỗi ngày để phá cảnh. 
+			[color=#9e6404]4. Điểm nghẽn Kim Đan[/color] 
+			Chọn vị trí thích hợp để ngưng tụ Kim Đan. Nếu chỉ số của nhân vật và điều kiện của vị trí được chọn đáp ứng yêu cầu, chất lượng của Kim Đan sẽ tương xứng với điều kiện đó. Kim Đan tốt đồng nghĩa với quá trình tu luyện trong tương lai sẽ dễ dàng hơn. 
+			[color=#9e6404]5. Thiên kiếp[/color] 
+			Chọn địa điểm để độ kiếp thiên phạt. Sự tiến bộ của người tu hành sẽ quyết định việc họ có thể sống sót qua thiên phạt hay không.]]></Text>
+		</Help>
+		<Help Name="66" Root="6">
+			<Title>Cảm ngộ và đạo chủng</Title>
+			<Text><![CDATA[
+				Nhân vật có thể nhận được[color=#2E589A]Ý niệm[/color]Trong quá trình tu luyện, tại giao diện 'Cảm ngộ' nằm trong trang tu luyện, Người có thể sử dụng điểm cảm ngộ để lĩnh hội các công pháp mới.
+				
+				Và mỗi lần nhân vật sử dụng cảm ngộ để học kỹ năng mới, đạo chủng của nhân vật cũng sẽ tăng lên, dẫn đến việc học các kỹ năng tiếp theo sẽ tiêu tốn nhiều điểm cảm ngộ hơn. 
+				
+				[color=#2E589A]Đạo chủng[/color]Đó là sự phản ánh lượng tri thức mà nhân vật lĩnh hội từ thiên đạo, thông thường nó sẽ không tự giảm xuống. Nhân vật càng có nhiều đạo chủng thì khả năng lĩnh hội những điều mới mẻ càng trở nên khó khăn hơn. 
+			[img]ui/Help_en2/043[/img]]]></Text>
+		</Help>
+		<Help Name="67" Root="6">
+			<Title>Trở thành trưởng lão và nhận đệ tử</Title>
+			<Text><![CDATA[
+			Khi tông môn có đệ tử ở[color=#2E589A]cảnh giới Kim Đan[/color] các đệ tử khác có thể đến bái người đó làm thầy. 
+				Khi cảnh giới tu luyện của sư phụ cao hơn đệ tử, việc giảng dạy sẽ giúp đệ tử tu luyện tốt hơn. Và nếu họ cùng tu luyện một bộ công pháp, điều đó lại càng thúc đẩy việc tu luyện của đệ tử nhiều hơn. 
+				Khi đệ tử tiến hành phá cảnh, sư phụ của họ sẽ bảo vệ và hỗ trợ, điều này sẽ làm tăng đáng kể tỷ lệ thành công khi phá cảnh. 
+				
+				Sư phụ có thể truyền thụ kiến thức và công pháp của mình cho đệ tử. Đúng như câu nói cổ: Thanh xuất vu lam nhi thắng vu lam (trò giỏi hơn thầy). 
+			[img]ui/Help_en/029[/img]]]></Text>
+		</Help>
+		<Help Name="68" Root="6">
+			<Title>Luyện đan và luyện khí</Title>
+			<Text><![CDATA[
+			[color=#9e6404]Luyện đan[/color]
+			[img]ui/Help_en/030[/img]
+			Nếu tông môn có đệ tử nội môn, Người có thể cử đệ tử đó đến lò đan để luyện đan. Người có thể nhận được các đan phương mới từ những cuốn sách cổ thu thập được trong quá trình lịch lãm. 
+			
+			[color=#9e6404]Luyện chế pháp bảo[/color]
+			[img]ui/Help_en/031[/img]
+			Nếu tông môn có đệ tử nội môn và lò luyện khí, Người có thể nhấp vào nút 'Luyện khí' để tiến hành chế tạo pháp bảo. Mọi vật phẩm đều có thể dùng làm nguyên liệu luyện khí, tùy thuộc vào đặc tính vật lý khác nhau của vật phẩm mà pháp bảo được tạo ra sẽ có các chỉ số khác nhau. Vật phẩm cấp cao rất khó luyện thành pháp bảo, nhưng nếu luyện thành công thì chúng sẽ càng thêm uy lực. Vật phẩm chứa linh khí dồi dào sẽ dễ luyện thành pháp bảo hơn. 
+			
+			[color=#9e6404]Vẽ bùa[/color]
+			Nếu tông môn có đệ tử nội môn, Người có thể nhấp vào nút tương tác 'Vẽ bùa' để chế tạo bùa chú. Việc vẽ bùa đòi hỏi phải có giấy bùa được tạo ra tại bàn vẽ bùa. Giấy bùa càng tốt thì hiệu quả của bùa chú càng mạnh. Để học các mẫu bùa chú mới, cần phải có ký hiệu bùa chú mới, có thể tìm thấy trong các chuyến lịch lãm. Bùa chú sau khi vẽ xong chỉ phát huy tác dụng khi trang bị cho nhân vật. 
+			
+			[color=#9e6404]Luyện[/color] 
+			Nếu tông môn có đệ tử nội môn, Người có thể luyện hóa vật phẩm thành linh thạch. Số lượng linh thạch nhận được sẽ được quyết định bởi lượng linh khí của vật phẩm đó. Cứ mỗi 5.000 điểm linh khí sẽ đổi được một viên linh thạch. Việc tinh luyện pháp bảo luôn tạo ra linh thạch. Việc luyện hóa pháp bảo cấp cao sẽ sản xuất ra nhiều linh thạch hơn.]]></Text>
+		</Help>
+		<Help Name="69" Root="6">
+			<Title>Pháp chú</Title>
+			<Text><![CDATA[[img]ui/Help_en/032[/img] 
+				Khi nhân vật bước vào cảnh giới tu luyện cao hơn, họ sẽ có thể học được nhiều thần thông hơn. Một số có thể giúp thực vật sinh trưởng, một số có thể dùng để thúc đẩy tu luyện của bản thân, một số có thể tiên tri tương lai, trong khi một số khác có thể điều khiển thời tiết. 
+				Ngoài ra, người tu luyện có thể nhận được các bí kíp thần thông trong quá trình lịch lãm, có thể dùng để học các thần thông mới.]]></Text>
+		</Help>
+		<Help Name="610" Root="6">
+			<Title>Lịch luyện</Title>
+			<Text><![CDATA[
+			[img]ui/Help_en/033[/img] 
+				Sau khi tông môn có từ một đệ tử nội môn trở lên, Người có thể nhấp vào chữ 'Thế giới' ở góc dưới bên phải màn hình để phái họ đi lịch lãm. 
+				Người tu luyện sẽ gặp gỡ các sự kiện khác nhau, nhận phần thưởng và tài nguyên trong chuyến lịch lãm. 
+				Khi trò chơi tiến triển, các địa điểm khác nhau sẽ được mở khóa, cho phép người tu hành khám phá nhiều hơn. Sẽ mất nhiều thời gian hơn để đi lịch lãm đến những nơi xa xôi. 
+			[img]ui/Help_en2/007[/img]]]></Text>
+		</Help>
+		<Help Name="611" Root="6">
+			<Title>Tông môn</Title>
+			<Text><![CDATA[
+			[img]ui/Help_en/034[/img] 
+			Sau khi nhân vật hoàn thành việc tu luyện nền tảng và trở thành đệ tử nội môn, Người có thể nhấp vào 'Tông môn' ở góc dưới bên phải màn hình để vào menu tông môn và tiến hành xây dựng tông môn. 
+			[color=#9e6404]1. Đẳng cấp tông môn[/color] 
+				Tông môn có thể thăng cấp lên ba cấp khi nhận được nhiều danh vọng hơn.
+				Cấp độ tông môn cao hơn sẽ tăng giới hạn số lượng đệ tử và mở khóa nhiều kiến trúc cùng cơ chế trò chơi hơn. 
+			[color=#9e6404]2. Danh vọng tông môn và độ khó chiến đấu.[/color]
+				Khám phá có thể tăng danh vọng cho tông môn, đồng thời kẻ địch đến tấn công tông môn cũng sẽ mạnh hơn. 
+			[color=#9e6404]3. Quản lý tông môn[/color] 
+				Người có thể trục xuất đệ tử khỏi tông môn trong menu đệ tử. 
+				Sử dụng tính năng 'Nấu ăn tự động' trong menu tông môn để chỉ định đệ tử ngoại môn nấu ăn tự động vào giờ ăn. 
+			[color=#9e6404]4. Quan hệ giữa các tông môn[/color] 
+				Hãy đi thám hiểm và xây dựng mối quan hệ với các tông môn khác. 
+				Khi tình hữu nghị tăng lên, nhân vật có thể nhận thêm phần thưởng từ các tông môn khác bằng cách ghé thăm họ. 
+			
+			[img]ui/Help_en2/006[/img]]]></Text>
+		</Help>
+		<Help Name="612" Root="6">
+			<Title>Kiến trúc tông môn</Title>
+			<Text><![CDATA[
+			Kiến trúc tông môn sẽ được mở khóa khi tông môn đạt đến cấp độ Thiên (cấp 3). Người có thể quản lý tông môn của mình tại mục 'Kiến trúc tông môn' trong menu tông môn. 
+			[color=#9e6404]1. Sắc phong[/color]
+				Có thể bổ nhiệm đệ tử nội môn làm Tông chủ hoặc Trưởng môn các nhánh. 
+				Các vị trí khác nhau đòi hỏi trình độ kỹ năng khác nhau. Ví dụ, nhánh Luyện đan yêu cầu kỹ năng luyện đan đầy đủ, trong khi nhánh Luyện khí yêu cầu kỹ năng luyện khí tương ứng. 
+				Đệ tử có kỹ năng tốt sẽ đảm nhận các vị trí tốt hơn. 
+			[color=#9e6404]2. Khu vực chi nhánh[/color] 
+				Người có thể thiết lập 'Khu vực chi nhánh' trong tab xây dựng khu vực. 
+				Sau khi đặt khu vực, Người có thể chỉ định khu vực này cho một chi nhánh cụ thể. 
+				Đệ tử trong chi nhánh sẽ nhận được các hiệu ứng bổ trợ khi ở trong khu vực này tùy theo chi nhánh được chỉ định. 
+			[color=#9e6404]3. Áp lực, sự xao nhãng và năng lực của Tông chủ.[/color] 
+				Nhân vật sẽ cảm thấy áp lực khi phải xử lý quá nhiều công việc. 
+				Áp lực sẽ chuyển thành sự xao nhãng, ảnh hưởng đến trạng thái tinh thần, tốc độ tu luyện, v.v. của nhân vật. 
+				Năng lực của Tông chủ có thể giảm áp lực cho bản thân và các trưởng nhánh khác một cách hiệu quả. 
+			[color=#9e6404]4. Sự thành thạo của chi nhánh và năng lực của trưởng nhánh.[/color] 
+				Sau khi tông môn có các chi nhánh với chuyên môn cụ thể, đệ tử thuộc chi nhánh này sẽ nhận được các bổ trợ liên quan đến năng lực của trưởng nhánh. 
+				Đệ tử thuộc chi nhánh có thể nhận được hai loại bổ trợ. 
+					1. Bổ trợ khu vực: Chỉ nhận được trong khu vực được phân bổ cho chi nhánh. 
+					2. Bổ trợ phổ thông: Nhận được miễn là đệ tử còn ở trong chi nhánh đó. 
+			[color=#9e6404]5. Nghỉ hưu và mệt mỏi.[/color] 
+				Khi được miễn nhiệm khỏi mọi chức vụ, nhân vật sẽ trải qua trạng thái mệt mỏi kéo dài. 
+				Sự mệt mỏi được quyết định dựa trên mức độ mệt mỏi từ công việc trước đó. 
+				Thời gian mệt mỏi phụ thuộc vào số ngày nhân vật đã thực hiện nhiệm vụ. Nếu nhân vật có nhiều nhiệm vụ, thời gian thực hiện sẽ tính từ khi bắt đầu nhiệm vụ đầu tiên đến khi kết thúc nhiệm vụ cuối cùng (Ngắn nhất: 14 ngày, dài nhất: 84 ngày).) 
+				P.S. Sẽ không có sự mệt mỏi nào nếu nhân vật chỉ thực hiện nhiệm vụ trong thời gian ngắn trước khi nghỉ hưu.]]></Text>
+		</Help>
+		<Help Name="71" Root="7">
+			<Title>Thám hiểm thế giới</Title>
+			<Text><![CDATA[
+			[color=#9e6404]1. Tiến vào địa điểm.[/color]
+				Hầu hết các địa điểm trong game đều cho phép tu sĩ của Người vào khám phá. 
+				Người có thể cử tu sĩ đến các địa điểm có thể truy cập bằng cách nhấp vào nút "Tiến vào" để khám phá thêm. 
+				[img]ui/Help_en2/044[/img]
+				Tiên nhân và thần linh có thể tiến vào địa điểm ngay lập tức. Tuy nhiên, họ sẽ gặp rắc rối với thiên kiếp trục xuất tiên nhân đang chờ đợi mình. 
+				Nếu thời gian Thiên kiếp còn nhiều, tiên nhân đang khám phá địa điểm sẽ phải tập trung toàn bộ linh khí để chống lại nó, điều này sẽ làm giảm đáng kể khả năng chiến đấu của họ. 
+			[color=#9e6404]2. Khám phá địa điểm.[/color] 
+				Có rất nhiều bảo vật, kẻ địch và bí ẩn ẩn giấu trong các địa điểm khác nhau. 
+				Sau khi vào địa điểm, nhân vật có thể di chuyển (phím tắt: V) xung quanh để khám phá khu vực và tìm kiếm chúng. 
+				[img]ui/Help_en2/045[/img] 
+				Tu sĩ của Người có thể gặp phải kẻ địch khi khám phá địa điểm. Hãy nhớ quan sát kỹ bọn họ. 
+			[color=#9e6404]3. Tương tác với vật phẩm.[/color]
+				Người có thể thu thập vật phẩm trong bản đồ vị trí bằng cách nhấp vào 'Thu thập'' (F1) bên cạnh bảng nhân vật. Xin lưu ý rằng hành động này có thể gây thù hận từ các nhân vật khác. 
+				[img]ui/Help_en2/046[/img] 
+				Người tu luyện có thể mang theo tối đa 6 vật phẩm trong quá trình thám hiểm. Người có thể tìm thấy các vật phẩm đã thu thập trong ô [Thu thập] của bảng nhân vật, Người có thể vứt bỏ các vật phẩm đã thu thập ở đó. 
+				Tông môn của Người sẽ không chính thức nhận được các vật phẩm này cho đến khi nhân vật mang chúng quay về tông môn an toàn. 
+				[img]ui/Help_en2/047[/img] 
+				Ngoài ra còn có các vật thể tương tác đặc biệt ở các địa điểm khác nhau để Người khám phá. 
+				[img]ui/Help_en2/049[/img] 
+			[color=#9e6404]4. Ẩn thân[/color] 
+				Khi ở trong bản đồ, nhân vật có thể sử dụng nút 'Ẩn nấp' (phím tắt: F2) để ẩn mình. 
+				Khi ẩn nấp, tỷ lệ bị phát hiện sẽ phụ thuộc vào chỉ số thể lực và nhận thức của nhân vật, khoảng cách giữa nhân vật và các nhân vật khác, cũng như sự chênh lệch về cảnh giới tu luyện giữa các nhân vật. 
+				Nhân vật lén lút sẽ dễ bị phát hiện hơn khi họ thu thập vật phẩm quý hiếm (cấp độ III hoặc cao hơn), vì vậy xin hãy cẩn thận. 
+				
+				Người có thể dự đoán cơ hội nhân vật của mình bị phát hiện thông qua màu sắc của biểu tượng con mắt trên nhân vật. 
+				[img]ui/Help_en2/050[/img] 
+				Nếu không có biểu tượng con mắt trên nhân vật của Người, điều đó có nghĩa là không ai quan tâm đến hành động của nhân vật. 
+				Biểu tượng mắt màu trắng có nghĩa là không ai nhìn thấy nhân vật của Người. 
+				Biểu tượng mắt màu vàng có nghĩa là có một chút cơ hội nhân vật của Người bị phát hiện. 
+				Biểu tượng mắt màu đỏ có nghĩa là có cơ hội cao nhân vật của Người bị phát hiện. 
+				Nếu nhân vật của Người bị phát hiện bởi NPC thân thiện, sẽ không có chuyện gì xảy ra. Tuy nhiên, nếu NPC thù địch phát hiện nhân vật của Người, họ sẽ tấn công ngay lập tức. 
+			[color=#9e6404]5. Sect Wars[/color] 
+				Người có thể tuyên chiến với tông môn NPC trong tổng số 11 tông môn trong trò chơi và đánh bại họ để buộc họ phải quy thuận. Sau khi đánh bại, Người có thể cướp bóc vật phẩm theo ý muốn và nhận cống nạp hàng năm từ họ. 
+				Bây giờ tông môn NPC sẽ tương tác với thế giới giống như cách tông môn của Người làm, và tương tác lẫn nhau. Sức mạnh của họ sẽ dần tăng lên hoặc phai nhạt đi cùng với sự phát triển của cốt truyện.
+				Sức mạnh của nhân vật NPC có mối quan hệ trực tiếp với sức mạnh tông môn của họ. 
+				Người có thể kiểm tra quyền lực tông môn và quan hệ ngoại giao bằng cách nhấp vào tên trên bảng vị trí. 
+				[img]ui/Help_en2/051[/img]]]></Text>
+		</Help>
+		<Help Name="72" Root="7">
+			<Title>Luyện chế Tiên khí hồng hoang</Title>
+			<Text><![CDATA[
+				[color=#9e6404]1. Nhận phương pháp chế tạo[/color]
+					Người có thể nhận được các tâm pháp về phương pháp luyện chế Tiên khí hồng hoang qua nhiều cách khác nhau. Sau khi có được bản vẽ luyện chế Tiên khí hồng hoang, Người có thể luyện chế Tiên khí hồng hoang bằng cách sử dụng nút luyện khí trên bảng nhân vật. 
+					[img]ui/Help_en2/052[/img] 
+				[color=#9e6404]2. Ấp ủ[/color] 
+					Tiên khí hồng hoang mới được tạo ra vẫn đang trong giai đoạn ấp ủ. Để mở khóa các điều kiện cần thiết, Người phải thực hiện theo các bước đã định. 
+					[img]ui/Help_en2/053[/img]
+				[color=#9e6404]3. Xác định chủ nhân[/color]
+					Sau khi kích hoạt, Tiên khí hồng hoang cần được người tu luyện xác định quyền sở hữu để sử dụng. Người có thể trang bị Tiên khí hồng hoang cho nhân vật và sử dụng bằng cách nhấp chuột phải để kết nối linh hồn với nó.  
+					[img]ui/Help_en2/054[/img]
+					Tiên khí hồng hoang đó sẽ chỉ có thể được sử dụng bởi chủ nhân đã thực hiện kết nối linh hồn với nó.]]></Text>
+		</Help>
+		<Help Name="73" Root="7">
+			<Title>Phân Hồn</Title>
+			<Text><![CDATA[
+			Sau khi đạt đến cảnh giới Nguyên Thần, người tu luyện có thể tách nguyên thần của mình thành phân thần. 
+			Phân thần là yếu tố quan trọng để làm cho người tu luyện cảnh giới Nguyên Thần trở nên mạnh mẽ hơn. 
+				[color=#9e6404]1. Phân liệt nguyên thần[/color] 
+					Người tu luyện có thể phân liệt nguyên thần của họ tối đa 64 lần. Có nhiều cách khác nhau để phân liệt nguyên thần, chẳng hạn như học bí pháp, sử dụng thần thông, vượt qua thiên kiếp, hoặc dùng đan dược thần kỳ hỗ trợ. 
+				[color=#9e6404]2. Sử dụng phân thần[/color] 
+					Sau khi có thể tách nguyên thần, người tu luyện có thể cấy ghép phân thần của mình vào vật thể để cường hóa bản thân. 
+					Càng có nhiều phân hồn, cảnh giới nguyên thần của tu sĩ càng cao. 
+				[color=#9e6404]3. Phân hồn[/color] 
+					Tu sĩ đạt đến cảnh giới Nguyên Thần có thể đính kèm phân hồn của họ vào lệnh luyện chế pháp bảo. 
+					[img]ui/Help_en2/055[/img]
+					Việc khắc sâu phân hồn vào một món trang bị đồng nghĩa với việc đưa một phần sức mạnh của tu sĩ vào đó bằng cách sử dụng phân hồn làm vật chứa. 
+					Sau khi đính kèm phân hồn, dù mất đi một phần sức mạnh, tu sĩ vẫn sẽ có thêm không gian để phát triển bản thân. 
+					Cảnh giới Nguyên Thần của tu sĩ càng cao, sức mạnh của phân hồn có thể đính kèm càng mạnh mẽ. 
+					[img]ui/Help_en2/056[/img]
+				[color=#9e6404]4. Spiritual Equipment[/color] 
+					Món trang bị được đính kèm phân hồn sẽ trở thành linh bảo.
+					Linh bảo sẽ phát huy hiệu quả vô điều kiện khi được trang bị bởi tu sĩ sở hữu phần linh hồn đó. 
+					Tuy nhiên, những tu sĩ khác có thể cần phải mặc nhiều món linh bảo mới có thể phát huy tác dụng của chúng. 
+					Sức mạnh của linh bảo càng lớn, số lượng trang bị cần phải mặc để kích hoạt chúng càng nhiều. 
+					[img]ui/Help_en2/057[/img]]]></Text>
+		</Help>
+		<Help Name="74" Root="7">
+			<Title>Độ kiếp</Title>
+			<Text><![CDATA[
+				Sau khi đột phá cảnh giới Nguyên Thần, tu sĩ có thể khiêu chiến Thiên kiếp thọ nguyên hoặc Thiên kiếp đạo chủng tại giao diện thông tin tu luyện. 
+				[img]ui/Help_en2/058[/img]
+				Cứ mỗi 100 đạo chủng, nhân vật có thể khiêu chiến Thiên kiếp đạo chủng một lần. Nếu vượt qua, số lượng đạo chủng của họ sẽ giảm xuống và họ sẽ nhận được 1 phân hồn. 
+				Cứ mỗi 1000 thọ nguyên, nhân vật có thể khiêu chiến Thiên kiếp thọ nguyên một lần. Nếu vượt qua, thọ nguyên của họ sẽ tăng lên và họ sẽ nhận được 1 phân hồn. 
+				Hơn nữa, mỗi khi nhân vật sống sót sau thiên kiếp ở hạ giới,(physical plane) Họ sẽ nhận được một lượng lớn phân hồn và ngộ tính. 
+				
+				Đối mặt với thiên kiếp là một phần cực kỳ quan trọng để gia tăng số lượng phân hồn.]]></Text>
+		</Help>
+		<Help Name="75" Root="7">
+			<Title>Trận pháp</Title>
+			<Text><![CDATA[
+				Tu sĩ có thể lập ra trận pháp để chiến đấu với kẻ địch. 
+				Bằng cách thiết lập trận pháp, mỗi tu sĩ sẽ hòa làm một với vận mệnh gắn kết với nhau. Ngoài việc chia sẻ sát thương cho nhau, họ còn có thể kích hoạt các pháp bảo và chân khí mạnh mẽ vượt quá tầm kiểm soát của một cá nhân để tiêu diệt kẻ thù. 
+				[color=#9e6404]1. Cấu trúc trận pháp[/color] 
+					[img]ui/Help_en2/059[/img]
+					Thông thường, trận pháp sẽ bao gồm trận nhãn và trận phụ. 
+					Trận nhãn chính là cốt lõi của trận pháp, trong khi trận phụ đóng vai trò hỗ trợ năng lực cho trận nhãn. 
+					Qua những cuộc phiêu lưu khắp đại thế giới, Người có thể thu thập các tâm pháp về các loại trận nhãn và trận phụ khác nhau. 
+				[color=#9e6404]2. Bố trí trận pháp[/color] 
+					Sau khi mở khóa ít nhất một loại trận nhãn và một loại trận phụ, Người có thể truy cập giao diện quản lý trận pháp bằng cách nhấp vào nút trận pháp ở góc dưới cùng bên phải. 
+					[img]ui/Help_en2/060[/img]
+					Người phải tạo một trận đồ mới khi vào giao diện bố trí trận pháp lần đầu tiên.
+					[img]ui/Help_en2/061[/img]
+					Chỉ định nhân vật làm trận nhãn để tạo trận đồ mới. 
+					[img]ui/Help_en2/062[/img]
+					Sau khi thiết lập trận nhãn, Người có thể kiểm tra cấp bậc của trận pháp. Độ phức tạp hoặc uy lực của trận pháp không được vượt quá năng lực cá nhân của người làm trận nhãn. 
+					[img]ui/Help_en2/063[/img]
+					Độ ổn định biểu thị trận pháp có thể vận hành ổn định hay không. Trận pháp không thể hình thành nếu độ ổn định giảm xuống thấp hơn mức cho phép. 0 
+					Quy mô được quyết định bởi số lượng trận phụ trong trận pháp. Trận pháp quy mô lớn sẽ phải gánh chịu mức độ ổn định khá bấp bênh. 
+					Gánh nặng trận pháp tượng trưng cho độ phức tạp của trận pháp. Nếu trận pháp quá phức tạp, tiêu hao để duy trì trận pháp sẽ tăng lên đáng kể. 
+					
+					Miễn là trận nhãn có thể gánh vác, Người có thể đặt trận nhãn và trận phụ tùy ý để tạo nên trận đồ ở phía bên phải màn hình và kết nối chúng lại với nhau. 
+					[img]ui/Help_en2/064[/img] 
+				[color=#9e6404]3. Kết nối trận pháp[/color] 
+					Khi thiết kế trận pháp, Người sẽ thấy trận nhãn và trận phụ có hình lục giác với các ký tự ở các góc của chúng. 
+					Người phải thiết kế chúng bằng cách liên kết giữa trận nhãn và trận phụ. Chỉ những góc có ký tự giống nhau mới có thể kết nối với nhau. 
+					[img]ui/Help_en2/065[/img]
+					Các kết nối khác nhau sẽ mang lại kết quả khác nhau. Hãy chọn trận phụ có hiệu quả theo ý muốn của Người để tạo nên trận pháp của riêng mình. 
+					[img]ui/Help_en2/066[/img]
+					Để trận pháp vận hành như mong đợi, tất cả các góc có ký tự đều phải được kết nối với nhau, nếu không trận pháp sẽ không thể hoạt động do kết nối không hoàn chỉnh. 
+					[img]ui/Help_en2/067[/img]
+					Thẻ "Hư vô" có thể liên kết với các thẻ khác. Kết nối được tạo ra theo cách này không có hiệu quả đặc biệt nào nhưng giúp trận pháp hoạt động bình thường. 
+					[img]ui/Help_en2/068[/img]
+				[color=#9e6404]4. Xác định chức năng[/color] 
+					Sau khi hoàn tất việc tạo trận đồ, Người có thể đặt tên cho trận pháp bằng cách nhấn nút "Thiết lập trận pháp" ở góc dưới cùng bên phải và truy cập giao diện định nghĩa chức năng. 
+					Người có thể chọn từng nhân vật để thiết lập làm hạt nhân chính và hạt nhân phụ. 
+					Trong suốt lộ trình từ hạt nhân phụ đến hạt nhân chính, mỗi khi thuộc tính của nhân vật tương sinh với thuộc tính của nhân vật bên cạnh, kết nối giữa các nhân vật sẽ tương trợ lẫn nhau. Tuy nhiên, nếu thuộc tính của các nhân vật tương khắc, kết quả đạt được sẽ rất tệ, thậm chí đôi khi còn gây nguy hiểm cho chính họ. Vì vậy, xin hãy chú ý đến thuộc tính của các nhân vật trong trận pháp của Người.! 
+					[img]ui/Help_en2/069[/img]
+				[color=#9e6404]5. Thuộc tính trận pháp[/color] 
+					Trong mỗi trận pháp sẽ có 9 chỉ số, chúng sẽ quyết định trận pháp của Người mạnh mẽ đến mức nào. 
+					Tại màn hình thiết lập nhiệm vụ, Người có thể kiểm tra ý nghĩa của từng chỉ số bằng cách di chuyển chuột qua tên và đọc hướng dẫn hiển thị. 
+					[img]ui/Help_en2/070[/img]
+				[color=#9e6404]6. Hoàn thiện trận pháp của Người[/color] 
+					Trận pháp của Người sẽ hoàn thành sau khi thực hiện theo các hướng dẫn bên trên. 
+					Người có thể cấu thành trận pháp bằng cách chọn nhân vật làm hạt nhân chính và nhấp vào "Trận pháp" ở bảng bên trái nhân vật. 
+					[img]ui/Help_en2/071[/img]]]></Text>
+		</Help>
+		<Help Name="76" Root="7">
+			<Title>Trận pháp trong chiến đấu</Title>
+			<Text><![CDATA[
+			Khi xây dựng trận pháp thành công, Người có thể sử dụng nó để chiến đấu với kẻ địch, và có một vài điều Người cần lưu ý khi chiến đấu bằng trận pháp. 
+			[color=#9e6404]1. Chia sẻ sát thương[/color] 
+				Mọi sát thương gây ra cho trận pháp sẽ được chia đều cho tất cả các nhân vật cấu thành nên nó. 
+			[color=#9e6404]2. Cân bằng chân khí[/color] 
+				Chân khí của tất cả các nhân vật tạo thành trận pháp sẽ được cân bằng theo tỷ lệ. 
+				Sự cân bằng này được xác định bởi sức mạnh tổng thể của trận pháp. 
+			[color=#9e6404]3. Độ ổn định của Trận pháp[/color] 
+				Độ ổn định của trận pháp sẽ giảm xuống khi chân khí của hạt nhân chính sắp cạn kiệt. 
+				Số lượng hạt nhân phụ bị tiêu diệt sẽ làm giảm độ ổn định của trận pháp xuống rất nhiều. 
+				Nếu hạt nhân chính bị tiêu diệt, đồng nghĩa với việc độ ổn định của trận pháp sẽ giảm xuống bằng không, dẫn đến sự sụp đổ của trận pháp. 
+			[color=#9e6404]4. Nhược điểm[/color] 
+				Mỗi khi độ ổn định của trận pháp giảm, có khả năng một vài hạt nhân phụ sẽ trở thành điểm yếu của trận pháp. 
+				Độ ổn định của trận pháp càng thấp thì cơ hội lộ ra điểm yếu của trận pháp càng cao. 
+				Khi sự kiện đó xảy ra, việc chia sẻ sát thương sẽ không còn là lợi thế của trận pháp nữa mà trở thành điểm yếu của nó, gây ra rủi ro cao khiến trận pháp phát nổ, dẫn đến tất cả nhân vật trong trận pháp bị trọng thương. 
+				Khi điểm yếu xuất hiện trong trận pháp, Người có thể che giấu nó bằng cách thay đổi, dịch chuyển trận pháp.]]></Text>
+		</Help>
+		<Help Name="80" Root="8">
+			<Title>Giao thương giữa các tông môn</Title>
+			<Text><![CDATA[
+			Người có thể giao thương với các tông môn khác khi Người đã tạo ra tông môn của riêng mình. 
+			[color=#9e6404]1. Khu vực giao dịch[/color] 
+				Trước khi giao thương với NPC Sects Người phải đặt khu vực giao thương, chỉ những vật phẩm đặt trong khu vực này mới có thể bán cho các tông môn khác. Những vật phẩm Người nhận được từ giao dịch cũng sẽ xuất hiện tại đây. 
+			[color=#9e6404]2. Thăm viếng tông môn và liên hệ giao thương[/color] 
+				Người phải viếng thăm các tông môn khác một cách chính thức trước khi thực hiện trao đổi với họ. Nhấp vào biểu tượng của tông môn đó rồi nhấp "Viếng thăm" để thực hiện. Người sẽ cần chuẩn bị quà tặng để xây dựng mối quan hệ ban đầu. 
+			[color=#9e6404]3. Giao thương[/color] 
+				Nhấp "Giao thương" để mở cửa sổ giao dịch của NPC Người sẽ không thể mua các vật phẩm có tên màu đỏ do cấp độ mối quan hệ chưa đủ. Nhấp "Đàm phán" để xem liệu NPChọ có sẵn lòng thực hiện thỏa thuận hay không. Khi họ thể hiện sự sẵn lòng, nhấp "Xác nhận" để đồng ý trao đổi. 
+			[color=#9e6404]4. Quan hệ[/color] 
+				Một số vật phẩm cấp cao cần có điểm mối quan hệ mới có thể trao đổi được. 
+			[color=#9e6404]5. Quà tặng[/color] 
+				Nhấp "Tặng quà" để trao tặng vật phẩm cho NPC 
+			[color=#9e6404]6. Khu vực cấm[/color] 
+				Khu vực màu đỏ trên bản đồ là khu vực bị hạn chế. Người có thể mua quyền vào các khu vực này bằng cách giao thương với tông môn liên quan. Nhân vật tiến vào khu vực cấm mà không được phép sẽ bị tấn công nếu bị phát hiện. 
+			[color=#9e6404]7. Mức độ yêu thích[/color]
+				Mỗi vị tông chủ đều có những món quà yêu thích. Người sẽ nhận được điểm mối quan hệ và sự ưu ái của tông môn sau khi trao tặng vật phẩm mà vị tông chủ đó yêu thích. Tuy nhiên, mỗi món quà chỉ có tác dụng trong lần đầu tiên trao tặng. 
+			[color=#9e6404]8. Mượn pháp bảo[/color] 
+				Khi Người có mối quan hệ hữu nghị với tông môn của NPC Người có thể thuê pháp bảo của họ. Pháp bảo đã thuê sẽ tự động trả lại khi đến hạn. Nếu pháp bảo bị hư hại trước khi trả lại, Người sẽ mất điểm mối quan hệ và sự ưu ái của tông môn đã cho Người mượn pháp bảo. 
+			[color=#9e6404]8. Yêu cầu hỗ trợ[/color]
+				Khi Người có mối quan hệ hữu nghị với tông môn của NPC Sau đó, Người có thể phái bọn họ cử đệ tử đến tông môn của Người để làm lực lượng viện trợ. Nhân vật được phái đến tông môn của Người sẽ ở lại trong vài ngày. Người không thể điều khiển những nhân vật này, nhưng bọn họ sẽ tự động tấn công kẻ địch của Người. Nếu đệ tử tông môn của NPC tử vong trong thời gian lưu lại, Người sẽ bị giảm điểm hảo cảm và độ thiện cảm với tông môn của bọn họ.]]></Text>
+		</Help>
+		<Help Name="81" Root="8">
+			<Title>Nhiệm vụ tông môn</Title>
+			<Text><![CDATA[
+			Các nhiệm vụ ngẫu nhiên khác nhau sẽ xuất hiện tại tông môn của NPC và bọn họ sẽ giao nhiệm vụ cho Người. Một số sự kiện cũng sẽ giao nhiệm vụ cho Người.
+				[color=#9e6404]1. Nhiệm vụ vật phẩm[/color] 
+					Nhấp vào "Mở rộng" trên giao diện thế giới để xem danh sách các vật phẩm cần thiết để hoàn thành nhiệm vụ. Người sẽ nhận được phần thưởng sau khi giao nộp các vật phẩm mà tông môn đó yêu cầu. 
+				[color=#9e6404]2. Nhiệm vụ khác[/color] 
+					Tông môn của NPC có thể yêu cầu Người tiêu diệt một số nhân vật nhất định tại một địa điểm được chỉ định. Người sẽ phải tiến vào bản đồ để tiêu diệt mục tiêu.]]></Text>
+		</Help>
+		<Help Name="83" Root="8">
+			<Title>Giao dịch với thương nhân lưu động</Title>
+			<Text><![CDATA[
+			Thương nhân lưu động thỉnh thoảng sẽ đến tông môn của Người. Bọn họ bán rất nhiều loại hàng hóa khác nhau và Người có thể xem giá trực tiếp. Tuy nhiên, hàng hóa do thương nhân lưu động mang đến thường có giá đắt hơn bình thường. Ngoài ra, Người cũng có thể mua thiệp mời đấu giá từ thương nhân lưu động.]]></Text>
+		</Help>
+		<Help Name="84" Root="8">
+			<Title>Tham gia đấu giá</Title>
+			<Text><![CDATA[
+			Đọc thiệp mời đấu giá để tham gia buổi đấu giá. 
+			[color=#9e6404]1. Vật phẩm đấu giá[/color] 
+				Toàn bộ danh sách vật phẩm sẽ được hiển thị khi buổi đấu giá bắt đầu. 
+			[color=#9e6404]2. Quy tắc đấu giá[/color] 
+				Người có thể nhấp vào mức giá hiển thị bên dưới danh sách để tăng giá đấu của mình. Khi đã bỏ cuộc, Người sẽ không thể tiếp tục đấu giá vật phẩm này nữa. Khi buổi đấu giá kết thúc, người ra giá cao nhất sẽ giành được vật phẩm. Nếu giá hiển thị màu đỏ, nghĩa là Người không đủ linh thạch để mua vật phẩm. Hãy tham gia đấu giá tùy theo khả năng và chịu trách nhiệm với quyết định của mình. 
+			[color=#9e6404]3. Vật phẩm bí ẩn[/color] 
+				Trong một số buổi đấu giá, Người sẽ không biết vật phẩm mình đang đấu giá là gì cho đến khi trúng thầu. 
+			[color=#9e6404]4. Kết quả đấu giá[/color] 
+				Các vật phẩm đã mua trong buổi đấu giá này sẽ được hiển thị trên giao diện này.]]></Text>
+		</Help>
+		<Help Name="85" Root="8">
+			<Title>Mở rộng thế lực</Title>
+			<Text><![CDATA[
+			Sau khi lập ra tông môn, Người có thể phái đại diện tông môn đến các địa điểm khác nhau. 
+			[color=#9e6404]1. Chỉ định đại diện tông môn[/color]
+				Nhấp vào địa điểm và chọn "Phái đi" để cử ngoại môn đệ tử của tông môn đến đó. Ngoại môn đệ tử được chọn sẽ đến địa điểm chỉ định và trở thành đại diện của Người ở đó. Người có thể dùng sức ảnh hưởng để thiết lập các cơ quan thế lực khác nhau. 
+			[color=#9e6404]2. Xây dựng cơ quan[/color] 
+				Khi đã có đại diện tông môn, Người có thể mở bảng mở rộng. Người có thể tiêu hao tài nguyên để xây dựng các công trình khác nhau trong cơ quan. Người có thể nâng cấp chủ điện của mình khi có đủ đệ tử và tài nguyên. Nâng cấp chủ điện sẽ mở khóa thêm ô công trình cho cơ quan của Người. Mỗi công trình sẽ sản xuất ra các vật phẩm khác nhau, được đưa thẳng vào kho chứa của Người. 
+			[color=#9e6404]3. Chính sách[/color]
+				Một số công trình sẽ mở khóa chính sách. Mỗi chính sách có mức tiêu hao khác nhau và sẽ dẫn đến các sự kiện khác nhau. 
+			[color=#9e6404]4. Sự kiện chính sách[/color]
+				Khi Người chọn chính sách cho đại diện tông môn, các sự kiện đặc biệt sẽ thỉnh thoảng xảy ra. Khi sự kiện xảy ra, Người sẽ thấy thông báo màu đỏ xuất hiện ở bên trái màn hình và dấu chấm than màu đỏ trên nút "Bật/Tắt" ở bên phía phải. Sự kiện sẽ mang lại các kết quả khác nhau tùy thuộc vào lựa chọn của Người. 
+			[color=#9e6404]5. Phái thêm đệ tử[/color]
+				Người có thể phái ngoại môn đệ tử đến các cơ quan đã thiết lập để nhận hiệu ứng cộng dồn chỉ số cho đại diện tông môn. Chỉ số của đại diện tông môn sẽ ảnh hưởng đến phần thưởng và kết quả của sự kiện chính sách. Xin hãy ghi nhớ rằng một khi đã phái đi, ngoại môn đệ tử đó sẽ không thể quay về tông môn của Người nữa. 
+			[color=#9e6404]6. Chiêu mộ đệ tử[/color] 
+				Chọn điện Tôn Sư Linh và nhấp vào "Chiêu mộ" để nhận đệ tử. Người có thể phái đệ tử được chiêu mộ về tông môn của mình hoặc đến bất kỳ cơ quan nào. 
+			[color=#9e6404]7. Tông môn khác[/color] 
+				Người sẽ gặp gỡ đại diện của các tông môn khác. Đại diện tông môn của NPC sẽ thu hút người phàm gia nhập làm đệ tử của họ. Nếu Người muốn đánh bại bọn họ, Người sẽ cần sử dụng một số chiến lược đặc biệt. 
+			[color=#9e6404]8. Kỳ quan[/color] 
+				Người có thể xây dựng kỳ quan khi nâng cấp chủ điện. Kỳ quan sẽ mang lại những hiệu ứng cộng tuyệt vời, nhưng tại mỗi địa điểm, Người chỉ có thể xây dựng duy nhất một kỳ quan. Ngoài ra, việc xây dựng kỳ quan nào còn bị giới hạn bởi đặc điểm của địa điểm đó. 
+			[color=#9e6404]9. Tai kiếp[/color]
+				Các thảm họa sẽ xảy ra tại nhiều địa điểm khác nhau. Thảm họa sẽ mở khóa các tùy chọn cứu trợ thiên tai cho Người. Mỗi ngày sẽ tiêu tốn lượng tài nguyên khác nhau để tiến hành cứu trợ tùy theo lựa chọn của Người. Đại diện của các tông môn khác cũng sẽ hỗ trợ cứu trợ thảm họa. Khi tiến độ cứu trợ đầy, thảm họa sẽ kết thúc. Ngược lại, nếu tiến độ vẫn chưa đầy sau một khoảng thời gian, nó sẽ dẫn đến hậu quả nghiêm trọng. 
+			[color=#9e6404]10. Ảnh hưởng[/color] 
+				Nhấn nút K Hoặc nhấp vào "Ảnh hưởng" để mở bảng quản lý thế lực. Người có thể xử lý các sự kiện, chuyển vật phẩm trong kho chứa về tông môn của mình, hoặc nhấp vào biểu tượng địa điểm để mở bảng mở rộng.]]></Text>
+		</Help>
+		<Help Name="91" Root="9">
+			<Title>Tín ngưỡng</Title>
+			<Text><![CDATA[
+			Khi nhân vật lĩnh hội quy luật của thần đạo, bọn họ có thể trở thành tu sĩ thần đạo và hướng đến thần giới. Tu luyện thần đạo sẽ dựa vào một loại tài nguyên đặc biệt gọi là tín ngưỡng. 
+			[color=#9e6404]1. Cách thu thập Tín Ngưỡng[/color] 
+				Tín Ngưỡng là tài nguyên duy nhất và là cốt lõi của việc tu luyện Thần Đạo. Người có thể thu thập Tín Ngưỡng theo các phương thức dưới đây: 
+				1. Phái đệ tử đang tu luyện Thần Đạo đi thám hiểm, Người có thể nhận được Tín Ngưỡng từ các sự kiện xảy ra trong quá trình thám hiểm. 
+				2. Người có thể thu thập Tín Ngưỡng thông qua các bí cảnh và sự kiện đặc biệt. 
+				3. Người tu luyện Thần Đạo có thể đến các cơ quan trong tông môn để thu thập Tín Ngưỡng đã tích lũy. Sau khi xây dựng Thần Vực, Người có thể xây dựng tượng thần tại cơ quan để thu thập Tín Ngưỡng tự động. 
+				4. Tín đồ của người tu luyện Thần Đạo sẽ cúng dường Tín Ngưỡng để ủng hộ họ. 
+				5. Tín đồ cốt cán sẽ cung cấp lượng lớn Tín Ngưỡng cho người tu luyện Thần Đạo. 
+				Bất cứ khi nào người tu luyện Thần Đạo nhận được Tín Ngưỡng, số lượng Tín Ngưỡng nhận được sẽ tỉ lệ thuận với trạng thái tinh thần và cấp độ Pháp Bảo của họ, và tỉ lệ nghịch với Thần Tâm cùng sự đau khổ của họ. 
+			[color=#9e6404]2. Sử dụng Tín Ngưỡng[/color]
+				Là tài nguyên quan trọng của Thần Đạo, Tín Ngưỡng có thể được sử dụng vào nhiều mục đích.: 
+				1. Hồi phục Chân Khí: Người tu luyện Thần Đạo có thể dùng Tín Ngưỡng để hồi phục Chân Khí của bản thân.
+				2. Nâng cao tu vi: Người tu luyện Thần Đạo có thể thi triển thần thông để chuyển hóa Tín Ngưỡng thành căn cơ tu luyện. 
+				3. Xây dựng Thần Vực: Tín Ngưỡng sẽ được tiêu hao để xây dựng Thần Vực cho người tu luyện Thần Đạo. 
+				4. Ban phúc: Thông qua việc lắng nghe tâm nguyện của tín đồ trong Thần Vực, người tu luyện Thần Đạo có thể đáp ứng mong cầu của họ, từ đó thu hút thêm tín đồ mới.]]></Text>
+		</Help>
+		<Help Name="92" Root="9">
+			<Title>Đệ tử</Title>
+			<Text><![CDATA[
+			Tín đồ cực kỳ quan trọng đối với người tu luyện Thần Đạo. Tín đồ có hai loại.: 
+			[color=#9e6404]1.Tín đồ phổ thông.[/color]
+				Người có thể thu thập tín đồ hoặc tín đồ Thần Vực theo các phương thức dưới đây. 
+				1. Phái đệ tử tu luyện Thần Đạo đi thám hiểm, Người có thể nhận được tín đồ từ các sự kiện trong quá trình thám hiểm của họ. 
+				2. Người có thể nhận được tín đồ từ các bí cảnh và sự kiện đặc biệt. 
+				3. Sau khi xây dựng Thần Vực, Người có thể xây dựng tượng thần tại cơ quan để dần dần thu thập tín đồ. 
+				4. Thông qua việc lắng nghe tín đồ trong Thần Vực, người tu luyện Thần Đạo có thể đáp ứng tâm nguyện và nhận được số lượng lớn tín đồ mới. 
+			[color=#9e6404]2. Đệ tử nòng cốt[/color] 
+				Tín đồ cốt cán có thể hiển linh khi Người đã xây dựng Thần Vực. Người tu luyện Thần Đạo có thể thu phục một người trở thành tín đồ cốt cán thông qua thuyết phục. 
+				Lượng Tín Ngưỡng mà tín đồ cốt cán cung cấp phụ thuộc vào độ trung thành tín ngưỡng của họ. 
+				Khi độ trung thành tín ngưỡng của tín đồ cốt cán đạt 100%, họ có thể được bổ nhiệm làm Thủ Hộ Giả tại Tế Đàn Thủ Hộ, mang lại sức mạnh to lớn hơn cho người tu luyện Thần Đạo. 
+				Người có thể tăng độ trung thành tín ngưỡng của tín đồ cốt cán bằng cách lắng nghe tâm nguyện của họ và biến nó thành hiện thực. 
+				Kết quả thuyết phục tín đồ và độ trung thành tín ngưỡng ban đầu tỉ lệ thuận với vận mệnh của họ với đệ tử của Người.]]></Text>
+		</Help>
+		<Help Name="93" Root="9">
+			<Title>Thi kiếp</Title>
+			<Text><![CDATA[[color=#9e6404]Thi kiếp[/color] 
+				Khác với người tu luyện thông thường, cảm xúc của người tu luyện Thần Đạo luôn sinh ra sự đau khổ, bất kể là tích cực hay tiêu cực. Người tu luyện càng cảm nhận cảm xúc sâu sắc bao nhiêu thì càng đau khổ bấy nhiêu. 
+				[color=#9e6404]Giảm sự đau khổ.[/color]
+				Sự đau khổ của nhân vật có thể giảm bớt bằng các cách sau:: 
+					1.Sử dụng thần chú "Tĩnh Tâm"." 
+					2. Tăng Thần thức 
+					3. Thiết lập hành vi nhân vật để tự trấn áp bản thân.]]></Text>
+		</Help>
+		<Help Name="94" Root="9">
+			<Title>Trạng thái tâm cảnh của người tu luyện Thần Đạo.</Title>
+			<Text><![CDATA[
+			Con đường Thần Đạo liên kết chặt chẽ với trạng thái tâm cảnh. Chỉ có tâm trí vững vàng nhất mới có thể gánh vác lời cầu nguyện không ngừng nghỉ của đông đảo tín đồ. Có bảy trạng thái tâm cảnh cho người tu luyện Thần Đạo. Người tu luyện phải đáp ứng các yêu cầu khác nhau trong từng giai đoạn để đột phá lên tâm cảnh cao hơn. 
+			[color=#9e6404]1. Không ngừng nghỉ[/color]
+				Gia tăng: Khi ở trạng thái 'Bất Định', nó sẽ tăng tự nhiên, đặc biệt khi cảm xúc càng tốt thì tốc độ tăng càng nhanh. 
+				Để đột phá trạng thái này, Người cần giữ tâm cảnh ở mức 100 trong 3 ngày ở trạng thái buông bỏ. 
+			[color=#9e6404]2. Tĩnh lặng[/color] 
+				Gia tăng: Khi ở trạng thái 'Ổn Định', nó sẽ tăng tự nhiên một cách vững chắc mà không bị ảnh hưởng bởi các yếu tố bên ngoài. 
+				Để đột phá trạng thái này, Người cần giữ tâm cảnh ở mức 200, sự đau khổ dưới 50 và thực hiện tĩnh tâm trong một khoảng thời gian. Nhân vật càng thông tuệ thì thời gian cần thiết để đạt tới tâm cảnh càng dài. 
+			[color=#9e6404]3. Vững chắc[/color] 
+				Gia tăng: Khi ở trạng thái 'Tĩnh Lặng', nó chỉ tăng khi giá trị đau khổ dưới 100. Giá trị đau khổ càng thấp thì tăng càng nhanh, nếu không đạt được điều này nó sẽ giảm dần. 
+				Để đột phá trạng thái này, Người phải giữ tâm cảnh ở mức 30 và có Thần Tâm trên 20 trong quá trình tự trấn áp sau khi đạt đến cảnh giới Thần Vực. Nhân vật càng thông tuệ thì càng mất nhiều thời gian hơn để đạt tới tâm cảnh. 
+			[color=#9e6404]4. Thuần khiết[/color] 
+				Gia tăng: Khi ở trạng thái 'Thuần Khiết', nó chỉ tăng khi có Thần Tâm trên 50. Thần Tâm càng cao nghĩa là tốc độ tăng càng nhanh. Nếu Thần Tâm thấp hơn 50, tâm cảnh sẽ giảm theo.
+				Để bước qua tâm cảnh này, cần duy trì tâm cảnh ở mức 400 trong suốt một khoảng thời gian. Chỉ số ngộ tính của nhân vật càng cao thì càng có thể lĩnh ngộ tâm cảnh nhanh hơn. 
+			[color=#9e6404]5. Hiền nhân[/color]
+				Gia tăng: Khi ở trong tâm cảnh 'Đại Sư', nó chỉ tăng khi giá trị ngộ tính cao hơn 8. Giá trị ngộ tính càng cao đồng nghĩa với việc có thể tăng tâm cảnh càng nhanh. Ngược lại, nếu giá trị ngộ tính thấp hơn 8, tâm cảnh cũng sẽ giảm theo. 
+				Để bước qua tâm cảnh này, Người cần duy trì tâm cảnh ở mức 500 và độ khổ ải thấp hơn 10 trong quá trình cắt đứt tâm ma sau khi đạt đến cảnh giới Niết Bàn trong thời gian 10 ngày. 
+			[color=#9e6404]6. Trống rỗng[/color] 
+				Gia tăng: Khi ở trong tâm cảnh 'Hư Vô', nó chỉ tăng khi độ khổ ải thấp hơn 50. Độ khổ ải càng thấp thì tốc độ tăng càng nhanh. Tuy nhiên, khi độ khổ ải vượt quá 50, tâm cảnh của họ sẽ bắt đầu giảm xuống. 
+				Để bước qua tâm cảnh này, Người cần duy trì tâm cảnh ở mức 600 và tâm nhân loại cao hơn 60 trong lúc buông thả bản thân. Vận may của nhân vật càng cao thì càng đạt được tâm cảnh nhanh hơn. 
+			[color=#9e6404]7. Linh hồn[/color] 
+				Gia tăng: Tâm cảnh hoàn mỹ
+				Cảnh giới tối cao của tâm cảnh]]></Text>
+		</Help>
+		<Help Name="95" Root="9">
+			<Title>Hành vi</Title>
+			<Text><![CDATA[
+				Sau khi trở thành người tu luyện Thần đạo, nhân vật có thể kiểm soát hành vi của mình theo các nhu cầu khác nhau. 
+			[color=#9e6404]1. Cân bằng[/color] 
+				Nhân vật có hành vi cân bằng có thể làm bất cứ điều gì theo ý muốn của họ. 
+			[color=#9e6404]2. Khắc kỷ[/color] 
+				ANhân vật có hành vi kiềm chế, việc kìm nén ham muốn của bản thân giúp tăng tốc độ gia tăng thần tâm. 
+				Độ khổ ải càng thấp, thần tâm sẽ càng tăng nhanh hơn. 
+				Nhân vật tự kỷ luật sẽ nhận được điểm thưởng thần tâm lên tới 150% so với thần tâm bình thường. 
+				Họ sẽ ít bị ảnh hưởng bởi cảm xúc hơn và cũng có ít nhu cầu hơn trong cuộc sống hàng ngày. 
+				Tâm cảnh của họ sẽ không tự động giảm xuống dưới trạng thái này và nhận được 50% tiền thưởng gia tăng tâm cảnh.
+			[color=#9e6404]3. Phóng túng[/color] 
+				Nhân vật buông thả sẽ làm theo mong muốn của bản thân, khiến tốc độ tăng trưởng của thần tâm chậm lại. 
+				Độ khổ ải của họ càng cao, thần tâm sẽ càng ít đi. 
+				Nhân vật buông thả sẽ khiến thần tâm kém đi rất nhiều, chỉ còn lại 50% so với thần tâm bình thường. 
+				Họ sẽ bị ảnh hưởng nhiều hơn bởi cảm xúc và có nhiều nhu cầu hơn trong cuộc sống hàng ngày. 
+				Tâm cảnh của họ sẽ không tự động tăng lên dưới trạng thái này và tốc độ tăng trưởng tâm cảnh sẽ giảm xuống. 50%]]></Text>
+		</Help>
+		<Help Name="96" Root="9">
+			<Title>Thần tâm và nhân tâm</Title>
+			<Text><![CDATA[
+				Khi người tu luyện Thần đạo không ngừng tu hành, họ sẽ thu nhận thần tâm, nhưng đồng thời họ cũng sẽ dần đánh mất tính người. 
+				Đây là một quá trình hầu như không thể đảo ngược. Người chỉ có thể khôi phục nhân tâm bằng những phương pháp có hạn. Khi thần tâm của nhân vật đạt tới 100, họ sẽ hoàn toàn đánh mất nhân tâm và gọi tới thiên kiếp tín ngưỡng. Nếu sống sót sau thiên kiếp, người tu luyện Thần đạo sẽ vứt bỏ phàm thân nhục thể và trở thành thần linh phi thăng lên tiên giới. 
+				Thần tâm sẽ ảnh hưởng đến việc tu luyện Thần đạo theo nhiều cách khác nhau.: 
+				1. Nhân vật có thần tâm càng cao thì sức mạnh của họ càng gia tăng mạnh mẽ. 
+				2. Nhân vật có thần tâm càng cao thì càng khó thấu hiểu suy nghĩ của tín đồ, dẫn đến việc thu nhận lực tín ngưỡng chậm hơn. 
+				3. Nhân vật có thần tâm càng cao thì càng ít bị ảnh hưởng bởi cảm xúc.]]></Text>
+		</Help>
+		<Help Name="97" Root="9">
+			<Title>Thần khí</Title>
+			<Text><![CDATA[
+				Người tu luyện Thần đạo chỉ có thể rèn đúc một kiện thần khí duy nhất trong suốt cuộc đời của họ. 
+				Người tu luyện Thần đạo có thể cường hóa thần khí của mình thông qua việc quản lý thần vực của bản thân.: 
+					1. Tăng cấp cho thần khí. 
+					2. Thêm thuộc tính cho thần khí và thay đổi phẩm chất. 
+					3. Thêm hậu tố hiếm vào tên của thần khí và khiến chúng trở nên độc nhất vô nhị.]]></Text>
+		</Help>
+		<Help Name="98" Root="9">
+			<Title>Thần Giới</Title>
+			<Text><![CDATA[
+				Khi người tu luyện Thần đạo tu hành đủ sâu, họ có thể tạo ra thần vực của riêng mình. 
+			[color=#9e6404]1. Kiến tạo Thần Vực[/color] 
+				Kích thước ban đầu của thần vực có mối quan hệ trực tiếp với số lượng tín đồ của nhân vật, cấp độ tâm cảnh, thần tâm, mức độ khổ ải, cũng như địa vị của người tu luyện trong lúc đột phá cảnh giới. Kích thước này còn có quan hệ nghịch biến với Distress của nhân vật. 
+				Kích thước ban đầu của thần vực có thể đạt tới 49 đơn vị. 
+				Để mở rộng kích thước của thần vực, người tu luyện Thần đạo phải đối mặt với dục vọng bên trong tâm hồn và tự mình châm ngòi thiên kiếp. Bằng cách vượt qua thiên kiếp, họ có thể tẩy trừ tâm ma, đồng thời mở rộng kích thước thần vực thêm 1 đơn vị. 
+			[color=#9e6404]2. Công trình thần vực[/color]
+				Có rất nhiều công trình có thể được xây dựng trong thần vực. Việc xây dựng các công trình thần vực sẽ giúp người tu luyện Thần đạo trở nên mạnh mẽ hơn. 
+				Có rất nhiều điều cần phải học hỏi trước khi khai mở Đại Thần Giới. 
+				1. Giới hạn số lượng đệ tử: Đệ tử của người tu luyện Thần đạo được coi là sinh sống trong Đại Thần Giới của họ. Bằng cách mở rộng lãnh thổ, Người có thể gia tăng dân số, từ đó tạo thêm không gian cho các đệ tử. Khi số lượng đệ tử vượt quá giới hạn, phần đệ tử dư thừa sẽ trở thành kẻ vô gia cư trong Đại Thần Giới. Điều này sẽ khiến họ tích tụ oán hận. Khi oán hận đạt 100%, sẽ giáng hạ Thiên Kiếp tấn công chủ nhân của Đại Thần Giới. 
+				2. Đệ tử dưới quyền quản lý: Khả năng đáp ứng lời cầu nguyện của đệ tử được quyết định bởi tâm cảnh của người tu luyện Thần đạo. Khi số lượng đệ tử vượt quá giới hạn, người tu luyện sẽ không thể đáp ứng lời thỉnh cầu của những đệ tử đó, dẫn đến việc tích tụ oán hận. Khi oán hận đạt 100%, sẽ giáng hạ Thiên Kiếp tấn công chủ nhân của Đại Thần Giới. 
+				3. Nhu cầu của đệ tử: Các công trình kiến trúc trong thánh địa cần số lượng lời cầu nguyện của đệ tử mới có thể vận hành. Nếu nhu cầu của đệ tử vượt quá số lượng đệ tử hiện tại, điều này sẽ khiến họ phải làm việc quá sức, dẫn đến việc tích tụ oán hận. Khi oán hận đạt 100%, sẽ giáng hạ Thiên Kiếp tấn công chủ nhân của Đại Thần Giới. 
+				4. Giới hạn số lượng đạo lữ cốt cán: Mỗi người tu luyện Thần đạo chỉ có thể có một số lượng đạo lữ cốt cán nhất định. Một khi đã thu nhận đạo lữ cốt cán thì không thể trục xuất họ nữa, vì vậy xin hãy cẩn trọng trong việc lựa chọn. 
+			[color=#9e6404]3. Guard[/color] 
+				Bằng cách xây dựng Thần Vệ Điện, người tu luyện Thần đạo có thể bổ nhiệm các đạo lữ cốt cán làm thủ vệ. Những thủ vệ khác nhau có thể ban cho người tu luyện Thần đạo các cường lực khác nhau. 
+				Khi người tu luyện Thần đạo đột phá đến cảnh giới cao hơn, họ sẽ mở khóa thêm nhiều thủ vệ. Ngoài ra, người tu luyện Thần đạo cũng có thể nhận được thủ vệ mới thông qua một số sự kiện trong quá trình phiêu lưu. 
+				Cấp độ của Thần Vệ Điện càng cao, uy lực của thủ vệ lại càng cường đại.  
+			[color=#9e6404]4. Thần tích của người tu luyện Thần đạo.[/color] 
+				Một số công trình kiến trúc trong Đại Thần Giới sẽ ban cho người tu luyện Thần đạo khả năng hiển thị các loại thần tích khác nhau.]]></Text>
+		</Help>
+		<Help Name="99" Root="9">
+			<Title>Tín Ngưỡng Kiếp</Title>
+			<Text><![CDATA[
+				Người tu luyện Thần đạo sẽ phải đối mặt với Tín Ngưỡng Kiếp trong quá trình bế quan tu luyện của họ. 
+				Mỗi lần họ sống sót sau Tín Ngưỡng Kiếp, uy lực của Tín Ngưỡng Kiếp lần tiếp theo sẽ càng trở nên hung hãn hơn. 
+				Có 3 phương pháp để kích phát Tín Ngưỡng Kiếp.: 
+				[color=#9e6404]1. Phi thăng Tiên giới[/color] 
+					Khi thần thức của người tu luyện đạt đến 100, đó sẽ là lúc kích phát Tín Ngưỡng Kiếp đến tấn công họ. Nếu chiến thắng Thiên Kiếp, họ có thể phi thăng Tiên giới bằng cách vứt bỏ thể xác. 
+				[color=#9e6404]2. Oán hận bộc phát[/color] 
+					Khi oán hận của đệ tử trong Đại Thần Giới đạt 100%, đó sẽ là lúc kích phát Tín Ngưỡng Kiếp đến tấn công họ. Nếu chiến thắng Thiên Kiếp, những oán hận đó sẽ trở về số không. 
+				[color=#9e6404]3. Đối mặt với tâm ma của chính mình[/color] 
+					Người tu luyện Thần đạo có thể chọn đối mặt với tâm ma của mình bất cứ lúc nào, điều này sẽ kích phát Tín Ngưỡng Kiếp đến tấn công họ. Nếu chiến thắng Thiên Kiếp, họ có thể trấn áp tâm ma đó, đồng thời mở rộng kích thước của Đại Thần Giới thêm 1 đơn vị. 
+					Sự hung hãn của Tín Ngưỡng Kiếp được quyết định bởi các yếu tố sau:: 
+						1. Số lần đối mặt với Thiên Kiếp: Nhân vật này càng sống sót qua nhiều Tín Ngưỡng Kiếp bao nhiêu, thì Tín Ngưỡng Kiếp lần sau lại càng hung hãn bấy nhiêu. 
+						2. Điểm công đức / Điểm nghiệp chướng: Nhân vật càng có nhiều điểm nghiệp chướng bao nhiêu, Tín Ngưỡng Kiếp giáng xuống càng hung hãn bấy nhiêu. Ngược lại, càng có nhiều điểm công đức bao nhiêu, Tín Ngưỡng Kiếp giáng xuống càng suy yếu bấy nhiêu. 
+						3. Điểm cộng số lượng đệ tử: Nếu trung tâm của người tu luyện Thần đạo thu hút được lượng đệ tử và sức hút đạt đến một mức độ nhất định, mức độ hung hãn của Tín Ngưỡng Kiếp sẽ giảm đi đáng kể.]]></Text>
+		</Help>
+		<Help Name="101" Root="10">
+			<Title>Bí mật</Title>
+			<Text><![CDATA[
+				Khi cố gắng tìm kiếm sự thật về sự diệt vong của Thái Ất Tông, Người sẽ gặp phải những bí ẩn cần phải giải mã để tìm ra câu trả lời. Người sẽ phải tìm kiếm những kẻ tình nghi và động cơ của chúng, cũng như bằng chứng để hỗ trợ cho giả thuyết của Người. 
+			[color=#9e6404]1. Người đóng góp[/color] 
+				Những người có thể có liên quan đến bí ẩn này.? 
+				Nếu Người tìm hiểu về người đồng lõa qua lời kể, Người phải thu thập bằng chứng liên quan để tạo độ tin cậy. 
+			[color=#9e6404]2. Động lực[/color] 
+				Nói chung, luôn có lý do tại sao một số người tham gia vào bí mật. Nếu Người không biết động cơ, Người sẽ không thể xác định được đồng lõa. 
+				Nếu Người tìm hiểu động cơ qua lời kể, Người phải thu thập bằng chứng tương ứng để làm cho nó đáng tin cậy. 
+			[color=#9e6404]3. Chứng cứ[/color] 
+				Bằng chứng được sử dụng để củng cố cho giả thuyết của Người về những người liên quan và lý do họ hành động. Một số bằng chứng quan trọng có thể giúp chúng ta hiểu rõ vấn đề và vạch trần bí ẩn ngay lập tức.
+			Khi Người đã tìm hiểu về người đồng lõa, động cơ và bằng chứng, bí ẩn sẽ được phơi bày. 
+			Việc hé lộ bí mật sẽ mang đến những bí ẩn khó lường hoặc có thể hé lộ toàn bộ câu chuyện.]]></Text>
+		</Help>
+		<Help Name="102" Root="10">
+			<Title>Nhân vật</Title>
+			<Text><![CDATA[
+				Thông tin về những người Người biết sẽ được ghi lại trong giao diện nhân vật. Người có thể tìm hiểu các sự thật sau bằng cách kiểm tra thông tin nhân vật:: 
+			[color=#9e6404]1. Bí ẩn[/color] 
+				Thông tin bí mật mà nhân vật này biết. Để tìm hiểu về bí ẩn từ họ, Người phải nắm bắt thực tế rằng họ biết về câu đố thông qua một nhân vật khác. 
+			[color=#9e6404]2. Vết tích[/color] 
+				Vị trí mới nhất của nhân vật. Người có thể tìm thấy nhân vật ở địa điểm đã chỉ định. 
+			[color=#9e6404]3. Tính cách[/color] 
+				Thiên tính bẩm sinh của nhân vật. Tính cách có rất nhiều loại.: 
+					Yếu đuối: Khảo vấn linh hồn sẽ luôn khiến họ hé lộ bí mật. 
+					Ngây thơ: Giao tiếp thân thiện sẽ luôn khiến họ cởi mở. 
+					Tham lam: Họ sẽ cởi mở khi nhận được món quà yêu thích của mình. 
+					Cứng rắn: Khảo vấn linh hồn sẽ không bao giờ khiến họ hé lộ nửa lời. 
+					Khép kín: Giao tiếp thân thiện sẽ không khiến họ cởi mở. 
+			[color=#9e6404]4. Nhược điểm[/color] 
+				Điểm yếu của nhân vật. Sau khi tìm hiểu về điểm yếu của nhân vật, Người có thể khiến họ mở lòng bằng cách trò chuyện vào thời điểm thích hợp.
+			[color=#9e6404]5. Vật phẩm nhận được[/color] 
+				Công pháp mà họ tu luyện. Người có thể nhận được những cuốn công pháp này sau khi họ đã mở lòng với Người. 
+			[color=#9e6404]6. Vật phẩm yêu thích[/color] 
+				Những món đồ mà nhân vật yêu thích. Người có thể tặng chúng cho họ như quà cáp để gia tăng đáng kể độ thiện cảm. 
+				Khi thăm hỏi tông chủ một cách chính thức, Người có thể tặng những vật phẩm mà họ yêu thích để nhận lại mối quan hệ và độ thiện cảm lớn. 
+			[color=#9e6404]7. Vật phẩm căm ghét[/color] 
+				Những món đồ mà nhân vật căm ghét. Người có thể tặng chúng cho họ để giảm đáng kể độ thiện cảm. 
+			[color=#9e6404]8. Bảo vật cá nhân[/color] 
+				Bảo vật của nhân vật]]></Text>
+		</Help>
+		<Help Name="103" Root="10">
+			<Title>Manh mối</Title>
+			<Text><![CDATA[Khi Người cố gắng làm sáng tỏ bí ẩn, những người liên quan, động cơ và bằng chứng lý luận đều là manh mối. Một vài manh mối không có ích cho cuộc điều tra của Người, hãy dùng lý trí để sàng lọc những manh mối hữu dụng.]]></Text>
+		</Help>
+		<Help Name="104" Root="10">
+			<Title>Tương tác xã hội</Title>
+			<Text><![CDATA[
+				Nhân vật NPC Mỗi người đều có cảm xúc, khao khát và câu chuyện của riêng mình. Người có thể làm quen với họ, hỏi thăm thông tin cần thiết và nhận bảo vật từ sự trợ giúp của họ. Người có thể tương tác với nhân vật NPC bằng các phương thức sau: 
+			[color=#9e6404]1. Trò chuyện[/color] 
+				Trò chuyện cùng nhân vật thường xuyên, Người có thể học được những bí mật hoặc thông tin đặc biệt từ họ. 
+				Trò chuyện với nhân vật sẽ gia tăng độ thiện cảm trước khi đạt đến 30 
+			[color=#9e6404]2. Thảo luận[/color]
+				Thảo luận mọi thứ hiển thị trên bảng thông tin nhân vật 
+				Bằng cách lựa chọn chủ đề cẩn thận, Người có thể thu thập được thông tin hữu ích hoặc đạt được mục tiêu trong tâm trí. 
+			[color=#9e6404]3. Tương tác[/color] 
+				Thực hiện hành động với nhân vật. Người có thể mời họ đến tông môn của mình hoặc tặng quà cho họ. 
+			[color=#9e6404]4. Cáo từ[/color] 
+				Kết thúc trò chuyện]]></Text>
+		</Help>
+		<Help Name="111" Root="11">
+			<Title>Linh sủng</Title>
+			<Text><![CDATA[
+			Thú cưng hoặc linh thú là loại sinh vật đặc biệt. Chúng giống như những đệ tử có hành vi hoàn chỉnh, khi chỉ số thú cưng đạt đến một mức nhất định, chúng sẽ mở khóa khả năng tiếp cận thần thông và linh thuật mạnh mẽ hơn. 
+
+			Thú cưng có những đặc điểm sau: 
+			[color=#9e6404]1. Tu luyện[/color]
+			Người chơi có thể thay đổi hành vi của thú cưng thông qua huấn luyện, giúp chúng phát triển theo hướng cụ thể.
+			[color=#9e6404]2. Hành vi[/color]
+			Thú cưng sẽ tự chọn cách hành xử dựa trên các yếu tố hành vi của chính nó.
+			[color=#9e6404]3. Triệu hồi[/color]
+			Người chơi có thể triệu hồi thú cưng khi tiến vào các bản đồ khác.
+			[color=#9e6404]4. Cái chết và tái sinh[/color]
+			Linh thú không bao giờ chết. Khi linh khí cạn kiệt, chúng sẽ trở về tượng của mình. Người chơi có thể triệu hồi chúng lần nữa thông qua các bức tượng đó.
+			[color=#9e6404]5. Thay đổi[/color]
+			Người chơi chỉ có thể sở hữu một thú cưng. Nếu muốn đổi sang thú cưng khác, Người phải tạo tượng để làm việc đó.]]></Text>
+		</Help>
+		<Help Name="112" Root="11">
+			<Title>Trạng thái cơ bản</Title>
+			<Text><![CDATA[
+				Thú cưng có các chỉ số cơ bản sau: 
+			[color=#9e6404]1. Trưởng thành[/color]
+				Thú cưng sẽ dần trưởng thành theo thời gian. Chúng sẽ vẫn là ấu thú cho đến khi đạt 30% độ trưởng thành, nghĩa là Người không thể kiểm soát chế độ ăn của chúng. Từ 30% - 100%, thú cưng sẽ lớn lên và tốc độ tu luyện khá nhanh. Khi đạt 100%, chúng đã trưởng thành hoàn toàn.
+			[color=#9e6404]2. Trí tuệ[/color]
+				Ảnh hưởng đến tốc độ tu luyện của thú cưng, đồng thời mở khóa thêm nhiều hành vi ở cấp độ cao hơn.
+			[color=#9e6404]3. Chân khí[/color]
+				Ảnh hưởng đến linh khí tối đa của thú cưng, khiến chúng khó bị đánh bại hơn, sử dụng được nhiều linh thuật hơn và tăng linh khí cho yêu đan.
+			[color=#9e6404]4. Hộ Thể Chân Khí[/color]
+				Ảnh hưởng đến khả năng hấp thụ sát thương của hộ thể linh khí.
+			[color=#9e6404]5. Pháp lực[/color]
+				Ảnh hưởng đến sát thương và lượng linh khí tiêu hao khi thi triển linh thuật.
+			[color=#9e6404]6. Yêu đan[/color]
+				Ảnh hưởng đến lực công kích của yêu đan.
+			[color=#9e6404]7. Thánh/Chú[/color]
+				Thánh khiết hoặc Ma đạo là sự kết hợp giữa thiện và ác liên quan đến hành vi của mỗi cá thể. Nếu thú cưng thích giúp người, giá trị Thánh khiết sẽ cao. Ngược lại, nếu thích sát sinh, giá trị Ma đạo sẽ cao. Khi đạt đến mức nhất định, ngoại hình của chúng sẽ thay đổi. Giá trị Ma đạo cao dẫn đến lực công kích cực mạnh, giá trị Thánh khiết cao dẫn đến khả năng phòng ngự cực mạnh.
+			[color=#9e6404]8. Độ béo[/color]
+				Độ béo sẽ tăng hoặc giảm tùy theo thức ăn và hành vi. Thú cưng càng gầy, thời gian hồi chiêu linh thuật càng nhanh. Ngược lại, thú cưng càng béo thì tốc độ di chuyển càng chậm nhưng linh lực lại càng cao.
+			[color=#9e6404]9. Cơ bắp[/color]
+				Cơ bắp sẽ tăng hoặc giảm tùy theo thức ăn và hành vi. Thú cưng càng mảnh mai, linh thuật càng mạnh. Ngược lại, nếu có thân hình vạm vỡ, yêu đan của chúng sẽ trở nên mạnh mẽ hơn.]]></Text>
+		</Help>
+		<Help Name="113" Root="11">
+			<Title>Hành vi thú cưng</Title>
+			<Text><![CDATA[
+				Linh thú có rất nhiều loại hành vi khác nhau. Một số hành vi rất có ích trong việc xây dựng tông môn, số khác lại hữu dụng trong chiến đấu. Người có thể dùng việc huấn luyện để thay đổi hành vi của chúng, giúp chúng phát triển thành linh thú theo hướng mong muốn. Khích lệ sẽ khiến chúng thực hiện hành vi đó thường xuyên hơn, ngược lại, quở trách sẽ khiến chúng làm ít đi. Các loại hành vi của linh thú bao gồm::
+			[color=#9e6404]1. Ăn[/color]
+				Linh thú sẽ tìm cách ăn các loại thức ăn khác nhau. Người có thể huấn luyện chúng ăn hoặc không ăn một số loại thức ăn nhất định. Ngoài ra, ngài cũng có thể dùng thực đơn để sắp xếp độ ưu tiên cho từng loại thức ăn.
+			[color=#9e6404]2. Đại tiểu tiện[/color]
+				Sau khi linh thú ăn một lượng thức ăn nhất định, qua thời gian chúng sẽ cần bài tiết chất thải. Linh thú có thể được huấn luyện để đi vệ sinh ở khu vực được chỉ định.
+			[color=#9e6404]3. Tấn công[/color]
+				Linh thú có thể tự mình tấn công kẻ địch và cũng có thể được huấn luyện để tự động tấn công. Linh thú còn có chân khí mà chúng có thể tự chủ động sử dụng.
+			[color=#9e6404]4. Vui chơi[/color]
+				Khi linh thú cảm thấy căng thẳng, chúng sẽ tự tìm cách chơi đùa để giải trí.
+			[color=#9e6404]5. Nghỉ ngơi[/color]
+				Khi năng lượng của linh thú cạn kiệt, chúng sẽ tìm nơi để nghỉ ngơi.
+			[color=#9e6404]6. Hỗ trợ[/color]
+				Linh thú sẽ giúp đỡ các đệ tử sái ngoại hoàn thành mọi loại công việc.
+			[color=#9e6404]7. Hỗ trợ cao cấp[/color]
+				Linh thú sẽ hỗ trợ đệ tử nội môn trong việc tu luyện, tuy nhiên chúng cần có điểm thông minh cao để làm việc này.
+			[color=#9e6404]8. Vận chuyển[/color]
+				Linh thú sẽ tha xác của mọi người hoặc nhân vật bất tỉnh đến vị trí được chỉ định, nhưng chúng cần có điểm thông minh cao để thực hiện việc này.
+			[color=#9e6404]9. Tu luyện[/color]
+				Khi linh thú cảm thấy thư thái, chúng sẽ bắt đầu tự tu luyện. Việc tu luyện của chúng sẽ giúp các chỉ số tăng cao, và hiệu quả này có thể được cải thiện thông qua thức ăn và đồ uống.]]></Text>
+		</Help>
+		<Help Name="114" Root="11">
+			<Title>Thức ăn linh thú</Title>
+			<Text><![CDATA[
+				Tất cả các vật phẩm có giá trị dinh dưỡng mà linh thú tiêu thụ sẽ được hiển thị ở đây. Sử dụng các vật phẩm có giá trị dinh dưỡng có thể gia tăng hiệu quả tu luyện của chúng, tuy nhiên những vật phẩm đó có thể mang lại cả tác động tốt lẫn xấu cho cơ thể, thậm chí khiến chúng bị béo phì. Các loại thức ăn bao gồm:: 
+			[color=#9e6404]1. Trái cây[/color]
+				Giúp tăng điểm thông minh
+			[color=#9e6404]2. Thức ăn đã nấu chín[/color]
+				Giúp tăng hộ giáp chân khí
+			[color=#9e6404]3. Nấm[/color]
+				Giúp tăng lượng chân khí
+			[color=#9e6404]4. Nhân sâm thảo dược[/color]
+				Giúp tăng pháp lực
+			[color=#9e6404]5. Thịt[/color]
+				Giúp tăng sức mạnh của yêu đan
+			[color=#9e6404]6. Đan dược[/color]
+				Sau khi tiêu thụ đan dược, sẽ mất 3 ngày để hấp thụ hoàn toàn. Các loại đan dược khác được tiêu thụ trong khoảng thời gian này sẽ không mang lại hiệu quả nào.]]></Text>
+		</Help>
+		<Help Name="121" Root="12">
+			<Title>Hóa hình</Title>
+			<Text><![CDATA[
+				Nếu linh thú muốn hóa hình, sẽ có ba bước liên quan.: 
+			[color=#9e6404]1. Thức tỉnh[/color]
+				Linh thú cần có nhận thức về trí tuệ trước khi có thể tu luyện. Người có thể sử dụng một số loại đan dược để giúp chúng thức tỉnh. Ngoài ra, ngài có thể bắt chúng trong rừng, mua từ các tông môn khác, mua từ thương nhân lang thang hoặc từ lầu đấu giá.
+			[color=#9e6404]2. Hóa thân Bán Yêu[/color]
+				Việc hóa hình của linh thú đòi hỏi thể xác và trí tuệ phải đạt đến trình độ tương đương con người, điều này có được thông qua việc dung hợp kết tinh trí tuệ. Kết tinh trí tuệ có ba loại: Giác ngộ, Lý trí, và Thấu hiểu. Sau khi có đủ kết tinh trí tuệ, chúng mới có thể hóa hình thành bán yêu.
+			[color=#9e6404]3. Hóa hình hoàn toàn[/color]
+				Sau khi hóa hình thành bán yêu, qua thời gian các bán yêu sẽ phải đối mặt với Lôi kiếp hóa hình. Bán yêu sở hữu càng nhiều kết tinh trí tuệ thì Lôi kiếp hóa hình đến càng nhanh. Khi bán yêu vượt qua được Lôi kiếp hóa hình, chúng sẽ hoàn toàn biến thành người.]]></Text>
+		</Help>
+		<Help Name="122" Root="12">
+			<Title>Thể lực và trí tuệ</Title>
+			<Text><![CDATA[
+				Kết tinh trí tuệ là tài nguyên đặc biệt dành cho các linh thú chưa hóa hình hoàn toàn. Những mảnh vỡ này có thể gia tăng một số chỉ số. Nếu người muốn linh thú biến thành bán yêu, ngài cần cung cấp đầy đủ thể lực và lượng kết tinh trí tuệ tương ứng. Sức mạnh của chúng sẽ tích lũy chậm rãi song song với hệ thống tiêu hóa. Có 3 loại kết tinh trí tuệ có thể tổng hợp: (Giác ngộ/Lý trí/Thấu hiểu))
+			[color=#9e6404]1. Lý trí[/color]
+				Màu đỏ biểu thị tư duy về các sự kiện khác nhau. Trạng thái của chúng chủ yếu ảnh hưởng đến tốc độ tu luyện.
+			[color=#9e6404]2. Ngộ tính[/color]
+				Màu xanh dương biểu thị tư duy về các loại cảm xúc khác nhau. Trạng thái của chúng chủ yếu ảnh hưởng tốt đến các chỉ số cơ bản, nhưng sẽ làm giảm kháng tính ngũ hành.
+			[color=#9e6404]3. Lĩnh ngộ[/color]
+				Màu xanh lá biểu thị tư duy về các loại vật phẩm khác nhau. Trạng thái của chúng chủ yếu ảnh hưởng đến các kỹ năng.]]></Text>
+		</Help>
+		<Help Name="123" Root="12">
+			<Title>Tư duy và ý nghĩ</Title>
+			<Text><![CDATA[
+			Linh thú sẽ sản sinh mảnh vụn tư duy theo thời gian, khi đầy phải được tổng hợp thành kết tinh trí tuệ thông qua quá trình suy nghĩ. Hãy chú ý đến những điều sau nếu ngài muốn đẩy nhanh quá trình này::
+			[color=#9e6404]1. Sự thoải mái[/color]
+			Linh thú sẽ tạo ra các mảnh vụn tư duy theo thời gian, mức độ thoải mái của chúng càng cao thì tốc độ sản sinh càng nhanh. Đồng thời, các mảnh vụn tư duy đặc biệt chỉ có thể nhận được thông qua việc quan sát.
+			[color=#9e6404]2. Quá trình suy nghĩ[/color]
+			Quá trình suy nghĩ giúp ngài kết hợp ba mảnh vụn tư duy cùng loại thành một viên kết tinh trí tuệ. Tất cả các mảnh vụn tư duy còn lại sẽ bị lãng quên. Mảnh vụn tư duy có thể được đặt trong trí nhớ để lưu giữ, và chúng chỉ bị quên đi sau nhiều lần thực hiện quá trình suy nghĩ. Nếu muốn nhận được tư duy tốt hơn, ngài phải tận dụng trí nhớ để ghi lại những ý nghĩ ưu việt hơn.
+			[color=#9e6404]3. Quan sát[/color]
+			Hầu hết các mảnh vụn tư duy có thể thu được thông qua quan sát. Nếu ngài đã nhận được hai mảnh vụn tư duy giống nhau, mảnh thứ ba có thể thu được thông qua việc quan sát.
+			[color=#9e6404]4. Lãng quên[/color]
+			Hãy cẩn thận vì suy nghĩ và ký ức rồi sẽ bị lãng quên vào thời điểm cuối cùng, thế nên đừng quá cố gắng chờ đợi một mảnh vỡ lý tưởng nào đó.]]></Text>
+		</Help>
+		<Help Name="131" Root="13">
+			<Title>Thu thập bản nguyên thiên nhiên</Title>
+			<Text><![CDATA[
+			Thể tu cần sử dụng bản nguyên thiên nhiên để dung hợp vào cơ thể của Người. Có hai phương pháp chính để thu thập bản nguyên thiên nhiên.:
+			[color=#9e6404]1. Vận chuyển chân khí[/color]
+			Thông qua phương pháp vận chuyển chân khí đặc biệt, thể tu Bất Tử Thân có thể sử dụng thể phách cường đại của họ để rút ra tinh hoa của tự nhiên, thứ có thể dùng để luyện thể lại. Vận chuyển chân khí vào những thời điểm khác nhau sẽ thu được bản nguyên thiên nhiên khác nhau.
+			Thể tu Bất Tử Thân có thể vận chuyển chân khí ở những địa điểm khác nhau.
+			Người chơi có thể sử dụng để lên kế hoạch vận chuyển chân khí vào các thời điểm khác nhau.
+			Người chơi có thể tự động thiết lập vị trí vận chuyển chân khí bằng cách đặt bồ đoàn hoặc giường và chỉ định cho thể tu Bất Tử Thân.
+			[color=#9e6404]2. Thôn phệ[/color]
+			Thể tu Bất Tử Thân sẽ nhận được lợi ích từ hệ tiêu hóa cường đại, việc tiêu hóa của họ sẽ không còn yếu ớt như người phàm. Họ có thể nuốt chửng vạn vật và chiết xuất bản nguyên thiên nhiên từ đó để dùng cho việc luyện thể.
+			Cấp bậc của vật phẩm có thể nuốt liên quan đến kỹ năng quan sát của thể tu. Luyện thể có thể tiếp tục gia tăng kỹ năng quan sát bằng cách sử dụng vật phẩm nhiều lần. Ngoài ra, Người chơi cũng có thể cải thiện chỉ số này bằng cách tái tạo các cơ quan trong hệ tiêu hóa.]]></Text>
+		</Help>
+		<Help Name="132" Root="13">
+			<Title>Luyện thể</Title>
+			<Text><![CDATA[
+			Thể phách cường đại của thể tu Bất Tử Thân có được từ việc tôi luyện các bộ phận cơ thể khác nhau. Khi thân thể của họ càng trở nên cường đại, số lượng bộ phận cơ thể có thể tôi luyện cũng sẽ càng nhiều hơn.
+			Các bộ phận cơ thể khác nhau sẽ mang lại hiệu quả cường hóa khác nhau.
+			[color=#9e6404]1. Cơ bắp và huyết dịch[/color]
+			Luyện hóa cơ bắp và huyết dịch sẽ tăng tốc độ, độ chính xác và tỷ lệ thành công khi đỡ đòn.
+			[color=#9e6404]2. Cốt cách[/color]
+			Luyện cốt sẽ gia tăng công kích và độ bền cho cơ thể.
+			[color=#9e6404]3. Nội tạng[/color]
+			Luyện hóa nội tạng sẽ tăng cường năng lực bổ trợ cho cơ thể tùy thuộc vào cơ quan được luyện hóa.]]></Text>
+		</Help>
+		<Help Name="133" Root="13">
+			<Title>Bí pháp thể tu</Title>
+			<Text><![CDATA[[color=#9e6404]1. Kích hoạt bí pháp thể tu[/color]
+			Nếu thể tu Bất Tử Thân đạt đến điều kiện cơ bản trong việc luyện hóa các bộ phận cơ thể, họ sẽ có thể kích hoạt bí pháp thể tu.
+			[color=#9e6404]2. Sử dụng bí pháp thể tu[/color]
+			Sau khi nhận được bí pháp thể tu, hiệu quả vẫn chưa lập tức phát huy. Người chơi phải trang bị tư thế bí pháp thể tu cho thể tu Bất Tử Thân. Thể tu sẽ cố gắng tấn công và phòng thủ bằng bí pháp thể tu mà họ được trang bị.]]></Text>
+		</Help>
+		<Help Name="134" Root="13">
+			<Title>Chiến đấu của thể tu Bất Tử Thân</Title>
+			<Text><![CDATA[[color=#9e6404]1. Tấn công bằng bí pháp thể tu[/color]
+			Khi thể tu Bất Tử Thân bước vào trạng thái chiến đấu, họ sẽ sử dụng bí pháp thể tu đã định để tấn công kẻ địch. Tuy nhiên, Người chơi có thể ra lệnh cho họ sử dụng các chiêu thức đặc biệt để tấn công. Những chiêu thức đặc biệt này sẽ tiêu hao chân nguyên của thể tu, đổi lại sẽ đạt độ chính xác 100% và xuyên thủng hộ thể chân khí. 300%
+			[color=#9e6404]2. Cuồng nộ[/color]
+			Thể tu Bất Tử Thân có thể ghi nhớ những ký ức đau thương và biến chúng thành năng lượng cho trạng thái cuồng nộ. Bằng cách này, thể tu Bất Tử Thân sẽ được gia tăng sức mạnh công kích vô cùng lớn.
+			[color=#9e6404]3. Hồi phục[/color]
+			Khi bí pháp thể tu được tung ra, có cơ hội kích hoạt hồi phục. Khi kích hoạt, nó sẽ làm mới thời gian hồi chiêu của bí pháp thể tu và cho phép sử dụng liên tục không tốn phí trong một khoảng thời gian ngắn.
+			Tỷ lệ kích hoạt tăng 100% khi ở trạng thái cuồng nộ.]]></Text>
+		</Help>
+		<Help Name="141" Root="14">
+			<Title>Thức tỉnh vật linh</Title>
+			<Text><![CDATA[
+			Vạn vật trên thế giới đều chịu ảnh hưởng bởi sự biến đổi của vũ trụ, giống như việc vạn vật mở lòng và tiếp nhận trí tuệ. Các vật thể có thể thức tỉnh linh trí trong những tình huống sau::
+			[color=#9e6404]1. Thức tỉnh linh trí bởi chủ nhân[/color]
+			Tu sĩ mang Đạo chủng và sự ngộ đạo sâu sắc về trời đất thường có xu hướng ảnh hưởng đến vạn vật xung quanh. Nếu có đủ cơ duyên, ảnh hưởng này có thể dẫn đến việc thức tỉnh linh trí cho vật vô tri.
+			[color=#9e6404]2. Thức tỉnh linh trí bởi thiên đạo[/color]
+			Việc thức tỉnh linh trí bởi thiên đạo chính là sự phản ánh sự thay đổi của quy luật trời đất. Khi điều này xảy ra sẽ khiến cho những vật thể không có linh hồn có được linh trí.
+			[color=#9e6404]3. Thức tỉnh linh trí bởi thần thông pháp thuật[/color]
+			Là việc sử dụng một số pháp thuật để kích thích tinh thần của vật thể. Tuy nhiên, phương pháp này có xác suất thành công không cao.]]></Text>
+		</Help>
+		<Help Name="142" Root="14">
+			<Title>Vật linh và thuộc tính</Title>
+			<Text><![CDATA[
+			Con người vốn có sự cân bằng của ngũ hành trong tự nhiên, thế nhưng linh vật thì không như vậy. Trong quá trình hình thành cơ thể, tỷ lệ ngũ hành mà linh vật sở hữu sẽ ảnh hưởng đến tư chất và tiềm năng của nhục thân sắp tạo thành. Mặc dù ngũ hành mất cân bằng có thể dẫn đến khuyết điểm, nhưng nó cũng có thể tạo ra những cơ thể có thuộc tính mà con người không thể đạt được.
+			Linh vật sẽ điều chỉnh tỷ lệ ngũ hành bằng cách hấp thụ những vật phẩm có thuộc tính khác nhau để chuẩn bị cho việc hóa hình.
+			Sau khi xác định được tỷ lệ ngũ hành, người chơi có thể thi triển thuật "Cơ Thể Khởi Nguyên" để tạo hình cho linh vật.]]></Text>
+		</Help>
+		<Help Name="143" Root="14">
+			<Title>Vật phẩm có linh tính thức tỉnh</Title>
+			<Text><![CDATA[
+			Nhục thân của linh vật khác biệt với con người và có thể sở hữu tư chất mạnh mẽ hơn người thường. Thiên phú kiểu này khó mà lý giải, bởi lẽ vốn dĩ vật vô tri rất khó có được ý thức để tạo thành nhục thân. Có lẽ đây là sự bù đắp từ thiên đạo.
+			Các loại thiên phú của linh vật như sau::
+			    Đan Linh: Khi dùng đan dược lần đầu sẽ không sinh ra kháng dược tính trong cơ thể.
+			    Thực Linh: Có khả năng hấp thụ linh khí và tỷ lệ chuyển hóa linh lực vào khí hải cao.
+			    Bảo Linh: Tăng tỷ lệ thành công khi luyện chế Vô Ưu Tâm Ngọc và Sát Tâm Ngọc. 100%
+			    Thạch Linh: Có căn cơ linh khí cao hơn bình thường.
+			    Phù Linh: Cho phép trang bị thêm 1 ô bùa chú.
+			    Khí Linh: Tăng hiệu quả của trang bị đang mặc. 100%
+			    Bảo Vật Linh: Tăng hiệu quả của các vật phẩm phong thủy. 100% 
+			    Vật Liệu Linh: Có thể trưởng thành bằng cách tiêu thụ các vật phẩm cùng loại với bản thân.
+			    Pháp Bảo Linh: Tăng kỹ năng pháp bảo.
+			    Kiến Trúc Linh: Có thể nhanh chóng hồi phục các phần nhục thân bị thiếu hụt bằng cách sử dụng vật liệu xây dựng.
+			    Thảo Mộc Linh: Có sự tăng trưởng bất định, nghĩa là nó có thể tự lớn lên theo thời gian.
+			    Khác: Có vận may cực cao.]]></Text>
+		</Help>
+		<Help Name="P11" Root="P1">
+			<Title>Kết cục nhân vật</Title>
+			<Text><![CDATA[
+				Đối với mọi nhân vật phi thăng, bị trục xuất khỏi tông môn hoặc qua đời, đều sẽ có kết cục riêng cho họ. 
+				Kết cục nhân vật sẽ được phân loại theo các file lưu game. Người có thể kiểm tra kết cục bằng cách tìm kiếm trong các file lưu. 
+				Truy cập kết cục nhân vật thông qua màn hình tự động hiển thị kết cục từ các file lưu gần nhất của Người.]]></Text>
+		</Help>
+		<Help Name="P12" Root="P1">
+			<Title>Tàng Kinh H阁</Title>
+			<Text><![CDATA[
+			Tàng Kinh Các: Giờ đây Người có thể lưu trữ và quản lý kinh thư của mình thông qua Tàng Kinh Các. Mỗi tầng kệ có sức chứa nhất định, công pháp càng cao thâm thì càng chiếm nhiều diện tích lưu trữ. Người có thể lưu trữ kinh thư bằng các cách sau:: 
+			[color=#9e6404]1. Sao chép công pháp[/color] 
+				Sao chép toàn bộ các chương đầu của công pháp vào Tàng Kinh Các. 
+			[color=#9e6404]2. Sao chép kinh thư[/color] 
+				Sao chép một quyển kinh thư. 
+			[color=#9e6404]3. Sao chép tri thức[/color] 
+				Sao chép những tri thức mà nhân vật đã có. 
+			Tàng Kinh Các càng lưu trữ nhiều, tất cả đệ tử trong tông môn càng nhận được nhiều lợi ích. Họ sẽ cần ít đạo chủng hơn khi nghiên cứu kinh thư.]]></Text>
+		</Help>
+		<Help Name="P13" Root="P1">
+			<Title>Tạo bản thiết kế</Title>
+			<Text><![CDATA[
+				Tính năng mới: Thêm bản thiết kế kiến trúc. 
+				Hiện tại Người có thể chọn khu vực có kích thước không quá 20 x 20 ô gạch và lưu bố cục thành bản thiết kế. Bản thiết kế đã lưu có thể sử dụng cho mọi file lưu game của Người. 
+				Người cũng có thể chia sẻ chúng thông qua Workshop.]]></Text>
+		</Help>
+		<Help Name="P14" Root="P1">
+			<Title>Thông báo và quy tắc tông môn</Title>
+			<Text><![CDATA[
+			Giờ đây người chơi có thể tùy chọn loại thông báo nào xuất hiện trên màn hình. Người chơi có thể chọn bỏ qua một số loại thông báo để ngăn chặn cửa sổ pop-up hiển thị.
+			Người chơi có thể thiết lập quy tắc tông môn trong trang quản lý tông môn. Đệ tử của Người sẽ tự động đưa ra quyết định dựa trên quy tắc khi đi thám hiểm.]]></Text>
+		</Help>
+		
+		<Help Name="P15" Root="P1">
+			<Title>Khế ước linh thú</Title>
+			<Text><![CDATA[
+			Sau khi cài đặt Khế ước linh thú, chúng ta sẽ có tốc độ thám hiểm nhanh hơn. Ngoài ra, nhân vật sẽ nhận được thuộc tính đặc biệt nếu đạt đến cảnh giới cao hơn. Sau khi đạt cảnh giới Kim Đan, họ sẽ tăng lượng linh khí tối đa. Sau khi đạt cảnh giới Nguyên Thần, họ sẽ nhận được khả năng đặc biệt riêng cho từng loại linh thú như sau::
+	    
+			·Thêm 12 loại Khế ước linh thú khác nhau
+
+				Thỏ: Tăng tốc độ phiêu lưu
+			    Gà: Tăng ngộ tính
+			    Sói: Tăng kỹ năng pháp bảo
+			    Rắn: Tăng kỹ năng chân khí
+			    Heo rừng: Tăng thể lực
+			    Gấu: Tăng thể lực, tăng kỹ năng pháp bảo
+			    Ếch: Tăng cảm thụ linh khí
+			    Rùa: Tăng giáp linh khí
+			    Mèo: Tăng kỹ năng chế tạo
+			    Trâu: Tăng thể lực, tăng kỹ năng luyện đan
+			    Hổ: Tăng kỹ năng chiến đấu, tăng kỹ năng pháp bảo
+			    Gấu trúc: Tăng may mắn[Đi sâu vào rừng trúc]
+
+			·Tăng thêm 2 khế ước linh hồn đặc biệt
+			    Có 2 loại khế ước linh hồn đặc biệt: Khế ước Lục Ngô và Phì Xuyên chỉ có thể mua được từ đấu giá. Những khế ước này không có tác dụng trong chiến đấu, nhưng có thể khiến nhân vật sử dụng thần thông nguyên thủy của Lục Ngô và Phì Xuyên để gọi mưa hoặc xua tan mây gió.·
+
+			·Công pháp Thập Lục Bộ Thử Tiên: Khế ước linh hồn
+			    Nó có thể thi triển lên yêu thú đã bất tỉnh có cảnh giới thấp hơn Người. Khi thi triển pháp thuật sẽ giúp Người phong ấn nó vào trong khế ước linh hồn. Cảnh giới của yêu thú càng cao, hiệu quả đặc biệt của khế ước linh hồn mang lại sẽ càng lớn.
+
+			·Thêm cài đặt mới: Yêu thú bay (có thể chọn trong giao diện trang bị)) 
+			    Sau khi nhấp chọn, nhân vật này sẽ cưỡi yêu thú đã kết ấn khi di chuyển trên bản đồ.
+			]]></Text>
+		</Help>
+	</List>
+</Helps>

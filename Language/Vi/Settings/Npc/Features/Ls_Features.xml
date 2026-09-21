@@ -1,0 +1,84 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Bear_Fat">
+			<DisplayName>Lớp mỡ dày</DisplayName>
+			<Desc>Người này sở hữu lớp mỡ dày hơn người thường, điều này khiến cho[IT]Có khả năng chịu lạnh cực tốt và sở hữu kháng tính mạnh mẽ đối với Ngũ Hành.</Desc>
+		</Text>
+		<Text Name="Rabbit_Fast">
+			<DisplayName>Nhiệt huyết</DisplayName>
+			<Desc>Người này có thể làm mọi việc rất nhanh chóng, bất kể là chạy nhảy hay học tập, tuy nhiên khuyết điểm của[IT]là tâm tính không đủ kiên nhẫn.</Desc>
+		</Text>
+		<Text Name="Rabbit_Hear">
+			<DisplayName>Cẩn thận</DisplayName>
+			<Desc>Người này có thính giác và giác quan cực kỳ nhạy bén.</Desc>
+		</Text>
+		<Text Name="Chicken_Sleep">
+			<DisplayName>Không ngủ không nghỉ</DisplayName>
+			<Desc>Bẩm sinh đã là người ít ngủ, giúp cho[IT]Có khoảng thời gian làm việc dài hơn người thường.</Desc>
+		</Text>
+		<Text Name="Wolf_Calm">
+			<DisplayName>Tàn nhẫn lạnh lùng</DisplayName>
+			<Desc>[IT]Bẩm sinh có thiên phú võ học, giúp sử dụng kỹ năng chiến đấu một cách điêu luyện.</Desc>
+		</Text>
+		<Text Name="Snake_Progenitor">
+			<DisplayName>Cổ tộc</DisplayName>
+			<Desc>Thời thượng cổ, người tu luyện thuộc tộc Kim Lân Xà từng muốn cải tạo cơ thể thành thân xác của rồng. Tuy nhiên, hành động này đã chọc giận tộc Rồng, dẫn đến việc Kim Lân Xà gần như bị tuyệt diệt. Chỉ còn sót lại những bộ võ học ghi chép về phương pháp rèn luyện thể xác, giúp cho người tu luyện có giác quan và thiên phú vượt xa người thường.</Desc>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Dẻo dai bền bỉ</DisplayName>
+			<Desc>Yêu thú thông thường: Ếch</Desc>
+		</Text>
+		<Text Name="Frog_Vision">
+			<DisplayName>Mắt kính lúp</DisplayName>
+			<Desc>Cặp mắt của[IT]Nhỏ như mắt ếch, nhưng lại có khả năng nhìn thấu chi tiết của vạn vật. Với năng lực này, có thể hoàn thành những công việc chế tác cần sự tỉ mỉ một cách xuất sắc.</Desc>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Ăn không chọn lọc</DisplayName>
+			<Desc>Yêu thú thông thường: Lợn rừng</Desc>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Tâm trí kiên định</DisplayName>
+			<Desc>Yêu thú thông thường: Rắn</Desc>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Thích giao du</DisplayName>
+			<Desc>Yêu thú thông thường: Sói</Desc>
+		</Text>
+		<Text Name="Cat_Elegant">
+			<DisplayName>Thanh tao</DisplayName>
+			<Desc>Rất khó để cưỡng lại sức hút của[IT]</Desc>
+		</Text>
+		<Text Name="Cat_Light">
+			<DisplayName>Linh hoạt</DisplayName>
+			<Desc>Có thể di chuyển lặng lẽ và sở hữu khả năng ẩn nấp tài tình tựa như mèo rừng.</Desc>
+		</Text>
+		<Text Name="Tor_Longevity">
+			<DisplayName>Trường thọ</DisplayName>
+			<Desc>Rùa là loài vật có tuổi thọ cực kỳ dài lâu.</Desc>
+		</Text>
+		<Text Name="Tor_Slow">
+			<DisplayName>Chậm chạp</DisplayName>
+			<Desc>Rùa là loài vật di chuyển rất chậm chạp, nhưng chúng lại có thể giữ tâm trí tĩnh lặng và chỉ cần một lượng nhỏ thức ăn cùng nước uống để duy trì sự sống.</Desc>
+		</Text>
+		<Text Name="Tor_Def">
+			<DisplayName>Giáp mai</DisplayName>
+			<Desc>Sở hữu khả năng phòng thủ tự nhiên cao tựa như rùa.</Desc>
+		</Text>
+		<Text Name="Tiger_Pier">
+			<DisplayName>Hung bạo tàn ác</DisplayName>
+			<Desc>[IT]Là người cực kỳ giỏi trong việc chiến đấu. [IT]Vừa mạnh mẽ vừa tàn nhẫn khi ra tay trong chiến đấu. Những chiêu thức của[IT]không khác gì mãnh hổ hung hãn.</Desc>
+		</Text>
+		<Text Name="Cow_Farmer">
+			<DisplayName>Cần cù và lương thiện</DisplayName>
+			<Desc>Giỏi trong lĩnh vực nông nghiệp và có sức chịu đựng làm việc nặng nhọc tựa như trâu.</Desc>
+		</Text>
+		<Text Name="Cow_Big">
+			<DisplayName>Thông thạo thảo dược</DisplayName>
+			<Desc>Cá nhân[IT]Sở hữu hệ tiêu hóa độc nhất vô nhị, khiến cho[IT]Có thể thấu hiểu dược tính của các loại linh thảo tốt hơn người thường.</Desc>
+		</Text>
+		<Text Name="Cat_Pot">
+			<DisplayName>Hiếu kỳ</DisplayName>
+			<Desc>[IT]Thường có lòng tò mò mạnh mẽ đối với những sự vật có vẻ khả nghi, đây là một phẩm chất vô cùng quan trọng trong con đường tu luyện.</Desc>
+		</Text>
+	</List>
+</Texts>

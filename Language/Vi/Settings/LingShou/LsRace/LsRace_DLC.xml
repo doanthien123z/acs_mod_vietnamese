@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsPandaXian">
+			<PossibleMagic.0.DisplayName>Bằng hữu tự nhiên</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Sử dụng sự sinh trưởng và trí tuệ của bản thân để mời gọi linh thú gia nhập tông môn của Người\n[color=#FF0000]Cần ít nhất 50 thần thức để sử dụng[/color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Tiên sứ</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Sử dụng sự sinh trưởng và dưỡng chất của bản thân để đến các tông môn khác và nâng cao mạnh mẽ quan hệ với tông môn của Người\n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Cần pháp khí 100[/color]</PossibleSkill.1.Desc>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<PossibleSkill.0.Desc>[color=#FF0000]Cần pháp khí 50[/color]</PossibleSkill.0.Desc>
+		</Text>
+	</List>
+</Texts>

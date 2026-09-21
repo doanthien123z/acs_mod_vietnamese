@@ -1,0 +1,189 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FanRenEvent">
+			<DisplayName>Gặp gỡ phàm nhân</DisplayName>
+			<Desc>Thái độ mà các đệ tử trong tông môn của Người phải thể hiện đối với người phàm trần khi họ đang hành tẩu giang hồ</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Giúp đỡ khi họ gặp khó khăn, và cố gắng không gây ra ảnh hưởng tiêu cực khi làm mọi việc</Selection.0.Desc>
+			<Selection.1.DisplayName>Phớt lờ</Selection.1.DisplayName>
+			<Selection.1.Desc>Làm theo ý mình mà không quan tâm đến việc sẽ gây ra hậu quả gì cho những người đó</Selection.1.Desc>
+			<Selection.2.DisplayName>Không để ý</Selection.2.DisplayName>
+			<Selection.2.Desc>Chuyện vặt của phàm nhân không đáng để ta tốn thời gian</Selection.2.Desc>
+		</Text>
+		<Text Name="JiangHuFenZheng">
+			<DisplayName>Gặp gỡ bất hòa</DisplayName>
+			<Desc>Thái độ mà các đệ tử trong tông môn của Người phải thể hiện đối với tu sĩ khi họ đang hành tẩu giang hồ</Desc>
+			<Selection.0.DisplayName>Tu sĩ chính đạo</Selection.0.DisplayName>
+			<Selection.0.Desc>Khi gặp tình huống này, trước tiên hãy cố gắng giải quyết vấn đề với tư cách là tu sĩ chính đạo</Selection.0.Desc>
+			<Selection.1.DisplayName>Tu sĩ ma đạo</Selection.1.DisplayName>
+			<Selection.1.Desc>Khi gặp tình huống này, trước tiên hãy cố gắng giải quyết vấn đề với tư cách là tu sĩ ma đạo</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Rời đi và cố gắng không dính líu đến rắc rối</Selection.2.Desc>
+		</Text>
+		<Text Name="FindTreasure">
+			<DisplayName>Cơ duyên</DisplayName>
+			<Desc>Hành động mà các đệ tử trong tông môn của Người sẽ thể hiện khi may mắn gặp được cơ duyên tiên đạo trong lúc hành tẩu giang hồ</Desc>
+			<Selection.0.DisplayName>Bước vào thám hiểm</Selection.0.DisplayName>
+			<Selection.0.Desc>Cố gắng thử vận may khi gặp phải tình huống như vậy</Selection.0.Desc>
+			<Selection.1.DisplayName>Tránh xa rắc rối</Selection.1.DisplayName>
+			<Selection.1.Desc>Rời đi và cố gắng không dính líu đến rắc rối</Selection.1.Desc>
+		</Text>
+		<Text Name="FindProduce">
+			<DisplayName>Thu thập tài nguyên</DisplayName>
+			<Desc>Hành động mà các đệ tử trong tông môn của Người sẽ thể hiện khi phát hiện ra tài nguyên đặc biệt của địa phương trong lúc hành tẩu giang hồ</Desc>
+			<Selection.0.DisplayName>Thu thập tài nguyên</Selection.0.DisplayName>
+			<Selection.0.Desc>Tích cực thu thập tài nguyên khi gặp phải những tình huống như vậy</Selection.0.Desc>
+			<Selection.1.DisplayName>Không để ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Không lãng phí thời gian vào việc này</Selection.1.Desc>
+		</Text>
+		<Text Name="FindHighProduce">
+			<DisplayName>Gặp bảo vật</DisplayName>
+			<Desc>Hành động mà các đệ tử trong tông môn của Người sẽ thể hiện khi tìm thấy bảo vật hiếm trong lúc hành tẩu giang hồ</Desc>
+			<Selection.0.DisplayName>Cố gắng tìm kiếm</Selection.0.DisplayName>
+			<Selection.0.Desc>Cố gắng tìm kiếm bảo vật khi gặp phải tình huống như vậy</Selection.0.Desc>
+			<Selection.1.DisplayName>Không để ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Không lãng phí thời gian vào việc này</Selection.1.Desc>
+		</Text>
+		<Text Name="FindSecret">
+			<DisplayName>Truyện kỳ lạ</DisplayName>
+			<Desc>Hành động của đệ tử trong tông môn khi nghe những câu chuyện kỳ lạ trong lúc ngao du thiên hạ.</Desc>
+			<Selection.0.DisplayName>Tìm hiểu sự tình</Selection.0.DisplayName>
+			<Selection.0.Desc>Cố gắng thăm dò và tìm hiểu chi tiết khi gặp phải sự kiện này.</Selection.0.Desc>
+			<Selection.1.DisplayName>Không để ý</Selection.1.DisplayName>
+			<Selection.1.Desc>Không lãng phí thời gian vào việc này</Selection.1.Desc>
+		</Text>
+		<Text Name="School_All">
+			<DisplayName>Quan hệ giữa các tông môn</DisplayName>
+			<Desc>Logic cơ bản</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_1">
+			<DisplayName>Quan hệ giữa các tông môn - Màn Thiên Tông</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Màn Thiên Tông</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_2">
+			<DisplayName>Quan hệ giữa các tông môn - Côn Luân Điện</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Côn Luân Điện</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_3">
+			<DisplayName>Quan hệ giữa các tông môn - Thượng Thiên Cung</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Thượng Thiên Cung</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_4">
+			<DisplayName>Quan hệ giữa các tông môn - Tử Vân Quan</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Tử Vân Quan</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_5">
+			<DisplayName>Quan hệ giữa các tông môn - Bí Tông</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Bí Tông</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_6">
+			<DisplayName>Quan hệ giữa các tông môn - Thanh Liên Tự</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Thanh Liên Tự</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_7">
+			<DisplayName>Quan hệ giữa các tông môn - Dạ Quang Tông</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Dạ Quang Tông</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_8">
+			<DisplayName>Quan hệ giữa các tông môn - Bách Trùng Sơn</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Bách Trùng Sơn</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_9">
+			<DisplayName>Quan hệ giữa các tông môn - Vô Tận Uyên</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Vô Tận Uyên</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_10">
+			<DisplayName>Quan hệ giữa các tông môn - Thất Sát Tông</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Thất Sát Tông</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_11">
+			<DisplayName>Quan hệ giữa các tông môn - Tiêu Dao Tông</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Tiêu Dao Tông</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="School_12">
+			<DisplayName>Quan hệ giữa các tông môn - Vạn Thú Tự</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Vạn Thú Tự</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+		<Text Name="lingguangyishan">
+			<DisplayName>Khơi gợi ý niệm</DisplayName>
+		</Text>
+	</List>
+</Texts>

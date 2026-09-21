@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Sup">
+			<DisplayName>Hợp nhất</DisplayName>
+			<Desc>Hợp nhất</Desc>
+			<Selections.0.Display>Không có chuyện gì xảy ra...</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

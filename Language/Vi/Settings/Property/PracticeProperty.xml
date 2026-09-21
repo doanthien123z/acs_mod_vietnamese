@@ -1,0 +1,202 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_SneakValue">
+			<DisplayName>Ẩn thân</DisplayName>
+			<Desc>Phạm vi nhân vật được che giấu khi ẩn thân. Chỉ số này càng cao, nhân vật càng khó bị phát hiện</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="PotentialOfBasepracticeAddValue">
+			<DisplayName>Cộng hưởng tiềm năng</DisplayName>
+			<Desc>Tiềm năng nhân vật ảnh hưởng đến tốc độ tu luyện cơ bản và hiệu quả rèn luyện chân khí</Desc>
+		</Text>
+		<Text Name="GodPenaltyAddV">
+			<DisplayName>Cộng hưởng điểm nghiệp chướng</DisplayName>
+			<Desc>Số điểm nghiệp lực nhân vật cần</Desc>
+		</Text>
+		<Text Name="MaxAccumulativeLingAddV">
+			<DisplayName>Thưởng giới hạn Khí Hải</DisplayName>
+			<Desc>Thưởng giới hạn Khí Hải</Desc>
+		</Text>
+		<Text Name="BasepracticeSpeedCoefficient">
+			<DisplayName>Thưởng tốc độ tu luyện cơ bản</DisplayName>
+			<Desc>Thưởng tốc độ tu luyện cơ bản của ngoại môn đệ tử</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="DeepPracticeSpeedSpecialCoefficient">
+			<DisplayName>Thưởng tốc độ tu luyện</DisplayName>
+			<Desc>Thưởng tốc độ tu luyện chân khí của tu sĩ</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="MindStateBaseValue">
+			<DisplayName>Tâm cảnh cơ bản</DisplayName>
+			<Desc>Tâm cảnh cơ bản của nội môn đệ tử</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficient">
+			<DisplayName>Cấp độ tâm cảnh ổn định</DisplayName>
+			<Desc>Tốc độ biến đổi tâm cảnh của nội môn đệ tử</Desc>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Tâm trạng ảnh hưởng đến tốc độ biến đổi tâm cảnh</DisplayName>
+		</Text>
+		<Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+			<DisplayName>Tâm trạng ảnh hưởng đến tốc độ biến đổi tâm cảnh</DisplayName>
+		</Text>
+		<Text Name="InspirationCoefficient">
+			<DisplayName>Tốc độ lĩnh hội</DisplayName>
+			<Desc>Ngộ tính của bản thân càng cao càng dễ lĩnh hội mọi việc trong đời.</Desc>
+		</Text>
+		<Text Name="LingAbsorbSpeed">
+			<DisplayName>Thưởng tốc độ hấp thu linh khí</DisplayName>
+		</Text>
+		<Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+			<DisplayName>Chân khí cơ bản</DisplayName>
+			<Desc>Giá trị chân khí ban đầu</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="NpcLingMaxValue">
+			<DisplayName>Chân khí tối đa</DisplayName>
+			<Desc>Lượng chân khí tối đa của nhân vật</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SpeedAddV">
+			<DisplayName>Thưởng tốc độ luyện chế pháp bảo</DisplayName>
+			<Desc>Thưởng tốc độ luyện chế pháp bảo</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_SuccessRateAddV">
+			<DisplayName>Thưởng tỷ lệ luyện chế pháp bảo thành công</DisplayName>
+			<Desc>Thưởng tỷ lệ luyện chế pháp bảo thành công</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_LingInheritRateAddV">
+			<DisplayName>Thưởng phẩm cấp pháp bảo luyện thành</DisplayName>
+			<Desc>Cấp phẩm của pháp bảo sau khi luyện chế</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_QualityAddV">
+			<DisplayName>Thưởng chất lượng pháp bảo luyện thành</DisplayName>
+			<Desc>Chất lượng của pháp bảo sau khi luyện chế</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="FabaoMake_TwelveRateChance">
+			<DisplayName>Tỷ lệ luyện chế pháp bảo thành công cơ bản</DisplayName>
+			<Desc>Tỷ lệ thành công cơ bản khi luyện chế pháp bảo</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Speed">
+			<DisplayName>Tốc độ luyện đan</DisplayName>
+			<Desc>Tốc độ luyện đan dựa theo kỹ năng luyện đan</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SpeedAddV">
+			<DisplayName>Thưởng tốc độ luyện đan</DisplayName>
+			<Desc>Thưởng tốc độ luyện đan</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRate">
+			<DisplayName>Tỷ lệ luyện đan thành công</DisplayName>
+			<Desc>Tỷ lệ luyện đan thành công dựa theo kỹ năng luyện đan</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_SuccessRateAddV">
+			<DisplayName>Thưởng tỷ lệ luyện đan thành công</DisplayName>
+			<Desc>Thưởng tỷ lệ luyện đan thành công</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_Yield">
+			<DisplayName>Số lượng đan dược luyện thành</DisplayName>
+			<Desc>Số lượng đan dược luyện thành dựa theo kỹ năng luyện đan</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="DanMake_YieldAddP">
+			<DisplayName>Thưởng số lượng đan dược luyện thành</DisplayName>
+			<Desc>Thưởng số lượng đan dược luyện thành</Desc>
+			<FunctionKind>Thuộc tính chế tạo</FunctionKind>
+		</Text>
+		<Text Name="PracticeRateAddPFromDan">
+			<DisplayName>Thưởng tỷ lệ đột phá cảnh giới thành công</DisplayName>
+			<Desc>Thưởng tỷ lệ đột phá cảnh giới thành công</Desc>
+		</Text>
+		<Text Name="WorldMapFlySpeed">
+			<DisplayName>Tốc độ bay khi lịch luyện</DisplayName>
+			<DisplayValue>{0:N1} km/Chân khí</DisplayValue>
+			<Desc>Tốc độ bay tối đa khi lịch luyện</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="WorldMapFlySpeedAddP">
+			<DisplayName>Tăng tốc độ bay khi lịch luyện</DisplayName>
+			<Desc>Tốc độ bay tối đa khi lịch luyện</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ExperienceNeckTimeCostCoefficient">
+			<DisplayName>Bội số tỷ lệ đột phá thành công</DisplayName>
+			<Desc>Bội số tỷ lệ đột phá thành công khi tu sĩ tiến hành đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="NeckCountdownAddV">
+			<DisplayName>Thời gian kéo dài khi đột phá</DisplayName>
+			<DisplayValue>{0:N0} giây</DisplayValue>
+			<Desc>Thời gian còn lại để tiến hành đột phá</Desc>
+		</Text>
+		<Text Name="EsotericaNum">
+			<DisplayName>Số lượng bí tịch tối đa</DisplayName>
+			<Desc>Số lượng bí tịch tối đa sở hữu</Desc>
+		</Text>
+		<Text Name="AbilityLvAddV">
+			<DisplayName>Phúc lợi Đạo Chủng</DisplayName>
+			<Desc>Phúc lợi Đạo Chủng</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="ExperiencePrestigeAddP">
+			<DisplayName>Bội số danh tiếng</DisplayName>
+			<Desc>Bội số thưởng danh tiếng nhận được từ lịch luyện</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="ExperienceFindSpeedAddV">
+			<DisplayName>Tốc độ khám phá lịch luyện</DisplayName>
+			<Desc>Thưởng tốc độ khi khám phá khu vực mới lúc lịch luyện</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="NutritionToJingYuanK">
+			<DisplayName>Tỷ lệ nhận thể lực</DisplayName>
+			<Desc>Tỷ lệ chuyển đổi thể lực cho mỗi điểm độ no</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="NutritionWaterAutoRecover">
+			<DisplayName>Hiệu suất hấp thụ linh khí</DisplayName>
+			<DisplayValue>{0:N2}/Giây</DisplayValue>
+			<Desc>Khả năng hấp thụ trực tiếp năng lượng trời đất để giảm cơn đói khát</Desc>
+			<FunctionKind>Trạng thái tu luyện</FunctionKind>
+		</Text>
+		<Text Name="YaoShou_BaseLing">
+			<DisplayName>Yêu khí</DisplayName>
+			<Desc>Yêu khí</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseAttack">
+			<DisplayName>Sức tấn công của yêu thú</DisplayName>
+			<Desc>Sức tấn công của yêu thú</Desc>
+		</Text>
+		<Text Name="YaoShou_BaseFabaoNum">
+			<DisplayName>Phẩm chất pháp bảo yêu thú</DisplayName>
+			<Desc>Phẩm chất pháp bảo yêu thú</Desc>
+		</Text>
+		<Text Name="GongMatch_JinAddV">
+			<DisplayName>Thưởng tương hợp công pháp hệ Kim</DisplayName>
+		</Text>
+		<Text Name="GongMatch_MuAddV">
+			<DisplayName>Thưởng tương hợp công pháp hệ Mộc</DisplayName>
+		</Text>
+		<Text Name="GongMatch_ShuiAddV">
+			<DisplayName>Thưởng tương hợp công pháp hệ Thủy</DisplayName>
+		</Text>
+		<Text Name="GongMatch_HuoAddV">
+			<DisplayName>Thưởng tương hợp công pháp hệ Hỏa</DisplayName>
+		</Text>
+		<Text Name="GongMatch_TuAddV">
+			<DisplayName>Thưởng tương hợp công pháp hệ Thổ</DisplayName>
+		</Text>
+		<Text Name="GongMatch_NoneAddV">
+			<DisplayName>Thưởng tương hợp công pháp vô hệ</DisplayName>
+		</Text>
+	</List>
+</Texts>

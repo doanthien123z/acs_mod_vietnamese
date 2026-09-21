@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="School_13">
+			<DisplayName>Quan hệ giữa các tông môn - Võ Đang Phái</DisplayName>
+			<Desc>Thái độ của đệ tử trong tông môn khi gặp người của Võ Đang Phái</Desc>
+			<Selection.0.DisplayName>Thân thiện</Selection.0.DisplayName>
+			<Selection.0.Desc>Đối đãi với họ bằng sự thân thiện</Selection.0.Desc>
+			<Selection.1.DisplayName>Đe dọa</Selection.1.DisplayName>
+			<Selection.1.Desc>Đối đãi với họ bằng sự đe dọa</Selection.1.Desc>
+			<Selection.2.DisplayName>Tránh xa rắc rối</Selection.2.DisplayName>
+			<Selection.2.Desc>Cố gắng tránh xa để tránh rắc rối về sau</Selection.2.Desc>
+		</Text>
+	</List>
+</Texts>

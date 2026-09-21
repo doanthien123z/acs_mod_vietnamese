@@ -1,0 +1,77 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WuDang_HuangJing" sParam="Item">
+			<ThingName>Địa căn</ThingName>
+			<Desc>Một loại thảo dược có vị ngọt và thanh mát. Ăn nó không chỉ làm dịu cơn đói mà còn bổ sung dưỡng chất cho cơ thể. Giá trị của nó có thể sánh ngang với tử linh chi. Sở dĩ loại thảo dược này được gọi là Địa Cốt chính là vì nó hấp thụ các chất dinh dưỡng và khoáng chất quan trọng từ lòng đất.</Desc>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
+			<ThingName>Bột địa cốt</ThingName>
+			<Desc>Bột thu được từ việc nghiền nhuyễn địa cốt. Dù chỉ có dược tính nhẹ, nó thường được dùng làm nguyên liệu luyện đan.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponFuChen" sParam="Item">
+			<ThingName>Thiết Phịch Mây Trời</ThingName>
+			<Desc>Phất trần thường được các đạo sĩ sử dụng.</Desc>
+			<Item.FabaoSuffix>Mềm, bút lông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponDaoSword" sParam="Item">
+			<ThingName>Đạo Kiếm</ThingName>
+			<Desc>Thanh kiếm tương thích với thiên địa linh khí, thường được các đạo sĩ sử dụng.</Desc>
+			<Item.FabaoSuffix>Kiếm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
+			<ThingName>Thánh Vân bàn</ThingName>
+			<Desc>Mặt dây chuyền khắc danh hiệu thần thánh của Võ Thánh Đế Quân. Người đeo nó sẽ nhận được phúc trủng của đại đế, giúp nâng cao tâm cảnh và gia tăng cơ duyên.</Desc>
+			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
+			<ThingName>Thế Khí Đan</ThingName>
+			<Desc>Đan dược bí truyền dùng để thay thế ngũ cốc trên núi Võ Đang. So với ích cốc đan, Tịch Cốc Đan mang lại hiệu quả kéo dài hơn (hiệu quả kéo dài trong 30 ngày).)</Desc>
+		</Text>
+		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
+			<ThingName>Tam Hạch Đan</ThingName>
+			<Desc>Linh đan bí truyền của núi Võ Đang, có thể dùng để gia tăng giới hạn chân khí tối đa. Dù nó khá vô dụng với tu sĩ cảnh giới cao, nhưng lại vô cùng hữu ích với người mới tu luyện. Tuy nhiên, hiệu quả sẽ giảm đi rất nhiều nếu sử dụng liên tục nhiều lần.</Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
+			<ThingName>Chiến Thần Kiếm</ThingName>
+			<Desc>Thanh kiếm của Tấn Vũ Đế, hay còn được biết đến với danh hiệu Võ Thánh Đế Quân. Đây là thanh kiếm ông từng dùng để quét sạch yêu ma. Kiếm dài hai thước bảy tấc, được đúc từ ngọc thạch có thiên địa linh khí luân chuyển, vì thế mũi kiếm luôn tỏa hào quang rực rỡ của linh khí. Khi kiếm được rút khỏi vỏ, nó sẽ hóa thành lôi đình có thể phá hủy mọi thứ chạm vào.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Tiêu diệt 1 Nguyên Thủy Linh Xà Yêu trong lúc mang theo thanh kiếm này.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Tiêu diệt 1 Nguyên Thủy Linh Lang Yêu trong lúc mang theo thanh kiếm này.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Tiêu diệt 1 Nguyên Thủy Linh Hùng Yêu trong lúc mang theo thanh kiếm này.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Tiêu diệt 1 Nguyên Thủy Linh Quy Yêu trong lúc mang theo thanh kiếm này.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Tiêu diệt 1 Nguyên Thủy Linh Trư Yêu trong lúc mang theo thanh kiếm này.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Gây sát thương gấp 3 lần khi tấn công các sinh linh không phải loài người.</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>Gây sát thương gấp 3 lần khi được trang bị bởi nhân tộc.</Item.Fabao.SpecialAbility.1.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
+			<ThingName>Tử Vụ Quang Trượng</ThingName>
+			<Desc>Pháp bảo thần bí của Võ Đang Môn, được khắc từ thần thạch. Thân pháp bảo được khắc các cổ văn Thất Tinh Thất Tức, sau đó được tôi luyện dưới thiên kiếp suốt bảy ngày bảy đêm. Khi được pháp bảo này công nhận, người sử dụng có thể nhìn thấu nghiệp chướng của vạn vật, đồng thời có thể dùng nó để thúc đẩy thiên kiếp giáng xuống kẻ thù.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Sống sót sau 7 lần Trảm Tiên Kiếp trong khi mang theo pháp bảo này.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Uy lực tấn công sẽ dựa trên chênh lệch số lượng đạo chủng giữa hai bên. Cứ cách biệt 1 đạo chủng, uy lực tấn công sẽ gia tăng. 1%</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Fish_SkySnake" sParam="Item">
+			<ThingName>Vân Môn Thiểm</ThingName>
+			<Desc>Một loài lươn đặc trưng của tầng mây, bên trong cơ thể chứa đựng linh khí của mây trời khiến thịt của chúng mềm và nhẹ như bông.</Desc>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_SkyFish" sParam="Item">
+			<ThingName>Dạ Quang Lý</ThingName>
+			<Desc>Cá chép sống trong Vân Hải, chỉ xuất hiện vào ban đêm.</Desc>
+		</Text>
+		<Text Name="Fish_SkyCrab" sParam="Item">
+			<ThingName>Kim Giải</ThingName>
+			<Desc>Loài cua sống trong Vân Hải, thân thể vô cùng cứng rắn. Nghe nói thức ăn của chúng chính là sấm sét ẩn chứa trong Vân Hải.</Desc>
+		</Text>
+		<Text Name="Item_XuanWuEgg" sParam="Item">
+			<ThingName>Huyền Vũ Ngọc</ThingName>
+			<Desc>Ngọc bội được phái Võ Đang gửi tặng như một món quà. Có vẻ như nó là một mảnh của bộ trang bị nào đó.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra Huyền Vũ Ngọc</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
+			<ThingName>Hoàn Mỹ Chỉ Dẫn</ThingName>
+			<Desc>Chỉ dẫn hoàn mỹ của Thần Chiến Đế. Nó có thể dùng làm tài liệu tham khảo để tạo ra tượng của Thần Chiến Đế.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_10_Huo">
+			<DisplayName>Thái Ất Chân Dương Công</DisplayName>
+			<Desc>Một trong năm bộ công pháp ngũ hành chân lý của Thái Ất Môn. Phàm Hỏa, Địa Hỏa và Thiên Hỏa tượng trưng cho Nhân, Địa, Thiên. Khi dung hợp ba loại hỏa diễm này sẽ tạo ra ngọn lửa mạnh mẽ đến mức không gì không thiêu rụi. Tuy nhiên, quá trình tu luyện bộ công pháp này vô cùng nguy hiểm. Nếu sơ suất dù chỉ một bước, ba loại lửa có thể phản phệ, thiêu rụi người tu luyện thành tro bụi.</Desc>
+			<SelectDesc>Công pháp này vô cùng mạnh mẽ về mặt vận dụng linh lực, thế nhưng mỗi lần đột phá cảnh giới, người tu luyện phải đối mặt với nguy cơ bị ngọn lửa trong cơ thể phản phệ. Người có chắc chắn muốn tu luyện công pháp này??</SelectDesc>
+			<Stages.0.DisplayName>Phàm Hỏa</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hỏa tinh</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Thấu hiểu ngọn lửa bản nguyên trong cơ thể và khơi dậy ngọn lửa của chính mình, đây là bước khởi đầu của việc tu luyện.[color=#D06508]\nNếu xảy ra sai sót khi khơi dậy ngọn lửa, kinh mạch trong cơ thể có thể bị tổn thương nghiêm trọng.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Phàm Hỏa</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Tụ tập chân hỏa tại tâm môn để thắp sáng tâm hỏa, đồng thời kết nối nó với linh khí của thiên địa.[color=#D06508]\nNếu xảy ra sai sót, chân hỏa sẽ bộc phát và thiêu đốt thân thể người tu luyện, gây ra sự đau đớn tột cùng.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Địa Hỏa</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Lò luyện</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Sử dụng chân hỏa để tái tạo lại toàn bộ xương cốt, dùng thân thể làm lò luyện để chuẩn bị cho việc hình thành Hỏa Nguyên trong cơ thể.[color=#D06508]\nNếu xảy ra sai sót, chân hỏa sẽ xâm nhập vào cơ thể và gặm nhấm tủy xương của người tu luyện. Hãy suy nghĩ kỹ trước khi đột phá ở giai đoạn này.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Địa Hỏa</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thiên hỏa</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Thiên Đăng</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Tụ tập toàn bộ linh hồn vào tim và thắp sáng ngọn lửa của thiên đường.[color=#D06508]\nNếu xảy ra sai sót, hỏa khí trong cơ thể sẽ bùng phát và thiêu đốt trái tim người tu luyện. Hãy chuẩn bị kỹ lưỡng trước khi quyết định đột phá giai đoạn này.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Thiên hỏa</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Đại Thánh Hỏa</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Linh Hỏa</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Bằng cách dung hợp nguyên thần của chính mình với thiên đạo, người đó sẽ phải đối mặt trực tiếp với sự phẫn nộ của thiên địa.[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Chuyển sinh thiên giới</Stages.3.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

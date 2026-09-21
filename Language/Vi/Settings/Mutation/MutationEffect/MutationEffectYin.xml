@@ -1,0 +1,307 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Yin_DiscipleCompleteCommandRandom">
+			<Desc>Đệ tử tông môn phớt lờ lệnh sai bảo và hành động theo ý mình</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_SoulPetCanNotControl">
+			<Desc>Linh thú hành động tùy tiện, không thể huấn luyện vào kỷ luật</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_CantConfineTongling">
+			<Desc>Không thể phong ấn vật phẩm linh khí</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_CantInviteNpc">
+			<Desc>Không thể mời người khác gia nhập tông môn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_1">
+			<Desc>Tỷ lệ hồi phục linh khí của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_2">
+			<Desc>Tốc độ hồi phục chân khí của đệ tử trong tông môn chậm lại</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_3">
+			<Desc>Tỷ lệ hồi phục linh khí của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_4">
+			<Desc>Tốc độ tu luyện của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_5">
+			<Desc>Tỷ lệ tu luyện của đệ tử trong tông môn trì trệ nghiêm trọng</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_6">
+			<Desc>Đệ tử trong tông môn dễ bị đói hơn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_7">
+			<Desc>Đệ tử trong tông môn dễ bị mệt mỏi hơn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_8">
+			<Desc>Đệ tử trong tông môn dễ bị khát nước hơn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_9">
+			<Desc>Chân khí hộ thể của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_10">
+			<Desc>Chân khí hộ thể của đệ tử trong tông môn giảm vừa</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_11">
+			<Desc>Cơ hội đột phá cảnh giới của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_12">
+			<Desc>Cơ hội đột phá cảnh giới của đệ tử trong tông môn giảm vừa</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_13">
+			<Desc>Điểm cộng đạo chủng của đệ tử trong tông môn tăng nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_14">
+			<Desc>Điểm cộng đạo chủng của đệ tử trong tông môn tăng vừa</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_15">
+			<Desc>Điểm cộng đạo chủng của đệ tử trong tông môn tăng mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_16">
+			<Desc>Thọ nguyên tối đa của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_17">
+			<Desc>Thọ nguyên tối đa của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_18">
+			<Desc>Thọ nguyên tối đa của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_19">
+			<Desc>Tốc độ di chuyển của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_20">
+			<Desc>Tốc độ di chuyển của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_21">
+			<Desc>Tốc độ di chuyển của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_22">
+			<Desc>Tốc độ tu luyện cơ bản của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_23">
+			<Desc>Tốc độ tu luyện cơ bản của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_24">
+			<Desc>Tốc độ lĩnh hội của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_25">
+			<Desc>Tốc độ lĩnh hội của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_26">
+			<Desc>Tốc độ làm việc của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_27">
+			<Desc>Tốc độ làm việc của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_28">
+			<Desc>Tốc độ làm việc của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_29">
+			<Desc>Trạng thái tâm tính cơ bản của đệ tử trong tông môn giảm nhẹ</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_30">
+			<Desc>Trạng thái tâm tính cơ bản của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_31">
+			<Desc>Trạng thái tâm tính cơ bản của đệ tử trong tông môn giảm mạnh</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_32">
+			<Desc>Kháng tính sát thương hệ kim của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_33">
+			<Desc>Kháng tính sát thương hệ mộc của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_34">
+			<Desc>Kháng tính Thủy của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_35">
+			<Desc>Kháng tính Hỏa của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_36">
+			<Desc>Kháng tính Thổ của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_37">
+			<Desc>Kháng mọi loại thuộc tính của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_38">
+			<Desc>Khả năng chịu tải trận pháp của đệ tử trong tông môn giảm</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_40">
+			<Desc>Chiến lực của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_41">
+			<Desc>Chiến lực của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_42">
+			<Desc>Chiến lực của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_43">
+			<Desc>Kỹ năng xã giao của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_44">
+			<Desc>Kỹ năng xã giao của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_45">
+			<Desc>Kỹ năng xã giao của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_46">
+			<Desc>Cấp độ thủ công của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_47">
+			<Desc>Cấp độ thủ công của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_48">
+			<Desc>Cấp độ thủ công của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_49">
+			<Desc>Cảm ứng linh khí của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_50">
+			<Desc>Cảm ứng linh khí của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_51">
+			<Desc>Cảm ứng linh khí của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_52">
+			<Desc>Kỹ năng rèn pháp bảo của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_53">
+			<Desc>Kỹ năng rèn pháp bảo của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_54">
+			<Desc>Kỹ năng rèn pháp bảo của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_55">
+			<Desc>Kỹ năng y thuật/luyện đan của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_56">
+			<Desc>Kỹ năng y thuật/luyện đan của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_57">
+			<Desc>Kỹ năng y thuật/luyện đan của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_58">
+			<Desc>Kỹ năng pháp bảo của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_59">
+			<Desc>Kỹ năng pháp bảo của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_60">
+			<Desc>Kỹ năng pháp bảo của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_61">
+			<Desc>Kỹ năng linh lực của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_62">
+			<Desc>Kỹ năng linh lực của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_63">
+			<Desc>Kỹ năng linh lực của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_64">
+			<Desc>Kỹ năng hộ thể cương khí của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_65">
+			<Desc>Kỹ năng hộ thể cương khí của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_66">
+			<Desc>Kỹ năng hộ thể cương khí của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_67">
+			<Desc>Kỹ năng trận pháp của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_68">
+			<Desc>Kỹ năng trận pháp của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_69">
+			<Desc>Kỹ năng trận pháp của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_70">
+			<Desc>Cấp độ khai khoáng của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_71">
+			<Desc>Cấp độ khai khoáng của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_72">
+			<Desc>Cấp độ khai khoáng của đệ tử trong tông môn giảm 3 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_73">
+			<Desc>Cấp độ linh điền của đệ tử trong tông môn giảm 1 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_74">
+			<Desc>Cấp độ linh điền của đệ tử trong tông môn giảm 2 cấp</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_75">
+			<Desc>Cấp độ kỹ năng nông nghiệp của đệ tử trong tông môn giảm 3 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_76">
+			<Desc>Cấp độ kỹ năng kiến trúc của đệ tử trong tông môn giảm 1 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_77">
+			<Desc>Cấp độ kỹ năng kiến trúc của đệ tử trong tông môn giảm 2 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_78">
+			<Desc>Cấp độ kỹ năng kiến trúc của đệ tử trong tông môn giảm 3 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_79">
+			<Desc>Kỹ năng nấu nướng của đệ tử trong tông môn giảm 1 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_80">
+			<Desc>Kỹ năng nấu nướng của đệ tử trong tông môn giảm 2 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_81">
+			<Desc>Kỹ năng nấu nướng của đệ tử trong tông môn giảm 3 bậc</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_88">
+			<Desc>Mị lực của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_89">
+			<Desc>Mị lực của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_90">
+			<Desc>Mị lực của đệ tử trong tông môn giảm 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_91">
+			<Desc>Sự thông thái của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_92">
+			<Desc>Sự thông thái của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_93">
+			<Desc>Sự thông thái của đệ tử trong tông môn giảm 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_94">
+			<Desc>Vận khí của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_95">
+			<Desc>Vận khí của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_96">
+			<Desc>Vận khí của đệ tử trong tông môn giảm 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_97">
+			<Desc>Ngộ tính của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_98">
+			<Desc>Ngộ tính của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_99">
+			<Desc>Ngộ tính của đệ tử trong tông môn giảm 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_100">
+			<Desc>Thể lực của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_101">
+			<Desc>Thể lực của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_102">
+			<Desc>Thể lực của đệ tử trong tông môn giảm 50%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_39">
+			<Desc>Ngũ hành linh căn của đệ tử trong tông môn giảm 10%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Yin_Modifier_103">
+			<Desc>Ngũ hành linh căn của đệ tử trong tông môn giảm 30%</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,39 @@
+ID	Desc	MidName
+ID	Description	中间词缀 参与名字随机
+1	Tăng uy lực Pháp bảo	Diệt thế
+2	Tăng tỷ lệ hồi phục linh khí pháp bảo	Hồi phục chân khí
+3	Tăng tốc độ tấn công của pháp bảo	Nhất chớp công
+4	Tăng độ bền pháp bảo	Cường hóa pháp bảo
+5	Tăng hiệu lực đánh văng của pháp bảo	Dạ Xoa lực
+6	Tăng tốc độ pháp bảo	Cuồng phong
+7	Tăng độ linh hoạt pháp bảo	Toàn phong
+8	Tăng khả năng kháng đẩy lùi cho pháp bảo	Địa sát
+9	Tăng phạm vi tấn công của pháp bảo	Vạn dặm ảnh
+2000	Giảm thời gian thi triển pháp thuật	Tâm thần hợp nhất
+2001	Giảm thời gian hồi chiêu pháp thuật	Súc địa thành thốn
+2002	Tăng uy lực pháp thuật	Phá thiên khí
+2003	Giảm thời gian thi triển pháp thuật	Tâm thần hợp nhất
+2004	Học kỹ năng:	Pháp thuật
+3001	Tăng căn cơ hộ thể linh khí	Cường hóa hộ giáp
+3002	Tăng hộ thể chân khí	Thiết giáp
+4001	Tăng tốc độ luyện đan	Thôi đan
+4002	Tăng tỷ lệ thành công luyện đan	Luyện thần
+4003	Tăng hiệu quả luyện đan	Luyện tuyệt
+5001	Tăng tốc độ luyện khí	Quỷ thủ
+5002	Tăng tỷ lệ thành công luyện khí	Tiên phẩm
+5003	Tăng cấp độ của pháp bảo đã luyện chế	Cô đọng ngọc tủy
+5004	Tăng chất lượng pháp bảo luyện chế ra	Cường hóa
+6001	Tăng Nhận thức	Thần thức
+6002	Tăng cường thể lực	Lưu ly thiết thể
+6003	Tăng hiệu suất hấp thụ linh khí	Dẫn linh
+6004	Tăng tốc độ chuyển hóa thể lực	Biến đổi linh hải
+6005	Giảm tỷ lệ mệt mỏi	Chu thiên linh khí
+6006	Tăng tốc độ hồi phục thể lực	Cự kình lực
+6007	Kéo dài tuổi thọ	Thần quy, tuế nguyệt, vĩnh hằng
+6008	Tăng khả năng chịu đựng đau đớn	Tâm chí kiên định
+6009	Nâng cao tâm cảnh	Tâm cảnh buông xả
+7001	Tăng Ngộ tính	Tuệ nhãn
+7002	Tăng mị lực	Hồn mị
+7003	Tăng cơ duyên	Thiên địa khí vận
+7004	Giảm tỷ lệ tâm thần bất ổn	Phật tâm
+7005	Tăng tỷ lệ hân hoan	Minh tâm

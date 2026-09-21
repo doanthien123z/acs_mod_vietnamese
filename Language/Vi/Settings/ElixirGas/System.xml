@@ -1,0 +1,128 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="single_jin">
+			<Display>Kim Chi Khí</Display>
+			<Desc>Tăng linh khí thuộc tính Kim trong môi trường và tốc độ lĩnh hội công pháp tu luyện thuộc tính Kim.</Desc>
+		</Text>
+		<Text Name="single_mu">
+			<Display>Mộc Chi Khí</Display>
+			<Desc>Tăng linh khí thuộc tính Mộc trong môi trường và tốc độ lĩnh hội công pháp tu luyện thuộc tính Mộc.</Desc>
+		</Text>
+		<Text Name="single_shui">
+			<Display>Thủy Chi Khí</Display>
+			<Desc>Tăng linh khí thuộc tính Thủy trong môi trường và tốc độ lĩnh hội công pháp tu luyện thuộc tính Thủy.</Desc>
+		</Text>
+		<Text Name="single_huo">
+			<Display>Hỏa Chi Khí</Display>
+			<Desc>Tăng linh khí thuộc tính Hỏa trong môi trường và tốc độ lĩnh hội công pháp tu luyện thuộc tính Hỏa.</Desc>
+		</Text>
+		<Text Name="single_tu">
+			<Display>Thổ Chi Khí</Display>
+			<Desc>Tăng linh khí thuộc tính Thổ trong môi trường và tốc độ lĩnh hội công pháp tu luyện thuộc tính Thổ.</Desc>
+		</Text>
+		<Text Name="jin_mu">
+			<Display>Hạn Chi Khí</Display>
+			<Desc>Tăng đáng kể tốc độ đốn củi và thu hoạch của đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_shui">
+			<Display>Tinh Tế Chi Khí</Display>
+			<Desc>Tăng đáng kể tốc độ chế tạo và may vá của các đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_huo">
+			<Display>Luyện Hóa Chi Khí</Display>
+			<Desc>Tăng đáng kể tốc độ khai thác mỏ của các đệ tử.</Desc>
+		</Text>
+		<Text Name="jin_tu">
+			<Display>Tích Tụ Chi Khí</Display>
+			<Desc>Tăng đáng kể sản lượng khai thác mỏ của các đệ tử.</Desc>
+		</Text>
+		<Text Name="mu_shui">
+			<Display>Trù Phú Chi Khí</Display>
+			<Desc>Tăng đáng kể sản lượng thu hoạch của đệ tử trong tông môn và độ màu mỡ của bản đồ tông môn.</Desc>
+		</Text>
+		<Text Name="mu_huo">
+			<Display>Thiêu Đốt Chi Khí</Display>
+			<Desc>Tăng đáng kể tốc độ rèn đúc và nấu nướng của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="mu_tu">
+			<Display>Phong Ấn Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ xây dựng của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="shui_huo">
+			<Display>Tịch Mịch Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ cứu trợ thảm họa và tỷ lệ thành công của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="shui_tu">
+			<Display>Phá Giới Chân Khí</Display>
+			<Desc>Tăng đáng kể tỷ lệ thành công khi trị thương và khả năng hồi phục tự nhiên của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="huo_tu">
+			<Display>Tàn Tro Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ phá dỡ và tốc độ khai thác đá của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_shui">
+			<Display>Sơ Sinh Chân Khí</Display>
+			<Desc>Tăng đáng kể độ tương thích với công pháp tu luyện thuộc tính Mộc của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_huo">
+			<Display>Mộc Lâm Chân Khí</Display>
+			<Desc>Tăng đáng kể sản lượng luyện đan của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="jin_mu_tu">
+			<Display>Đại Địa Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ đột phá Trúc Cơ, tốc độ tu luyện, và tâm cảnh của đệ tử trong tông môn.</Desc>
+		</Text>
+		<Text Name="jin_shui_huo">
+			<Display>Thuần Kim Chân Khí</Display>
+			<Desc>Tăng đáng kể tỉ lệ thành công khi luyện chế pháp bảo cho đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="jin_shui_tu">
+			<Display>Thâm Thủy Chân Khí</Display>
+			<Desc>Tăng đáng kể độ tương thích với công pháp hệ Thủy của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="jin_huo_tu">
+			<Display>Cương Kim Chân Khí</Display>
+			<Desc>Tăng đáng kể độ tương thích với công pháp hệ Kim của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="mu_shui_huo">
+			<Display>Tinh Hỏa Chân Khí</Display>
+			<Desc>Tăng đáng kể độ tương thích với công pháp hệ Hỏa của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="mu_shui_tu">
+			<Display>Tĩnh Thủy Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ luyện đan của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="mu_huo_tu">
+			<Display>Kiên Thổ Chân Khí</Display>
+			<Desc>Tăng đáng kể độ tương thích với công pháp hệ Thổ của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="shui_huo_tu">
+			<Display>Thiêu Nhật Chân Khí</Display>
+			<Desc>Tăng đáng kể tốc độ luyện chế pháp bảo của đệ tử trong tông môn</Desc>
+		</Text>
+		<Text Name="no_jin">
+			<Display>Trảm Kim Chân Khí</Display>
+			<Desc>Tăng khả năng giảm sát thương hệ Kim (tổng thể))</Desc>
+		</Text>
+		<Text Name="no_mu">
+			<Display>Trảm Mộc Chân Khí</Display>
+			<Desc>Tăng khả năng giảm sát thương hệ Mộc (tổng thể))</Desc>
+		</Text>
+		<Text Name="no_shui">
+			<Display>Trảm Thủy Chân Khí</Display>
+			<Desc>Tăng khả năng giảm sát thương hệ Thủy (tổng thể))</Desc>
+		</Text>
+		<Text Name="no_huo">
+			<Display>Trảm Hỏa Chân Khí</Display>
+			<Desc>Tăng khả năng giảm sát thương hệ Hỏa (tổng thể))</Desc>
+		</Text>
+		<Text Name="no_tu">
+			<Display>Trảm Thổ Chân Khí</Display>
+			<Desc>Tăng khả năng giảm sát thương hệ Thổ (tổng thể))</Desc>
+		</Text>
+		<Text Name="hunyuan">
+			<Display>Nguyên Thủy Chi Khí</Display>
+			<Desc>Giảm tiêu hao Đạo chủng, tăng tốc độ học tập</Desc>
+		</Text>
+	</List>
+</Texts>

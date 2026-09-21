@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Gỗ, hàng, tiếp nhận</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_RoughWoodBlock" sParam="Item">
+			<ThingName>Gỗ xẻ</ThingName>
+			<Desc>Vật liệu gỗ được gia công từ gỗ thường, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodBlock" sParam="Item">
+			<ThingName>Gỗ hoàng kim gia công</ThingName>
+			<Desc>Vật liệu gỗ được gia công từ gỗ hoàng kim, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng kim mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodBlock" sParam="Item">
+			<ThingName>Gỗ phượng hoàng lửa gia công</ThingName>
+			<Desc>Vật liệu gỗ được gia công từ gỗ phượng hoàng lửa, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Phượng hoàng mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodBlock" sParam="Item">
+			<ThingName>Gỗ linh gia công</ThingName>
+			<Desc>Vật liệu gỗ được gia công từ gỗ linh, có thể dùng để chế tạo nhiều loại thiết bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

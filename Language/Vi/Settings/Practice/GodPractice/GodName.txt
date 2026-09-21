@@ -1,0 +1,15 @@
+Siêu việt,浩瀚,Hồng Hoang,Hỗn Độn,Khởi điểm và kết thúc,Tử Vân,Ngộ tính,Vô cực,Nguyên thủy,Vô tận,Cực địa,Thế giới khởi nguyên,Chung điểm,Chí cao,Thượng cổ,Hạo đại,Nguyên thủy,Vô tận,Hư không,Huyễn ảnh,Thâm thúy,Hư vô,Cao khung,Thánh hiền
+Địa điểm,Bắc Cực,Nam Cực,Tây Cực,Đông Cực,Trung Cực,Xích Thiên,Thanh Thiên,Hắc Thiên,Hoàng Thiên,Kim Thiên,Tử Thiên,Lục Thiên,Hư Thiên,Thâm Thiên,Cửu Trọng Thiên,Linh Thiên,Hạo Thiên,U Thiên,Ngọc Thiên,Hợp Nhất Thiên,Thiên Cung,U Cung,Thần Cung,Thánh Cung,Linh Cung,Bắc,Đông,Nam,Tây,Thánh Chủ,Thiên Chủ,Đại Chủ
+Cảnh giới,Mông lung,Thâm ảo,Tôn sùng,Chí cao,Chí tôn,Cực tôn,Cực kính,Chân kính,Vô nghi kính,Chí cao Đại Đế,Cực thượng,Vĩ đại,Thâm bất khả trắc,Cự phách,Điên phong,Thánh Nữ,Đại hiền,Mục sư
+Nguyện vọng cấp &lt;100,
+Nguyện vọng cấp 100-500,Phổ thông chúc phúc,Bình thường chúc phúc,Khắc cốt铭 tâm nguyện vọng,Hi vọng chúc phúc,Công đức chúc phúc,Thay đổi chúc phúc,Truyền đạt chúc phúc,Đạt được chúc phúc
+Nguyện vọng cấp &gt;500,Thần thánh chúc phúc,Chí cao chúc phúc,Thần linh chúc phúc,Thiên giới chúc phúc,Linh bảo chúc phúc,Niệm lực chúc phúc,Cực hạn chúc phúc,Linh hồn chúc phúc
+Cảnh giới &lt;0.3,Cự phách,Trang nghiêm,Thần tích,Đại giới,Thần hỏa,Thần ngục,Đại chúng hóa,Đại thí
+Cảnh giới 0.3-0.7,
+Cảnh giới &gt;0.7,Chí cao từ bi,Vô thượng từ bi,Chí cao công đức,Thánh khiết công đức,Chí cao chân lý,Đại từ đại bi,Đại từ đại bi ân điển,Đại đồng tình,Đại từ bi
+Cấp độ &lt;100K,Bảo tồn nguyên bản,Mô phỏng,Thiên uy,Thượng cổ thiên đình,Thiên đình di sản
+Cấp độ 100K-1M,Chiếu sáng,Khai ngộ,Niết bàn,Giải thoát
+Cấp độ &gt;1M,Chí cao Đại Đế,Chí cao công đức,Tế thiên,Thiên đạo công đức,Thiên đình Đại Đế
+Hậu tố 7-9,Nguyên thủy thống trị giả,Thánh khiết thống trị giả,Thần chi thống trị giả,Chí cao thống trị giả
+Hậu tố 10-11,Chí cao Đại Đế,Thánh khiết Đại Đế,Vô thượng Đại Đế,Thần Đại Đế
+Hậu tố 12,Chí cao Đại Hoàng,Thánh khiết Đại Hoàng,Thủy tổ Đại Hoàng,Vô thượng Đại Hoàng,Thiên đình Đại Hoàng,Đương đại Thần Đế

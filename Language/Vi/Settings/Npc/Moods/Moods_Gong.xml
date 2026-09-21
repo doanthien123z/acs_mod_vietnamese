@@ -1,0 +1,154 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeck1">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Cuối cùng cũng đến lúc đột phá cảnh giới lên cảnh giới cao hơn.</Desc>
+			<StoryDesc>Cảm thấy vô cùng phấn khích khi sắp sửa đột phá cảnh giới tiếp theo.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck2">
+			<DisplayName>Đột phá cảnh giới thất bại.</DisplayName>
+			<Desc>Con đường tu luyện này khó khăn hơn ta tưởng tượng rất nhiều....</Desc>
+			<StoryDesc>Cảm thấy việc đột phá cảnh giới thất bại thực sự khiến người ta nản lòng.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck3">
+			<DisplayName>Cảnh giới bình cảnh...</DisplayName>
+			<Desc>Ta mắc kẹt ở cảnh giới này quá lâu đến mức cảm thấy nản lòng thoái chí....</Desc>
+			<StoryDesc>Cảm thấy việc rơi vào trạng thái bình phong lâu ngày thực sự khiến người ta tuyệt vọng.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck4">
+			<DisplayName>Đột phá cảnh giới thành công</DisplayName>
+			<Desc>Cuối cùng sự nỗ lực vất vả của ta cũng mang lại thành quả viên mãn.!</Desc>
+			<StoryDesc>Cảm thấy việc vượt qua những chông gai hiểm trở thành công giúp tâm cảnh vô cùng thư thái.</StoryDesc>
+		</Text>
+		<Text Name="BottleNeck5">
+			<DisplayName>Cảnh giới bình cảnh</DisplayName>
+			<Desc>Ta mắc kẹt ở cảnh giới này quá lâu đến mức cảm thấy nản lòng thoái chí....</Desc>
+			<StoryDesc>Cảm thấy việc rơi vào trạng thái bình phong lâu ngày thực sự khiến con người ta mất hết hy vọng.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster1">
+			<DisplayName>Thiên kiếp đang đến gần.</DisplayName>
+			<Desc>Ta có thể cảm nhận được thiên kiếp đang đến gần.</Desc>
+			<StoryDesc>Cảm thấy khá khó khăn để giữ tâm tĩnh lặng trong hoàn cảnh thế này.</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster2">
+			<DisplayName>Vượt qua Thiên Kiếp!</DisplayName>
+			<Desc>Cuối cùng nó cũng kết thúc rồi, hộc, suýt thì tiêu đời.</Desc>
+			<StoryDesc>Cảm thấy thế giới như bừng sáng trở lại sau khi vượt qua thiên kiếp.!</StoryDesc>
+		</Text>
+		<Text Name="ThunderDisaster3">
+			<DisplayName>Cơ sở tu luyện đã bị hủy diệt.</DisplayName>
+			<Desc>Trừng phạt từ thiên kiếp thật là tàn nhẫn... Xem ra ta đã tuyệt đường tiến bước trên con đường tu luyện rồi.</Desc>
+			<StoryDesc>Cảm thấy thất bại trong việc đối mặt với thiên kiếp chẳng khác nào chết đi sống lại.</StoryDesc>
+		</Text>
+		<Text Name="Dan1">
+			<DisplayName>Tiệm cận tiên nhân.</DisplayName>
+			<Desc>Con đường trở thành tiên nhân bất tử nay ở ngay trong tầm tay.!</Desc>
+			<StoryDesc>Có thể cảm nhận được chi bằng cánh cửa tiên nhân đang đến gần.</StoryDesc>
+		</Text>
+		<Text Name="Dan2">
+			<DisplayName>Bước chân vào con đường tiên nhân bất tử.</DisplayName>
+			<Desc>Việc ngưng tụ kim đan chính là bước đầu tiên trên con đường trở thành tiên nhân bất tử chân chính.</Desc>
+			<StoryDesc>Cảm thấy kim đan trong cơ thể giúp việc lĩnh hội và hấp thu linh khí trời đất trở nên tốt hơn.</StoryDesc>
+		</Text>
+		<Text Name="Dan3">
+			<DisplayName>Thượng phẩm Kim Đan</DisplayName>
+			<Desc>Ta có thể ngưng tụ ra kim đan cấp cao sao! Thật là một chuyện đáng mừng.!</Desc>
+			<StoryDesc>Cảm thấy tự hào vì thành tựu to lớn này.</StoryDesc>
+		</Text>
+		<Text Name="Dan4">
+			<DisplayName>Trung phẩm Kim Đan</DisplayName>
+			<Desc>Kim đan trung phẩm quả thực khá khó để ngưng tụ thành công.</Desc>
+			<StoryDesc>Cảm thấy thành tựu vừa rồi mang lại cảm giác viên mãn thực sự.</StoryDesc>
+		</Text>
+		<Text Name="StageUp">
+			<DisplayName>Nâng cao cơ sở tu luyện.</DisplayName>
+			<Desc>Tu luyện lâu ngày cuối cùng cũng đem lại thành quả xứng đáng.</Desc>
+			<StoryDesc>Cảm thấy sự tiến bộ lần này vô cùng thỏa mãn.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind1">
+			<DisplayName>Tâm thần thất thủ.</DisplayName>
+			<Desc>Cái-Cái này quá mức khốn khiếp rồi, sa-sao ta lại không thể thành công chứ.!</Desc>
+			<StoryDesc>Cảm thấy tâm trạng sa sút dẫn đến những suy nghĩ lệch lạc.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind2">
+			<DisplayName>Tâm cảnh bất ổn.</DisplayName>
+			<Desc>Ta cảm thấy tâm trí xao động và không thể tĩnh tâm lại được....</Desc>
+			<StoryDesc>Cảm thấy tâm cảnh bất ổn khiến người ta phát điên.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind3">
+			<DisplayName>Tâm đầu ý hợp</DisplayName>
+			<Desc>Vạn vật đều vô thường, không có tốt cũng chẳng có xấu.</Desc>
+			<StoryDesc>Cảm thấy tâm trí kiên định không gì dao động.</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind4">
+			<DisplayName>Tĩnh tâm</DisplayName>
+			<Desc>Tâm như vầng trăng phản chiếu ánh dương, niệm như thủy triều có lúc dâng lúc vơi.</Desc>
+			<StoryDesc>Cảm thấy tâm trí bình lặng, kiên định</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind5">
+			<DisplayName>Tâm buông xả</DisplayName>
+			<Desc>Tâm cảnh của ta phản chiếu chính bản thân ta</Desc>
+			<StoryDesc>Cảm thấy lúc này có thể buông bỏ bản ngã, vạn vật đều là vô thường</StoryDesc>
+		</Text>
+		<Text Name="FrameOfMind6">
+			<DisplayName>Tâm thánh</DisplayName>
+			<Desc>Tâm cảnh của ta vững chãi như núi đá, dịu dàng tựa dòng nước, rộng lớn tựa bầu trời</Desc>
+			<StoryDesc>Cảm nhận được trạng thái thánh cảnh chân thực</StoryDesc>
+		</Text>
+		<Text Name="TravelExperience">
+			<DisplayName>Muốn ra ngoài ngao du thiên hạ</DisplayName>
+			<Desc>Bản thân ta đã lâu không phiêu bạt, lúc này ta muốn ra ngoài để tìm kiếm trải nghiệm mới</Desc>
+			<StoryDesc>Cảm thấy việc ở mãi một nơi quá lâu khiến lòng người khát khao phiêu lưu</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged1">
+			<DisplayName>Ngồi tu luyện gian khổ</DisplayName>
+			<Desc>Nếu có nơi nào mà ta có thể ngồi tu luyện tốt hơn thế này thì thật tốt...</Desc>
+			<StoryDesc>Cảm thấy việc ngồi thiền trên mặt đất khiến tâm trí xao động</StoryDesc>
+		</Text>
+		<Text Name="SitCrosslegged2">
+			<DisplayName>Ngồi tu luyện thoải mái</DisplayName>
+			<Desc>Lúc này ta cảm thấy mình có thể tu luyện và nhận được hiệu quả gấp đôi chỉ với một nửa nỗ lực!</Desc>
+			<StoryDesc>Cảm thấy việc tu luyện trong vui vẻ khiến tâm trí được thư thái</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing1">
+			<DisplayName>Linh khí dồi dào</DisplayName>
+			<Desc>Nơi này linh khí dồi dào, vô cùng thích hợp cho việc tu luyện bồi đắp bản thân</Desc>
+			<StoryDesc>Cảm thấy việc tu luyện thuận lợi nhờ linh khí thiên địa dồi dào như thế này</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing2">
+			<DisplayName>Linh khí bình thường</DisplayName>
+			<Desc>Nơi này linh khí đủ dùng cho việc tu luyện bồi đắp bản thân</Desc>
+			<StoryDesc>Cảm thấy việc tu luyện chắc chắn sẽ thuận lợi vì linh khí thiên địa nơi này đã đủ đầy</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing3">
+			<DisplayName>Linh khí thưa thớt</DisplayName>
+			<Desc>Nơi này linh khí thiên địa không nhiều lắm, thỉnh thoảng ta cũng phải chịu đựng nó</Desc>
+			<StoryDesc>Cảm thấy nơi có linh khí thiên địa thưa thớt như thế này không thích hợp để tu luyện</StoryDesc>
+		</Text>
+		<Text Name="PracticeLing4">
+			<DisplayName>Linh khí khô kiệt</DisplayName>
+			<Desc>Nơi này không thích hợp để tu luyện chút nào, hầu như không còn sót lại chút linh khí thiên địa nào cả</Desc>
+			<StoryDesc>Cảm thấy việc cố gắng tu luyện tại nơi linh khí khô cạn như vậy thật là ngu ngốc</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement1">
+			<DisplayName>Ngũ hành tương sinh hoàn hảo</DisplayName>
+			<Desc>Ngũ hành tương sinh hoàn hảo với thuộc tính của ta, nơi này cực kỳ thích hợp để bồi đắp linh khí</Desc>
+			<StoryDesc>Cảm thấy việc ngũ hành tương sinh hoàn hảo khiến bản thân như cá gặp nước</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement2">
+			<DisplayName>Ngũ hành tương sinh</DisplayName>
+			<Desc>Ngũ hành tương sinh, nơi này không tệ cho việc bồi đắp linh khí</Desc>
+			<StoryDesc>Cảm thấy việc tu luyện diễn ra thuận lợi nhờ ngũ hành tương sinh với thuộc tính của bản thân</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement3">
+			<DisplayName>Ngũ hành hỗn loạn</DisplayName>
+			<Desc>Ngũ hành hỗn loạn, đây không phải là nơi tốt để bồi đắp linh khí</Desc>
+			<StoryDesc>Cảm thấy việc cố gắng tu luyện ở nơi ngũ hành hỗn loạn khiến lòng người bứt rứt không yên</StoryDesc>
+		</Text>
+		<Text Name="PracticeElement4">
+			<DisplayName>Ngũ hành tương khắc</DisplayName>
+			<Desc>Ta không thể ở đây lâu, ngũ hành đang khắc chế lẫn nhau và nó gây ảnh hưởng lớn đến thuộc tính của ta</Desc>
+			<StoryDesc>Cảm thấy việc ngũ hành tương khắc lẫn nhau gây ra tác hại rất lớn cho việc bồi đắp linh khí</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,35 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long">
+			<DisplayName>Thủy Long</DisplayName>
+			<Desc>Thượng cổ linh thú: Thủy Long</Desc>
+			<FightParts.0.DisplayName>Thân thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Đuôi</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Hắn</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Vuốt trước trái</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Vuốt trước phải</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Vuốt sau trái</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Vuốt sau phải</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Nghịch lân</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng">
+			<DisplayName>Hỏa Phượng</DisplayName>
+			<Desc>Thượng cổ linh thú: Hỏa Phượng</Desc>
+			<FightParts.0.DisplayName>Thân thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Mào phượng</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Cánh trái</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Cánh phải</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Lông đuôi</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Thái Dương Nhãn</FightParts.5.DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Chúc Long</DisplayName>
+			<Desc>Thượng cổ linh thú: Thiên Long</Desc>
+			<FightParts.0.DisplayName>Thân thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Thiên Lân</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Long Ngọc</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Mắt trái</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Mắt phải</FightParts.4.DisplayName>
+		</Text>
+	</List>
+</Texts>

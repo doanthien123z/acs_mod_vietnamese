@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Forg_1">
+			<Prefix>Thể</Prefix>
+			<Suffix>Vô Hình Ảnh</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Yêu Oa Tộc, khi tu luyện thành công có thể gạt bỏ mọi pháp bảo.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Forg_2">
+			<Prefix>Tiếng Gầm</Prefix>
+			<Suffix>Thiên Yêu</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Yêu Oa Tộc. Khi tu luyện thành công có thể chuyển hóa chân khí trong cơ thể thành sóng âm tần số cao, trấn áp hiệu quả pháp bảo của đối thủ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ áp chế pháp bảo của Bí Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.2.Desc>
+		</Text>
+	</List>
+</Texts>

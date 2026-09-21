@@ -1,0 +1,50 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_BaiMan">
+			<Hate.0>Lại là ngươi sao??</Hate.0>
+			<Hate.1>Ngươi rốt cuộc muốn gì? Hay là đến để xin bố thí??</Hate.1>
+			<Hate.2>Ta còn tưởng con heo nào đi lang thang quanh đây, hóa ra lại là ngươi.</Hate.2>
+			<Hate.3>Thế mà ngươi vẫn chưa chết đấy à??</Hate.3>
+			<Normal.0>Ta đang bận, ngươi có thể mau chóng nói rõ mục đích đến đây được không??</Normal.0>
+			<Normal.1>Có chuyện gì thì nói mau, đừng có làm lãng phí thời gian của ta.</Normal.1>
+			<Like.0>Hóa ra là ngươi, có gì cần ta giúp không? Cứ tự nhiên như ở nhà nhé.</Like.0>
+			<Like.1>Là ngươi à, mau vào đây nói chuyện đã.</Like.1>
+			<Like.2>Ồ, ngọn gió nào thổi ngươi đến đây thế này? Vào đây trò chuyện trước đã.</Like.2>
+			<Submiss.0>(Hành lễ) Thì ra là ngài, có gì cần ta giúp không? Xin cứ nói cho ta biết, ta luôn sẵn lòng giúp đỡ ngài.</Submiss.0>
+			<Submiss.1>Ngài cần gì không? Xin cứ tự do vào lựa chọn, còn về giá cả chúng ta tính sau cũng được.</Submiss.1>
+			<Submiss.2>Ầu, hóa ra là ngài. Xin mời vào tham quan trước đã.</Submiss.2>
+			<ValueableTrade.0>Ngươi thật sự rộng lượng đấy, mức giá ngươi đưa ra cao hơn rất nhiều so với giá thị trường.</ValueableTrade.0>
+			<ValueableTrade.1>Với mức giá cao thế này khiến ta có cảm giác như mình đang chiếm tiện ích của ngươi vậy.</ValueableTrade.1>
+			<TryOkTrade.0>Được rồi, ta nghĩ chúng ta có thể giao dịch.</TryOkTrade.0>
+			<TryOkTrade.1>Được, ta đồng ý với giao dịch này.</TryOkTrade.1>
+			<TryOkTrade.2>Ừm, ta không thể từ chối mức giá này được.</TryOkTrade.2>
+			<NoTrade.0>Không, ta không thể chấp nhận mức giá này. Nó khiến ta lỗ rất nặng.</NoTrade.0>
+			<NoTrade.1>Ta không thể tiến hành trao đổi với mức giá này được.</NoTrade.1>
+			<NoTrade.2>Quên nó đi.</NoTrade.2>
+			<NoTrade.3>Ngươi đang đùa ta đấy à? Ngươi có biết đám đồ vật này đáng giá bao nhiêu không??</NoTrade.3>
+			<OkTrade.0>Tuyệt vời, thỏa thuận thành công.!</OkTrade.0>
+			<OkTrade.1>Ta rất hài lòng với việc này.</OkTrade.1>
+			<GiftLike.0>Thật vi diệu, ta đang cần thứ này vừa đúng lúc.</GiftLike.0>
+			<GiftLike.1>Người biết ta thích thứ này sao? Có vẻ như chúng ta có duyên phận với nhau đấy.</GiftLike.1>
+			<Task.0>A, ngươi đến vừa đúng lúc thật đấy.</Task.0>
+			<Task.1>Ta được cứu rồi, vô cùng cảm ơn.</Task.1>
+			<TaskNeed.0>Rất tốt, nhưng chúng ta vẫn cần nó nhiều hơn nữa. Ngươi còn có nữa không??</TaskNeed.0>
+			<TaskNeed.1>Vô cùng cảm ơn, nhưng ngươi có thể giúp ta thêm lần nữa không? Nó sắp xong rồi.</TaskNeed.1>
+			<LowValueGift.0>Cái thứ rác rưởi này là thế nào??</LowValueGift.0>
+			<LowValueGift.1>Cái quái gì thế này? Ngươi cho chó, chó nó còn chê.</LowValueGift.1>
+			<LowValueGift.2>(Ném xuống đất) Lại đây nào con chó ở đằng kia, ngươi có cần loại đồ thế này không??</LowValueGift.2>
+			<MidValueGift.0>Cũng tạm ổn, nhưng nó không có tác dụng gì với ta lúc này.</MidValueGift.0>
+			<MidValueGift.1>(Gật đầu) Không tệ, nhưng đừng mong ta sẽ thân thiết với ngươi chỉ vì món đồ này.</MidValueGift.1>
+			<MidValueGift.2>(Cười gượng) Cũng được, ta sẽ ban món đồ này cho đệ tử của mình, và cũng đừng mong ta thay đổi suy nghĩ về ngươi vì thứ này nhé.</MidValueGift.2>
+			<MidValueGift.3>Ngươi đúng là một kẻ khá tốt bụng.!</MidValueGift.3>
+			<HighValueGift.0>Nó thực sự là một bảo vật tốt, nhưng tốt nhất là ngươi đừng kỳ vọng gì ở ta.</HighValueGift.0>
+			<HighValueGift.1>Ngươi thật rộng lượng làm sao, ta rất sẵn lòng nhận lấy nó. Ha ha ha! Dù nó là một bảo vật khá hiếm đi nữa, nhưng ta cũng không có cảm tình đặc biệt lắm.</HighValueGift.1>
+			<HighValueGift.2>Ngươi thực sự rất rộng lượng. Dù sao thì, món bảo vật hiếm có này cũng chẳng có ích gì với ta cả.</HighValueGift.2>
+			<NoEnoughFriendPoint.0>Không, ngươi vẫn chưa xứng đáng.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Ngươi điên rồi sao? Hay là ngươi nghĩ ta đang mắc nợ ngươi thế hả??</NoEnoughFriendPoint.1>
+			<Invalid.0>Ngươi là ai? Ngươi muốn mua thứ này à??</Invalid.0>
+			<Invalid.1>Người nghĩ sao? Chúng ta đã đủ thân thiết để hiểu rõ về nhau chưa??</Invalid.1>
+			<Invalid.2>Ta không cho rằng chúng ta đã thân thiết đến mức đó.</Invalid.2>
+		</Text>
+	</List>
+</Texts>

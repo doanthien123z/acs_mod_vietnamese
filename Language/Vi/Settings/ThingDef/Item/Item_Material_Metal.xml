@@ -1,0 +1,32 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBase" sParam="Item">
+			<Item.FabaoSuffix>Kim loại, Ấn chương, Thạch bia, Ngọc bội, Phiến, Tháp, Cự thạch.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronRock" sParam="Item">
+			<ThingName>Thiết khoáng</ThingName>
+			<Desc>Loại quặng kim loại phổ biến nhất, là vật liệu cứng và dễ gia công.</Desc>
+			<Item.BeMaterial.NamePrefix>Sắt.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRock" sParam="Item">
+			<ThingName>Xích Đồng khoáng</ThingName>
+			<Desc>Loại quặng kim loại chứa năng lượng Hỏa, bất cứ ai đến gần đều cảm thấy nhiệt độ tăng cao đột ngột.</Desc>
+			<Item.BeMaterial.NamePrefix>Xích Đồng.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRock" sParam="Item">
+			<ThingName>Băng Tinh khoáng</ThingName>
+			<Desc>Loại quặng kim loại tuyệt mỹ dồi dào hàn khí, chất liệu tương tự như bạc, bất cứ ai đến gần đều cảm thấy nhiệt độ giảm sâu đột ngột.</Desc>
+			<Item.BeMaterial.NamePrefix>Băng Tinh.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRock" sParam="Item">
+			<ThingName>Huyền Thiết khoáng</ThingName>
+			<Desc>Kim loại hiếm có màu sẫm, cực kỳ nặng và bền chắc, là vật liệu tuyệt hảo để rèn vũ khí.</Desc>
+			<Item.BeMaterial.NamePrefix>Hắc Thiết.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssence" sParam="Item">
+			<ThingName>Tinh Quang Thạch.</ThingName>
+			<Desc>Tinh hoa thiên thạch, sở hữu thuộc tính vật lý đặc biệt, là báu vật cực kỳ hiếm thấy trong giới tu chân.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh Quang Thạch.</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

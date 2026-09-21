@@ -1,0 +1,70 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MakeLingSoil">
+			<DisplayName>Tạo linh điền</DisplayName>
+			<Desc>Đổi lấy sự trưởng thành và dinh dưỡng của bản thân để biến mảnh đất thành Linh Thổ</Desc>
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+		<Text Name="MakeFatSoil">
+			<DisplayName>Bón phân</DisplayName>
+			<Desc>Đổi lấy sự trưởng thành và dinh dưỡng của bản thân để biến mảnh đất thành Đất Cực Phẩm</Desc>
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+		<Text Name="LcBrokeHeartLock">
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>CTỏ ra tinh nghịch với nhân vật, dùng sự làm nũng, quyến rũ và trí tuệ để làm tan chảy trái tim khép kín của họ</Desc>
+			<TargetDesc>Chọn mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcClearHanyu">
+			<DisplayName>Giải trừ Hàn Băng Ngục</DisplayName>
+			<Desc>Do là sinh vật cùng loại với Thủy Long, nó có thể xua tan Hàn Băng Ngục do Thủy Long để lại nhằm hấp thụ lượng lớn chất dinh dưỡng</Desc>
+			<TargetDesc>Chọn mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcStopColdWave">
+			<DisplayName>Hỏa Tức</DisplayName>
+			<Desc>Dùng chân khí của Hỏa Phượng để xua tan hàn khí</Desc>
+			<TargetDesc>Chọn mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcStopHeatWave">
+			<DisplayName>Hàn Băng Thổ Tức</DisplayName>
+			<Desc>Dùng chân khí của Thủy Long để xua tan sức nóng thiêu đốt</Desc>
+			<TargetDesc>Chọn mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcBaipiao">
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>Dùng trí tuệ đoán suy nghĩ của thương nhân lưu động và tỏ ra tinh nghịch để nịnh hót, biết đâu thương nhân không lạnh lùng như bạn nghĩ</Desc>
+			<TargetDesc>Chọn thương nhân mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcSeeUnknown">
+			<DisplayName>Tuệ Nhãn</DisplayName>
+			<Desc>Ban Tuệ Nhãn cho đệ tử nội môn, giúp nhìn thấu chân diện mục của vật phẩm trong buổi đấu giá</Desc>
+			<TargetDesc>Chọn mục tiêu</TargetDesc>
+		</Text>
+		<Text Name="LcOutspreadAttractive">
+			<DisplayName>Tường Phượng Báo Điềm Lành</DisplayName>
+			<Desc>Phái đệ tử làm đại diện tông môn đi phô diễn sự tường thuẫn của tông môn nhằm tăng sức hấp dẫn cho tông môn</Desc>
+			<sParam2>Giờ Lành Ngày Tốt</sParam2>
+		</Text>
+		<Text Name="LcOutspreadStability">
+			<DisplayName>Uy Mệnh Của Rồng</DisplayName>
+			<Desc>Phái đệ tử làm đại diện tông môn đi thể hiện uy thế đáng sợ của tông môn nhằm tăng độ ổn định cho tông môn</Desc>
+			<sParam2>Divine Might</sParam2>
+		</Text>
+		<Text Name="Magic_YG_RealPower">
+			<DisplayName>Bản Nguyên Lực (Sức Mạnh)</DisplayName>
+			<Desc>Thiêu đốt bản nguyên sinh mệnh cực nhanh để kích hoạt sức mạnh nguyên thủy của Yêu tộc, tăng mạnh sức mạnh pháp bảo, tăng mạnh sức mạnh Huyền Thể. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealRecover">
+			<DisplayName>Bản Nguyên Lực (Trưởng Thành)</DisplayName>
+			<Desc>Thiêu đốt bản nguyên sinh mệnh cực nhanh để kích hoạt sức mạnh nguyên thủy của Yêu tộc, tăng mạnh độ dẻo dai, tăng mạnh tốc độ hồi phục linh khí, tăng mạnh tốc độ hồi phục chân khí. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealWisdom">
+			<DisplayName>Bản Nguyên Lực (Trí huệ)</DisplayName>
+			<Desc>Thiêu đốt bản nguyên sinh mệnh cực nhanh để kích hoạt sức mạnh nguyên thủy của Yêu tộc, tăng mạnh sức mạnh pháp khí, tăng mạnh độ chính xác của Huyền Thể, tăng mạnh tỉ lệ phòng thủ thành công, tăng mạnh cơ hội xuyên thấu Hộ Thể Khí Độn, tăng mạnh cơ hội trấn áp pháp bảo. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_YG_RealShield">
+			<DisplayName>Bản Nguyên Lực (Nhận thức)</DisplayName>
+			<Desc>Thiêu đốt bản nguyên sinh mệnh cực nhanh để kích hoạt sức mạnh nguyên thủy của Yêu tộc, tăng mạnh Hộ Thể Khí Độn, tăng mạnh độ bền của Huyền Thể. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+	</List>
+</Texts>

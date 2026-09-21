@@ -1,0 +1,162 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Trống</DisplayName>
+		</Text>
+		<Text Name="zhuxianzhen">
+			<DisplayName>Tru Tiên Trận</DisplayName>
+			<Description>Đây là trận pháp mạnh nhất từ thời cổ đại. Khi kích hoạt sẽ tạo thành hào quang bốn phương, mỗi phương đều có một thanh kiếm lơ lửng, bao vây lấy trung tâm một cách hoàn hảo. Khi được Nguyên Thần kích hoạt, bốn thanh kiếm sẽ phản ứng với người sử dụng và trận pháp sẽ phóng ra kiếm quang tiêu diệt kẻ địch. Ngay cả Chân Tiên cũng khó lòng sống sót khi đối mặt với trận pháp này.</Description>
+			<NodeName.0>Sát Tiên hạch</NodeName.0>
+			<NodeName.1>Sát Tiên</NodeName.1>
+			<NodeName.2>Tử Vong</NodeName.2>
+			<NodeName.3>Vô Tận</NodeName.3>
+			<NodeName.4>Bất tử</NodeName.4>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng ổn định</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Nhận được pháp thuật: Tru Tiên</SuitEffect.3.Description>
+		</Text>
+		<Text Name="qixingzhen">
+			<DisplayName>Hàng Ma Đại Trận</DisplayName>
+			<Description>Trận pháp của Tiên nhân được truyền lại từ thời Chiến Thần khu trục ma tộc tại Cửu Trọng Thiên. Nó có thể mượn sức mạnh của thất tinh để tạo thành Kim Kiếm Lĩnh Vực. Nó có khả năng trừ tà và là trận pháp khiến lũ yêu ma quỷ quái vô cùng khiếp sợ.</Description>
+			<NodeName.0>Thiên Quyền Kiếm</NodeName.0>
+			<NodeName.1>Thiên Trục Kiếm</NodeName.1>
+			<NodeName.2>Thiên Toàn Kiếm</NodeName.2>
+			<NodeName.3>Thiên Cơ Kiếm</NodeName.3>
+			<NodeName.4>Ngọc Hành Kiếm</NodeName.4>
+			<NodeName.5>Khai Dương Kiếm</NodeName.5>
+			<NodeName.6>Dao Quang Kiếm</NodeName.6>
+			<SuitEffect.0.Description>Tăng kỹ năng thần thông</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng ổn định</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng khả năng vận hành trận pháp</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Nhận được pháp thuật: Kim Kiếm Lĩnh Vực</SuitEffect.4.Description>
+		</Text>
+		<Text Name="wufangbumiezhen">
+			<DisplayName>Thiên Địa Đại Trận</DisplayName>
+			<Description>Đại trận dựa trên Ngũ Đại Tiên Kỳ xuất hiện từ thời khai thiên lập địa: Bắc Phương Huyền Ô Kỳ, Nam Phương Địa Hỏa Kỳ, Trung Phương Hoàng Đào Kỳ, Tây Phương Bạch Vân Kỳ, Đông Phương Thanh Liên Kỳ. Sự kết hợp của Ngũ Hành tạo nên một kết giới bao la rộng lớn, không một quy luật tự nhiên nào có thể xâm nhập.</Description>
+			<NodeName.0>Thiên Địa Trận Kim Đan</NodeName.0>
+			<NodeName.1>Bạch Vân</NodeName.1>
+			<NodeName.2>Thanh Liên</NodeName.2>
+			<NodeName.3>Hắc Nha</NodeName.3>
+			<NodeName.4>Phần Thế Viêm</NodeName.4>
+			<NodeName.5>Quả Hoàng Đào</NodeName.5>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng ổn định</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Nhận được pháp thuật: Vô Tận Lĩnh Vực</SuitEffect.3.Description>
+		</Text>
+		<Text Name="liuyuzhen">
+			<DisplayName>Thần Đế Đại Trận</DisplayName>
+			<Description>Trận pháp tế lễ của Thiên Đình. Khi triển khai, nó hiện ra thánh địa thanh tịnh của Lục Đại Chư Thần Thiên Đình, biến nhân gian thành tiên cảnh, giúp tâm linh con người hòa hợp thanh thản.</Description>
+			<NodeName.0>Ngọc Hoàng Trận</NodeName.0>
+			<NodeName.1>Cực Địa Hoàng Trận</NodeName.1>
+			<NodeName.2>Bắc Đẩu Đại Đế Trận</NodeName.2>
+			<NodeName.3>Hỗn Nguyên Trận</NodeName.3>
+			<NodeName.4>Vĩnh Hằng Thần Trận</NodeName.4>
+			<NodeName.5>Giới Hoàng Trận</NodeName.5>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Nhận được pháp thuật: Thần Thiên Lĩnh Vực</SuitEffect.1.Description>
+		</Text>
+		<Text Name="longxingzhen">
+			<DisplayName>Ngự Long Đại Trận</DisplayName>
+			<Description>Trận pháp thần diệu được xây dựng dựa trên việc nghiên cứu tàn thể của Thủy Long. Tương truyền đây là trận pháp dùng để ngự long, khi vận dụng có thể rút trích linh khí từ long hồn để phát huy uy năng của thần long pháp chú.</Description>
+			<NodeName.0>Long Lân Cấm Chú</NodeName.0>
+			<NodeName.1>Long Giác Chú</NodeName.1>
+			<NodeName.2>Long Giác Chú</NodeName.2>
+			<NodeName.3>Long Trảo Chú</NodeName.3>
+			<NodeName.4>Long Trảo Chú</NodeName.4>
+			<NodeName.5>Long Lân Chú</NodeName.5>
+			<NodeName.6>Long Trảo Chú</NodeName.6>
+			<NodeName.7>Long Trảo Chú</NodeName.7>
+			<NodeName.8>Long Vĩ Chú</NodeName.8>
+			<SuitEffect.0.Description>Đã lĩnh hội thần thông: Thiên Long</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Đã lĩnh hội thần thông: Thần Ma Sát</SuitEffect.2.Description>
+		</Text>
+		<Text Name="fengjianzhen">
+			<DisplayName>Hỏa Phụng Kiếm Trận</DisplayName>
+			<Description>Trận pháp kỳ diệu dựa trên nghiên cứu về Hỏa Phụng Thể. Tương truyền đây là trận pháp khống chế Hỏa Phụng, khi triển khai có thể rút lấy Phụng Hồn khí để thi triển phụng pháp uy lực mạnh mẽ.</Description>
+			<NodeName.0>Chân Hỏa Cương Giáp</NodeName.0>
+			<NodeName.1>Vong Ngã Cương Giáp</NodeName.1>
+			<NodeName.2>Hộ thể linh giáp</NodeName.2>
+			<NodeName.3>Hắc Cốt linh giáp</NodeName.3>
+			<NodeName.4>Hỏa Vũ linh giáp</NodeName.4>
+			<NodeName.5>Hỏa Vũ linh giáp</NodeName.5>
+			<NodeName.6>Hắc Cốt linh giáp</NodeName.6>
+			<NodeName.7>Hỏa Vũ linh giáp</NodeName.7>
+			<NodeName.8>Hỏa Vũ linh giáp</NodeName.8>
+			<SuitEffect.0.Description>Đã lĩnh hội thần thông: Thần Phượng Kiếm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng pháp bảo</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Đã lĩnh hội thần thông: Niết Bàn</SuitEffect.2.Description>
+		</Text>
+		<Text Name="yinyangzhen">
+			<DisplayName>Âm Dương Đại Trận</DisplayName>
+			<Description>Trận đồ được lấy cảm hứng từ dòng linh khí giữa thiên địa. Tương truyền trận pháp này đại diện cho Âm và Dương, việc điều hòa năng lượng Âm Dương giúp cho trận pháp này biến hóa khôn lường vô song.</Description>
+			<NodeName.0>Hắc Thiên Quyển</NodeName.0>
+			<NodeName.1>Âm Chi Pháp Tắc</NodeName.1>
+			<NodeName.2>Dương Chi Pháp Tắc</NodeName.2>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng khả năng vận hành trận pháp</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu quả trận pháp</SuitEffect.4.Description>
+		</Text>
+		<Text Name="sanyinzhen">
+			<DisplayName>Hắc Ám Đại Trận</DisplayName>
+			<Description>Trận pháp ngộ ra từ Tam Tài (Thiên, Địa, Nhân). Tương truyền trận pháp này ngưng tụ từ Thuần Âm Chi Khí, có thể gia tăng sức mạnh to lớn cho người sử dụng.</Description>
+			<NodeName.0>Thiên Âm Khí</NodeName.0>
+			<NodeName.1>Địa Âm Khí</NodeName.1>
+			<NodeName.2>Nhân Âm Khí</NodeName.2>
+			<SuitEffect.0.Description>Tăng hiệu quả trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+		</Text>
+		<Text Name="bamen_ji">
+			<DisplayName>Vực Kiếm Trận: Sinh</DisplayName>
+			<Description>Tương truyền đây là trận pháp vận dụng quy tắc Bát Môn, gia cường phòng ngự của linh giáp bằng cách hấp thu năng lượng từ Sinh Môn.</Description>
+			<NodeName.0>Vô Tận Chi Môn</NodeName.0>
+			<NodeName.1>Tịch Tĩnh Chi Môn</NodeName.1>
+			<NodeName.2>Sinh mệnh chi môn</NodeName.2>
+			<SuitEffect.0.Description>Tăng hiệu quả trận pháp</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_xiong">
+			<DisplayName>Vực Kiếm Trận: Tử</DisplayName>
+			<Description>Tương truyền đây là trận pháp vận dụng quy tắc Bát Môn, gia cường uy lực uy hiếp linh khí binh khí của người dùng bằng cách hấp thu năng lượng từ Tử Môn.</Description>
+			<NodeName.0>Tử vong chi môn</NodeName.0>
+			<NodeName.1>Tai Ương Chi Môn</NodeName.1>
+			<NodeName.2>Hủy Diệt Chi Môn</NodeName.2>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+		</Text>
+		<Text Name="bamen_zhong">
+			<DisplayName>Vực Kiếm Trận: Sinh Tử Luân Hồi</DisplayName>
+			<Description>Tương truyền đây là trận pháp vận dụng quy tắc Bát Môn, tạo ra trận pháp bằng cách điều chỉnh sự cân bằng của vòng luân hồi sinh tử.</Description>
+			<NodeName.0>Độc Lập Chi Môn</NodeName.0>
+			<NodeName.1>Mỹ Lệ Chi Môn</NodeName.1>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+		</Text>
+		<Text Name="jiayimushenzhen">
+			<DisplayName>Linh Mộc Trận</DisplayName>
+			<Description>Trận pháp kiến tạo từ Linh Mộc Nguyên Thạch Đông Phương. Tương truyền trận pháp này có năng lực khơi dậy linh khí thiên địa, gia tăng khả năng hồi phục cho vạn vật chúng sinh.</Description>
+			<NodeName.0>Linh thụ sao</NodeName.0>
+			<NodeName.1>Linh thụ chi</NodeName.1>
+			<NodeName.2>Linh thụ diệp</NodeName.2>
+			<NodeName.3>Linh thụ can</NodeName.3>
+			<NodeName.4>Linh thụ căn</NodeName.4>
+			<SuitEffect.0.Description>Tăng hiệu quả trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng khả năng vận hành trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Đã lĩnh hội thần thông: Mộc Linh Giới</SuitEffect.2.Description>
+		</Text>
+		<Text Name="wuyuezhen">
+			<DisplayName>Hội Tụ Trận</DisplayName>
+			<Description>Trận pháp được tạo ra từ Linh Hạch Ngũ Đại Lục, khi sử dụng sẽ rút lấy sức mạnh từ ngũ đại lục ở các phương để tạo thành một kết giới phòng thủ không thể phá hủy.</Description>
+			<NodeName.0>Bích Lục Phong</NodeName.0>
+			<NodeName.1>Vách Núi</NodeName.1>
+			<NodeName.2>Hoang Đảo</NodeName.2>
+			<NodeName.3>Thần điện</NodeName.3>
+			<NodeName.4>Tiên Cảnh</NodeName.4>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng hiệu quả trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Đã lĩnh hội thần thông: Ngũ Thổ Giới</SuitEffect.2.Description>
+		</Text>
+	</List>
+</Texts>

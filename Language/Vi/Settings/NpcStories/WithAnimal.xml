@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal_EatLikeFood">
+			<Events.0.Story>[name] phát hiện [hename] rất thích thứ này</Events.0.Story>
+		</Text>
+		<Text Name="Animal_EatDisLikeFood">
+			<Events.0.Story>[name] phát hiện [hename] không thích thứ này cho lắm</Events.0.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story">
+			<Events.0.Story>[name] xoa đầu của [hename] Và [hename] chớp mắt đầy thích thú</Events.0.Story>
+			<Events.1.Story>[name] xoa đầu của [hename] Và [hename] liền vùng vẫy thoát ra vì luống cuống</Events.1.Story>
+			<Events.2.Story>[name] nhìn thấy [hename] đang nằm thư thái trên mặt đất, liền tiến lại trêu chọc một chút</Events.2.Story>
+			<Events.3.Story>[name] đi tới chơi cùng [hename] nhưng [hename] liếc nhìn [name] một chút, rồi thản nhiên quay lưng bỏ đi</Events.3.Story>
+			<Events.4.Story>[name] nhìn thấy [hename] đột nhiên cảm thấy hứng thú với[obj_nearthing]ở gần đó, sau đó liền lại gần ngửi và liếm thứ đó vài cái</Events.4.Story>
+			<Events.5.Story>[hename] đã đi tới ngửi [name] nhưng lại ngửi thấy mùi không thích nên liền bỏ đi</Events.5.Story>
+			<Events.6.Story>[hename] chạy vòng quanh [name] vô cùng hào hứng</Events.6.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Rabbit">
+			<Events.0.Story>[name] đã bế [hename] vào lòng và đùa giỡn vui vẻ</Events.0.Story>
+			<Events.1.Story>[name] xoa đầu của [hename] và thấy rằng lông của nó rất mềm mại</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Chicken">
+			<Events.0.Story>[name] đã bế [hename] vào lòng rồi tung nó lên bầu trời [hename] hoảng hốt vỗ cánh khiến vài cọng lông rơi xuống đất</Events.0.Story>
+			<Events.1.Story>Khi nhìn thấy [name] Dường như [hename] đã nghĩ ra điều gì đó rồi bắt đầu lẩm bẩm một mình</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Wolf">
+			<Events.0.Story>[name] xoa đầu của [hename] Và [hename] sủa khẽ vài tiếng để tỏ lòng biết ơn</Events.0.Story>
+			<Events.1.Story>[hename] chạy vòng quanh [name] rồi sủa lên đầy vui mừng</Events.1.Story>
+			<Events.2.Story>[hename] nằm rạp xuống đất và nhìn chằm chằm về phía [Tên] bằng ánh mắt hung dữ</Events.2.Story>
+			<Events.3.Story>[hename] vẫy vẫy chiếc đuôi khi nhìn thấy [name]</Events.3.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Snake">
+			<Events.0.Story>Khi nhìn thấy [name] Tiến lại gần [hename] liền vươn cao cổ rồi thè lưỡi ra</Events.0.Story>
+			<Events.1.Story>[name] đã bế [hename] vào lòng và đùa giỡn vui vẻ</Events.1.Story>
+			<Events.2.Story>[name] tò mò nhìn theo trong khi [hename] đang nuốt chửng một con chuột lớn trong một ngụm</Events.2.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Boar">
+			<Events.0.Story>[hename] húc mạnh vào [name] đầy tức giận bằng chiếc mũi của mình</Events.0.Story>
+			<Events.1.Story>[name] nhìn thấy [hename] nằm trên mặt đất và phát ra tiếng kêu như đang tự nói với chính mình, vì vậy[IT]ném đá để trêu chọc nó</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Bear">
+			<Events.0.Story>Khi nhìn thấy [name] [hename] liền giang rộng hai tay và phấn khích lao tới [name] cảm thấy hoảng sợ liền vội vàng chạy trốn thật nhanh</Events.0.Story>
+			<Events.1.Story>[name] liếc nhìn về phía [hename] Dường như [hename] dường như tức giận điều gì đó nên giậm chân liên tục xuống đất</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Turtle">
+			<Events.0.Story>[name] xoa đầu của [hename] Và [hename] liền rụt đầu trốn vào trong mai thật nhanh</Events.0.Story>
+			<Events.1.Story>[name] phát hiện [hename] đang nằm ung dung trên mặt đất chẳng màng thế sự, thế nên đám[IT]trêu chọc nó, điều này khiến cho [hename] rụt đầu trốn vào trong mai thật nhanh</Events.1.Story>
+			<Events.2.Story>[name] đi tới chơi cùng [hename] nhưng [hename] chỉ liếc nhìn về phía [name] một chút trước khi từ từ rụt đầu lại vào trong mai</Events.2.Story>
+			<Events.3.Story>[hename] đột nhiên cảm thấy hứng thú với[obj_nearthing]ở gần đó, vì vậy nó từ từ tiến lại ngửi thử</Events.3.Story>
+			<Events.4.Story>[name] đi tới chơi cùng [hename] Và [hename] liền từ từ ngẩng đầu lên</Events.4.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Frog">
+			<Events.0.Story>[name] cảm thấy [hename] đang suy nghĩ về điều gì đó quan trọng, nhưng khi[IT]quay lại nhìn lần nữa, nó lại nhảy nhót như thường lệ</Events.0.Story>
+			<Events.1.Story>[name] Bắt [hename] lên đặt vào tay của[IT] [hename] phun nước vào mặt của [name] trước khi vui sướng nhảy múa tưng bừng</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Fei">
+			<Events.0.Story>[name] xoa đầu của [hename] Và [hename] khẽ cất lên tiếng kêu êm tai</Events.0.Story>
+			<Events.1.Story>[hename]nhìn chằm chằm vào [name] từ xa với vẻ đầy thích thú</Events.1.Story>
+		</Text>
+		<Text Name="WisdomWithAnimal_Story_Lushu">
+			<Events.0.Story>[name] xoa đầu của [hename] Và [hename] liền lắc mạnh đầu qua lại đầy giận dữ</Events.0.Story>
+			<Events.1.Story>[hename] nhìn thấy [name] đang đi về phía nó, vì vậy vội nằm xuống đất giả vờ ngủ</Events.1.Story>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,38 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Trống rỗng</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>Khôi lỗi</DisplayName>
+			<Desc>Công cụ do con người tạo ra, có hình dáng rất giống con người và có thể vận hành bằng linh khí</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>Lễ hội mùa xuân Yêu Trư</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>Yêu Thử (Lễ hội mùa xuân)</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>Lễ hội mùa xuân yêu thú</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>Lễ hội mùa xuân yêu thú</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>Phần thân</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>Tiểu Long</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>Tiểu Phượng</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>Chúc Long (Lễ hội mùa xuân)</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>Anh hùng</DisplayName>
+		</Text>
+	</List>
+</Texts>

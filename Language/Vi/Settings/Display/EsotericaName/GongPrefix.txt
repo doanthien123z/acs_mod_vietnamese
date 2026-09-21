@@ -1,0 +1,4 @@
+Cấp độ I,Trung tâm, Sơ cấp, Hổ Phách Hoa, Nội bộ, Nền tảng, Thảo dược, Thâm trầm, Ngũ giới
+Cấp độ II,Chân khí chú, Chủ yếu, Âm Dương, Nhân đạo, Kim Đan, Tinh luyện, Tâm môn, Trạng thái thức tỉnh
+Cấp độ III,Hồng hoang, Tam thiên phú, Hóa thân, Đạo đức, Tinh xảo, Bầu không khí, Đỉnh cao, Lãng quên
+Cấp độ IV,Linh chú, Thiên thượng, Chân lý, Vô tư, Tử Vân, Tuyệt Ngọc, Đại Hồng Hoang, Vận mệnh

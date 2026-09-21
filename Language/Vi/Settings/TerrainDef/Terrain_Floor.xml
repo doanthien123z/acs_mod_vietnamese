@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FloorBase">
+			<DisplayName>Nền</DisplayName>
+			<StoryDesc>Nó nằm trong tông môn</StoryDesc>
+		</Text>
+		<Text Name="WoodFloor1">
+			<DisplayName>Sàn gỗ</DisplayName>
+		</Text>
+		<Text Name="WoodFloor2">
+			<DisplayName>Sàn gỗ</DisplayName>
+		</Text>
+		<Text Name="Carpet1">
+			<StoryDesc>Đây là thảm đỏ mềm mại xinh đẹp</StoryDesc>
+		</Text>
+	</List>
+</Texts>

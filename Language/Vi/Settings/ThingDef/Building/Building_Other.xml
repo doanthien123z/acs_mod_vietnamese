@@ -1,0 +1,39 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Jiaolong_Body" sParam="Building">
+			<ThingName>Xác rồng nước</ThingName>
+			<Desc>Thi thể của rồng nước</Desc>
+		</Text>
+		<Text Name="Building_Dragon_Hole" sParam="Building">
+			<ThingName>Sơn động bí ẩn</ThingName>
+			<Desc>Hang động thường có suy nghĩ riêng và luôn đòi hỏi vật phẩm cúng tế. Nó có thể bị trấn áp bởi phong thủy của căn phòng. Phong thủy càng tốt, nó càng yêu cầu ít lễ vật hơn. Mỗi lần cúng tế thành công sẽ gia tăng sức mạnh cho nó, khiến việc chế ngự về sau trở nên khó khăn hơn</Desc>
+			<StoryBnts.0.Name>Khiêu khích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lấp đầy hang động</StoryBnts.0.Desc>
+			<StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("Linh hồn trong hang động cực kỳ mạnh mẽ và nguy hiểm. Người có chắc chắn muốn khiêu khích nó? (Nếu người xác nhận, hung thú thượng cổ sẽ được triệu hồi. Tông môn của người có thể bị hủy diệt trong nháy mắt nếu chưa chuẩn bị kỹ càng. Xin hãy quyết định thật cẩn thận)) ", 2, function(b) if (b ~= "1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+		</Text>
+		<Text Name="Building_Xiongfeng_dan" sParam="Building">
+			<ThingName>Trứng Phượng Hoàng lửa</ThingName>
+			<Desc>Nó tỏa ra nhiệt lượng cực lớn, dường như đang hấp thụ linh khí đất trời để ấp nở</Desc>
+		</Text>
+		<Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+			<ThingName>Trứng Phượng Hoàng lửa</ThingName>
+			<Desc>Trứng Phượng Hoàng lửa đã cạn kiệt linh khí, khiến quá trình niết bàn bị gián đoạn</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan" sParam="Building">
+			<ThingName>Âm noãn</ThingName>
+			<Desc>Trứng đang cố gắng ấp nở, phong thủy đại cát có thể trấn áp được nó</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan" sParam="Building">
+			<ThingName>Dương noãn</ThingName>
+			<Desc>Trứng đang cố gắng ấp nở, phong thủy đại hung có thể trấn áp được nó</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+			<ThingName>Trứng Âm (đã chết))</ThingName>
+			<Desc>Tử vong</Desc>
+		</Text>
+		<Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+			<ThingName>Trứng Dương (đã chết))</ThingName>
+			<Desc>Tử vong</Desc>
+		</Text>
+	</List>
+</Texts>

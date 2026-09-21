@@ -1,0 +1,252 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Trống</DisplayName>
+			<Desc>Kiến trúc thất truyền không ai biết đến \n(Trống)</Desc>
+		</Text>
+		<Text Name="RebornSelf">
+			<DisplayName>Chuyển Sinh Thuật</DisplayName>
+			<Desc>Bí thuật của Thái Ất Môn, dùng Linh Châu làm vật dẫn chân khí để phá hủy toàn bộ căn cơ tu luyện của bản thân. Bằng cách này, người dùng sẽ quay trở lại làm người phàm một lần nữa</Desc>
+		</Text>
+		<Text Name="JieHuiDaoPowerUp">
+			<DisplayName>Ngưng luyện Đạo tinh</DisplayName>
+			<Desc>Tiêu hao 1 cụm Tiên Trần để nâng phẩm cấp vật phẩm lên 1 cấp.</Desc>
+		</Text>
+		<Text Name="SoulCrystalYouPowerUp">
+			<DisplayName>Luyện Tâm Ma Ngọc</DisplayName>
+			<Desc>Tiêu hao 1 viên Oán Ma Thạch để nâng phẩm cấp vật phẩm lên 1 cấp.</Desc>
+		</Text>
+		<Text Name="SoulCrystalLingPowerUp">
+			<DisplayName>Luyện chế hồn châu</DisplayName>
+			<Desc>Tiêu hao 1 viên Hồn Thạch để tăng chân khí bên trong vật phẩm (nếu vật phẩm là Pháp Bảo, lượng tăng sẽ chuyển thành giới hạn chân khí tối đa).)</Desc>
+		</Text>
+		<Text Name="MakeSoulCrystal">
+			<DisplayName>Vong Hồn Chú</DisplayName>
+			<Desc>Dùng lên thi thể sắp chết của người không có cơ sở tu vi để luyện hóa linh hồn thành Hồn Thạch. Mỗi mục tiêu chỉ có thể sử dụng một lần.</Desc>
+		</Text>
+		<Text Name="MakePuppet">
+			<DisplayName>Thao Thây Thuật</DisplayName>
+			<Desc>Dùng để thức tỉnh thi thể người chết. Thi thể được thức tỉnh có thể sai khiến làm các công việc tạp vụ, vận chuyển. Phẩm chất thi thể phụ thuộc vào cơ sở tu vi khi còn sống của người đó.\n[color=#D06508]Mỗi tu sĩ chỉ có thể khống chế một thi thể.[/color]</Desc>
+		</Text>
+		<Text Name="BuidPuppet">
+			<DisplayName>Khai linh</DisplayName>
+			<Desc>Ban linh hồn cho rối gỗ, có thể dùng để vận chuyển vật phẩm tạp nhạp. Chất lượng rối phụ thuộc vào phẩm cấp nguyên liệu chế tạo.\n[color=#D06508]Mỗi tu sĩ chỉ có thể khống chế một con.[/color]</Desc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Sưu hồn</DisplayName>
+			<Desc>Sử dụng lên thân thể sắp chết để tìm kiếm ký ức về vị trí kho báu, công pháp tu luyện hoặc kiến thức khác của người đó. Tỷ lệ thành công khi dò xét linh hồn sẽ tăng cao hơn nếu sử dụng tại nơi có phong thủy xấu</Desc>
+		</Text>
+		<Text Name="ClosedDoor">
+			<DisplayName>Tập Trung Luyện Khí</DisplayName>
+			<Desc>Tiến vào trạng thái nhập định để tự tu luyện, tiêu hao thọ nguyên và thể lực nhanh chóng, nhưng hiệu suất luyện khí và lượng chân khí tối đa sẽ tăng lên.</Desc>
+		</Text>
+		<Text Name="ClosedDoor_Gong1">
+			<DisplayName>Thủy Kính</DisplayName>
+			<Desc>Phương pháp thiền định huyền bí được ghi chép trong bí tịch Thập Lục Bước Đăng Tiên. Tu luyện bằng cách quán tưởng dòng nước trong vắt như gương bên trong linh hải, nâng cao cảnh giới thiền định lên tầng cao mới, giúp tăng tiến thực lực nhanh chóng bằng cách đổi lấy tuổi thọ. Trong trạng thái này, linh hồn người tu luyện sẽ rơi vào hư vô, do đó tư duy sẽ tạm dừng, cảnh giới tu luyện sẽ không tăng lên trong thời gian sử dụng.</Desc>
+		</Text>
+		<Text Name="ClosedDoor_Gong4">
+			<DisplayName>Cổ Thiền</DisplayName>
+			<Desc>Phương pháp luyện khí bí truyền ghi trong công pháp Thuần Ngọc Bất Tử, giúp nguyên thần chu du về thời thượng cổ lúc thiên địa mới khai sinh. Phương pháp này có hiệu quả vượt xa các kỹ thuật luyện khí khác, đồng thời tu sĩ không cần phải hao tốn thọ nguyên của bản thân.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Aoe">
+			<DisplayName>Thể Tức Linh Khí</DisplayName>
+			<Desc>Đến vị trí chỉ định để hấp thu linh khí tự nhiên.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Live">
+			<DisplayName>Âm Sai Đạo</DisplayName>
+			<Desc>Dùng lên sinh linh không có cơ sở tu luyện để rút thọ nguyên và dùng nó tăng chân khí cho người dùng.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Body">
+			<DisplayName>Thôn Huyết</DisplayName>
+			<Desc>Luyện hóa thi thể người chết chuyển thành chân khí. Thể chất khi còn sống càng mạnh mẽ thì chân khí nhận được càng nhiều.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Thing">
+			<DisplayName>Nhất Thể Sơn Hà</DisplayName>
+			<Desc>Dùng lên kiến trúc, thực vật và khoáng thạch trên bản đồ để hấp thu linh khí của chúng. Mục tiêu càng nhiều linh khí, tốc độ và lượng linh khí tối đa hấp thu được càng cao.</Desc>
+		</Text>
+		<Text Name="AbsorbLing_Item">
+			<DisplayName>Hấp Khí Chưởng</DisplayName>
+			<Desc>Hấp thu linh khí chứa trong vật phẩm.</Desc>
+		</Text>
+		<Text Name="Healing_Damage">
+			<DisplayName>Khí Trị Thương</DisplayName>
+			<Desc>Truyền chân khí để chữa trị nội thương cho mục tiêu.</Desc>
+		</Text>
+		<Text Name="BuildBody">
+			<DisplayName>Tái Tạo Thể Xác</DisplayName>
+			<Desc>Tái tạo nội tạng và đúc lại toàn bộ các bộ phận cơ thể bị mất.</Desc>
+		</Text>
+		<Text Name="RobBodyLow">
+			<DisplayName>Hồn Ấn Thuật</DisplayName>
+			<Desc>Pháp thuật đoạt xá cấp thấp. Chiếm đoạt cơ thể của sinh vật không có căn cơ tu luyện. Tuy nhiên, người dùng pháp thuật sẽ mất đi phần lớn căn cơ tu luyện, đồng thời gây ra hiện tượng linh hồn và thể xác không tương thích</Desc>
+		</Text>
+		<Text Name="RobBodyHigh">
+			<DisplayName>Đại Pháp Ấn Hồn</DisplayName>
+			<Desc>Pháp thuật đoạt xá cấp cao. Chiếm đoạt cơ thể của sinh vật không có căn cơ tu luyện. Tuy nhiên, người dùng pháp thuật sẽ mất đi phần lớn căn cơ tu luyện</Desc>
+		</Text>
+		<Text Name="AbsorbGong_1">
+			<DisplayName>Dẫn Hồn Lô</DisplayName>
+			<Desc>Hấp thu thọ nguyên của sinh linh không có cơ sở tu luyện để tăng ngộ tính và nền tảng tu vi của bản thân. Hiệu quả hơn khi dùng lên mục tiêu có thể chất cường tráng.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_1_Gong9">
+			<DisplayName>Tâm Hồn Quy Nhất</DisplayName>
+			<Desc>Điều khiển sức mạnh của lục giới để hấp thụ linh hải. Cách này cho phép hấp thụ tuổi thọ của sinh vật không có căn cơ tu luyện, dùng nó để tăng tốc độ tu luyện và ngộ tính. Bí pháp này sẽ hiệu quả hơn đối với mục tiêu có nhục thân cường tráng.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_2">
+			<DisplayName>Ảo Mộng Giới</DisplayName>
+			<Desc>Tạo ra ảo cảnh mê hoặc sinh linh khác giới cùng chủng tộc không phải người tu luyện, sau đó hấp thu thọ nguyên của họ để rèn luyện ngộ tính và nâng cao tu vi bản thân. Hiệu quả hơn nếu dùng lên mục tiêu có mị lực cao.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_2_Gong7">
+			<DisplayName>Huyễn cảnh</DisplayName>
+			<Desc>Tạo ra ảo cảnh mê hoặc sinh linh khác giới cùng chủng tộc không phải người tu luyện, sau đó hấp thu thọ nguyên của họ để rèn luyện ngộ tính và nâng cao tu vi bản thân. Hiệu quả hơn nếu dùng lên mục tiêu có mị lực cao.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_3">
+			<DisplayName>Rút Hồn Thuật</DisplayName>
+			<Desc>Chiếm đoạt cơ thể của sinh linh không có cơ sở tu luyện, chuyển hóa và khống chế sức mạnh của người đó để tăng ngộ tính và nền tảng tu vi. Hiệu quả hơn khi dùng lên mục tiêu có trí tuệ cao.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_3_Gong11">
+			<DisplayName>Cửu U Luyện Hồn</DisplayName>
+			<Desc>Điều khiển năng lượng âm phủ để thức tỉnh linh hồn sinh linh không có nền tảng tu luyện. Nó có thể tăng hiệu quả tu luyện và cảnh giới, mục tiêu càng có trí tuệ cao thì hiệu quả thần thông càng mạnh.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_4">
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Tiến hành luyện hồn bằng cực hình tra tấn đối với sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng, mang lại cho chúng nỗi đau đớn tột cùng và tận hưởng niềm vui từ đó.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_5">
+			<DisplayName>Bạo phát tâm tình</DisplayName>
+			<Desc>Sử dụng lên mục tiêu là sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng. Nếu mục tiêu có trạng thái cảm xúc mãnh liệt (thanh cảm xúc lớn hơn 160 hoặc nhỏ hơn 40), người sử dụng sẽ nhận được tâm đắc và căn cơ tu luyện từ mục tiêu. Khi triển khai pháp chú, hiệu quả của pháp chú sẽ duy trì vĩnh viễn. Cảm xúc của mục tiêu càng mãnh liệt bao nhiêu, hiệu quả của pháp chú càng mạnh mẽ bấy nhiêu.\nĐối với mỗi mục tiêu được chỉ định, giá trị cơ bản về tâm trạng và cảm xúc của người sử dụng sẽ giảm đi theo số lượng mục tiêu, và mục tiêu sẽ có xu hướng dễ nổi giận hơn. Có thể dừng pháp chú bằng cách sử dụng lại lên mục tiêu cũ.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_6">
+			<DisplayName>Tiềm linh</DisplayName>
+			<Desc>Học pháp chú: Tiềm linh\nSử dụng lên mục tiêu là sinh vật không có căn cơ tu luyện và cùng chủng tộc với người dùng. Gửi linh trí khởi nguyên của mình vào sinh vật đó để chuyển hóa quá trình tu luyện của mục tiêu thành giá trị nhận thức và căn cơ tu luyện cho người niệm chú vào mỗi 0:00 hàng ngày\nĐối với mỗi mục tiêu bị tiềm linh, cấp độ tâm trạng và linh hồn của người sử dụng sẽ bị tổn thương theo số lượng mục tiêu, đồng thời mục tiêu cũng sẽ trở nên suy yếu và giảm ngũ đại thuộc tính do có linh hồn khác ẩn giấu bên trong cơ thể. Có thể dừng pháp chú bằng cách sử dụng lại lên mục tiêu cũ.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_7">
+			<DisplayName>Ma tế thể</DisplayName>
+			<Desc>Sử dụng lên mục tiêu là sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng. Dùng mục tiêu làm vật hiến tế cho ma hồn, ma hồn sẽ ngẫu nhiên lấy đi các bộ phận cơ thể của mục tiêu, bù lại ma hồn sẽ ban trả tâm đắc và kinh nghiệm căn cơ tu luyện cho người sử dụng công pháp. Ngũ đại thuộc tính cơ bản của mục tiêu càng tốt bao nhiêu, hiệu quả của pháp chú càng mạnh mẽ bấy nhiêu.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_8">
+			<DisplayName>Tịnh tâm</DisplayName>
+			<Desc>Thi triển thần thông để khiến sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng cảm thấy tâm trạng vui vẻ.</Desc>
+		</Text>
+		<Text Name="PlantGrowUp">
+			<DisplayName>Mộc tâm</DisplayName>
+			<Desc>Tập trung tinh thần, truyền chân khí của bản thân vào cây trồng mục tiêu, tăng đáng kể tốc độ sinh trưởng trong 1 ngày. Hiệu quả sẽ giảm nếu dùng với cây có cấp cao. Tác dụng phụ của chú thuật này là gây tổn thương nặng đến kinh mạch chân khí của người dùng. Vui lòng sử dụng cẩn thận</Desc>
+		</Text>
+		<Text Name="PlantGrowUp_Gong1">
+			<DisplayName>Thuật Gọi Mưa</DisplayName>
+			<Desc>Triệu hồi linh khí trời đất hội tụ vào mục tiêu thực vật, tăng nhẹ tốc độ sinh trưởng trong 7 ngày. Hiệu quả sẽ giảm dần nếu sử dụng trên thực vật cấp cao.</Desc>
+		</Text>
+		<Text Name="PlantGrowUp_Gong9">
+			<DisplayName>Vạn Mộc Khai Hoa</DisplayName>
+			<Desc>Dẫn linh khí tinh khiết từ thiên nhiên để tinh luyện linh khí hệ Mộc, tăng tốc độ sinh trưởng của thực vật. Hiệu quả sẽ giảm dần khi dùng trên linh dược cấp cao.</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_1">
+			<DisplayName>Thiên tâm đạo</DisplayName>
+			<Desc>Dùng 10 năm tuổi thọ để tăng tốc độ hồi phục chân khí và toàn bộ năng lực của người dùng trong thời gian ngắn</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_2">
+			<DisplayName>Giải phong ấn yêu thú</DisplayName>
+			<Desc>Dùng 10 năm tuổi thọ để tăng tốc độ hồi phục chân khí và toàn bộ năng lực của người dùng trong thời gian ngắn</Desc>
+		</Text>
+		<Text Name="AbsorbGong_9_3">
+			<DisplayName>Thần Thông</DisplayName>
+			<Desc>Dùng 10 năm tuổi thọ để tăng tốc độ hồi phục chân khí và toàn bộ năng lực của người dùng trong thời gian ngắn</Desc>
+		</Text>
+		<Text Name="AbsorbGong_10">
+			<DisplayName>Trảm niệm kiếm</DisplayName>
+			<Desc>Thi triển thuật pháp lên sinh linh không có căn cơ tu luyện, tẩy sạch toàn bộ trạng thái cảm xúc tạm thời.</Desc>
+		</Text>
+		<Text Name="LingStoneMake">
+			<DisplayName>Luyện linh thạch</DisplayName>
+			<Desc>Ngưng tụ 5000 chân khí thành 1 viên Linh Thạch. Công pháp này sẽ tiếp tục cho đến khi người dùng dừng lại hoặc chân khí của người dùng cạn kiệt</Desc>
+		</Text>
+		<Text Name="LingCrystalMake">
+			<DisplayName>Luyện linh tinh</DisplayName>
+			<Desc>Ngưng tụ linh khí để biến nó thành linh tinh.</Desc>
+		</Text>
+		<Text Name="PrayForRain">
+			<DisplayName>Vũ Điệu Mưa Sa</DisplayName>
+			<Desc>Triệu hồi mưa rơi xuống. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForSun">
+			<DisplayName>Xua Tan Mây Mù</DisplayName>
+			<Desc>Thay đổi thời tiết khiến bầu trời quang đãng. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForRain_FeiHorse">
+			<DisplayName>Vũ Điệu Của Mưa (Phi))</DisplayName>
+			<Desc>Nhấn dùng kỹ năng của Phi để triệu hồi mưa</Desc>
+		</Text>
+		<Text Name="PrayForSun_LuShuHorse">
+			<DisplayName>Xua Tan Mây (Lục Xu))</DisplayName>
+			<Desc>Nhấn dùng kỹ năng của Lữ Tô để làm bầu trời quang đãng</Desc>
+		</Text>
+		<Text Name="PrayForRainstorm">
+			<DisplayName>Mưa bão</DisplayName>
+			<Desc>Thay đổi thời tiết gây ra mưa bão trong mùa đông và mùa hè. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForZhenShuiJieJie_Gong1">
+			<DisplayName>Thủy vực lĩnh vực</DisplayName>
+			<Desc>Sử dụng pháp thuật mạnh mẽ để đặt lãnh vực chân khí thủy trong khu vực chỉ định, làm giảm nhiệt độ toàn bộ lãnh vực đã đặt, tăng đáng kể tốc độ hồi phục chân khí và sức bền tự nhiên của đồng minh. Trong suốt thời gian sử dụng chỉ có thể đặt một lãnh vực duy nhất</Desc>
+		</Text>
+		<Text Name="PrayForFohn">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<Desc>Thay đổi thời tiết gây ra bão nhiệt trong mùa hè và mùa thu. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForZhenHuoJieJie_Gong10">
+			<DisplayName>Cửu Dương Hỏa Thần lĩnh vực</DisplayName>
+			<Desc>Phép thuật uy lực tạo ra Cửu Nhật Hỏa Thần Vực tại khu vực chỉ định, tăng nhiệt độ toàn khu vực và gia tăng mạnh linh lực cho đồng minh. Trong thời gian duy trì, mỗi lần chỉ được đặt một khu vực.</Desc>
+		</Text>
+		<Text Name="PrayForDustStorm">
+			<DisplayName>Bão Cát</DisplayName>
+			<Desc>Thay đổi thời tiết gây ra bão cát sa mạc trong mùa đông và mùa xuân. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForMiasma">
+			<DisplayName>Bão Phấn Hoa Độc</DisplayName>
+			<Desc>Thay đổi thời tiết gây ra bão phấn hoa độc trong mùa xuân và mùa hè. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForLightningStorm">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<Desc>Thay đổi thời tiết gây ra bão sét trong mùa hè và mùa thu. Nhưng hành động này trái với thiên đạo, do đó tuổi thọ của người niệm chú sẽ bị giảm</Desc>
+		</Text>
+		<Text Name="PrayForBeiDouJianJie_Gong8">
+			<DisplayName>Kim kiếm lĩnh vực</DisplayName>
+			<Desc>Sử dụng chân khí cường đại để tạo ra kiếm vực trong khu vực chỉ định, tăng mạnh uy lực pháp bảo cho đồng minh bên trong. Trong suốt thời gian duy trì chỉ có thể triển khai một lĩnh vực.</Desc>
+		</Text>
+		<Text Name="Healing_Physique">
+			<DisplayName>Tẩy Tủy</DisplayName>
+			<Desc>Dùng 60 năm tuổi thọ và một lượng chân khí khổng lồ để thanh tẩy và tái tạo tủy xương cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% sức bền. Chỉ số nền tảng càng thấp, hiệu quả của chú thuật càng lớn. Mục tiêu chỉ có thể được nâng cấp một lần duy nhất trong suốt cuộc đời</Desc>
+		</Text>
+		<Text Name="Healing_Intelligence">
+			<DisplayName>Ngộ đạo</DisplayName>
+			<Desc>Dùng 60 năm tuổi thọ và một lượng chân khí khổng lồ để tăng trí tuệ cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% trí tuệ. Chỉ số nền tảng càng thấp, hiệu quả của chú thuật càng lớn. Mục tiêu chỉ có thể được nâng cấp một lần duy nhất trong suốt cuộc đời</Desc>
+		</Text>
+		<Text Name="Healing_Charisma">
+			<DisplayName>Mị Ảnh Chi Thể</DisplayName>
+			<Desc>Dùng 60 năm tuổi thọ và một lượng chân khí khổng lồ để cải thiện dung mạo và khí chất cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% mị lực. Chỉ số nền tảng càng thấp, hiệu quả của chú thuật càng lớn. Mục tiêu chỉ có thể được nâng cấp một lần duy nhất trong suốt cuộc đời</Desc>
+		</Text>
+		<Text Name="Healing_Perception">
+			<DisplayName>Khai Nhãn</DisplayName>
+			<Desc>Dùng 60 năm tuổi thọ và một lượng chân khí khổng lồ để mở thiên nhãn cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% nhận thức. Chỉ số nền tảng càng thấp, hiệu quả của chú thuật càng lớn. Mục tiêu chỉ có thể được nâng cấp một lần duy nhất trong suốt cuộc đời</Desc>
+		</Text>
+		<Text Name="Magic_Plant_Pee">
+			<DisplayName>Tưới nước</DisplayName>
+			<Desc>Tưới nước cho cây và giúp cây lớn nhanh hơn. Chỉ áp dụng cho hành vi của thú cưng, không thể tự mình sử dụng</Desc>
+		</Text>
+		<Text Name="Magic_Healing_LingShou">
+			<DisplayName>Khí Trị Thương</DisplayName>
+			<Desc>Chữa trị cho nội môn đệ tử bị thương. Chỉ áp dụng cho hành vi của thú cưng, không thể tự mình sử dụng</Desc>
+		</Text>
+		<Text Name="Magic_Healing_Hot">
+			<DisplayName>Chữa trị cảm nắng</DisplayName>
+			<Desc>Chữa trị chứng cảm nắng cho đệ tử trong tông môn. Chỉ dùng được cho hành vi của linh thú, không thể tự mình cưỡng chế sử dụng.</Desc>
+		</Text>
+		<Text Name="Magic_Healing_Freeze">
+			<DisplayName>Chữa trị cước khí</DisplayName>
+			<Desc>Chữa trị chứng cước khí cho đệ tử trong tông môn. Chỉ dùng được cho hành vi của linh thú, không thể tự mình cưỡng chế sử dụng.</Desc>
+		</Text>
+		<Text Name="Magic_ClearElixirGas">
+			<DisplayName>Ngũ Hành Tiêu Linh</DisplayName>
+			<Desc>Tiêu tan toàn bộ đan khí trong khu vực</Desc>
+		</Text>
+	</List>
+</Texts>

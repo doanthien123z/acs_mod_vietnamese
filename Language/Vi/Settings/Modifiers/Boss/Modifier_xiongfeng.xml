@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>Hỏa Phượng</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>Hỏa Phượng</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>Thân hình hỏa phượng</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>Chân linh hệ lửa</DisplayName>
+			<Desc>Hỏa phượng ngưng tụ linh hồn lửa, khi tích tụ đạt tới cấp 100, nó sẽ giải phóng lông vũ hỏa phượng và biến thành Thiên Hỏa Phượng Hoàng Thân.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>Thiên Hỏa Phượng Thể</DisplayName>
+			<Desc>Hỏa phượng sẽ nuốt chửng lông vũ của chính mình để duy trì trạng thái này. Khi kết thúc, hủy bỏ trạng thái này và hồi phục lông vũ hỏa phượng cùng chân khí của bản thân.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>Thiên hỏa phần thiên</DisplayName>
+			<Desc>Gây sát thương trong một khoảng thời gian, tu sĩ không phải hệ kim sẽ chỉ nhận 1/3 sát thương.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>Suy nhược</DisplayName>
+			<Desc>Hỏa phượng đang ở trạng thái suy yếu</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>Thái Dương Nhãn</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng2">
+			<DisplayName>Hỏa Điểu</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part2">
+			<DisplayName>Mảnh vỡ thân thể hỏa phượng</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
+			<DisplayName>Mắt thái dương</DisplayName>
+		</Text>
+	</List>
+</Texts>

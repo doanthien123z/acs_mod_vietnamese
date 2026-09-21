@@ -1,0 +1,448 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MutationCondition_Debug">
+			<DisplayName>Cảm giác mất mát</DisplayName>
+			<Desc>Ý nghĩa không xác định…………</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_1">
+			<DisplayName>Thôn phệ vật phẩm</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ vật phẩm 49 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_2">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm 124 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_3">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm cấp 7 hoặc cao hơn 99 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_4">
+			<DisplayName>Thôn phệ vật phẩm có thuộc tính đặc định</DisplayName>
+			<Desc>Một đệ tử đã ăn bất kỳ thực phẩm nào 36 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_5">
+			<Desc>Một đệ tử đã ăn bất kỳ thực phẩm nào 81 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_6">
+			<Desc>Một đệ tử đã ăn 10 loại thực phẩm khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_7">
+			<Desc>Một đệ tử đã ăn 3 loại thực phẩm thổ hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_8">
+			<Desc>Một đệ tử đã ăn 5 loại thực phẩm thổ hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_9">
+			<Desc>Một đệ tử đã ăn 8 loại thực phẩm thổ hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_10">
+			<DisplayName>Thôn phệ vật phẩm kim hệ</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ vật phẩm kim hệ 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_11">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm kim hệ 7 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_12">
+			<Desc>Một đệ tử đã thôn phệ 5 loại vật phẩm kim hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_13">
+			<DisplayName>Thôn phệ vật phẩm mộc hệ</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ vật phẩm mộc hệ 21 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_14">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm mộc hệ 55 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_15">
+			<Desc>Một đệ tử đã thôn phệ 7 loại đan dược mộc hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_16">
+			<DisplayName>Thôn phệ vật phẩm thủy hệ</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ 5 vật phẩm thủy hệ cấp 2 trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_17">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm thủy hệ cấp 3 trở lên 16 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_18">
+			<Desc>Một đệ tử đã thôn phệ 7 loại đan dược thủy hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_19">
+			<DisplayName>Thôn phệ vật phẩm hỏa hệ</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ vật phẩm hỏa hệ 5 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_20">
+			<Desc>Một đệ tử đã thôn phệ vật phẩm hỏa hệ 16 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_21">
+			<Desc>Một đệ tử đã thôn phệ 7 loại vật phẩm hỏa hệ khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_22">
+			<DisplayName>Thôn phệ vật phẩm thổ hệ</DisplayName>
+			<Desc>Một đệ tử đã thôn phệ vật phẩm thổ hệ cấp 2 trở lên 10 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_23">
+			<Desc>Một đệ tử đã thôn phệ 30 vật phẩm thổ hệ cấp 3 trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_24">
+			<Desc>Một đệ tử nuốt 7 loại đan dược thổ tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_25">
+			<DisplayName>Thôn phệ vật phẩm vô tính</DisplayName>
+			<Desc>Một đệ tử nuốt vật phẩm vô tính 30 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_26">
+			<Desc>Một đệ tử nuốt vật phẩm vô tính 99 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Eat_27">
+			<Desc>Một đệ tử nuốt 4 loại vật phẩm vô tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_1">
+			<DisplayName>Ăn bất kỳ thứ gì thông thường</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt bất kỳ vật phẩm nào 500 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_2">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt bất kỳ vật phẩm nào 1.000 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_3">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 100 vật phẩm khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_4">
+			<DisplayName>Thôn phệ vật phẩm toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng ăn bất kỳ linh thực nào 400 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_5">
+			<DisplayName>Ăn uống toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng ăn bất kỳ linh thực nào 800 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_6">
+			<Desc>Một đệ tử ăn 12 loại linh thực khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_7">
+			<DisplayName>Thôn phệ vật phẩm kim tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm kim tính 30 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_8">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm kim tính 80 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_9">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 10 loại vật phẩm kim tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_10">
+			<DisplayName>Thôn phệ đan dược mộc tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt đan dược mộc tính 30 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_11">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt đan dược mộc tính 80 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_12">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 10 loại đan dược mộc tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_13">
+			<DisplayName>Thôn phệ đan dược thủy tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 30 viên đan dược thủy tính</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_14">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 80 viên đan dược thủy tính</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_15">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 10 loại đan dược thủy tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_16">
+			<DisplayName>Thôn phệ vật phẩm hỏa tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm hỏa tính 30 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_17">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm hỏa tính 80 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_18">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 10 loại vật phẩm hỏa tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_19">
+			<DisplayName>Thôn phệ đan dược thổ tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt đan dược thổ tính 30 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_20">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt đan dược thổ tính 80 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_21">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 10 loại vật phẩm thổ tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_22">
+			<DisplayName>Thôn phệ vật phẩm vô tính toàn tông môn</DisplayName>
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm vô tính 300 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_23">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt vật phẩm không có đặc điểm 800 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Eat_24">
+			<Desc>Đệ tử toàn tông môn tổng cộng nuốt 7 vật phẩm vô tính khác nhau</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_1">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một đệ tử hoàn thành luyện khí cơ bản</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_2">
+			<Desc>Một đệ tử đã ngưng kết Kim Đan</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_BrokenNeck_3">
+			<Desc>Một đệ tử đã đột phá lên cảnh giới Nguyên Anh</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_1">
+			<DisplayName>Đột phá cảnh giới tổng hợp</DisplayName>
+			<Desc>Có 3 đệ tử ngoại môn thành công thăng cấp thành đệ tử nội môn</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_2">
+			<Desc>Các đệ tử trong tông môn tổng cộng đã đột phá lên cảnh giới Kim Đan 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_BrokenNeck_3">
+			<Desc>Các đệ tử trong tông môn tổng cộng đã đột phá lên cảnh giới Nguyên Anh 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_1">
+			<DisplayName>Trò chuyện</DisplayName>
+			<Desc>Tông môn đã hoàn thành nhiệm vụ đối thoại với 10 sinh linh khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_2">
+			<Desc>Tông môn đã hoàn thành nhiệm vụ đối thoại với 20 sinh linh khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_JustTalkJH_3">
+			<Desc>Tông môn đã hoàn thành nhiệm vụ đối thoại với 30 sinh linh khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_1">
+			<DisplayName>Trò chuyện</DisplayName>
+			<Desc>Tông môn hoàn thành nhiệm vụ đối thoại với 3 sinh linh khác biệt và phá giải tâm phòng của họ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_2">
+			<Desc>Tông môn hoàn thành nhiệm vụ đối thoại với 8 sinh linh khác biệt và phá giải tâm phòng của họ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_UnlockJHHeart_3">
+			<Desc>Tông môn hoàn thành nhiệm vụ đối thoại với 24 sinh linh khác biệt và phá giải tâm phòng của họ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_1">
+			<DisplayName>Mời</DisplayName>
+			<Desc>Tông môn đã mời 3 người phàm đến thăm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_2">
+			<Desc>Tông môn đã mời 12 người phàm đến thăm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_3">
+			<Desc>Tông môn đã mời 3 tu sĩ cảnh giới Trúc Cơ trở lên đến thăm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_4">
+			<Desc>Tông môn đã mời 10 tu sĩ cảnh giới Kim Đan trở lên đến thăm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_InviteJH_5">
+			<Desc>Tông môn đã mời 1 tu sĩ cảnh giới Luyện Khí trở lên đến thăm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_1">
+			<DisplayName>Quà tặng</DisplayName>
+			<Desc>Tặng vật phẩm cho 3 tu sĩ khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_2">
+			<Desc>Tặng vật phẩm cho 12 tu sĩ khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SendGiftToJH_3">
+			<Desc>Tông môn tặng quà cho 36 tu sĩ khác biệt</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_1">
+			<DisplayName>Số lần tọa thiền của một đệ tử</DisplayName>
+			<Desc>Một đệ tử đã tích lũy tọa thiền được 3 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_2">
+			<Desc>Một đệ tử đã tích lũy tọa thiền được 12 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_3">
+			<Desc>Một đệ tử đã tích lũy tọa thiền được 36 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_4">
+			<DisplayName>Số lần tọa thiền đầy đủ của một đệ tử</DisplayName>
+			<Desc>Một đệ tử đã tọa thiền liên tục trong 12 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_5">
+			<Desc>Một đệ tử đã tọa thiền liên tục trong 30 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_DaZuo_6">
+			<Desc>Một đệ tử đã tọa thiền liên tục trong 30 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_1">
+			<DisplayName>Tọa thiền tích lũy của tông môn</DisplayName>
+			<Desc>Tông môn đã tích lũy tọa thiền được 30 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_2">
+			<Desc>Tông môn đã tích lũy tọa thiền được 120 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_DaZuo_3">
+			<Desc>Tông môn đã tích lũy tọa thiền được 360 ngày</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_1">
+			<DisplayName>Giấc ngủ cá nhân</DisplayName>
+			<Desc>Một đệ tử đã nghỉ ngơi đầy đủ trên giường 5 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_2">
+			<Desc>Một đệ tử đã nghỉ ngơi đầy đủ trên giường 20 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_4">
+			<Desc>Một đệ tử đã tích lũy ngủ dưới đất được 12 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_5">
+			<Desc>Một đệ tử đã tích lũy ngủ dưới đất được 36 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Sleep_6">
+			<Desc>Một đệ tử đã tích lũy ngủ dưới đất được 180 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_1">
+			<DisplayName>Giấc ngủ tích lũy của tông môn</DisplayName>
+			<Desc>Tông môn đã tích lũy thời gian nghỉ ngơi được 120 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Sleep_2">
+			<Desc>Tổng thời gian ngủ nghỉ của tông môn đạt 360 giờ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_1">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử bị tỏ tình 1 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_2">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử bị tỏ tình 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_3">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử tỏ tình người khác 1 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_4">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử tỏ tình người khác 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_5">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử tỏ tình 1 lần và thành công</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Love_6">
+			<DisplayName>Tình yêu</DisplayName>
+			<Desc>Một đệ tử được tỏ tình và chấp nhận tình cảm</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_1">
+			<DisplayName>Bị thương</DisplayName>
+			<Desc>Một đệ tử bị thương nhẹ 5 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_2">
+			<Desc>Một đệ tử bị thương nhẹ 10 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_3">
+			<Desc>Một đệ tử bị rạn xương 1 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_4">
+			<Desc>Một đệ tử bị rạn xương 3 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Damage_5">
+			<Desc>Một đệ tử bị thương tích xương cốt nghiêm trọng 1 lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_1">
+			<DisplayName>Danh tiếng tông môn</DisplayName>
+			<Desc>Điểm danh tiếng của tông môn vượt quá 5.000 điểm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_2">
+			<Desc>Điểm danh tiếng của tông môn vượt quá 20.000 điểm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_3">
+			<Desc>Điểm danh tiếng của tông môn vượt quá 180.000 điểm</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_4">
+			<Desc>Điểm danh tiếng của tông môn tăng 500 điểm trong một lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_5">
+			<Desc>Điểm danh tiếng của tông môn tăng 2.000 điểm trong một lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_SchoolScoreUp_6">
+			<Desc>Điểm danh tiếng của tông môn tăng 10.000 điểm trong một lần</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_1">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Một đệ tử tiêu diệt 10 mục tiêu bất kỳ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_2">
+			<Desc>Một đệ tử tiêu diệt 30 mục tiêu bất kỳ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_3">
+			<Desc>Một đệ tử tiêu diệt 3 tu sĩ cảnh giới Trúc Cơ</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_4">
+			<Desc>Một đệ tử tiêu diệt 5 tu sĩ cảnh giới Kim Đan</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_5">
+			<Desc>Một đệ tử tiêu diệt 15 mục tiêu từ cảnh giới Nguyên Anh trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_6">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Một đệ tử tiêu diệt 3 yêu thú</Desc>
+		</Text>
+		<Text Name="MutationCondition_One_Kill_7">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Một đệ tử tiêu diệt từ 5 yêu thú cảnh giới Kim Đan trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_1">
+			<Desc>Tông môn cùng nhau tiêu diệt 100 mục tiêu bất kỳ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_2">
+			<Desc>Tông môn cùng nhau tiêu diệt 300 mục tiêu bất kỳ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_3">
+			<Desc>Tông môn tiêu diệt 18 tu sĩ cảnh giới Trúc Cơ</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_4">
+			<Desc>Tông môn tiêu diệt 30 tu sĩ cảnh giới Kim Đan</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_5">
+			<Desc>Tông môn cùng nhau tiêu diệt 81 mục tiêu từ cảnh giới Nguyên Anh trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_6">
+			<Desc>Tông môn cùng nhau tiêu diệt 18 yêu thú</Desc>
+		</Text>
+		<Text Name="MutationCondition_All_Kill_7">
+			<Desc>Tông môn tiêu diệt 30 yêu thú từ cảnh giới Kim Đan trở lên</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_1">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 7 con thỏ, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_2">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 5 con sói, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_3">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 3 con gấu, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_4">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 7 con rùa nước, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_5">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 5 con hổ, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_6">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 5 con bò, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_7">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 7 con gà, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Kill_8">
+			<DisplayName>Tiêu diệt</DisplayName>
+			<Desc>Tiêu diệt 5 con rắn, lần tới nhân đôi</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_Sacrific_1">
+			<DisplayName>Tế hiến yêu thú</DisplayName>
+			<Desc>Việc tế hiến yêu thú bị xem là hành động khiêu khích cơn thịnh nộ của Yêu Thú Điện</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_SchoolLevelUp_1">
+			<DisplayName>Danh tiếng tông môn</DisplayName>
+			<Desc>Danh tiếng tông môn tăng lên một cấp</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_All_BrokenNeck_1">
+			<DisplayName>Đột phá cảnh giới tổng hợp</DisplayName>
+			<Desc>Một đệ tử trong tông môn đã thành công phi thăng</Desc>
+		</Text>
+		<Text Name="MutationCondition_Constant_One_Kill_1">
+			<Desc>Một đệ tử đã tiêu diệt tu sĩ cảnh giới Kim Đan hoặc cao hơn</Desc>
+		</Text>
+	</List>
+</Texts>

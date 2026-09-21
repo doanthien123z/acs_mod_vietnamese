@@ -1,0 +1,67 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TrousersBase" sParam="Item">
+			<Item.FabaoSuffix>Y phục, giáp trụ, áo choàng, y phục</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerTrousers" sParam="Item">
+			<ThingName>Mỏng quần</ThingName>
+			<Desc>Y phục thoáng khí, nhưng khả năng chống lạnh rất kém.</Desc>
+		</Text>
+		<Text Name="Item_SilkTrousers" sParam="Item">
+			<ThingName>Hạ khố</ThingName>
+			<Desc>Y phục mang lại cảm giác tươi mát, thư thái, mặc vào vô cùng dễ chịu.</Desc>
+		</Text>
+		<Text Name="Item_PracticeTrousers" sParam="Item">
+			<ThingName>Tông phục hạ y</ThingName>
+			<Desc>Đồng phục tiêu chuẩn của tông môn, giữ ấm tốt nhưng mặc vào hơi nóng và khó chịu.</Desc>
+		</Text>
+		<Text Name="Item_FormalTrousers" sParam="Item">
+			<ThingName>Thường khố</ThingName>
+			<Desc>Y phục thường ngày, giúp cơ thể giữ ấm nhưng khả năng thông khí không mấy tốt lắm.</Desc>
+		</Text>
+		<Text Name="Item_WinterTrousers" sParam="Item">
+			<ThingName>Đông khố</ThingName>
+			<Desc>Y phục dày và bền, giúp tăng cường sự ấm áp cho cơ thể một cách trọn vẹn.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers1" sParam="Item">
+			<ThingName>Long lân khố</ThingName>
+			<Desc>Y phục thần kỳ được luyện thành từ long lân, có khả năng nâng cao kỹ năng hộ thể chân khí cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers2" sParam="Item">
+			<ThingName>Dạ hành khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ những sợi tơ ẩn chứa thuần âm linh khí, có khả năng nâng cao kỹ năng pháp thuật cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers3" sParam="Item">
+			<ThingName>Liễm quang khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ những sợi tơ ẩn chứa thuần dương linh khí, có khả năng nâng cao kỹ năng pháp bảo cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers4" sParam="Item">
+			<ThingName>Phi thiên khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt bằng phương pháp bí truyền nghịch thiên, có khả năng giảm đạo chủng cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers5" sParam="Item">
+			<ThingName>Vũ y khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ lông của thiên điểu có uy năng trừ tà tẩy uế, có khả năng nâng cao tâm cảnh bằng cách tiêu trừ tâm ma cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers6" sParam="Item">
+			<ThingName>Hoàng kim khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ những sợi tơ ẩn chứa thuần dương linh khí, có khả năng nâng cao kỹ năng pháp bảo cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers7" sParam="Item">
+			<ThingName>Hỏa dục khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ lông của hỏa thử địa ngục, có khả năng nâng cao kỹ năng hộ thể chân khí và giảm sát thương hỏa tính cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers8" sParam="Item">
+			<ThingName>Hải hành khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt bằng phương pháp bí truyền nghịch thiên, có khả năng giảm đạo chủng cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers9" sParam="Item">
+			<ThingName>Ảnh hồn khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ những sợi tơ ẩn chứa thuần âm linh khí, có khả năng nâng cao kỹ năng pháp thuật cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+		<Text Name="Item_SP_Trousers10" sParam="Item">
+			<ThingName>Vân ngọc khố</ThingName>
+			<Desc>Y phục thần kỳ được dệt từ lông của thiên điểu có uy năng trừ tà tẩy uế, có khả năng nâng cao tâm cảnh bằng cách tiêu trừ tâm ma cho người mặc, hơn nữa còn giúp người mặc có năng lực ngự phong đạp vân, vô cùng thần kỳ.</Desc>
+		</Text>
+	</List>
+</Texts>

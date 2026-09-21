@@ -1,0 +1,37 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_4_None">
+			<DisplayName>Vô Cấu Ngọc Tiên Công</DisplayName>
+			<Desc>Công pháp tu luyện do Vô Cấu Ngọc Tiên sáng tạo ra. Đây là công pháp tu luyện được truyền đời qua nhiều thế hệ của Côn Lôn Sơn. Tương truyền nội dung bên trong bao gồm vô số đạo nguyên thủy, nên nội dung được chia thành 6 cảnh giới và 12 cửa ải. Bất kỳ tu sĩ nào tu luyện đến cốt lõi của công pháp sẽ nhận được chân khí vô cùng thâm sâu và mạnh mẽ. Tuy nhiên, người thích hợp tu luyện môn này phải có ngộ tính và cơ duyên cao hơn người thường rất nhiều.</Desc>
+			<SelectDesc>Công pháp này nổi bật với các kỹ năng chân khí đa dạng và mạnh mẽ. Tuy nhiên, việc phá cảnh qua mỗi cảnh giới lại khó khăn hơn các công pháp luyện khí khác không ít. Người có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Nền tảng chân khí</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tâm Môn</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có cơ duyên thấp[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Nội kình chi môn</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có cơ duyên thấp[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Ngưng tụ chân khí</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Linh khí chi môn</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có ngộ tính thấp[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Hắc sắc chi môn</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có cơ duyên thấp[/color]</Stages.1.Necks.1.Desc>
+			<Stages.2.DisplayName>Ngưng tụ chân đan</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Xích sắc chi môn</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có ngộ tính thấp[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Linh nguyên chi môn</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Dung Hợp</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Kim sắc chi môn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Thủy chi môn</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Mộc chi môn</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.3.DisplayName>Hỏa chi môn</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.4.DisplayName>Thổ chi môn</Stages.3.Necks.4.DisplayName>
+			<Stages.3.Necks.5.DisplayName>Huyễn mộng chi môn</Stages.3.Necks.5.DisplayName>
+			<Stages.4.DisplayName>Biến hóa</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Vạn tượng chi môn</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Biến hóa chi môn</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>Thiên kiếp</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Tử vong chi môn</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Bằng cách dung hợp nguyên thần của chính mình với thiên đạo, người đó sẽ phải đối mặt trực tiếp với sự phẫn nộ của thiên địa.[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Sinh mệnh chi môn</Stages.5.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

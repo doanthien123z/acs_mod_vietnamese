@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long_Test">
+			<DisplayName>Thủy Long</DisplayName>
+			<FightParts.0.DisplayName>Thân thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Đuôi</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Hắn</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Vuốt trước trái</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Vuốt trước phải</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Vuốt sau trái</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Vuốt sau phải</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Nghịch lân</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng_Test">
+			<DisplayName>Hỏa Phượng</DisplayName>
+			<FightParts.0.DisplayName>Thân thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Mào phượng</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Cánh trái</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Cánh phải</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Lông đuôi</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Thái Dương Nhãn</FightParts.5.DisplayName>
+		</Text>
+	</List>
+</Texts>

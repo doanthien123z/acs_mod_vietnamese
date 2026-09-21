@@ -1,0 +1,7 @@
+General Term Infix,Phòng Thỏ, Mã Tinh, Sao Liễu, Hư Thử, Tâm Hồ, Lộc Thổ, Dực Súc, Thôn Nguy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Metal Term,Bạch Hổ, Ưng Lôi, Long Tiễn, Dương Hồn, Khuyển Hả, Kim Ngưu,,,,,,,,,,,
+Wood Term,Ngọc Long, Dực Cú, Cước Lang, Mộc Long Giác, Lạp Khuyển, Yêu Đằng,,,,,,,,,,,
+Water Term,Huyền Vũ, Độc Xà, Tuyết Báo, Tinh Dẫn, Thủy Ba Viên, Nhuyễn Giáp,,,,,,,,,,,
+Fire Term,Phượng Hoàng, Hỏa Điểu, Hổ Vĩ, Xà Dực, Hầu Chủy, Trư Cố Thủ,,,,,,,,,,,
+Earth Term,Kỳ Lân, Địa Long, Nham Hầu Vĩ, Địa Lộc, Trĩ Kê, Dạ Miết,,,,,,,,,,,
+Chaos Term Infix,Thiên Địa Hoàng Đế

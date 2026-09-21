@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cattle_1">
+			<Prefix>Xương Ức</Prefix>
+			<Suffix>Tứ Thủ Hộ</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Ngưu, tôi luyện dạ dày bằng năng lượng Kim, Mộc, Thủy, Hỏa, giúp thần thể có khả năng tiêu hóa mọi thứ một cách kỳ diệu</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh cấp độ tối đa của vật phẩm mà người tu luyện Bất Diệt Thể có thể nuốt\n Tăng mạnh tỷ lệ nhận được Tinh Phách khi nuốt vật phẩm\n Tăng mạnh số lượng Tinh Phách nhận được khi nuốt vật phẩm\n Tăng mạnh tiền thưởng tiêu thụ thức ăn của người tu luyện Bất Diệt Thể\n Tăng mạnh tỷ lệ nhận được Thể Lực của người tu luyện Bất Diệt Thể\n Đại幅 tăng sự thèm ăn của người tu luyện thể tu bất tử.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cattle_2">
+			<Prefix>Hắn</Prefix>
+			<Suffix>Phá Tinh</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Ngưu, thần thể cấp cao nhất, có sức mạnh thu hút tinh tú và phá hủy mọi thứ ngáng đường</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>

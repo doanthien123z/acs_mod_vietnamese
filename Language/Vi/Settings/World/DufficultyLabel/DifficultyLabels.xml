@@ -1,0 +1,157 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MapSize">
+			<DisplayName>Kích thước bản đồ</DisplayName>
+			<Values.0.Name>Nhỏ</Values.0.Name>
+			<Values.0.Desc>Kích thước bản đồ: 96x96</Values.0.Desc>
+			<Values.1.Name>Trung</Values.1.Name>
+			<Values.1.Desc>Kích thước bản đồ: 128x128</Values.1.Desc>
+			<Values.2.Name>Lớn</Values.2.Name>
+			<Values.2.Desc>Kích thước bản đồ: 196x196</Values.2.Desc>
+		</Text>
+		<Text Name="ThunderAddion">
+			<DisplayName>Độ khó thiên kiếp</DisplayName>
+			<Desc>Độ khó của Thiên kiếp</Desc>
+			<Values.0.Name>Rất thấp</Values.0.Name>
+			<Values.0.Desc>0.25x Độ khó thiên kiếp</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>0.7x Độ khó thiên kiếp</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Độ khó thiên kiếp</Values.2.Desc>
+			<Values.3.Name>Cao</Values.3.Name>
+			<Values.3.Desc>1.2x Độ khó thiên kiếp</Values.3.Desc>
+			<Values.4.Name>Cực cao</Values.4.Name>
+			<Values.4.Desc>1.4x Độ khó thiên kiếp</Values.4.Desc>
+		</Text>
+		<Text Name="FightDifficultCoefficient">
+			<DisplayName>Độ khó chiến đấu</DisplayName>
+			<Desc>Độ khó của tu sĩ, yêu thú, cổ thú, tu sĩ viễn cổ và tông môn</Desc>
+			<Values.0.Name>Rất thấp</Values.0.Name>
+			<Values.0.Desc>0.33x Độ khó chiến đấu</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>0.67x Độ khó chiến đấu</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Độ khó chiến đấu</Values.2.Desc>
+			<Values.3.Name>Cao</Values.3.Name>
+			<Values.3.Desc>1.33x Độ khó chiến đấu</Values.3.Desc>
+			<Values.4.Name>Cực cao</Values.4.Name>
+			<Values.4.Desc>1.67x Độ khó chiến đấu</Values.4.Desc>
+		</Text>
+		<Text Name="LiveDifficulty">
+			<DisplayName>Độ khó sinh tồn</DisplayName>
+			<Desc>Tốc độ sinh trưởng và sản lượng thu hoạch linh thảo</Desc>
+			<Values.0.Name>Rất thấp</Values.0.Name>
+			<Values.0.Desc>2x Tốc độ sinh trưởng linh thảo 2x Sản lượng thu hoạch</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>1.5x Tốc độ sinh trưởng linh thảo 1.5x Sản lượng thu hoạch</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Tốc độ sinh trưởng linh thảo 1x Sản lượng thu hoạch</Values.2.Desc>
+		</Text>
+		<Text Name="BaseMood">
+			<DisplayName>Tâm trạng cơ bản</DisplayName>
+			<Desc>Chỉ số tâm trạng cơ bản của nhân vật khi ở trạng thái bình thường</Desc>
+			<Values.0.Name>Cực cao</Values.0.Name>
+			<Values.0.Desc>2x Tâm trạng cơ bản</Values.0.Desc>
+			<Values.1.Name>Cao</Values.1.Name>
+			<Values.1.Desc>1.5x Tâm trạng cơ bản</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Tâm trạng cơ bản</Values.2.Desc>
+		</Text>
+		<Text Name="WorkAddp">
+			<DisplayName>Hiệu suất làm việc cơ bản</DisplayName>
+			<Desc>Tốc độ làm việc chung của nhân vật</Desc>
+			<Values.0.Name>Rất nhanh</Values.0.Name>
+			<Values.0.Desc>2x Hiệu suất làm việc</Values.0.Desc>
+			<Values.1.Name>Nhanh</Values.1.Name>
+			<Values.1.Desc>1.5x Hiệu suất làm việc</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Hiệu suất làm việc</Values.2.Desc>
+		</Text>
+		<Text Name="PracticeAddp">
+			<DisplayName>Tốc độ tu luyện</DisplayName>
+			<Desc>Tốc độ hấp thụ linh khí tu luyện của nhân vật</Desc>
+			<Values.0.Name>Rất nhanh</Values.0.Name>
+			<Values.0.Desc>2x Tốc độ tu luyện</Values.0.Desc>
+			<Values.1.Name>Nhanh</Values.1.Name>
+			<Values.1.Desc>1.5x Tốc độ tu luyện</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Tốc độ tu luyện</Values.2.Desc>
+		</Text>
+		<Text Name="MapExploringAddp">
+			<DisplayName>Tốc độ phi hành thám hiểm</DisplayName>
+			<Desc>Tốc độ nhân vật hoàn thành thám hiểm</Desc>
+			<Values.0.Name>Rất nhanh</Values.0.Name>
+			<Values.0.Desc>2x Tốc độ thám hiểm</Values.0.Desc>
+			<Values.1.Name>Nhanh</Values.1.Name>
+			<Values.1.Desc>1.5x Tốc độ thám hiểm</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Tốc độ thám hiểm</Values.2.Desc>
+		</Text>
+		<Text Name="TreeExpAddtion">
+			<DisplayName>Điểm Ngộ tính</DisplayName>
+			<Desc>Điểm Ngộ tính tiêu hao khi nhân vật học các loại công pháp</Desc>
+			<Values.0.Name>Rất thấp</Values.0.Name>
+			<Values.0.Desc>0.5x Điểm Ngộ tính</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>0.75x Điểm Ngộ tính</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>1x Điểm Ngộ tính</Values.2.Desc>
+		</Text>
+		<Text Name="AverageTimePerEvent">
+			<DisplayName>Khoảng cách sự kiện</DisplayName>
+			<Desc>Khoảng cách thời gian giữa các sự kiện</Desc>
+			<Values.0.Name>Rất lâu</Values.0.Name>
+			<Values.0.Desc>Trung bình cứ 3 ngày sẽ xảy ra một sự kiện</Values.0.Desc>
+			<Values.1.Name>Lâu</Values.1.Name>
+			<Values.1.Desc>Trung bình cứ 2.5 ngày sẽ xảy ra một sự kiện</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Trung bình cứ 2 ngày sẽ xảy ra một sự kiện</Values.2.Desc>
+			<Values.3.Name>Ngắn</Values.3.Name>
+			<Values.3.Desc>Trung bình cứ 1.5 ngày sẽ xảy ra một sự kiện</Values.3.Desc>
+			<Values.4.Name>Rất ngắn</Values.4.Name>
+			<Values.4.Desc>Trung bình cứ 1 ngày sẽ xảy ra một sự kiện</Values.4.Desc>
+		</Text>
+		<Text Name="DoubleRate">
+			<DisplayName>Sự kiện chồng lấn 2 tầng</DisplayName>
+			<Desc>Dù đã có một sự kiện xảy ra, vẫn có cơ hội xuất hiện sự kiện khác chồng lên</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Không xảy ra sự kiện chồng lấn</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>Có 10% cơ hội xảy ra 2 sự kiện chồng lấn</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Có 20% cơ hội xảy ra 2 sự kiện chồng lấn</Values.2.Desc>
+			<Values.3.Name>Cao</Values.3.Name>
+			<Values.3.Desc>Có 30% cơ hội xảy ra 2 sự kiện chồng lấn</Values.3.Desc>
+			<Values.4.Name>Cực cao</Values.4.Name>
+			<Values.4.Desc>Có 40% cơ hội xảy ra 2 sự kiện chồng lấn</Values.4.Desc>
+		</Text>
+		<Text Name="TripleRate">
+			<DisplayName>Tam trọng sự kiện</DisplayName>
+			<Desc>Mặc dù một sự kiện đã xảy ra, nhưng vẫn có cơ hội phát sinh thêm 2 sự kiện khác chồng chất lên.</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không xuất hiện 3 sự kiện đồng thời</Values.0.Desc>
+			<Values.1.Name>Thấp</Values.1.Name>
+			<Values.1.Desc>Có 5% cơ hội xuất hiện 3 sự kiện đồng thời</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Có 10% cơ hội xuất hiện 3 sự kiện đồng thời</Values.2.Desc>
+			<Values.3.Name>Cao</Values.3.Name>
+			<Values.3.Desc>Có 15% cơ hội xuất hiện 3 sự kiện đồng thời</Values.3.Desc>
+			<Values.4.Name>Cực cao</Values.4.Name>
+			<Values.4.Desc>Có 20% cơ hội xuất hiện 3 sự kiện đồng thời</Values.4.Desc>
+		</Text>
+		<Text Name="BlankWeight">
+			<DisplayName>Không có sự kiện</DisplayName>
+			<Desc>Khi một sự kiện xảy ra, có khả năng sự kiện này sẽ không tái diễn</Desc>
+			<Values.0.Name>Cực cao</Values.0.Name>
+			<Values.0.Desc>Có 60% cơ hội sự kiện không tái diễn</Values.0.Desc>
+			<Values.1.Name>Cao</Values.1.Name>
+			<Values.1.Desc>Có 45% cơ hội sự kiện không tái diễn</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Có 30% cơ hội sự kiện không tái diễn</Values.2.Desc>
+			<Values.3.Name>Thấp</Values.3.Name>
+			<Values.3.Desc>Có 15% cơ hội sự kiện không tái diễn</Values.3.Desc>
+			<Values.4.Name>Không</Values.4.Name>
+			<Values.4.Desc>Sự kiện có thể xảy ra liên tục</Values.4.Desc>
+		</Text>
+	</List>
+</Texts>

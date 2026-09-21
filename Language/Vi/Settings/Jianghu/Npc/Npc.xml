@@ -1,0 +1,108 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Npc_QiXia_1">
+			<LastName>Can</LastName>
+			<FristName>Minh</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_2">
+			<LastName>Nguyệt</LastName>
+			<FristName>Thanh Sầu</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_3">
+			<LastName>Lâm</LastName>
+			<FristName>Tư Nguyên</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_4">
+			<LastName>Ninh</LastName>
+			<FristName>Tiêu</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_1">
+			<LastName>Ba</LastName>
+			<FristName>Hàn</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_2">
+			<LastName>Thích Điêu</LastName>
+			<FristName>Châu</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_3">
+			<LastName>Bạch</LastName>
+			<FristName>Sư</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_1">
+			<LastName>Thỉ</LastName>
+			<FristName>Đoạn Thu</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_2">
+			<LastName>Du</LastName>
+			<FristName>Mặc Lan</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_1">
+			<LastName>Thanh</LastName>
+			<FristName>Ngọc Lan</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_2">
+			<LastName>Âm</LastName>
+			<FristName>Liên</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_1">
+			<LastName>Chung Ly</LastName>
+			<FristName>Đức</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_2">
+			<LastName>Chu</LastName>
+			<FristName>Phi</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_1">
+			<LastName>Thần Đồ</LastName>
+			<FristName>Tây</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_2">
+			<LastName>Tân</LastName>
+			<FristName>Kỳ</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_3">
+			<LastName>Tần</LastName>
+			<FristName>Kiệt</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_1">
+			<LastName>Lý</LastName>
+			<FristName>Tôn Bố</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_2">
+			<LastName>Diệp</LastName>
+			<FristName>Bạch Tuyết</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_1">
+			<LastName>Ký</LastName>
+			<FristName>Kiệt</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_2">
+			<LastName>Lý</LastName>
+			<FristName>Vệ Ngôn</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_3">
+			<LastName>Cổ</LastName>
+			<FristName>Không</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_1">
+			<LastName>Tô</LastName>
+			<FristName>Băng Loạn</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_2">
+			<LastName>Tạ</LastName>
+			<FristName>Sư</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_3">
+			<LastName>Hạo</LastName>
+			<FristName>Li</FristName>
+		</Text>
+		<Text Name="Npc_JiTian_1">
+			<LastName>He</LastName>
+			<FristName>Su Dao</FristName>
+		</Text>
+		<Text Name="Npc_Shu_1">
+			<LastName>Anh</LastName>
+			<FristName>Dương</FristName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,30 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_8_Jin">
+			<DisplayName>Đại Nhật Kim Kiếm Trảm Tinh Công</DisplayName>
+			<Desc>Một trong ngũ đại công pháp quy luật chân chính của Thái Ất Tông, hấp thu linh khí thuộc tính kim từ các vì sao để tu luyện pháp bảo. Khi người tu luyện có thể lĩnh hội đến cốt lõi của nó, sẽ khiến cho người tu luyện có được sức mạnh vô song trong chiến đấu.</Desc>
+			<SelectDesc>Công pháp này nổi bật ở việc sử dụng pháp bảo uy lực mạnh mẽ để tấn công kẻ địch, thế nhưng người tu luyện sẽ phải tốn rất nhiều thời gian để tu luyện ở mỗi tầng. Ngươi có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Thiên Hạch</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Thiên Hạch</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Thiên Ngọc</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thiên Ngọc</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Thiên Châu</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Thiên Châu</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Thiên Huy</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Huy</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Thiên Xứng</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Thiên Xứng</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Thiên Minh</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Mở rộng biên giới</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.1.DisplayName>Thiên Minh</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>Bằng cách dung hợp nguyên thần của chính mình với thiên đạo, người đó sẽ phải đối mặt trực tiếp với sự phẫn nộ của thiên địa.</Stages.5.Necks.1.Desc>
+			<Stages.6.DisplayName>Thiên Quang</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Thiên Quang</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>Vứt bỏ thể xác, phi thăng tiên giới.</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>Phong ấn pháp bảo</DisplayName>
+			<Desc>Dưới tiếng rồng ngâm, khiến cho pháp bảo bị phong ấn và không thể sử dụng</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>Phong ấn linh khí</DisplayName>
+			<Desc>Dưới tiếng hỏa diễm của Hắc Viêm Phượng, khiến cho linh khí bị phong ấn và không thể sử dụng</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>Mê mang</DisplayName>
+			<Desc>Mê mang</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>Kỹ thuật tu luyện đặc biệt thông thường</DisplayName>
+			<Desc>Kỹ thuật tu luyện đặc biệt thông thường</Desc>
+		</Text>
+	</List>
+</Texts>

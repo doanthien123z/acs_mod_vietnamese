@@ -1,0 +1,57 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mood_Sys_Lost">
+			<DisplayName>[Trống rỗng]</DisplayName>
+			<Desc>Trống rỗng</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_Disappointment">
+			<DisplayName>Thất vọng về phân hội trưởng</DisplayName>
+			<Desc>Nếu một kẻ như thế này mà cũng có thể làm phân hội trưởng ư? Vậy ta đoán ngay cả khỉ cũng có thể làm phân hội trưởng được đấy...</Desc>
+			<StoryDesc>Cảm thấy bực bội khó chịu khi có một phân hội trưởng đáng thất vọng thế này</StoryDesc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen1">
+			<DisplayName>Tông chủ mới</DisplayName>
+			<Desc>Ta cảm thấy vô cùng vinh hạnh khi Người [TXT] Đã bước lên làm tông chủ của chúng ta!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen2">
+			<DisplayName>Tông chủ mới</DisplayName>
+			<Desc>[TXT] Đã bước lên làm tông chủ mới ư? Á, đời ta tiêu đời chắc rồi!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen3">
+			<DisplayName>Bị trục xuất</DisplayName>
+			<Desc>Ta vẫn cho rằng dù thế nào đi nữa, ta vẫn là kẻ thích hợp nhất với vị trí tông chủ...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen4">
+			<DisplayName>Tông chủ từ nhiệm</DisplayName>
+			<Desc>Thật đáng tiếc khi Người [TXT] Đó sẽ không còn là tông chủ của chúng ta nữa!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_ZhangMen5">
+			<DisplayName>Tông chủ từ nhiệm</DisplayName>
+			<Desc>[TXT] Từ bỏ vị trí tông chủ ư! Oa, đây đúng là tin vui thật sự!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu0">
+			<DisplayName>Trở thành phân hội trưởng</DisplayName>
+			<Desc>Ta đã trở thành phân hội trưởng rồi... Ta phải cố gắng hết sức để xứng đáng với vị trí này!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu1">
+			<DisplayName>Phân hội trưởng mới</DisplayName>
+			<Desc>Ta cảm thấy vô cùng vinh hạnh khi Người [TXT] Đã bước lên làm phân hội trưởng!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu2">
+			<DisplayName>Phân hội trưởng mới</DisplayName>
+			<Desc>Nếu một kẻ như [TXT] Mà có thể lên làm phân hội trưởng, ta thấy chó mèo gà lợn cũng có thể làm phân hội trưởng được đấy</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu3">
+			<DisplayName>Bị trục xuất</DisplayName>
+			<Desc>Ta cảm thấy bản thân có thể làm rất tốt ở vị trí phân hội trưởng... Ta đã cống hiến hết mình cho tông môn, thật đáng tiếc làm sao...</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu4">
+			<DisplayName>Phân hội trưởng từ nhiệm</DisplayName>
+			<Desc>Ta không thể tin nổi là Người [TXT] Đã bị cách chức phân hội trưởng, thật là đau lòng biết bao!</Desc>
+		</Text>
+		<Text Name="Mood_Sys_School_TangZhu5">
+			<DisplayName>Phân hội trưởng từ nhiệm</DisplayName>
+			<Desc>Cuối cùng, [TXT] Cũng không còn là phân hội trưởng nữa rồi, ha ha ha!</Desc>
+		</Text>
+	</List>
+</Texts>

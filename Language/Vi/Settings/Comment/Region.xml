@@ -1,0 +1,136 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="AgentConstructionHeYin">
+			<Title>Bổ nhiệm đại diện tông môn - Hồi Thủy Thành</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Hồi Thủy Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementHeYin">
+			<Title>Quản lý đại diện tông môn - Hồi Thủy Thành</Title>
+			<Desc>Quản lý đại diện tông môn - Hồi Thủy Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementHeYin">
+			<Title>Quản lý độ tín ngưỡng - Hồi Thủy Thành</Title>
+			<Desc>Quản lý độ tín ngưỡng - Hồi Thủy Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionGuanHai">
+			<Title>Bổ nhiệm đại diện tông môn - Hải Cảnh Thành</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Hải Cảnh Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementGuanHai">
+			<Title>Quản lý đại diện tông môn - Hải Cảnh Thành</Title>
+			<Desc>Quản lý đại diện tông môn - Hải Cảnh Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementGuanhai">
+			<Title>Quản lý độ tín ngưỡng - Hải Cảnh Thành</Title>
+			<Desc>Quản lý độ tín ngưỡng - Hải Cảnh Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionPanShe">
+			<Title>Bổ nhiệm đại diện tông môn - Xà Vĩ Thôn</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Xà Vĩ Thôn</Desc>
+		</Text>
+		<Text Name="AgentManagementPanShe">
+			<Title>Quản lý đại diện tông môn - Xà Vĩ Thôn</Title>
+			<Desc>Quản lý đại diện tông môn - Xà Vĩ Thôn</Desc>
+		</Text>
+		<Text Name="BeliefManagementPanShe">
+			<Title>Quản lý độ tín ngưỡng - Xà Vĩ Thôn</Title>
+			<Desc>Quản lý độ tín ngưỡng - Xà Vĩ Thôn</Desc>
+		</Text>
+		<Text Name="AgentConstructionFeng">
+			<Title>Bổ nhiệm đại diện tông môn - Đại Phú Thành</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Đại Phú Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementFeng">
+			<Title>Quản lý đại diện tông môn - Đại Phú Thành</Title>
+			<Desc>Quản lý đại diện tông môn - Đại Phú Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementFeng">
+			<Title>Quản lý độ tín ngưỡng - Đại Phú Thành</Title>
+			<Desc>Quản lý độ tín ngưỡng - Đại Phú Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaLiang">
+			<Title>Bổ nhiệm đại diện tông môn - Đại Lương Thành</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Đại Lương Thành</Desc>
+		</Text>
+		<Text Name="AgentManagementDaLiang">
+			<Title>Quản lý đại diện tông môn - Đại Lương Thành</Title>
+			<Desc>Quản lý đại diện tông môn - Đại Lương Thành</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaLiang">
+			<Title>Quản lý độ tín ngưỡng - Đại Lương Thành</Title>
+			<Desc>Quản lý độ tín ngưỡng - Đại Lương Thành</Desc>
+		</Text>
+		<Text Name="AgentConstructionZhongYuan">
+			<Title>Bổ nhiệm đại diện tông môn - Trung Nguyên</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Trung Nguyên</Desc>
+		</Text>
+		<Text Name="AgentManagementZhongYuan">
+			<Title>Quản lý đại diện tông môn - Trung Nguyên</Title>
+			<Desc>Quản lý đại diện tông môn - Trung Nguyên</Desc>
+		</Text>
+		<Text Name="BeliefManagementZhongYuan">
+			<Title>Quản lý độ tín ngưỡng - Trung Nguyên</Title>
+			<Desc>Quản lý độ tín ngưỡng - Trung Nguyên</Desc>
+		</Text>
+		<Text Name="AgentConstructionJiangAnWoYe">
+			<Title>Bổ nhiệm đại diện tông môn - Hồi Thủy Bình Nguyên</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Hồi Thủy Bình Nguyên</Desc>
+		</Text>
+		<Text Name="AgentManagementJiangAnWoYe">
+			<Title>Quản lý đại diện tông môn - Hồi Thủy Bình Nguyên</Title>
+			<Desc>Quản lý đại diện tông môn - Hồi Thủy Bình Nguyên</Desc>
+		</Text>
+		<Text Name="BeliefManagementJiangAnWoYe">
+			<Title>Quản lý độ tín ngưỡng - Hồi Thủy Bình Nguyên</Title>
+			<Desc>Quản lý độ tín ngưỡng - Hồi Thủy Bình Nguyên</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaXueYuan">
+			<Title>Bổ nhiệm đại diện tông môn - Vĩnh Hằng Tuyết Vực</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Vĩnh Hằng Tuyết Vực</Desc>
+		</Text>
+		<Text Name="AgentManagementDaXueYuan">
+			<Title>Quản lý đại diện tông môn - Vĩnh Hằng Tuyết Vực</Title>
+			<Desc>Quản lý đại diện tông môn - Vĩnh Hằng Tuyết Vực</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaXueYuan">
+			<Title>Quản lý độ tín ngưỡng - Vĩnh Hằng Tuyết Vực</Title>
+			<Desc>Quản lý độ tín ngưỡng - Vĩnh Hằng Tuyết Vực</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaMo">
+			<Title>Bổ nhiệm đại diện tông môn - Vô Tận Sa Mạc</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Vô Tận Sa Mạc</Desc>
+		</Text>
+		<Text Name="AgentManagementDaMo">
+			<Title>Quản lý đại diện tông môn - Vô Tận Sa Mạc</Title>
+			<Desc>Quản lý đại diện tông môn - Vô Tận Sa Mạc</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaMo">
+			<Title>Quản lý độ tín ngưỡng - Vô Tận Sa Mạc</Title>
+			<Desc>Quản lý độ tín ngưỡng - Vô Tận Sa Mạc</Desc>
+		</Text>
+		<Text Name="AgentConstructionNanHuang">
+			<Title>Bổ nhiệm đại diện tông môn - Nam Câm Sâm Lâm</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Nam Câm Sâm Lâm</Desc>
+		</Text>
+		<Text Name="AgentManagementNanHuang">
+			<Title>Quản lý đại diện tông môn - Nam Câm Sâm Lâm</Title>
+			<Desc>Quản lý đại diện tông môn - Nam Câm Sâm Lâm</Desc>
+		</Text>
+		<Text Name="BeliefManagementNanHuang">
+			<Title>Quản lý độ tín ngưỡng - Nam Câm Sâm Lâm</Title>
+			<Desc>Quản lý độ tín ngưỡng - Nam Câm Sâm Lâm</Desc>
+		</Text>
+		<Text Name="AgentConstructionOurPlace">
+			<Title>Bổ nhiệm đại diện tông môn - Nam Câm Sơn</Title>
+			<Desc>Bổ nhiệm đại diện tông môn - Nam Câm Sơn</Desc>
+		</Text>
+		<Text Name="AgentManagementOurPlace">
+			<Title>Quản lý đại diện tông môn - Nam Câm Sơn</Title>
+			<Desc>Quản lý đại diện tông môn - Nam Câm Sơn</Desc>
+		</Text>
+		<Text Name="BeliefManagementOurPlace">
+			<Title>Quản lý độ tín ngưỡng - Nam Câm Sơn</Title>
+			<Desc>Quản lý độ tín ngưỡng - Nam Câm Sơn</Desc>
+		</Text>
+	</List>
+</Texts>

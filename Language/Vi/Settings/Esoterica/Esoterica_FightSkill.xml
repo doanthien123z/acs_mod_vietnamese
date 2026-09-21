@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FightSkillEsoterica_1">
+			<DisplayName>Chưởng phong</DisplayName>
+			<Desc>Công pháp cơ bản mà người tu luyện thường hay rèn luyện. Nó là việc ngưng tụ chân khí vào lòng bàn tay và phóng thích nó về phía mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận pháp thuật: Chưởng phong[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_2">
+			<DisplayName>Hỏa bão</DisplayName>
+			<Desc>Ngưng tụ tâm ý hỏa diệm giữa trời đất để thiêu rụi mục tiêu thành tro bụi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận pháp thuật: Hỏa bão[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_3">
+			<DisplayName>Thiên Lôi</DisplayName>
+			<Desc>Ngưng tụ tinh hoa kim hệ giữa trời đất, triệu hồi thiên lôi giáng xuống kẻ địch.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Thiên Lôi[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_4">
+			<DisplayName>Phá Linh</DisplayName>
+			<Desc>Phóng ra ánh sáng thần thánh với tốc độ kinh người để hủy diệt linh hồn của mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Phá Linh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong1_1">
+			<DisplayName>Thiên Hà</DisplayName>
+			<Desc>Vận dụng sức mạnh dòng chảy cổ xưa giữa trời đất để hồi phục chân khí cho toàn bộ đồng đội.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Thiên Hà[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong3_1">
+			<DisplayName>Kiếm Âm Vang</DisplayName>
+			<Desc>Dùng tâm ý bản thân cộng hưởng với pháp bảo, giúp tăng mạnh uy lực của pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Kiếm Âm Vang[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_1">
+			<DisplayName>Hỗn Độn Hư Vô</DisplayName>
+			<Desc>Kích hoạt sức mạnh hỗn độn để mở ra cánh cổng hư vô, gây sát thương cực lớn lên toàn bộ kẻ địch.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Hỗn Độn Hư Vô[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_2">
+			<DisplayName>Linh Giáp</DisplayName>
+			<Desc>Gia tăng hộ thể chân khí cho toàn bộ đồng đội.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Linh Giáp[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_3">
+			<DisplayName>Hồi Khí Thuật</DisplayName>
+			<Desc>Dẫn dắt sức mạnh của rừng xanh để hồi phục chân khí cho chính mình.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Hồi Khí Thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong9_1">
+			<DisplayName>Nghịch Chuyển Luân Hồi</DisplayName>
+			<Desc>Sử dụng quy tắc sinh tử để hồi phục lượng lớn chân khí cho bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được pháp thuật: Nghịch Chuyển Luân Hồi[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

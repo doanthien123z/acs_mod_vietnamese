@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_XuanWuShield">
+			<DisplayName>Hắc Thiết Thuẫn</DisplayName>
+			<Desc>Tăng mạnh sức mạnh hộ thể chân khí và nhục thân cho đồng minh cùng phân thân của mình.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuBreak">
+			<DisplayName>Khống chế vết nứt không gian</DisplayName>
+			<Desc>Giảm mạnh sức mạnh hộ thể chân khí và độ bền nhục thân của kẻ địch.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuWater">
+			<DisplayName>Hắc triều</DisplayName>
+		</Text>
+		<Text Name="LsXuanWuFire">
+			<DisplayName>Thiên hỏa</DisplayName>
+		</Text>
+		<Text Name="Ls_XuanWuForm">
+			<DisplayName>Thế Rùa</DisplayName>
+			<Desc>Tăng độ ổn định của trận pháp và cung cấp năng lượng cho trận pháp, chỉ có thể sử dụng khi đang triển khai trận pháp trong chiến đấu.</Desc>
+		</Text>
+		<Text Name="Ls_XuanWuDefac">
+			<DisplayName>Thế Tự Do</DisplayName>
+			<Desc>Phơi bày trận nhãn của đại trận địch</Desc>
+		</Text>
+	</List>
+</Texts>

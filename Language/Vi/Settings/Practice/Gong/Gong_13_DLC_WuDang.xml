@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_None">
+			<DisplayName>Âm Dương Biến Hóa Công</DisplayName>
+			<Desc>Công pháp tu luyện thượng thừa do Chiến Thần Đế sáng tạo. Người tu luyện có thể tạo ra luồng Âm Dương chi khí trong cơ thể, hình thành Âm Dương Kim Đan làm nền tảng cho Âm Dương Nguyên Anh. Khi tu luyện phân thân sẽ nhận được kết quả gấp đôi với một nửa nỗ lực. Đây là công pháp nổi tiếng nhất của Chiến Thần Đế phái Võ Đang.</Desc>
+			<SelectDesc>Khi tu luyện công pháp này, Đạo chủng sẽ thu được thông qua việc thấu hiểu sự tách biệt của Âm và Dương. Mặc dù có thể nâng cao giới hạn sức mạnh của người tu luyện lên rất nhiều, nhưng tỉ lệ Đạo chủng giữa Âm và Dương cũng sẽ ảnh hưởng đến nền tảng và thành tựu tương lai của người đó. Phương pháp của công pháp này là đánh cắp sự huyền bí của Âm Dương từ trời đất, khiến thiên địa đố kỵ, vì vậy lôi kiếp mà người tu luyện phải đối mặt sẽ vô cùng khủng khiếp.</SelectDesc>
+			<Stages.0.DisplayName>Hỗn Độn</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hư vô</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Khởi nguyên</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thành hình</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Khởi khí</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Nội ngoại tương thông</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Khởi thể</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Âm dương hợp nhất</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Ngoại nội tương thông</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Khởi linh</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Ngưng tụ tuần hoàn</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Lấy nhu thắng cương</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Âm Dương</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Vạn vật</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

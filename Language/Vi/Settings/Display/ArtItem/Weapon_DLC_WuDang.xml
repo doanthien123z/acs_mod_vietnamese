@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Item_WeaponDaoSword">
+			<List.0.Name>Đạo Kiếm</List.0.Name>
+			<List.0.Desc>Vũ khí với kỹ nghệ tuyệt mỹ, được đúc kết từ máu, mồ hôi và nước mắt của người sáng tạo</List.0.Desc>
+		</Text>
+		<Text Name="Item_WeaponFuChen">
+			<List.0.Name>Thiết Phịch Mây Trời</List.0.Name>
+			<List.0.Desc>Vũ khí với kỹ nghệ tuyệt mỹ, được đúc kết từ máu, mồ hôi và nước mắt của người sáng tạo</List.0.Desc>
+		</Text>
+	</List>
+</Texts>

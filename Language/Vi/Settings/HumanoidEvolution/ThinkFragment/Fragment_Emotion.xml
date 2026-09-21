@@ -1,0 +1,87 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>Hơi sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Về những loài thú khác..</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Về hoàn cảnh xung quanh..</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>Sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Những kẻ gần bên..</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>Kinh hồn bạt vía</DisplayName>
+			<SingleFormat.0>Nhớ ra rằng thứ đó chính là thiên địch và cảm thấy{0}..</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Về việc bằng hữu bị sát hại..</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>Hơi vui vẻ một chút</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Về trời quang mây tạnh và ánh mặt trời rực rỡ</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Về một số thứ ngon miệng</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>Hạnh phúc</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi bị vây quanh</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>Hân hoan</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi gặp lại đồng tộc</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>Hơi giận dữ một chút</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi gặp gỡ người qua đường</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>Nộ</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi người khác gặp nguy hiểm</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>Hung hãn giận dữ</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi các linh thú khác chiến đấu với nhau</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Khi bị bắt nạt</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>Hơi lo lắng một chút</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi gặp người lạ</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>Lo lắng</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Về dòng sông quá sâu</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Về vách núi cheo leo</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>Bồn chồn lo lắng</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Về cái chết</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Khi bị con người bắt giữ</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>Hơi hoài niệm một chút</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Đối với bụi bặm phiêu diêu</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Đối với phong cảnh</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>Khao khát</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Đối với cuộc sống bên ngoài</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Bằng hữu</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>Lưu luyến không rời</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Đồng môn thuở nhỏ</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Khe suối trong ký ức</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>Tĩnh lặng</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi bước đi trên mặt đất</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Khi nhìn sinh mệnh rời đi</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>Bồn chồn</DisplayName>
+			<SingleFormat.0>Theo bản năng cảm nhận được{0}</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>Buồn bã</DisplayName>
+			<SingleFormat.0>Cảm thấy{0}Khi hoa tàn hoa rụng</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy{0}Khi hoa đào rơi rụng</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>

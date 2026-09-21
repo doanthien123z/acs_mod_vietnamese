@@ -1,0 +1,46 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_ShangGuYiWenLu1" sParam="Item">
+			<ThingName>Bí mật cổ xưa: Chiến trường Tàn Thiên tập 1</ThingName>
+			<Desc>Cuộn cổ thư ghi lại trận chiến giữa Tiên và Ma thời thượng cổ. Văn tự trên đó mơ hồ như thể đã được yểm một loại cấm chế mã hóa nào đó.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu5" sParam="Item">
+			<ThingName>Bí mật cổ xưa: Chiến trường Tàn Thiên tập 5</ThingName>
+			<Desc>Cuộn cổ thư ghi lại trận chiến giữa Tiên và Ma thời thượng cổ. Văn tự trên đó mơ hồ như thể đã được yểm một loại cấm chế mã hóa nào đó.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu7" sParam="Item">
+			<ThingName>Bí mật cổ xưa: Chiến trường Tàn Thiên tập 7</ThingName>
+			<Desc>Cuộn cổ thư ghi lại trận chiến giữa Tiên và Ma thời thượng cổ. Văn tự trên đó mơ hồ như thể đã được yểm một loại cấm chế mã hóa nào đó.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_ShangGuYiWenLu15" sParam="Item">
+			<ThingName>Bí mật cổ xưa: Chiến trường Tàn Thiên tập 15</ThingName>
+			<Desc>Cuộn cổ thư ghi lại trận chiến giữa Tiên và Ma thời thượng cổ. Văn tự trên đó mơ hồ như thể đã được yểm một loại cấm chế mã hóa nào đó.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_TaiYiMiDian" sParam="Item">
+			<ThingName>Bí mật Thái Ất</ThingName>
+			<Desc>Cuốn sách ghi lại lịch sử của Thái Ất Tông, tổng hợp mọi sự kiện quan trọng kể từ khi thành lập tông môn một trăm năm trước. Đây là cuốn sách có giá trị tinh thần to lớn đối với đệ tử Thái Ất Tông. Sau khi kiểm tra kỹ lưỡng, Người phát hiện cuốn sách này được dệt nên từ năm loại bảo vật thiên địa quý giá, giúp nó sở hữu độ bền không thể tin nổi. Thật không ngờ một tông môn nhỏ bé như Thái Ất Tông lại dùng loại vật liệu xa xỉ như vậy để ghi chép lịch sử.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_JinXiaCanJuan" sParam="Item">
+			<ThingName>Mảnh vỡ từ rương vàng.</ThingName>
+			<Desc>Cuộn giấy bay ra từ Rương Vàng nơi hồ Ngọc Thạch. Nó có linh khí dao động nhẹ nhưng không có gì đặc sắc. Tuy nhiên, ấn ký kỳ lạ đi kèm lại khá thu hút, dường như cùng loại với phong ấn hư hỏng mà Người từng thấy khi khám phá "Bí ẩn Thái Ất". Người có linh cảm chuyện này liên quan đến những gì mình đang điều tra.</Desc>
+			<Item.FabaoSuffix>Quyển</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra điển tịch</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

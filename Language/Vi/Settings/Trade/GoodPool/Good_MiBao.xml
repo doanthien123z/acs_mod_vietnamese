@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BaiManMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Thiên Phến</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Mỗi 10 lần tấn công, nó sẽ thi triển chân khí tấn công kẻ địch</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="TianJiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Thần Mộc Xúc Cảm</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Nâng cao cấp độ kỹ năng hộ thể chân khí lên 8 cấp</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeiShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Tinh Thần Thương</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% Sát thương gây ra sẽ được chuyển hóa thành chân khí cho pháp bảo</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ZhengYiMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Ngũ Tự Phù</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Mỗi 5 lần tấn công, giảm thời gian hồi chiêu của kỹ năng đi 1 giây</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="JiuHuaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Hắc Kim Phiên</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng sát thương đối với mục tiêu có thuộc tính Mộc 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="WuLianMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Hoàng Mộc Phiên</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng sát thương đối với mục tiêu có thuộc tính Thổ 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="ShuShanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Tử Thủy Phiên</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng sát thương đối với mục tiêu có thuộc tính Hỏa 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="KunLunMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Xích Thổ Phiên</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng sát thương đối với mục tiêu có thuộc tính Thủy 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="XianKongMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Thanh Hỏa Phiên</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng sát thương đối với mục tiêu có thuộc tính Kim 80%</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="DanXiaMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Thần Phược Kiếm</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Tăng 1.25 lần sát thương khi tấn công pháp bảo của kẻ địch</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="HeHuanMibao">
+			<IVNUMBER.0.FabaoData.DisplayName>Tín Ngưỡng Luân</IVNUMBER.0.FabaoData.DisplayName>
+			<IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Nó không thể dùng để tấn công bất kỳ mục tiêu nào, nhưng sẽ liên tục xoay quanh thân thể của chủ nhân để phòng thủ trước các đòn tấn công của kẻ địch</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+		</Text>
+	</List>
+</Texts>

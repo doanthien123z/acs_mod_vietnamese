@@ -1,0 +1,53 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>Dương thụ</ThingName>
+			<Desc>Loại cây phát triển nhanh, thớ gỗ mềm và chắc, là nguồn cung cấp gỗ và củi cực tốt</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>Cây thông</ThingName>
+			<Desc>Loại cây phát triển chậm, thân hình cao thẳng và gỗ cứng</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>Cự tùng</ThingName>
+			<Desc>Cây thông cổ thụ lâu năm</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>Cây lê</ThingName>
+			<Desc>Cây ăn quả thông thường, chất gỗ tốt nhưng khả năng chống chọi thời tiết kém, đồng thời sản lượng thu hoạch khá ít</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>Cây bạch quả</ThingName>
+			<Desc>Cây cổ thụ phát triển chậm, có khả năng khai mở tâm trí linh tính. Quả của nó có thể ăn được và có công dụng trị thương kỳ diệu</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>Cây bạch quả khổng lồ</ThingName>
+			<Desc>Cây bạch quả cực kỳ lâu năm, có kích thước vô cùng đồ sộ với thiên địa linh khí đậm đặc bao quanh</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>Xác Phượng Hoàng Mộc</ThingName>
+			<Desc>Tàn tích của một cây Phượng Hoàng Mộc đã khô héo, tuy nhiên nó vẫn cao một cách bất thường</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>Chỉ dành cho câu đố</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>Đào thụ</ThingName>
+			<Desc>Cây đào, sẽ nở hoa rực rỡ vào mùa xuân</Desc>
+			<StoryBnts.0.Name>Thu thập mẫu vật</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng thu thập mẫu vật của thứ này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>Tiên thụ</ThingName>
+			<Desc>Cây mang tiên khí</Desc>
+			<StoryBnts.0.Name>Thu thập mẫu vật</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng thu thập mẫu vật của thứ này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>Ma thụ</ThingName>
+			<Desc>Cây mang yêu khí</Desc>
+			<StoryBnts.0.Name>Thu thập mẫu vật</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng thu thập mẫu vật của thứ này.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

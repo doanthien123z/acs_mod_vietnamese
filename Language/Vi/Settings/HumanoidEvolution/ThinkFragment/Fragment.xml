@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FirstFrag_Target">
+			<DisplayName>Mod thất lạc</DisplayName>
+		</Text>
+		<Text Name="InitalFrag">
+			<DisplayName>Mod thất lạc</DisplayName>
+		</Text>
+		<Text Name="Emotion_Template">
+			<DisplayName>Khuôn mẫu</DisplayName>
+		</Text>
+		<Text Name="Target_Template">
+			<DisplayName>Khuôn mẫu</DisplayName>
+		</Text>
+		<Text Name="Scene_Template">
+			<DisplayName>Khuôn mẫu</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,166 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ZhenMainNode_Lv3_2_1">
+			<DisplayName>Nhật Nguyệt Thăng Giáng</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_2">
+			<DisplayName>Âm Dương Hắc Bạch</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_3">
+			<DisplayName>Thời Không</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_4">
+			<DisplayName>Thủy Chung</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_5">
+			<DisplayName>Sinh Tử</DisplayName>
+		</Text>
+		<Text Name="ZhenMainNode_Lv3_2_6">
+			<DisplayName>Tạo Hóa Bí Thuật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_1">
+			<DisplayName>Thiên Nhật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_2">
+			<DisplayName>Lôi Nhật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_3">
+			<DisplayName>Thủy Nhật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_4">
+			<DisplayName>Sơn Nhật</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_5">
+			<DisplayName>Địa Nguyệt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_6">
+			<DisplayName>Phong Nguyệt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_7">
+			<DisplayName>Hỏa Nguyệt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_8">
+			<DisplayName>Thủy Nguyệt</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_9">
+			<DisplayName>Thiên Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_10">
+			<DisplayName>Lôi Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_11">
+			<DisplayName>Thủy Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_12">
+			<DisplayName>Sơn Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_13">
+			<DisplayName>Địa Dương</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_14">
+			<DisplayName>Phong Âm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_15">
+			<DisplayName>Hỏa Âm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_16">
+			<DisplayName>Thủy Âm</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_17">
+			<DisplayName>Thiên Thời Không</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_18">
+			<DisplayName>Lôi Thời Không</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_19">
+			<DisplayName>Thời Không Chi Thủy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_20">
+			<DisplayName>Thời Không Chi Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_21">
+			<DisplayName>Thời Không Chi Giới</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_22">
+			<DisplayName>Thời Không Chi Phong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_23">
+			<DisplayName>Thời Không Chi Hỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_24">
+			<DisplayName>Thời Không Chi Trạch</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_25">
+			<DisplayName>Sơ Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_26">
+			<DisplayName>Sơ Lôi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_27">
+			<DisplayName>Sơ Thủy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_28">
+			<DisplayName>Sơ Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_29">
+			<DisplayName>Mạt Giới</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_30">
+			<DisplayName>Mạt Phong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_31">
+			<DisplayName>Mạt Hỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_32">
+			<DisplayName>Mạt Hải</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_33">
+			<DisplayName>Sinh Chi Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_34">
+			<DisplayName>Sinh Chi Lôi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_35">
+			<DisplayName>Sinh Chi Thủy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_36">
+			<DisplayName>Sinh Chi Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_37">
+			<DisplayName>Tử Chi Giới</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_38">
+			<DisplayName>Tử Chi Phong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_39">
+			<DisplayName>Tử Chi Hỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_40">
+			<DisplayName>Tử Chi Trạch</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_41">
+			<DisplayName>Tạo Hóa Thiên</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_42">
+			<DisplayName>Tạo Hóa Lôi</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_43">
+			<DisplayName>Tạo Hóa Thủy</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_44">
+			<DisplayName>Tạo Hóa Sơn</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_45">
+			<DisplayName>Mệnh Vận Chi Giới</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_46">
+			<DisplayName>Mệnh Vận Chi Phong</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_47">
+			<DisplayName>Mệnh Vận Chi Hỏa</DisplayName>
+		</Text>
+		<Text Name="ZhenNode_Lv3_3_48">
+			<DisplayName>Mệnh Vận Chi Hải</DisplayName>
+		</Text>
+	</List>
+</Texts>

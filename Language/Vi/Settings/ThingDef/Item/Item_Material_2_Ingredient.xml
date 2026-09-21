@@ -1,0 +1,29 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Flour" sParam="Item">
+			<ThingName>Bột mì</ThingName>
+			<Desc>Túi bột mì, nguyên liệu nấu ăn.</Desc>
+			<Item.FabaoSuffix>Hạt, bột, túi</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Pear" sParam="Item">
+			<ThingName>Lê</ThingName>
+			<Desc>Quả lê có vị ngọt.</Desc>
+			<Item.FabaoSuffix>Quả, hạt châu, đan dược, viên tròn, mái vòm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wheat" sParam="Item">
+			<ThingName>Lúa mì</ThingName>
+			<Desc>Bó lúa mì</Desc>
+			<Item.FabaoSuffix>Dây, Cuộn chỉ.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Mushroom" sParam="Item">
+			<ThingName>Nấm</ThingName>
+			<Desc>Giỏ nấm</Desc>
+			<Item.FabaoSuffix>Giỏ, nấm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Lotusroot" sParam="Item">
+			<ThingName>Ngó sen</ThingName>
+			<Desc>Phần ngó sen</Desc>
+			<Item.FabaoSuffix>Ngó sen</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

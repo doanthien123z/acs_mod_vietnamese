@@ -1,0 +1,155 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LingUpWave_Sp">
+			<DisplayName>Linh triều</DisplayName>
+			<StoryDesc>Linh khí trở nên nồng đậm khắp cõi đất.</StoryDesc>
+		</Text>
+		<Text Name="FireRain">
+			<DisplayName>Mưa vừa</DisplayName>
+		</Text>
+		<Text Name="Rainstorm_Teach">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Mưa bão đang tàn phá</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Teach2">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Mưa bão đang tàn phá</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_Hack">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Do sự can thiệp của một luồng sức mạnh thần bí nào đó, bão sấm sét bất ngờ xuất hiện.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_AllSeason">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Mưa bão đang tàn phá</StoryDesc>
+		</Text>
+		<Text Name="Fohn_AllSeason">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<StoryDesc>Cơn gió nóng đang thổi qua</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_AllSeason">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Bầu trời tối sầm lại khi bụi và cát bay đầy trong không khí</StoryDesc>
+		</Text>
+		<Text Name="Miasma_AllSeason">
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Phấn hoa độc bay lơ lửng khắp tầng khí quyển</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_AllSeason">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Sấm chớp vang dội từ bầu trời giáng xuống mặt đất như lôi đình đang nhảy múa trên chín tầng mây</StoryDesc>
+		</Text>
+		<Text Name="JinLingMiMan">
+			<DisplayName>Khối Kim Linh Khí</DisplayName>
+			<StoryDesc>Kim linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="MuLingMiMan">
+			<DisplayName>Khối Mộc Linh Khí</DisplayName>
+			<StoryDesc>Mộc linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="ShuiLingMiMan">
+			<DisplayName>Khối Thủy Linh Khí</DisplayName>
+			<StoryDesc>Thủy linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="HuoLingMiMan">
+			<DisplayName>Khối Hỏa Linh Khí</DisplayName>
+			<StoryDesc>Hỏa linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="TuLingMiMan">
+			<DisplayName>Khối Thổ Linh Khí</DisplayName>
+			<StoryDesc>Thổ linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Big">
+			<DisplayName>Linh ba</DisplayName>
+			<StoryDesc>Từng đợt sóng linh khí lan tỏa khắp bốn bề.</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave_Big">
+			<DisplayName>Linh khí khô kiệt</DisplayName>
+			<StoryDesc>Linh khí lúc này vô cùng cạn kiệt.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_Drought">
+			<DisplayName>Nóng như thiêu như đốt</DisplayName>
+			<StoryDesc>Nhiệt độ tăng cao bất thường.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_HighTemp">
+			<DisplayName>Hạn hán kéo dài</DisplayName>
+			<StoryDesc>Nạn hạn hán này dường như ngày càng trở nên tồi tệ.</StoryDesc>
+		</Text>
+		<Text Name="DimCave">
+			<DisplayName>Động phủ</DisplayName>
+			<StoryDesc>Hang động tối đen như mực, giơ tay không thấy năm ngón.</StoryDesc>
+		</Text>
+		<Text Name="ForestRain">
+			<DisplayName>Trời mưa</DisplayName>
+			<StoryDesc>Mưa đang rơi trong rừng rậm.</StoryDesc>
+		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>Tuyết rơi nhẹ</DisplayName>
+			<StoryDesc>Tuyết rơi lả tả trong không trung, lấp lánh trên mặt đất</StoryDesc>
+		</Text>
+		<Text Name="SunSet">
+			<DisplayName>Ánh tà dương</DisplayName>
+			<StoryDesc>Mặt trời lặn</StoryDesc>
+		</Text>
+		<Text Name="DustPlace">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Bầu trời tối sầm lại khi bụi và cát bay đầy trong không khí</StoryDesc>
+		</Text>
+		<Text Name="EverSnow">
+			<DisplayName>Tuyết rơi nhẹ</DisplayName>
+			<StoryDesc>Tuyết rơi lả tả trong không trung, lấp lánh trên mặt đất</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Thủy Linh Khí</DisplayName>
+			<StoryDesc>Khu vực này chịu sự bao phủ của lĩnh vực Thủy Linh Khí.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_BeiDouJianJie">
+			<DisplayName>Kim Kiếm Trảm Tinh</DisplayName>
+			<StoryDesc>Khu vực này chịu sự bao phủ của lĩnh vực Kim Kiếm Trảm Tinh.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Hỏa Linh Khí</DisplayName>
+			<StoryDesc>Khu vực này chịu sự bao phủ của lĩnh vực Hỏa Linh Khí.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Mutation">
+			<DisplayName>Linh khí bùng nổ</DisplayName>
+			<StoryDesc>Linh khí cuồn cuộn bay lên trời, lan tỏa khắp thế gian không có điểm dừng</StoryDesc>
+		</Text>
+		<Text Name="Yang_Mutation">
+			<DisplayName>Chí Dương Chi Địa</DisplayName>
+			<StoryDesc>Vùng đất rực sáng với lực lượng thuần dương nồng đậm đến cực điểm.</StoryDesc>
+		</Text>
+		<Text Name="Yin_Mutation">
+			<DisplayName>Cực Âm Chi Địa</DisplayName>
+			<StoryDesc>Nơi ánh mặt trời không thể chiếu tới chính là Cực Âm Chi Địa, hàn khí lạnh lẽo lan tỏa khắp đất trời.</StoryDesc>
+		</Text>
+		<Text Name="MouldRains_Mutation">
+			<DisplayName>Mùa mưa</DisplayName>
+			<StoryDesc>Mưa phùn lất phất rơi khắp đại địa</StoryDesc>
+		</Text>
+		<Text Name="Drought_Mutation">
+			<DisplayName>Mùa hạn hán</DisplayName>
+			<StoryDesc>Mặt trời thiêu đốt vạn vật phía dưới bằng sức nóng cực độ</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Mutation">
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Bão giông sấm sét dữ dội</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_Mutation">
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Bầu trời tối sầm lại khi bụi và cát bay đầy trong không khí</StoryDesc>
+		</Text>
+		<Text Name="Miasma_Mutation">
+			<DisplayName>Độc Chướng</DisplayName>
+			<StoryDesc>Phấn hoa độc bay lơ lửng khắp tầng khí quyển</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong_Mutation">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Sấm chớp vang dội từ bầu trời giáng xuống mặt đất như lôi đình đang nhảy múa trên chín tầng mây</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng_Mutation">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<StoryDesc>Cơn gió nóng đang thổi qua</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinYangErosion">
+			<DisplayName>Sự ăn mòn của Âm Dương</DisplayName>
+			<Desc>Giảm phòng thủ của kẻ địch bằng chân khí âm hàn</Desc>
+		</Text>
+		<Text Name="BambooBedFeel">
+			<DisplayName>Giá lạnh</DisplayName>
+			<Desc>Giường trúc mang lại cảm giác hơi se lạnh</Desc>
+		</Text>
+		<Text Name="Modifier_YG_YinYangForce">
+			<DisplayName>Nguyên khí (hỗn tạp))</DisplayName>
+			<Desc>Thiêu đốt sinh mệnh lực của bản thân để kích thích chân khí trong cơ thể, khiến cho kỹ năng pháp bảo, kỹ năng giáp khí, uy lực tấn công và độ bền của nhục thân tăng vụt lên</Desc>
+		</Text>
+		<Text Name="Fish_EndureHunger">
+			<DisplayName>Chịu đựng đói khát</DisplayName>
+			<Desc>Ăn cá rô lùn vàng có thể giúp người đó chịu đựng đói khát tốt hơn</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,17 @@
+Ancient Cultivator Prefix,Quảng Đại, Nguyên Thủy, Hỗn Mang, Thủy Chung, Tử Vân, Ngộ Tính, Vô Cực, Thái Sơ, Vô Tận, Thái Cực, Khởi Nguyên, Chung Điểm, Chí Tôn, Viễn Cổ, Cửu Trọng Thiên, Linh Thiên, Quảng Thiên, U Thiên, Ngọc Thiên, Khung Thiên, Hoành Đại, Nguyên Thủy, Vô Cực, Thanh Hư, Huyễn Ảnh, U Hư
+Common Level 1 Prefix,Phổ Thông Truyền Thừa, Thường Quy Truyền Thừa, Quảng Đại Truyền Thừa
+Common Level 2 Prefix,Hắc Đan, Chân Đan, Chân Ý
+Common Level 3 Prefix,Tiêu Dao, Tự Do, Vô Cư
+Common Level 4 Prefix,Minh Sáng, Chân Dương, Quan Sát
+Sunshade Abode Prefix,Màn Thiên, Thanh Thuần, Vạn Bảo
+Kunlun Palace Prefix,Côn Lôn, Không Ngọc, Viễn Cổ
+Skydome Palace Prefix,Lăng Tiêu, Vong Ngã, Tề Thiên
+Purple Cloud Temple Prefix,Tử Vân, Thiên Địa, Âm Dương
+Mystic Unity Sect Prefix,Độc Mật, Bản Nguyên, Hộ Thiên
+Blue Lotus Temple,Thanh Liên, Tinh Thần, Tự Do
+Evenfall Abode Prefix,Dạ Quang, Ngũ Đạo, Thấu Triệt
+Mt. Hundred Insects Prefix,Bách Trùng, Nghịch Chuyển, Ngũ Độc
+Pit of Doom Prefix,U Minh, Hậu Thổ, Từ Tràng
+Seven-Slaughtering Sect Prefix,Thất Sát, Tử Chú, Tru Diệt
+Exultant Sect Prefix,Sương Lạc, Lục Dục, Thất Tình
+Daemonia Temple Prefix,Vạn Thú, Vĩnh Hằng, Hỗn Loạn

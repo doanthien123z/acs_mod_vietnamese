@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên vô số suy nghĩ và cảm xúc bắt đầu ùa về trong tâm trí [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang tu luyện chân khí, đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] Tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] Đột nhiên vô số suy nghĩ và cảm xúc bắt đầu ùa về trong tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Lại bắt đầu cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] Mất tập trung vì cảm xúc[rand_lable=obj_badmood,obj_goodmood]Và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] Cảm thấy nhớ nhà đến mức mất tập trung khiến việc đột phá cảnh giới thất bại, điều đó làm cho[IT]Cảm thấy vô cùng đau buồn</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] đã bị[obj_nearthing] bị thứ gì đó gần đó thu hút sự chú ý, điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]khiến cho[IT]mất tập trung, dẫn đến việc đột phá cảnh giới thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation] bị mất tập trung, dẫn đến việc đột phá cảnh giới thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] mất tập trung và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck] [name] không nhịn được mà lo lắng về việc đột phá lên cảnh giới kế tiếp, điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] Trong lúc đang đột phá cảnh giới[obj_neck]Đột nhiên [name] cảm thấy hoài nghi năng lực của bản thân, dẫn đến mất tập trung và đột phá cảnh giới thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên vô số suy nghĩ và cảm xúc ùa vào tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang ngưng tụ Kim Đan, đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] lại cảm thấy nhớ nhà</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên vô số suy nghĩ và cảm xúc ùa vào tâm trí của [name]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] liền cảm thấy muốn khóc</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] liền cảm thấy lo lắng</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] to take a look</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang độ Thiên Kiếp, đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] Tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] Đột nhiên vô số suy nghĩ và cảm xúc bắt đầu ùa về trong tâm trí của [name]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Mất tập trung vì cảm xúc[rand_lable=obj_badmood,obj_goodmood]Và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] cảm thấy nhớ nhà khiến mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] đã bị[obj_nearthing]bị thứ gì đó gần đó thu hút sự chú ý, điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]khiến cho[IT]mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation] bị mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]Đột nhiên [name] mất tập trung và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]có được không và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj] Đột nhiên [name] cảm thấy hoài nghi năng lực của bản thân, dẫn đến mất tập trung và đột phá cảnh giới thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] lại cảm thấy nhớ nhà</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên vô số suy nghĩ và cảm xúc ùa vào tâm trí của [name]</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] cảm thấy muốn khóc</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] liền cảm thấy lo lắng</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] Mất tập trung vì cảm xúc[rand_lable=obj_badmood,obj_goodmood] Và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] cảm thấy nhớ nhà khiến mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] đã bị[obj_nearthing]bị thứ gì đó gần đó thu hút sự chú ý, điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] lại cảm thấy thèm ăn[obj_food]khiến cho[IT]mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation] bị mất tập trung, dẫn đến luyện chế thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] mất tập trung và điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo [name] không nhịn được mà lo lắng về việc đột phá lên cảnh giới kế tiếp, điều đó khiến cho[IT]Đột phá thất bại và cảm thấy vô cùng đau buồn</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang luyện chế[obj]để luyện thành pháp bảo, đột nhiên [name] cảm thấy hoài nghi năng lực của bản thân, dẫn đến mất tập trung và đột phá cảnh giới thất bại. Điều đó khiến cho[IT]Cảm thấy vô cùng đau buồn</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] Tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] Đột nhiên vô số suy nghĩ và cảm xúc bắt đầu ùa về trong tâm trí của [name]</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj] [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang vẽ[obj]Đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] lại cảm thấy nhớ nhà</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] Tâm trí của [name] bắt đầu bay bổng và nhớ về [obj_friend] Bằng hữu của[IT]</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] cũng bắt đầu cảm thấy hứng thú[obj_nearthing]ở gần đó </Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] lại cảm thấy thèm ăn[obj_food]</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] lại cảm thấy nhớ nhung [obj_relation]</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] Đột nhiên vô số suy nghĩ và cảm xúc bắt đầu ùa về trong tâm trí của [name] </Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] liền cảm thấy muốn khóc</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] liền cảm thấy lo lắng</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] liền cảm thấy muốn đi dạo[rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool]</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Không khỏi cảm thấy cuộc đời này thật tốt đẹp biết bao</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Không khỏi nghĩ rằng mặc dù người tu luyện tương đối cường đại, thế nhưng con đường tu luyện lại vô cùng gian nan</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Lại có suy nghĩ muốn ra ngoài phiêu lưu trong thế giới rộng lớn</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Lại bị ảnh hưởng bởi cảm xúc[rand_lable=obj_badmood,obj_goodmood]</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Không khỏi nghĩ rằng[IT]Liệu có thể đột phá cảnh giới của[obj_neck]Hay không</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Không khỏi thở dài một hơi khi phát hiện ra[obj_gong]Vô cùng thâm thúy</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Không khỏi nghi ngờ rằng[obj_gong]Liệu có thực sự thích hợp với bản thân mình hay không</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Lại cảm thấy nghi ngờ về[obj_esoterica] Liệu có phải công pháp này có sơ hở gì hay không?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Đành bất lực thở dài [IT]cảm thấy[obj_esoterica]Đó quả thực là một bộ công pháp tuyệt vời</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Cảm thấy muốn điều khiển[obj_fabao]Và bay ra ngoài thật sự</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Không biết tại sao đột nhiên [IT]lại cảm thấy thèm ăn[obj_dan]Lại nổi lên một cách đột ngột</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Không biết tại sao đột nhiên [IT]Lại cảm thấy muốn giẫm đạp [obj_friend] Mấy bận</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj] [name] Lại nhớ đến phòng tu luyện chân khí của[obj_goodschool]Một cách khó hiểu </Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather] trong khi đang thi triển[obj]Đột nhiên [name] Lại cảm thấy muốn động thủ với[obj_badschool]</Events.23.Story>
+		</Text>
+	</List>
+</Texts>

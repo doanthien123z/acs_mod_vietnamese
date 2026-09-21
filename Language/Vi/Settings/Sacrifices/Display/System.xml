@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Blood">
+			<Display>Thú huyết</Display>
+			<Desc>Hiến tế máu yêu thú để đổi lấy vật phẩm</Desc>
+		</Text>
+		<Text Name="Elixir">
+			<Display>Linh châu</Display>
+			<Desc>Hiến tế linh châu để đổi lấy vật phẩm</Desc>
+		</Text>
+	</List>
+</Texts>

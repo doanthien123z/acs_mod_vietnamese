@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NoHeavyWork">
+			<DisplayName>Hòn ngọc trong tay</DisplayName>
+			<Desc>Sống trong cảnh nhung lụa thoải mái khiến cho[IT]không thể làm được việc nặng nhọc.</Desc>
+		</Text>
+		<Text Name="NoMeticulousWork">
+			<DisplayName>Vụng về</DisplayName>
+			<Desc>Người này quá vụng về để làm những công việc đòi hỏi độ chính xác cao.</Desc>
+		</Text>
+	</List>
+</Texts>

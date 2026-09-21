@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Default">
+			<Fragment.Random.0.Format.0>{0}: Thu hoạch được chút ít lĩnh ngộ </Fragment.Random.0.Format.0>
+			<Fragment.Random.0.Format.1>{0}: Thu hoạch được một chút lĩnh ngộ</Fragment.Random.0.Format.1>
+			<Fragment.Random.0.Format.2>{0}: Bắt đầu ngấm suy nghĩ</Fragment.Random.0.Format.2>
+			<Fragment.Random.1.Format.0>{0}Bị triệu hồi</Fragment.Random.1.Format.0>
+			<Fragment.Random.2.Format.0>{0}Cảm giác mông lung</Fragment.Random.2.Format.0>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,65 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="God_Xiuwei">
+			<DisplayName>Thiên thần tụ tâm</DisplayName>
+			<Desc>Ngồi thiền định trong khi chuyển hóa tín ngưỡng tích lũy của người dùng thành căn cơ tu luyện.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei1">
+			<DisplayName>Thiên đế tụ tâm</DisplayName>
+			<Desc>Ngồi thiền định trong khi chuyển hóa tín ngưỡng tích lũy của người dùng thành căn cơ tu luyện, với tỷ lệ chuyển đổi tương đối thấp.</Desc>
+		</Text>
+		<Text Name="God_Xiuwei2">
+			<DisplayName>Thiên thánh tụ tâm</DisplayName>
+			<Desc>Ngồi thiền định trong khi chuyển hóa tín ngưỡng tích lũy của người dùng thành căn cơ tu luyện, với tỷ lệ chuyển đổi thấp.</Desc>
+		</Text>
+		<Text Name="God_XinZhai">
+			<DisplayName>Đoạn Ý</DisplayName>
+			<Desc>Bước vào trạng thái đoạn tình, sẽ từ từ giảm thiểu ảnh hưởng của cảm xúc đến tâm trạng của người thi triển trong một khoảng thời gian sau khi thi triển. Thời gian hiệu lực còn lại sau khi kết thúc sẽ bằng thời gian người thi triển ở trong trạng thái đoạn tình.</Desc>
+		</Text>
+		<Text Name="God_ResurrectionA">
+			<DisplayName>Thần thuật hồi sinh</DisplayName>
+			<Desc>Hồi sinh nhân vật đang hấp hối hoặc đã chết, người thi triển sẽ nhận thêm thần trí. 10</Desc>
+			<TargetDesc>Select a dead or dying character.</TargetDesc>
+		</Text>
+		<Text Name="God_ResurrectionB">
+			<DisplayName>Âm Dương nghịch chuyển</DisplayName>
+			<Desc>Hồi sinh toàn bộ nhân vật cùng phe đã chết và vẫn đang chết trong cảnh giới, người thi triển sẽ nhận thêm thần trí. 100</Desc>
+		</Text>
+		<Text Name="God_DefuseZhinian">
+			<DisplayName>Thần tịnh hóa</DisplayName>
+			<Desc>Tiêu hủy tạp niệm của nhân vật để hóa thành châu báu tạp niệm.</Desc>
+			<TargetDesc>Chọn nhân vật đã xuất hiện "tạp niệm".</TargetDesc>
+		</Text>
+		<Text Name="God_GodLike">
+			<DisplayName>Thần hóa</DisplayName>
+			<Desc>Thi triển pháp chú để nâng cao thần trí của bản thân lên cực hạn trong một khoảng thời gian ngắn, khiến năng lực chiến đấu tăng mạnh. Tuy nhiên, mỗi lần sử dụng sẽ vĩnh viễn tăng 1 điểm thần trí của người dùng.</Desc>
+		</Text>
+		<Text Name="God_BeliveMe">
+			<DisplayName>Thánh thiệp</DisplayName>
+			<Desc>Thuyết phục nhân vật thân thiện hoặc đệ tử nội môn trung lập để mời người đó trở thành cốt lõi tín đồ của người dùng.</Desc>
+			<TargetDesc>Chọn nhân vật cần mời gọi.</TargetDesc>
+		</Text>
+		<Text Name="God_Jingxin">
+			<DisplayName>Thần chú xua đuổi</DisplayName>
+			<Desc>Sử dụng cho những kẻ không phải tu sĩ thần đạo, khiến tốc độ tăng trưởng cảm xúc giảm 25% trong 7 ngày.</Desc>
+			<TargetDesc>Chọn nhân vật không phải tu sĩ thần đạo để sử dụng pháp chú.</TargetDesc>
+		</Text>
+		<Text Name="God_ProductUp1">
+			<DisplayName>Thần chú hội tụ</DisplayName>
+			<Desc>Tăng 100% sản lượng nguyên liệu cơ bản của khu vực mà người dùng chiếm giữ trong 10 ngày.</Desc>
+		</Text>
+		<Text Name="God_ProductUp2">
+			<DisplayName>Thần chú ban phúc</DisplayName>
+			<Desc>Tăng 200% sản lượng nguyên liệu cơ bản của khu vực mà người dùng chiếm giữ trong 4 ngày.</Desc>
+		</Text>
+		<Text Name="God_ProductUp3">
+			<DisplayName>Thần chú nhất tâm tín ngưỡng</DisplayName>
+			<Desc>Tăng 500% sản lượng nguyên liệu cơ bản của khu vực mà người dùng chiếm giữ trong 1 ngày.</Desc>
+		</Text>
+		<Text Name="God_TongLing_Plant">
+			<DisplayName>Thiên chú ban phúc</DisplayName>
+			<Desc>Thực vật vốn có sự sống nhưng không có linh trí, cần dùng 1 điểm nhân tâm làm vật dẫn để khai mở linh trí cho chúng. Cần tiêu hao 9 viên Tà niệm thạch và 1 viên Nguyên linh thạch để giúp chúng thấu hiểu linh khí của trời đất. Cần một khoảng thời gian nhất định để hiệu quả của pháp chú hiển lộ, trong thời gian đó không thể thi triển pháp chú lên cùng một loại thực vật đang chịu ảnh hưởng của pháp chú. Tâm trí của người thi triển và thời gian ngộ đạo của thực vật càng cao thì tỉ lệ thành công càng lớn.</Desc>
+			<TargetDesc>Chọn linh thảo</TargetDesc>
+		</Text>
+	</List>
+</Texts>

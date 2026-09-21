@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Box_Cargo" sParam="Plant">
+			<ThingName>Rương cổ</ThingName>
+			<Desc>Rương đồ được bảo quản cẩn thận, có lẽ đã bị thất lạc trong lúc hỗn loạn khi mọi người bỏ chạy vì chiến tranh.</Desc>
+			<StoryBnts.0.Name>Khám phá</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Khám xét rương này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse" sParam="Plant">
+			<ThingName>Thi thể thối rữa</ThingName>
+			<Desc>Thi thể đã phân hủy từ lâu, không biết làm sao lại chết ở nơi này.</Desc>
+			<StoryBnts.0.Name>Khám phá</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Khám xét thi thể này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
+			<ThingName>Thi thể thối rữa</ThingName>
+			<Desc>Thi thể đã phân hủy từ lâu, không biết làm sao lại chết ở nơi này.</Desc>
+			<StoryBnts.0.Name>Khám phá</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Khám xét thi thể này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
+			<ThingName>Thi thể thối rữa</ThingName>
+			<Desc>Thi thể đã phân hủy từ lâu, không biết làm sao lại chết ở nơi này.</Desc>
+			<StoryBnts.0.Name>Khám phá</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Khám xét thi thể này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
+			<ThingName>Thi thể thối rữa một nửa</ThingName>
+			<Desc>Xác chết đang phân hủy, chẳng hiểu sao dã thú lại không ăn nó.</Desc>
+			<StoryBnts.0.Name>Cảm nhận</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử liên lạc với hồn phách của hắn bằng thần thức.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+			<ThingName>Thi thể mới chết</ThingName>
+			<Desc>Thi thể vừa mới chết ở đây không lâu vì một lý do nào đó.</Desc>
+			<StoryBnts.0.Name>Khám phá</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Khám xét thi thể này</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

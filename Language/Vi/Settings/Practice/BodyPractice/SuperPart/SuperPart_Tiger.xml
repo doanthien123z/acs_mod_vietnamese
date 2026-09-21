@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Tiger_1">
+			<Prefix>Ý chí</Prefix>
+			<Suffix>Vương Giả</Suffix>
+			<Desc>Thần thể bí ẩn được truyền lại trong huyết mạch của thượng cổ Hổ Yêu tộc. Khi tu luyện thành công, người tu luyện có thể giữ vững tâm trí ngay cả khi đối mặt với nguy hiểm cận kề cái chết nhờ trái tim của vương giả.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Học thân pháp chiến đấu: Vương Giả Chi Ý</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Tiger_2">
+			<Prefix>Thể</Prefix>
+			<Suffix>Du Phong</Suffix>
+			<Desc>Thần thể bí ẩn được truyền lại trong huyết mạch của thượng cổ Hổ Yệu tộc. Khi tu luyện thành công, sẽ nhận được sức mạnh nhanh chóng và mãnh liệt tựa cuồng phong bão táp.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng uy lực của thần thể bí ẩn 10%</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="ShuShanA">
+			<IVNUMBER.0.Animal.DisplayName>Cáp Lung</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Quá trình huấn luyện từ tông môn đã ban cho nó ký ức liên quan đến kỹ năng chế tạo.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="ShuShanAL">
+			<IVNUMBER.0.Animal.DisplayName>Cáp Lung Thường</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Nó đã lĩnh hội được trí tuệ của sự sợ hãi.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Cáp Lung Thường</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Nó đã lĩnh hội được trí tuệ của tư duy.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Cáp Lung Thường</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Nó đã lĩnh hội được trí tuệ của niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Cáp Lung Thường</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Nó đã lĩnh hội được trí tuệ của sự phẫn nộ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Cáp Lung Thường</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con cóc đang ở trạng thái thức tỉnh. Nó đã lĩnh hội được trí tuệ của sự lo âu.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>

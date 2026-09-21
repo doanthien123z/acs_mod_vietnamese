@@ -1,0 +1,19 @@
+ID	Values
+	Total
+1	Thượng Cổ Kim Ô | Thượng Cổ Lãng Thú | Hư Không Diên | Nghiệp Long | Vô Miện Hoàng Điểu | Vô Đáy Hắc Động | Hải Hoàng | Hỗn Độn
+2	Phong Cốc | Vân Hải | Hoàng Đế Phong | Vô Cực Hoang Nguyên | Cửu Tiên Thành
+3	Đông Lâm Vô Không Tử Mãng Hoàng | Cuồng Hải Long Hoàng | Hoàng Nguyên Lạc Hạc | Hắc Tuyết Kim Tuyền Động Trúc Lão
+4	Hỗn Nguyên Chi Tinh | Âm Dương Chi Tinh | Ngũ Hành Chi Tinh | Sát Phạt Chi Tinh
+5	Vô Sinh Quả | Trục Thần Cam Lộ | Niết Bàn Liên | Nhân Quả Quả
+6	Luân Hồi Toàn Qua | Tinh Thần Hải | Luân Hồi Cốc | Vô Tận Hải
+7	Đại Lương Thành | Hải Cảnh Thành | Hồi Thủy Thành | Xà Vĩ Thôn | Đại Phú Thành | Làng Cửu Hoa | Thôn Đồi Cát Than | Thành Hàn Sơn | Thành Nhật Lạc | Thôn Đại Tương | Lạc Hoa Nguyên | Oa Thôn | Nam Phương Thôn
+8	Đại Lương Thành | Hải Cảnh Thành | Hồi Thủy Thành | Xà Vĩ Thôn | Đại Phú Thành | Làng Cửu Hoa | Thôn Đồi Cát Than | Thành Hàn Sơn | Thành Nhật Lạc | Thôn Đại Tương | Lạc Hoa Nguyên | Oa Thôn | Nam Phương Thôn | Màn Thiên Sơn | Côn Lôn Sơn | Đỉnh Thiên Phong | Cửu Hoa Sơn | Hổ Long Sơn | Tu Sơn | Ngũ Sắc Liên Sơn | Bách Trùng Sơn | Hắc Thạch Sơn | Tiêu Dao Đảo | Vô Tận Sa Mạc | Nam Cương Lâm | Vĩnh Hằng Tuyết Vực | Hồi Thủy Bình Nguyên | Trung Nguyên | Động Minh Quang | Thiên Mạc Nhai | Hồ Ngũ Long | Sân Hội Tiên | Động Long Mạch | Hốc Mây | Ải Phục Thiên | Hồ Long Tiềm | Vách Phượng Hoàng | Thác Thiên Thông | Rừng Sương Mù | Vách Bích Ngọc | Động Oanh Lôi | Động Lưu Ly | Động Ngọc Xuân | Kiếm Mộ | Thiên Trì | Rừng Mưa Bạch Mộc | Động Tử Vong | Hố Vạn Xà | Động Yêu Thú | Vực Diêm Vương | Rừng Ngàn Gai | Huyễn Hải Nguyền Rủa | Độc Long Hồ | Vạn Thú Quán | Sa Mạc Gương | Động Hỏa Diệm | Tử Tiêu Điện | Thuyền mộ | Đảo Rùa | Đại Cốc | Hải Thị Thận Lâu | Hải Nhãn | U Minh Uyên | Lôi Bạo Hồ | Cổ Trạch |  Lăng mộ Ma Đế | Trùng Cốc | Thung lũng Băng | Hồ Ngọc Thạch | Cánh đồng Bão Tuyết | Quế Sơn | Lư Sơn | Xúc Thiên Sơn | Dược Phong | Bình Đinh Sơn | Vọng Nguyệt Sơn | Lương Sơn | Thông Lăng Sơn | Thái Ất Di Tích | Hắc Hải
+9	Màn Thiên Tông | Côn Lôn Điện | Thượng Thiên Cung | Tử Mạc Quan | Tông môn ẩn bí | Thanh Liên Quan | Dạ Quang Tông | Bách Trùng Sơn | Hố Vực tông | Thất Sát Môn | Tiêu Dao Tông | Vạn Thú Quán
+10	Thủy Long | Hỏa Phượng | Chúc Long
+11	Ngũ sắc kim liên | Kim tinh quả | Hoàng Thổ Hạch | Phan lôi đằng | Hỏa kiếp quả
+12	Thủy Linh Căn: Ngũ Sắc Kim Liên | Kim Linh Căn: Kim Tinh Quả | Thổ Linh Căn: Hoàng Thổ Tâm | Mộc Linh Căn: Uẩn Lâm Đằng | Hỏa Linh Căn: Kiếp Hỏa Quả
+13	Ngưu Xà | Thiên Xà | Phượng Xà
+14	Đại Lương Thành | Hải Cảnh Thành | Hồi Thủy Thành | Xà Vĩ Thôn | Đại Phú Thành | Làng Cửu Hoa | Thôn Đồi Cát Than | Thành Hàn Sơn | Thành Nhật Lạc | Thôn Đại Tương | Lạc Hoa Nguyên | Oa Thôn | Nam Phương Thôn
+15	Vạn Thú Quán | Côn Lôn Điện | Thượng Thiên Cung | Tử Mạc Quan | Tông môn ẩn bí | Thanh Liên Quan | Dạ Quang Tông | Bách Trùng Sơn | Hố Vực tông | Thất Sát Môn | Tiêu Dao Tông | Vạn Thú Quán
+16	Bách Trùng Sơn | Hố Vực tông | Thất Sát Môn | Tiêu Dao Tông
+17	Màn Thiên Tông | Côn Lôn Điện | Tử Mạc Quan | Tông môn ẩn bí | Thanh Liên Quan | Dạ Quang Tông

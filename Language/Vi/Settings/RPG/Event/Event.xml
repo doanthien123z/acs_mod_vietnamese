@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>Bắt đầu</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>Đang ở điểm bẫy</DisplayName>
+			<PDisplayName>Thời gian lưu lại (giây))</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>Tiến vào điểm bẫy</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>Rời khỏi điểm bẫy</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>Bị tấn công</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>Bị hủy hoại</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>Tử vong</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>Đang tương tác</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>Sau khi tương tác</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>Nhân vật tiến vào điểm tạo mới</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>Nhân vật ra vào điểm tạo mới</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>Thu hồi Logic Frame</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>Thu hồi Rendering Frame</DisplayName>
+		</Text>
+	</List>
+</Texts>

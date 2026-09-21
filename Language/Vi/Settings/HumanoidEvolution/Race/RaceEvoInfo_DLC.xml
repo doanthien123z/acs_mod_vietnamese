@@ -1,0 +1,11 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Panda">
+			<NaiveTalk>E-xì i-xú e-xì i-xú!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích ở gần cây trúc</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích ở cùng đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở gần cây trúc, thích ở bên ngoài\nThích ở cùng đồng loại</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>

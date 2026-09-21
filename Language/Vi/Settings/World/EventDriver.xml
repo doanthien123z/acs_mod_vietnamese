@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Template">
+			<DisplayName>Khuôn mẫu</DisplayName>
+			<Types.0.DisplayName>Sự kiện cơ duyên</Types.0.DisplayName>
+			<Types.0.Desc>Bao gồm Vết tích Cổ Thú và Vết tích Cổ Tu</Types.0.Desc>
+			<Types.1.DisplayName>Sự kiện địch mạnh</Types.1.DisplayName>
+			<Types.1.Desc>Bao gồm sự kiện Tu sĩ xâm lăng và Yêu thú xâm lăng độ khó cao</Types.1.Desc>
+			<Types.2.DisplayName>Sự kiện hiếm</Types.2.DisplayName>
+			<Types.2.Desc>Bao gồm sự kiện thời tiết khắc nghiệt, kỳ ngộ Pháp Bộc và đào được bảo vật cấp cao</Types.2.Desc>
+			<Types.3.DisplayName>Sự kiện bí ẩn</Types.3.DisplayName>
+			<Types.3.Desc>Bao gồm Thiên Mệnh Hiển Linh và Thiên Mệnh Hiển Linh</Types.3.Desc>
+			<Types.4.DisplayName>Sự kiện khách viếng thăm</Types.4.DisplayName>
+			<Types.4.Desc>Bao gồm Tị nạn xin gia nhập, Thỉnh cầu của khách qua đường và Tiên nhân bái phỏng</Types.4.Desc>
+			<Types.5.DisplayName>Sự kiện kẻ địch</Types.5.DisplayName>
+			<Types.5.Desc>Bao gồm Tu sĩ xâm lăng và Yêu thú xâm lăng</Types.5.Desc>
+			<Types.6.DisplayName>Sự kiện thường</Types.6.DisplayName>
+			<Types.6.Desc>Bao gồm hiện tượng thời tiết và biến đổi khí vận tông môn</Types.6.Desc>
+			<Types.7.DisplayName>Sự kiện cao cấp</Types.7.DisplayName>
+			<Types.7.Desc>Bao gồm hiện tượng thời tiết đặc biệt, bảo vật xuất thế và linh khí phun trào</Types.7.Desc>
+		</Text>
+		<Text Name="EasyFate">
+			<DisplayName>An lành</DisplayName>
+		</Text>
+		<Text Name="NormalFate">
+			<DisplayName>Khiêu chiến</DisplayName>
+		</Text>
+		<Text Name="HardFate">
+			<DisplayName>Tàn bạo</DisplayName>
+		</Text>
+	</List>
+</Texts>

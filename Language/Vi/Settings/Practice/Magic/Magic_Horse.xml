@@ -1,0 +1,9 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse">
+			<DisplayName>Khế ước linh hồn</DisplayName>
+			<Desc>Thi triển pháp thuật lên yêu thú cấp thấp và phong ấn nó vào khế ước</Desc>
+			<TargetDesc>Chọn yêu thú đang bất tỉnh</TargetDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,652 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_BadFight1">
+			<DisplayName>Dấu vết của Ma môn</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà đệ tử Ma môn để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.0.Tip>Nền tảng chân khí</Selections.0.Tip>
+			<Selections.1.Display>Ngăn cản bọn chúng</Selections.1.Display>
+			<Selections.1.Tip>Nền tảng chân khí</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_BadFight2">
+			<DisplayName>Dấu vết của Ma môn</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà đệ tử Ma môn để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.0.Tip>Ngưng tụ chân đan</Selections.0.Tip>
+			<Selections.1.Display>Ngăn cản bọn chúng</Selections.1.Display>
+			<Selections.1.Tip>Ngưng tụ chân đan</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_BadFight3">
+			<DisplayName>Dấu vết của Ma môn</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà trưởng lão Chính đạo để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Ngăn cản bọn chúng</Selections.1.Display>
+			<Selections.1.Tip>Kim Đan</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight1">
+			<DisplayName>Dấu vết của Chính đạo</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà đệ tử Chính đạo để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.1.Display>Tập kích</Selections.1.Display>
+			<Selections.1.Tip>Nền tảng chân khí</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight2">
+			<DisplayName>Dấu vết của Chính đạo</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà đệ tử Chính đạo để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.1.Display>Tập kích</Selections.1.Display>
+			<Selections.1.Tip>Ngưng tụ chân đan</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GoodFight3">
+			<DisplayName>Dấu vết của Chính đạo</DisplayName>
+			<Desc>[NAME] Phát hiện một số dấu vết mà trưởng lão Chính đạo để lại gần[PLACE]</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.1.Display>Tập kích</Selections.1.Display>
+			<Selections.1.Tip>Kim Đan</Selections.1.Tip>
+			<Selections.2.Display>Không để ý</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear1">
+			<DisplayName>Phát hiện bảo vật</DisplayName>
+			<Desc>[NAME] Đã phát hiện một số bảo vật ẩn giấu trong[PLACE]</Desc>
+			<Selections.0.Display>Chiến đấu để tranh giành</Selections.0.Display>
+			<Selections.0.Tip>Nền tảng chân khí</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear2">
+			<DisplayName>Phát hiện bảo vật</DisplayName>
+			<Desc>[NAME] Đã phát hiện một số bảo vật ẩn giấu trong[PLACE]</Desc>
+			<Selections.0.Display>Chiến đấu để tranh giành</Selections.0.Display>
+			<Selections.0.Tip>Ngưng tụ chân đan</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3">
+			<DisplayName>Phát hiện bảo vật</DisplayName>
+			<Desc>[NAME] Đã phát hiện một số bảo vật ẩn giấu trong[PLACE]</Desc>
+			<Selections.0.Display>Chiến đấu để tranh giành</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3_Cold">
+			<DisplayName>Phát hiện bảo vật</DisplayName>
+			<Desc>[NAME] Đã phát hiện một số bảo vật ẩn giấu trong[PLACE] Do phong ấn bị phá vỡ, vùng đất xung quanh nơi này bị bao phủ bởi băng giá. Điều này khiến không ai có thể lại gần nếu không có tu vi thâm hậu</Desc>
+			<Selections.0.Display>Chiến đấu để tranh giành</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_FabaoAppear3_Hot">
+			<DisplayName>Phát hiện bảo vật</DisplayName>
+			<Desc>[NAME] Đã phát hiện một số bảo vật ẩn giấu trong[PLACE] Do phong ấn bị phá vỡ, vùng đất xung quanh nơi này bị bao phủ bởi dung nham. Điều này khiến không ai có thể lại gần nếu không có tu vi thâm hậu</Desc>
+			<Selections.0.Display>Chiến đấu để tranh giành</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear">
+			<DisplayName>Tiên động</DisplayName>
+			<Desc>[NAME] Phát hiện nơi ở của tiên nhân tại[PLACE] Bên trong ẩn giấu rất nhiều kho báu</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Cold">
+			<DisplayName>Tiên động</DisplayName>
+			<Desc>[NAME] Phát hiện nơi ở của tiên nhân tại[PLACE] Bên trong ẩn giấu rất nhiều kho báu. Tuy nhiên, hang động này được bảo vệ bởi cấm chế, khiến bên trong bao phủ bởi hàn khí có thể lấy mạng bất kỳ ai không có khả năng kháng cự đủ cao</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Hot">
+			<DisplayName>Tiên động</DisplayName>
+			<Desc>[NAME] Phát hiện nơi ở của tiên nhân tại[PLACE] Bên trong ẩn giấu rất nhiều kho báu. Tuy nhiên, hang động này được bảo vệ bởi cấm chế, khiến bên trong bao phủ bởi nhiệt khí có thể lấy mạng bất kỳ ai không có khả năng kháng cự đủ cao</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Manual">
+			<DisplayName>Tiên động</DisplayName>
+			<Desc>[NAME] Phát hiện nơi ở của tiên nhân tại[PLACE] Bên trong ẩn giấu rất nhiều kho báu. Chủ nhân hang động này là một bậc thầy luyện khí, đã thiết lập vô số cạm bẫy và cấm chế bằng kỹ năng này. Người vào đây mà không có kỹ năng luyện khí cao thâm tất sẽ gặp họa diệt thân</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng luyện khí</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppear_Medicine">
+			<DisplayName>Tiên động</DisplayName>
+			<Desc>[NAME] Phát hiện nơi ở của tiên nhân tại[PLACE] Bên trong ẩn giấu rất nhiều kho báu. Chủ nhân hang động này là một bậc thầy luyện đan, đã thiết lập vô số cạm bẫy và cấm chế bằng kỹ năng này. Người vào đây mà không có kỹ năng luyện đan cao thâm tất sẽ gặp họa diệt thân</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng luyện đan</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica1">
+			<DisplayName>Dấu vết của cổ tịch</DisplayName>
+			<Desc>Khi vừa đến[PLACE] [NAME] Phát hiện có rất nhiều tu sĩ đã đến đây để tìm kiếm cổ tịch</Desc>
+			<Selections.0.Display>Dự đoán vị trí cổ tịch</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Tìm kiếm xung quanh</Selections.1.Display>
+			<Selections.1.Tip>Sử dụng vận may</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Esoterica2">
+			<DisplayName>Phát hiện bí tịch</DisplayName>
+			<Desc>Khi vừa đến[PLACE] [NAME] Phát hiện các tu sĩ khác đang tìm kiếm bí tịch đều đang vướng vào cuộc chiến tranh giành hỗn loạn</Desc>
+			<Selections.0.Display>Dùng sức mạnh tranh đoạt</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Chờ đợi</Selections.1.Display>
+			<Selections.1.Tip>Sử dụng vận may</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Magic">
+			<DisplayName>Cổ bảo di sản</DisplayName>
+			<Desc>Khi vừa đến[PLACE] [NAME] Phát hiện rất nhiều tu sĩ tụ tập quanh một khối đá khắc mới được phát hiện trên vách đá Long Nhai</Desc>
+			<Selections.0.Display>Tọa thiền</Selections.0.Display>
+			<Selections.0.Tip>Trí tuệ</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Cold">
+			<DisplayName>Cổ bảo di sản</DisplayName>
+			<Desc>Khi vừa đến[PLACE] [NAME] Phát hiện rất nhiều tu sĩ tụ tập quanh một khối đá khắc mới được phát hiện trên vách đá Long Nhai. Tuy nhiên, do sự biến động của linh khí thiên địa, khu vực xung quanh nơi này đã bị băng giá bao phủ</Desc>
+			<Selections.0.Display>Tọa thiền</Selections.0.Display>
+			<Selections.0.Tip>Trí tuệ</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Magic_Hot">
+			<DisplayName>Cổ bảo di sản</DisplayName>
+			<Desc>Khi vừa đến[PLACE] [NAME] Phát hiện rất nhiều tu sĩ tụ tập quanh một khối đá khắc mới được phát hiện trên vách đá Long Nhai. Tuy nhiên, do sự biến động của linh khí thiên địa, khu vực xung quanh nơi này đã bị nham thạch nóng chảy bao phủ</Desc>
+			<Selections.0.Display>Tọa thiền</Selections.0.Display>
+			<Selections.0.Tip>Trí tuệ</Selections.0.Tip>
+			<Selections.1.Display>Rời đi không cam lòng</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX1">
+			<DisplayName>Trùng Cốc</DisplayName>
+			<Desc>Theo ghi chép trong Du ký Phong Ngâm quyển 6, công pháp sát phạt do Hồn Nguyên Tiên Tôn sáng chế. Nhờ môn công pháp này, ông đã nổi danh khắp tu chân giới. Sau đó, ông bị sáu đại ma môn ở Trùng Cốc phương nam tập kích và mất tích. Người ta đồn rằng trọng bảo của ông đã được để lại tại Trùng Cốc này. Dựa theo ghi chép trong sách [NAME] Liền đến Trùng Cốc để tìm kiếm cơ duyên</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX2">
+			<DisplayName>Vạn Độc Bảo</DisplayName>
+			<Desc>Theo lời kể trong Phụ lục quyển 3: Tiêu Dao đảo chính là nhục thân của thượng cổ Long tổ bỏ lại sau khi phi thăng tiên giới, còn Độc Long đàm chính là phần não của con rồng đó. Nếu lời đồn này là thật, có lẽ nơi đây sẽ có những bảo vật hiếm có rất đáng để khám phá</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX3">
+			<DisplayName>Thiên Cung</DisplayName>
+			<Desc>[NAME] Hồi tưởng lại những gì được ghi chép trong Du ký Phong Ngâm quyển 1: Vẫn còn một động phủ bí ẩn nằm bên dưới động phủ của Thần y tọa lạc trên đỉnh Dược Sơn. Do đó[ENHIM]Quyết định khám phá nơi này</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX4">
+			<DisplayName>Hỏa Cốc</DisplayName>
+			<Desc>[NAME] Hồi tưởng lại những gì được ghi chép trong Vân Cật Bí Thư: Vô biên đại mạc, sa mạc này được hình thành từ thiên thạch rơi xuống từ thời thái cổ. Về sau, nơi thiên thạch rơi xuống được biết đến với cái tên Hỏa Cốc. Có lẽ ẩn giấu trong hang động này vẫn còn những bí ẩn đang chờ được khám phá</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX5">
+			<DisplayName>Thần Bảo</DisplayName>
+			<Desc>Theo lời kể trong Phụ lục quyển 1: Sâu bên trong Thiên Trì trên đỉnh Ngũ Sắc Liên Sơn có một tòa kiến trúc cổ xưa từng là nơi ẩn cư tĩnh lặng của một vị nông phu bí ẩn [NAME] Liền quyết định đến nơi đó khám phá</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.0.Tip>Dùng cơ duyên và ngộ tính</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_Baozang_EX6">
+			<DisplayName>Yêu Tàn</DisplayName>
+			<Desc>Theo lời kể trong Du ký Phong Ngâm quyển 2: Từng có một cỗ Yêu thú thượng cổ bị phong ấn tại Vạn Cỏ Lâm trên Hắc Thạch Sơn. Người ta đồn rằng nếu có đại cơ duyên, người đó có thể nhận được công pháp bí truyền thông qua việc giao tiếp với yêu thú thượng cổ ấy</Desc>
+			<Selections.0.Display>Nói chuyện với yêu thú thượng cổ</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX">
+			<DisplayName>Thái Hách Tông di tích</DisplayName>
+			<Desc>Lúc này không thấy bóng dáng kẻ địch, do đó [NAME] Cẩn thận quay trở lại Thái Hách Tông</Desc>
+			<Selections.0.Display>Tàng Kinh H阁</Selections.0.Display>
+			<Selections.1.Display>Tìm kiếm xung quanh</Selections.1.Display>
+			<Selections.2.Display>Khách nhân bí ẩn</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DongFuAppearEX_FIX">
+			<DisplayName>Hồi ức: Trở về Thái Hách Tông</DisplayName>
+			<Desc>Vì nhiệm vụ chính tuyến liên quan đến sự diệt vong của Thái Hách Tông chưa xuất hiện cho đến khi có bản cập nhật nội dung mới, cốt truyện mà người chơi phiên bản trước có thể bỏ lỡ sẽ được phát lại ở đây\nVài tháng sau sự sụp đổ của Thái Hách Tông, Người đã phát hiện ra năm bộ công pháp của Thái Hách Tông khi trở lại phế tích của tông môn. Tuy nhiên, trong quá trình khám phá, Người chợt nhận ra một bóng người từ đằng xa. Nhìn thoáng qua, kẻ đó dường như là Trưởng lão Nguyệt Thanh Tiêu của Dạ Quang Tông! Thật bất thường khi ả ta lại đến đây, chắc chắn ả phải biết điều gì đó\nDo giới hạn thời gian nhiệm vụ, các file lưu trữ cũ có thời gian chơi trên 700 ngày sẽ không tránh khỏi việc bỏ lỡ các manh mối quan trọng, dẫn đến việc không thể trải nghiệm toàn bộ cốt truyện chính. Thành thật xin lỗi về điều này</Desc>
+			<Selections.0.Display>Xác nhận</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_NanPing1">
+			<DisplayName>Hộp đá</DisplayName>
+			<Desc>[NAME] Đã đến thôn Nam Bình và biết được một nam nhân tên là Trương Nhị Oản đang sống ở ngôi làng này</Desc>
+			<Selections.0.Display>Hỏi về chiếc hộp đá</Selections.0.Display>
+			<Selections.0.Tip>Mị lực</Selections.0.Tip>
+		</Text>
+		<Text Name="Secrets_XianJianLing1">
+			<DisplayName>Thiên Kiếm Cục</DisplayName>
+			<Desc>[NAME] Đã đến Thục Sơn để điều tra về Thiên Kiếm Cục.</Desc>
+			<Selections.0.Display>Thám thính chi tiết</Selections.0.Display>
+			<Selections.1.Display>Liên lạc với Thục Sơn</Selections.1.Display>
+			<Selections.2.Display>Che giấu sự thật</Selections.2.Display>
+			<Selections.3.Display>Bắt hung thủ thất bại</Selections.3.Display>
+			<Selections.4.Display>Rời đi</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_XianJianLing2">
+			<DisplayName>Dấu vết của Ma giáo</DisplayName>
+			<Desc>Sau khi truy đuổi tàn dư Ma giáo tới tận biên giới, cuối cùng [NAME] cũng bắt kịp chúng. Chúng khẩn cầu tha mạng và dâng lên công pháp bí truyền của Vạn Ma Tông cho Người [NAME]</Desc>
+			<Selections.0.Display>Tha cho chúng</Selections.0.Display>
+			<Selections.1.Display>Giết chúng để trừ hại cho đời</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui">
+			<DisplayName>Lễ hội núi Côn Lôn</DisplayName>
+			<Desc>[NAME] Đã tới núi Côn Lôn và phát hiện lễ hội núi Côn Lôn đã bắt đầu. Các tu sĩ và tiên nhân đều tụ hội về đây để phô diễn tài năng. Chỉ những người đạt cảnh giới Kim Đan trở lên mới có tư cách tham gia. Người chiến thắng trong lễ hội có thể nhận được công pháp từ Vĩnh Hằng Ngọc Điện. [NAME] Đang phân vân rằng[ENHIM]nên tham gia hạng mục thi đấu nào</Desc>
+			<Selections.0.Display>Thi giảng đạo</Selections.0.Display>
+			<Selections.1.Display>Thi luyện khí</Selections.1.Display>
+			<Selections.2.Display>Thi luyện đan</Selections.2.Display>
+			<Selections.3.Display>Thi đấu kiếm</Selections.3.Display>
+			<Selections.4.Display>Thi đấu pháp thuật</Selections.4.Display>
+			<Selections.5.Display>Rời đi</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui1">
+			<DisplayName>Giảng đạo núi Côn Lôn</DisplayName>
+			<Desc>[NAME] Đã tới đỉnh chủ phong của núi Côn Lôn, nơi các tu sĩ tụ tập đông đúc để luận đạo. Theo lệ thường từ xưa, người chiến thắng sẽ nhận được bí kíp Thuần Dương Tiên Ngọc.</Desc>
+			<Selections.0.Display>Giảng đạo</Selections.0.Display>
+			<Selections.0.Tip>Trí tuệ/Vận may/Tổng chỉ số</Selections.0.Tip>
+			<Selections.1.Display>Giảng đạo</Selections.1.Display>
+			<Selections.1.Tip>Trí tuệ/Vận may/Tổng chỉ số</Selections.1.Tip>
+			<Selections.2.Display>Lắng nghe và học hỏi</Selections.2.Display>
+			<Selections.2.Tip>Trí tuệ/Vận may</Selections.2.Tip>
+			<Selections.3.Display>Quay lại lối vào</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui2">
+			<DisplayName>Thi luyện khí</DisplayName>
+			<Desc>[NAME] Đã tới hang Long Mạch trên núi Côn Lôn, nơi các tu sĩ thể hiện kỹ năng luyện khí của mình. Theo lệ thường từ xưa, người chiến thắng sẽ nhận được bí kíp Vạn Đạo Tạo Khí.</Desc>
+			<Selections.0.Display>Tham gia thi đấu</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng luyện khí/Vận may/Tổng chỉ số</Selections.0.Tip>
+			<Selections.1.Display>Tham gia thi đấu</Selections.1.Display>
+			<Selections.1.Tip>Kỹ năng luyện khí/Vận may/Tổng chỉ số</Selections.1.Tip>
+			<Selections.2.Display>Quan sát và học hỏi</Selections.2.Display>
+			<Selections.2.Tip>Trí tuệ/Vận may</Selections.2.Tip>
+			<Selections.3.Display>Quay lại lối vào</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui3">
+			<DisplayName>Thi luyện đan</DisplayName>
+			<Desc>[NAME] Đã tới ao Ngọc trên núi Côn Lôn, nơi các bậc tu sĩ nổi danh thể hiện kỹ năng trân quý trong việc xử lý thảo dược và luyện chế đan dược thượng hạng. Theo lệ thường từ xưa, người chiến thắng sẽ nhận được bí kíp Khởi Nguyên Luyện Đan.</Desc>
+			<Selections.0.Display>Tham gia thi đấu</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng luyện đan/Vận may/Tổng chỉ số</Selections.0.Tip>
+			<Selections.1.Display>Tham gia thi đấu</Selections.1.Display>
+			<Selections.1.Tip>Kỹ năng luyện đan/Vận may/Tổng chỉ số</Selections.1.Tip>
+			<Selections.2.Display>Quan sát và học hỏi</Selections.2.Display>
+			<Selections.2.Tip>Trí tuệ/Vận may</Selections.2.Tip>
+			<Selections.3.Display>Quay lại lối vào</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui4">
+			<DisplayName>Thi đấu kiếm</DisplayName>
+			<Desc>[NAME] Đã tới Lôi Đài Tiên trên núi Côn Lôn, nơi các tu sĩ nổi danh thể hiện tài nghệ để giành lấy danh hiệu kiếm tu mạnh nhất. Theo lệ thường từ xưa, người chiến thắng sẽ nhận được bí kíp Thất Sát Kiếm Kinh.</Desc>
+			<Selections.0.Display>Tham gia tỉ thí</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng pháp bảo/Vận may/Tổng chỉ số</Selections.0.Tip>
+			<Selections.1.Display>Tham gia tỉ thí</Selections.1.Display>
+			<Selections.1.Tip>Kỹ năng pháp bảo/Vận may/Tổng chỉ số</Selections.1.Tip>
+			<Selections.2.Display>Quan sát và học hỏi</Selections.2.Display>
+			<Selections.2.Tip>Trí tuệ/Vận may</Selections.2.Tip>
+			<Selections.3.Display>Quay lại lối vào</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_KunLunFaHui5">
+			<DisplayName>Thi đấu pháp thuật</DisplayName>
+			<Desc>[NAME] Đã tới di tích Vĩnh Hằng trên núi Côn Lôn, nơi các tu sĩ nổi danh thể hiện tài nghệ để giành lấy danh hiệu người sử dụng pháp thuật mạnh nhất. Theo lệ thường từ xưa, người chiến thắng sẽ nhận được bí kíp Trảm Tình Thần Pháp.</Desc>
+			<Selections.0.Display>Tham gia tỉ thí</Selections.0.Display>
+			<Selections.0.Tip>Kỹ năng pháp thuật/Vận may/Tổng chỉ số</Selections.0.Tip>
+			<Selections.1.Display>Tham gia tỉ thí</Selections.1.Display>
+			<Selections.1.Tip>Kỹ năng pháp thuật/Vận may/Tổng chỉ số</Selections.1.Tip>
+			<Selections.2.Display>Quan sát và học hỏi</Selections.2.Display>
+			<Selections.2.Tip>Trí tuệ/Vận may</Selections.2.Tip>
+			<Selections.3.Display>Quay lại lối vào</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_GuangShouMenTu">
+			<DisplayName>Lễ hội Tiên Duyên</DisplayName>
+			<Desc>Lễ hội Tiên Duyên được tổ chức hàng năm trong giới tu chân đã bắt đầu. Tất cả các đại tông môn đều tới đây[PLACE] để chiêu mộ những mầm non tiềm năng. Trong thời gian diễn ra lễ hội, những nhân tài khát khao tầm tiên đạo đều tập trung tại đây. [NAME] Người cũng với tư cách đại diện tông môn tham gia lễ hội Tiên Duyên để tìm kiếm người có căn cơ.</Desc>
+			<Selections.0.Display>Chiêu mộ đệ tử</Selections.0.Display>
+			<Selections.0.Tip>Danh tiếng tông môn/Căn cơ/Mị lực/Khả năng giao tiếp</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_XieDiLing">
+			<DisplayName>Lăng mộ Ma Đế</DisplayName>
+			<Desc>Lăng mộ Ma Đế đã mở, các tu sĩ đều lũ lượt kéo đến đây tìm kiếm cơ duyên.</Desc>
+			<Selections.0.Display>Tìm kiếm bảo vật</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan">
+			<DisplayName>Mở rương hoàng kim</DisplayName>
+			<Desc>Khi [NAME] Đã đến được Bích Ngọc Hồ [ENHIM]Phát hiện ra nước trong hồ đang sục sôi với ánh sáng vàng rực rỡ. Khi thời gian trôi qua qua nhiều giờ, nước trong hồ đột nhiên tung tóe khắp tứ phương với một tiếng động đinh tai nhức óc. Vô số luồng sáng từ dưới nước phóng vụt lên tỏa ra uy áp linh khí vô cùng cuồn cuộn, và thứ gì đó ẩn hiện bên trong những luồng sáng ấy vô cùng bắt mắt.</Desc>
+			<Selections.0.Display>Đuổi theo hộp sách bị phong ấn bởi bùa chú</Selections.0.Display>
+			<Selections.0.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.0.Tip>
+			<Selections.1.Display>Đuổi theo năm món pháp bảo đang bay xoay tròn tỏa sáng rực rỡ thành hình xoắn ốc</Selections.1.Display>
+			<Selections.1.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.1.Tip>
+			<Selections.2.Display>Đuổi theo chiếc nhẫn phát ra ánh sáng đen trắng đan xen</Selections.2.Display>
+			<Selections.2.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.2.Tip>
+			<Selections.3.Display>Đuổi theo sáu viên đan dược tỏa ra hào quang màu tím</Selections.3.Display>
+			<Selections.3.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.3.Tip>
+			<Selections.4.Display>Đuổi theo đám mây đen tỏa ra ma khí</Selections.4.Display>
+			<Selections.4.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.4.Tip>
+			<Selections.5.Display>Rời đi</Selections.5.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan1">
+			<DisplayName>Mở rương hoàng kim</DisplayName>
+			<Desc>Khi [NAME] Đã đến được Bích Ngọc Hồ [ENHIM]Phát hiện ra nước trong hồ đang sục sôi với ánh sáng vàng rực rỡ. Khi thời gian trôi qua qua nhiều giờ, nước trong hồ đột nhiên tung tóe khắp tứ phương với một tiếng động đinh tai nhức óc. Vô số luồng sáng từ dưới nước phóng vụt lên tỏa ra uy áp linh khí vô cùng cuồn cuộn, và thứ gì đó ẩn hiện bên trong những luồng sáng ấy vô cùng bắt mắt.</Desc>
+			<Selections.0.Display>Đuổi theo chiếc hạp ngọc có khắc ký hiệu Âm Dương</Selections.0.Display>
+			<Selections.0.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.0.Tip>
+			<Selections.1.Display>Đuổi theo đan dược ở cảnh giới Nguyên Anh</Selections.1.Display>
+			<Selections.1.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.1.Tip>
+			<Selections.2.Display>Đuổi theo một quyển bí kíp nào đó đang tỏa ra ma khí</Selections.2.Display>
+			<Selections.2.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.2.Tip>
+			<Selections.3.Display>Rời đi</Selections.3.Display>
+		</Text>
+		<Text Name="Secrets_YuJingTan2">
+			<DisplayName>Mở rương hoàng kim</DisplayName>
+			<Desc>Khi [NAME] Đã đến được Bích Ngọc Hồ [ENHIM]Phát hiện ra nước trong hồ đang sục sôi với ánh sáng vàng rực rỡ. Khi thời gian trôi qua qua nhiều giờ, nước trong hồ đột nhiên tung tóe khắp tứ phương với một tiếng động đinh tai nhức óc. Vô số luồng sáng từ dưới nước phóng vụt lên tỏa ra uy áp linh khí vô cùng cuồn cuộn, và thứ gì đó ẩn hiện bên trong những luồng sáng ấy vô cùng bắt mắt.</Desc>
+			<Selections.0.Display>Đuổi theo cuốn sách tỏa ra thần thánh hào quang</Selections.0.Display>
+			<Selections.0.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.0.Tip>
+			<Selections.1.Display>Đuổi theo ba thanh kim loại tỏa ra ma khí</Selections.1.Display>
+			<Selections.1.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.1.Tip>
+			<Selections.2.Display>Đuổi theo cổ kinh</Selections.2.Display>
+			<Selections.2.Tip>Tốc độ bay \ Sử dụng vận may \ Nguyên Anh</Selections.2.Tip>
+			<Selections.3.Display>Đuổi theo mảnh vỡ cổ kinh bị phong ấn kỳ lạ</Selections.3.Display>
+			<Selections.3.Tip>Tốc độ bay</Selections.3.Tip>
+			<Selections.4.Display>Rời đi</Selections.4.Display>
+		</Text>
+		<Text Name="Secrets_WuHeYouZhiXiang">
+			<DisplayName>Truyền thuyết dị giới</DisplayName>
+			<Desc>[NAME] Đã đến khe nứt dị giới để cố gắng dò tìm con đường bí ẩn dẫn đến vùng đất diệt vong</Desc>
+			<Selections.0.Display>Khám phá</Selections.0.Display>
+			<Selections.0.Tip>Đạo chủng</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YingTianTai">
+			<DisplayName>Kẻ đến từ dị giới</DisplayName>
+			<Desc>[NAME] Đã đến khe nứt dị giới để cố gắng tìm kiếm kẻ đến từ dị giới được nhắc đến trong truyền thuyết</Desc>
+			<Selections.0.Display>Tìm kiếm</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieChuanWen">
+			<DisplayName>Tin đồn dị giới</DisplayName>
+			<Desc>Tin đồn mới nhất nhận được từ thành Hải Cảnh cho biết có một vùng biển bị bao phủ bởi mây và sương mù dày đặc xuất hiện ở vùng biển sâu phía bắc. Nơi này vô cùng bất thường và nguy hiểm vì chưa từng có ai quay trở lại sau khi bước vào. Để thu thập thêm thông tin, [NAME] Ngài quyết định đến thành Hải Cảnh một lần nữa</Desc>
+			<Selections.0.Display>Hỏi thăm thông tin</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi1">
+			<DisplayName>Khe nứt dị giới</DisplayName>
+			<Desc>[NAME] Đã đến nơi được nhắc đến và đúng như dự đoán, nơi đây có vô số khe nứt không gian. Nhưng điều đáng ngạc nhiên là dòng năng lượng tỏa ra từ các khe nứt không gian tại đây lại vô cùng ổn định, và [NAME] Vẫn có thể cảm nhận được bầu không khí yên bình phía sau khe nứt không gian này, có vẻ như nó cực kỳ an toàn</Desc>
+			<Selections.0.Display>Try to Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi11">
+			<DisplayName>Thám hiểm dị giới</DisplayName>
+			<Desc>Sau khi hơi kinh ngạc một chút [NAME] Phát hiện ra Nguyên Anh của[ENHIM]Đã tạm thời tách khỏi cơ thể và bay vào khe nứt không gian phía trước. Sau khi kiểm tra, [NAME] Phát hiện ra vương quốc kỳ lạ này hoàn toàn không có linh khí, và Nguyên Anh của[ENHIM]Có thể trở về cơ thể của[ENHIM]Bất cứ lúc nào. Khi cảm thấy nhẹ nhõm, [NAME] Ngài quyết định bắt đầu thám hiểm vương quốc kỳ lạ này</Desc>
+			<Selections.0.Display>Quan sát xung quanh</Selections.0.Display>
+			<Selections.1.Display>Hành tẩu giang hồ</Selections.1.Display>
+			<Selections.2.Display>Made great gains</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_YiJieKaiQi21">
+			<DisplayName>Thám hiểm dị giới</DisplayName>
+			<Desc>Sau khi hơi kinh ngạc một chút [NAME] Phát hiện ra Nguyên Anh của[ENHIM]Đã tạm thời tách khỏi cơ thể và bay vào khe nứt không gian phía trước. Sau khi kiểm tra, [NAME] Phát hiện ra vương quốc kỳ lạ này hoàn toàn không có linh khí, và Nguyên Anh của[ENHIM]Có thể trở về cơ thể của[ENHIM]Bất cứ lúc nào. Khi cảm thấy nhẹ nhõm, [NAME] Ngài quyết định bắt đầu thám hiểm vương quốc kỳ lạ này</Desc>
+			<Selections.0.Display>Quan sát xung quanh</Selections.0.Display>
+			<Selections.1.Display>Khám phá</Selections.1.Display>
+			<Selections.2.Display>Kiểm tra lịch sử</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong">
+			<DisplayName>Dấu vết của kẻ cuồng cược</DisplayName>
+			<Desc>Sau khi hỏi thăm những người dân làng xung quanh đây, cuối cùng [NAME] Đã tìm thấy nhà của Diệp Hiên - gã đánh bạc.</Desc>
+			<Selections.0.Display>Chơi ván cờ cùng hắn.</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong1">
+			<DisplayName>Trò chơi sinh tử.</DisplayName>
+			<Desc>Diệp Hiên đồng ý chơi cùng [NAME] Luật chơi rất đơn giản: Mỗi người chơi lần lượt rút 2 cọng cỏ từ 5 cọng có độ dài khác nhau, mỗi cọng cỏ mang một con số từ 1~5 Sau đó người chơi phải cộng các con số trong tay lại và đoán chênh lệch giữa con số của đối phương, sử dụng độ dài của cọng cỏ làm gợi ý. Ai đoán gần đúng nhất sẽ là người chiến thắng. Nếu [NAME] Chiến thắng [ENHIM]có thể rời đi cùng với bảo vật, nhưng nếu thua [ENHIM]sẽ phải giao ra 50 năm tuổi thọ để đền bù.</Desc>
+			<Selections.0.Display>Chấp nhận đánh cược.</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DuGuiXingZong2">
+			<DisplayName>Trò chơi sinh tử.</DisplayName>
+			<Desc>Diệp Hiên đồng ý chơi cùng [NAME] Luật chơi rất đơn giản: Mỗi người chơi lần lượt rút 2 cọng cỏ từ 5 cọng có độ dài khác nhau, mỗi cọng cỏ mang một con số từ 1~5 Sau đó người chơi phải cộng các con số trong tay lại và đoán chênh lệch giữa con số của đối phương, sử dụng độ dài của cọng cỏ làm gợi ý. Ai đoán gần đúng nhất sẽ là người chiến thắng. Nếu [NAME] Chiến thắng [ENHIM]có thể rời đi cùng với bảo vật, nhưng nếu thua [ENHIM]sẽ phải giao ra 50 năm tuổi thọ để đền bù.</Desc>
+			<Selections.0.Display>Không</Selections.0.Display>
+			<Selections.1.Display>Một</Selections.1.Display>
+			<Selections.2.Display>Hai</Selections.2.Display>
+			<Selections.3.Display>Ba</Selections.3.Display>
+			<Selections.4.Display>Bốn</Selections.4.Display>
+			<Selections.5.Display>Năm</Selections.5.Display>
+			<Selections.6.Display>Sáu</Selections.6.Display>
+		</Text>
+		<Text Name="Secrets_TianJi">
+			<DisplayName>Thiên Cổ Phù Lục.</DisplayName>
+			<Desc>Giữa sự ngạc nhiên của [NAME] Dù có một vài phần bị thiếu hụt, nhưng[ENHIM]Phát hiện ra tại cửa hang có những hoa văn kỳ lạ tương tự như ấn ký của Thiên Sư được ghi chép trong Tiên Đạo Kinh. Có lẽ nơi này có liên quan tới vị Thiên Sư đã mất tích năm xưa.?</Desc>
+			<Selections.0.Display>Thử giải phong ấn.</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi1">
+			<DisplayName>Hang Động Long Mạch Bí Ẩn.</DisplayName>
+			<Desc>Khi sương mù tan đi, [NAME] Liền thấy bản thân đang ở trong một hang động có ký tự lạ lớn được khắc trên vách đá. Khi nhìn quanh, [ENHIM]Phát hiện có một thân ảnh nam tử với mái tóc và râu trắng bạc đang ngồi đả tọa giữa hang. Người này có ngũ quan sắc sảo như được điêu khắc tinh xảo. Trước mặt nam tử xuất hiện một đài đá tự nhiên có khảm một viên ngọc không rõ nguồn gốc. Sau khi cẩn thận thăm dò, [NAME] Phát hiện ra thân ảnh trước mắt chỉ là một cái xác không hồn. Hóa ra đây chính là nhục thân của một vị Tiên nhân. Cuốn sách trong tay lão giả có viết dòng chữ "Khúc Nhạc Non Nước" trên bìa.</Desc>
+			<Selections.0.Display>Kiểm tra vách hang.</Selections.0.Display>
+			<Selections.0.Tip>Tổng chỉ số/Chế tạo/Thông tuệ</Selections.0.Tip>
+			<Selections.1.Display>Kiểm tra thi thể lão giả.</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TianJi2">
+			<DisplayName>Thiên Sư.</DisplayName>
+			<Desc>Đây quả là một chuyến phiêu lưu đáng giá. Nhưng nên xử lý nhục thân Thiên Sư thế nào đây??</Desc>
+			<Selections.0.Display>Mang trở về tông môn.</Selections.0.Display>
+			<Selections.1.Display>Trả lại nhục thân cho Thượng Thiên Cung.</Selections.1.Display>
+			<Selections.2.Display>Để lại tại chỗ cũ.</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_TianJi3">
+			<DisplayName>Quay về nhà.</DisplayName>
+			<Desc>[NAME] Đã trao trả nhục thân Thiên Sư cho Thượng Thiên Cung. Toàn bộ Thượng Thiên Cung cảm thấy vô cùng hoan hỉ. Gương mặt các đệ tử Thượng Thiên Cung đều tràn ngập vẻ hạnh phúc.</Desc>
+			<Selections.0.Display>Trả lại nhục thân cho Thượng Thiên Cung.</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_SuoYingTuJuan">
+			<DisplayName>Vạn Vật Đồ Quyển.</DisplayName>
+			<Desc>Sau khi [NAME] Đã đến núi Bình Đỉnh. [ENHIM]Phát hiện có rất nhiều người đang tìm kiếm thánh vật.</Desc>
+			<Selections.0.Display>Thần bảo</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BanBenKaiQi3">
+			<DisplayName>Tiên Nhân Thức Tỉnh</DisplayName>
+			<Desc>Đã nhiều ngày trôi qua kể từ khi vụ nổ linh khí khủng khiếp lan rộng khắp giới. Sau khi nghiên cứu cổ tịch, các đại tông môn cùng kết luận rằng đây là hiện tượng Đại Linh Triều xuất hiện mỗi 3000 năm. Các tu sĩ cổ đại vốn đang ngủ say vì nhiều lý do, nay bắt đầu tỉnh giấc từng người một nhờ luồng linh khí ngàn năm này.\nKhác với tu sĩ hiện đại tuân theo quy tắc, các tu sĩ cổ đại tin vào luật lệ của sức mạnh, kẻ thắng làm vua. Chỉ trong vài ngày, các tu sĩ cổ đại này bắt đầu hành xử theo cách riêng và gây ra sự hỗn loạn cực lớn....</Desc>
+			<Selections.0.Display>Tiên Nhân Thức Tỉnh</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_BossLong">
+			<DisplayName>Dấu vết của Thủy Long.</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và cảm nhận được dấu vết của Thủy Long.</Desc>
+			<Selections.0.Display>Khiêu khích Thủy Long xuất hiện.</Selections.0.Display>
+			<Selections.0.Tip>Phi hành với tốc độ cao.</Selections.0.Tip>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossFeng">
+			<DisplayName>Dấu vết của Hỏa Phượng.</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và cảm nhận được dấu vết của Hỏa Phượng.</Desc>
+			<Selections.0.Display>Dụ Hỏa Phượng hiện thân</Selections.0.Display>
+			<Selections.0.Tip>Phi hành với tốc độ cao.</Selections.0.Tip>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_BossZhuLong">
+			<DisplayName>Âm Dương Chi Khí</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] và cảm nhận được dấu vết sự cân bằng Âm Dương bị xáo trộn</Desc>
+			<Selections.0.Display>Dẫn dắt Âm Dương Chi Khí</Selections.0.Display>
+			<Selections.0.Tip>Tốc độ bay thám hiểm</Selections.0.Tip>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_danengtest">
+			<DisplayName>Tiên Nhân Thức Tỉnh</DisplayName>
+			<Desc>Kể từ khi triều cường linh khí ngàn năm khởi phát, cổ tu sĩ xuất hiện khắp nơi. Hãy thu thập càng nhiều thông tin càng tốt, nhiều tiên nhân đã tái xuất thế gian.</Desc>
+			<Selections.0.Display>Tiên Nhân Thức Tỉnh</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi">
+			<DisplayName>Dấu vết cổ tu sĩ</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] để tìm kiếm manh mối về cổ tu sĩ</Desc>
+			<Selections.0.Display>Tìm kiếm cổ tu sĩ</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_DaNengChuShi1">
+			<DisplayName>Dấu vết cổ tu sĩ</DisplayName>
+			<Desc>Sau khi hỏi thăm thông tin khắp nơi, cuối cùng [NAME] cũng đã gặp được cổ tu sĩ</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
+			<Selections.1.Display>Đàm phán</Selections.1.Display>
+			<Selections.1.Tip>Mê lực/Chỉ số tổng</Selections.1.Tip>
+			<Selections.2.Display>Sơn động bí ẩn</Selections.2.Display>
+			<Selections.3.Display>Khiêu khích</Selections.3.Display>
+			<Selections.3.Tip>Tốc độ bay thám hiểm</Selections.3.Tip>
+			<Selections.4.Display>Rời đi</Selections.4.Display>
+		</Text>
+		<Text Name="Story_Building_SwordTower">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] ngồi trước bảo tháp và cố gắng giao tiếp với bảo tháp bằng tri giác</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HenZhiBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LongZhiBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_TongLing">
+			<DisplayName>Dấu vết cố nhân</DisplayName>
+			<Desc>[NAME] Đã đến núi Đồng Linh và dùng thần thức để tìm kiếm [ENHIM]Phát hiện người đàn ông kỳ lạ đó đang nằm trong mỏ hoang... và hóa ra người đó lại chính là Thất Trưởng Lão.!</Desc>
+			<Selections.0.Display>Chào hỏi ông ấy</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ShouZhiBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShouZhiBeiQian">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Dùng thần thức cố gắng giao tiếp với thi thể</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_WinterSummer">
+			<DisplayName>Thu hoạch</DisplayName>
+			<Desc>[NAME] Cẩn thận nhặt Hỏa Tuyết Trùng lên</Desc>
+			<Selections.0.Display>Thu hoạch</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_JiZhiBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_HuanZhiBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Jin">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Ngồi xuống và cố gắng dùng thần thức dò xét</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Mu">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Ngồi xuống và cố gắng dùng thần thức dò xét</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Shui">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Ngồi xuống và cố gắng dùng thần thức dò xét</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Huo">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Ngồi xuống và cố gắng dùng thần thức dò xét</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_LingZhi_Tu">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Ngồi xuống và cố gắng dùng thần thức dò xét</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Plant_ShiXiong">
+			<DisplayName>Tìm kiếm</DisplayName>
+			<Desc>Người này chính là Thất Trưởng Lão, xem ra trước khi chết đã phải chịu vô cùng đau đớn [NAME] Cúi đầu vái chào rồi lục soát thi thể Thất Trưởng Lão</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZhongBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_XingBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_LingBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_MuBei">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi trước bia đá và cố gắng dùng thần thức giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_TaiYi">
+			<DisplayName>Bái lễ tông môn</DisplayName>
+			<Desc>[NAME] Quỳ xuống trước sơn môn Thái Ất, những ký ức quá khứ bỗng dưng hiện lên trong lòng[ENHIM]</Desc>
+		</Text>
+		<Text Name="Story_Building_NoLight">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Cảm thấy kỳ lạ khi ngọn đèn này không được thắp sáng [ENHIM]Ngồi xuống dò xét và phát hiện có điều bất thường ở cảnh vật</Desc>
+		</Text>
+		<Text Name="Story_Building_FireLantern">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Thấy kỳ lạ, tại sao đèn lại làm bằng Hỏa Tâm Bổng? Khi quan sát kỹ [ENHIM]Nhận ra xung quanh dường như không còn là khu ở của thợ mỏ nữa</Desc>
+		</Text>
+		<Text Name="Story_Building_GolemLantern">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Thấy là lạ, phải chăng nơi này từng có cột đèn làm bằng Thánh Thạch? Sau khi đi vào[ENHIM]cảm nhận được làn gió mát và không còn thấy nóng nực nữa</Desc>
+		</Text>
+		<Text Name="Story_Building_OddLantern">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Thấy lạ kỳ, đây là vị trí thích hợp cho ngọn đèn này sao? Hay họ cố tình đặt nó ở đây? Đột nhiên ngọn đèn dường như phát ra âm thanh lạ, cảnh vật xung quanh liền biến đổi</Desc>
+		</Text>
+		<Text Name="Story_Item_OpenAuction">
+			<DisplayName>Kiểm tra</DisplayName>
+			<Desc>[NAME] Mở thiệp mời: \nBái kiến Tiên nhân, tại hạ thu thập được vô số bảo vật khắp thế gian, nay trân trọng mời Ngài đến thưởng lãm. Nếu thích, Ngài cũng có thể mua chúng về với quy tắc rất đơn giản: Ai ra giá nhiều Linh Thạch nhất sẽ sở hữu bảo vật đó.! \n\nChúc Ngài vạn sự an lành\nKý tên: Diệp Huyền</Desc>
+		</Text>
+		<Text Name="Story_Building_TaiYiTower">
+			<DisplayName>Nghi thức tưởng niệm</DisplayName>
+			<Desc>[NAME] Đã lặng lẽ hồi tưởng ký ức dưới chân tháp, nhưng đột nhiên [ENHIM]Cảm nhận được thứ gì đó dưới tháp dường như cộng hưởng với quy tắc Quy Nhất trên cơ thể. Phản ứng này vô cùng mờ nhạt, gần như không thể phát hiện, cảm giác rất giống với chân khí của Thái Ất Môn.</Desc>
+			<Selections.0.Display>Tìm kiếm</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_UnlockTiXiu">
+			<DisplayName>Long Khắc Nhai</DisplayName>
+			<Desc>Khi [NAME] Đã đến [ENHIM]Liền gặp một ngọn núi đá đỏ thẫm cao vút tận trời sâu trong sa mạc, vách đá dựng đứng và phẳng phiu như bị đao rìu gọt đẽo. Trên vách đá này khắc vô số văn tự phức tạp biến hóa khôn lường, đó chính là Long Khắc Nhai trong truyền thuyết, thánh địa của cổ Yêu Tộc.</Desc>
+			<Selections.0.Display>Tọa thiền tham ngộ khắc văn</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Esoterica_QuQiJue">
+			<DisplayName>Dấu vết Đan Sư</DisplayName>
+			<Desc>Cuối cùng, [NAME] Đã đi tới nơi đồn đại ở Vọng Nguyệt Sơn, sau khi tìm kiếm cẩn thận [ENHIM]Liền phát hiện một gò đất nhỏ mọc đầy thảo dược phong phú.</Desc>
+			<Selections.0.Display>Tìm kiếm</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

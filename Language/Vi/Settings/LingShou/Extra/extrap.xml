@@ -1,0 +1,94 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fat">
+			<RaceExtra.0.Lv.0.SName>Gầy</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Rất gầy, tốc độ di chuyển tăng mạnh</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Gầy</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Khá gầy, tốc độ di chuyển tăng nhẹ</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Thân hình cân đối</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Không béo không gầy</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Khá béo</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Trông hơi béo, lượng chân khí tối đa tăng nhẹ nhưng tốc độ di chuyển giảm</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Rất béo</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Trông rất béo, lượng chân khí tối đa tăng đáng kể nhưng tốc độ di chuyển cũng giảm đáng kể</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Stronger">
+			<RaceExtra.0.Lv.0.SName>Da bọc xương</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Gầy gò da bọc xương, thời gian hồi chiêu chân khí giảm đáng kể</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Cơ bắp teo tóp</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Gầy nhưng chưa đến mức da bọc xương, thời gian hồi chiêu của chân khí giảm nhẹ.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Thân hình bình thường.</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Không gầy, nhưng cũng không có cơ bắp.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Có chút cơ bắp.</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Có chút cơ bắp, yêu đan cường hóa hơn một chút.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Cơ bắp cuồn cuộn.</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Cơ bắp cuồn cuộn, thân hình vạm vỡ cân đối, yêu đan cường hóa đáng kể.</RaceExtra.0.Lv.4.Desc>
+		</Text>
+		<Text Name="Justice">
+			<RaceExtra.0.Lv.0.SName>Ma tâm</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Ma tâm: Giảm mạnh hộ thể cương khí, đồng thời tăng mạnh uy lực chân khí và yêu đan.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Hung ác</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Hung ác: Giảm nhẹ hộ thể cương khí, đồng thời tăng nhẹ uy lực chân khí và yêu đan.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Không tốt không xấu</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Bình thường, vẫn chưa phân biệt được rõ tốt xấu.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.0.Lv.3.SName>Thiện lương</RaceExtra.0.Lv.3.SName>
+			<RaceExtra.0.Lv.3.Desc>Thiện lương: Tăng nhẹ hộ thể cương khí, đồng thời giảm nhẹ uy lực chân khí và yêu đan.</RaceExtra.0.Lv.3.Desc>
+			<RaceExtra.0.Lv.4.SName>Thần Niệm</RaceExtra.0.Lv.4.SName>
+			<RaceExtra.0.Lv.4.Desc>Thần tâm: Tăng mạnh hộ thể cương khí, đồng thời giảm mạnh uy lực chân khí và yêu đan.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>Ma tâm</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Ma tâm: Giảm mạnh hộ thể cương khí, đồng thời tăng mạnh uy lực chân khí và yêu đan, tăng đáng kể tốc độ tiêu hóa thức ăn và hấp thụ nước, đồng thời giảm đáng kể tốc độ hấp thụ dưỡng chất.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Hung ác</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Ma tâm: Giảm nhẹ hộ thể cương khí, đồng thời tăng nhẹ uy lực chân khí và yêu đan, tăng tốc độ tiêu hóa thức ăn và hấp thụ nước, đồng thời giảm tốc độ hấp thụ dưỡng chất.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Hơi tà ác</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Bắt đầu cảm nhận được sự tà ác trong tâm trí.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>Hơi thiện lương</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>Bắt đầu cảm nhận được sự lương thiện trong tâm trí.</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>Thiện lương</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>Thiện lương: Tăng nhẹ hộ thể cương khí, đồng thời giảm nhẹ uy lực chân khí và yêu đan, giảm tốc độ tiêu hóa thức ăn và hấp thụ nước, đồng thời tăng tốc độ hấp thụ dưỡng chất.</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>Thần Niệm</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>Thần tâm: Tăng mạnh hộ thể cương khí, đồng thời giảm mạnh uy lực chân khí và yêu đan, giảm đáng kể tốc độ tiêu hóa thức ăn và hấp thụ nước, đồng thời tăng đáng kể tốc độ hấp thụ dưỡng chất.</RaceExtra.1.Lv.5.Desc>
+		</Text>
+		<Text Name="NeiDan">
+			<RaceExtra.0.Lv.2.SpecialAbility.0.Desc>Khi tấn công kẻ địch, có 1% cơ hội gây thêm sát thương bằng 30% lượng chân khí hiện tại của mục tiêu.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+			<RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Mỗi 9 đòn tấn công sẽ phóng chân khí vào kẻ địch làm mục tiêu.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="GrowPercent">
+			<RaceExtra.0.Lv.0.SName>Giao Long</RaceExtra.0.Lv.0.SName>
+			<RaceExtra.0.Lv.0.Desc>Sở hữu một phần nhỏ sức mạnh toàn diện của Giao Long.</RaceExtra.0.Lv.0.Desc>
+			<RaceExtra.0.Lv.1.SName>Giao Long</RaceExtra.0.Lv.1.SName>
+			<RaceExtra.0.Lv.1.Desc>Sở hữu một phần sức mạnh toàn diện của Giao Long.</RaceExtra.0.Lv.1.Desc>
+			<RaceExtra.0.Lv.2.SName>Giao Long</RaceExtra.0.Lv.2.SName>
+			<RaceExtra.0.Lv.2.Desc>Sở hữu toàn bộ sức mạnh của Giao Long.</RaceExtra.0.Lv.2.Desc>
+			<RaceExtra.1.Lv.0.SName>Hỏa Phượng</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Sở hữu một phần nhỏ sức mạnh toàn diện của Phượng Hoàng.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Hỏa Phượng</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Sở hữu một phần sức mạnh toàn diện của Phượng Hoàng.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Hỏa Phượng</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Sở hữu toàn bộ sức mạnh của Phượng Hoàng.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.2.Lv.0.SName>Hồ Ly Chín Đuôi</RaceExtra.2.Lv.0.SName>
+			<RaceExtra.2.Lv.0.Desc>Sở hữu một phần nhỏ sức mạnh toàn diện của Hồ Ly Chín Đuôi.</RaceExtra.2.Lv.0.Desc>
+			<RaceExtra.2.Lv.1.SName>Hồ Ly Chín Đuôi</RaceExtra.2.Lv.1.SName>
+			<RaceExtra.2.Lv.1.Desc>Sở hữu một phần sức mạnh toàn diện của Hồ Ly Chín Đuôi.</RaceExtra.2.Lv.1.Desc>
+			<RaceExtra.2.Lv.2.SName>Hồ Ly Chín Đuôi</RaceExtra.2.Lv.2.SName>
+			<RaceExtra.2.Lv.2.Desc>Sở hữu toàn bộ sức mạnh của Hồ Ly Chín Đuôi.</RaceExtra.2.Lv.2.Desc>
+			<RaceExtra.3.Lv.0.SName>Thiên Khuyển</RaceExtra.3.Lv.0.SName>
+			<RaceExtra.3.Lv.0.Desc>Sở hữu một phần nhỏ sức mạnh toàn diện của Thiên Khuyển.</RaceExtra.3.Lv.0.Desc>
+			<RaceExtra.3.Lv.1.SName>Thiên Khuyển</RaceExtra.3.Lv.1.SName>
+			<RaceExtra.3.Lv.1.Desc>Sở hữu một phần sức mạnh toàn diện của Thiên Khuyển.</RaceExtra.3.Lv.1.Desc>
+			<RaceExtra.3.Lv.2.SName>Thiên Khuyển</RaceExtra.3.Lv.2.SName>
+			<RaceExtra.3.Lv.2.Desc>Sở hữu toàn bộ sức mạnh của Thiên Khuyển</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>Gấu trúc</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>Đánh thức một chút sự cân bằng của Âm Dương</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>Gấu trúc</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>Đánh thức sự cân bằng của Âm Dương ở mức vừa phải</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>Gấu trúc</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>Đánh thức hoàn toàn sự cân bằng của Âm Dương</RaceExtra.4.Lv.2.Desc>
+			<RaceExtra.5.Lv.0.SName>Huyền Vũ</RaceExtra.5.Lv.0.SName>
+			<RaceExtra.5.Lv.0.Desc>Sở hữu một phần nhỏ sức mạnh từ tổng sức mạnh của Huyền Vũ</RaceExtra.5.Lv.0.Desc>
+			<RaceExtra.5.Lv.1.SName>Huyền Vũ</RaceExtra.5.Lv.1.SName>
+			<RaceExtra.5.Lv.1.Desc>Sở hữu một phần sức mạnh từ tổng sức mạnh của Huyền Vũ</RaceExtra.5.Lv.1.Desc>
+			<RaceExtra.5.Lv.2.SName>Huyền Vũ</RaceExtra.5.Lv.2.SName>
+			<RaceExtra.5.Lv.2.Desc>Sở hữu toàn bộ sức mạnh của Huyền Vũ</RaceExtra.5.Lv.2.Desc>
+		</Text>
+	</List>
+</Texts>

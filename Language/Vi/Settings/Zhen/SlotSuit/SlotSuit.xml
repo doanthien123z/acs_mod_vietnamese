@@ -1,0 +1,234 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<DisplayName>Trống</DisplayName>
+		</Text>
+		<Text Name="SlotSuit_1">
+			<DisplayName>Kiếm tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_2">
+			<DisplayName>Pháp tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng thần thông</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_3">
+			<DisplayName>Tăng ích tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_4">
+			<DisplayName>Nhu hòa tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_5">
+			<DisplayName>Cân bằng tâm</DisplayName>
+			<SuitEffect.0.Description>Thu nhỏ trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm gánh nặng trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_6">
+			<DisplayName>Cõi Tiên</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_7">
+			<DisplayName>Giới tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_8">
+			<DisplayName>Lôi tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_9">
+			<DisplayName>Phong tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng thần thông</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_10">
+			<DisplayName>Thủy tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng hiệu quả trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_11">
+			<DisplayName>Tâm Hỏa</DisplayName>
+			<SuitEffect.0.Description>Tăng khả năng vận hành trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_12">
+			<DisplayName>Tâm cảnh sơn nhạc</DisplayName>
+			<SuitEffect.0.Description>Thu nhỏ trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_13">
+			<DisplayName>Tâm cảnh dung hợp</DisplayName>
+			<SuitEffect.0.Description>Giảm gánh nặng trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_14">
+			<DisplayName>Thiên sinh</DisplayName>
+			<SuitEffect.0.Description>Nhận được pháp thuật: Thiên Nguyên</SuitEffect.0.Description>
+		</Text>
+		<Text Name="SlotSuit_15">
+			<DisplayName>Nguyệt Lôi Bạo</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_16">
+			<DisplayName>Thiên Nhật Hỏa</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng thần thông</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_17">
+			<DisplayName>Gió nhẹ nhàng</DisplayName>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ hộ giáp chân khí</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_18">
+			<DisplayName>Lôi đình vang vọng</DisplayName>
+			<SuitEffect.0.Description>Tăng hộ thể chân khí</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_19">
+			<DisplayName>Núi non vô tận</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ độ ổn định</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_20">
+			<DisplayName>Dòng nước vô tận</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_21">
+			<DisplayName>Sơ nguyên thiên địa</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng thần thông</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ kỹ năng linh khí</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_22">
+			<DisplayName>Điểm kết sơn hà</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng pháp bảo</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_23">
+			<DisplayName>Nguồn gốc tạo thiên</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng khả năng vận hành trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_24">
+			<DisplayName>Đối kháng thủy hỏa</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng hiệu quả trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_25">
+			<DisplayName>Hỏa diễm tăng cường</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng hộ thể chân khí</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Thu nhỏ trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_26">
+			<DisplayName>Sự sụp đổ của tự nhiên</DisplayName>
+			<SuitEffect.0.Description>Tăng ổn định</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng hộ thể chân khí</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Giảm gánh nặng trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_27">
+			<DisplayName>Thái Sơ</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng hiệu quả trận pháp</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng khả năng vận hành trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tăng ổn định</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_28">
+			<DisplayName>Thái Hư</DisplayName>
+			<SuitEffect.0.Description>Tăng kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_1">
+			<DisplayName>Tâm cảnh sát tiên</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hộ thể chân khí</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_2">
+			<DisplayName>Tâm cảnh thất sát</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hộ thể chân khí</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_3">
+			<DisplayName>Tâm cảnh thiên địa trận</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hộ thể chân khí</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Giảm linh lực tối đa của trận pháp</SuitEffect.5.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_4">
+			<DisplayName>Tâm cảnh thần đế</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng hiệu quả trận pháp</SuitEffect.1.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_5">
+			<DisplayName>Tâm cảnh chân long</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng pháp bảo</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng thần thông</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng hộ thể chân khí</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_6">
+			<DisplayName>Tâm cảnh thần phượng</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng pháp bảo</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng thần thông</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng hộ thể chân khí</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_7">
+			<DisplayName>Tâm cảnh âm dương</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng khả năng vận hành trận pháp</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_8">
+			<DisplayName>Tâm cảnh nguyệt hàn</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng thần thông</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng hộ thể chân khí</SuitEffect.3.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_9">
+			<DisplayName>Tâm cảnh ma kiếm</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng pháp bảo</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng hộ thể chân khí</SuitEffect.2.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_10">
+			<DisplayName>Tâm cảnh linh căn</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng khả năng vận hành trận pháp</SuitEffect.4.Description>
+		</Text>
+		<Text Name="SlotSuit_SpZhen_11">
+			<DisplayName>Tâm cảnh hội tụ</DisplayName>
+			<SuitEffect.0.Description>Tăng nhẹ kích thước trận pháp</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng nhẹ gánh nặng trận pháp</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng pháp bảo</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng kỹ năng thần thông</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hộ thể chân khí</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Tăng ổn định</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng hiệu quả trận pháp</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,53 @@
+<SpecialNames>
+	<List>
+		<SpecialItem Name="Item_FunPainting">
+			<None>
+				<li Name="Cung đình khúc" Desc=""></li>
+				<li Name="Lữ khách giữa non cao suối ngàn" Desc=""></li>
+				<li Name="Đầu xuân" Desc=""></li>
+				<li Name="Chim cút xanh và dây leo gai" Desc=""></li>
+				<li Name="Chim khách và thỏ" Desc=""></li>
+				<li Name="Gió thông giữa muôn thũng lũng" Desc=""></li>
+				<li Name="Song tùng" Desc=""></li>
+			</None>
+		</SpecialItem>
+		<SpecialItem Name="Item_FunMusic">
+			<None>
+				<li Name="Núi cao sông dài" Desc=""></li>
+				<li Name="Quảng Lăng khúc" Desc=""></li>
+				<li Name="Ngư tiều vấn đáp khúc" Desc=""></li>
+				<li Name="Thập bát hổ khiếu khúc" Desc=""></li>
+				<li Name="Dương xuân bạch tuyết" Desc=""></li>
+				<li Name="Hải âu hạ sa châu" Desc=""></li>
+				<li Name="Tịch dương khúc" Desc=""></li>
+				<li Name="Thập diện mai phục" Desc=""></li>
+				<li Name="Thu nguyệt trên hoàng cung Hán" Desc=""></li>
+				<li Name="Mai hoa tam chủng" Desc=""></li>
+			</None>
+		</SpecialItem>
+		<SpecialItem Name="Item_FunChess">
+			<None>
+				<li Name="Tâm huyết" Desc=""></li>
+				<li Name="Thục đạo nan" Desc=""></li>
+				<li Name="Thiên phẩm cúp" Desc=""></li>
+				<li Name="Vân Khởi Thành Hạ điện" Desc=""></li>
+				<li Name="Thu nguyệt trên tĩnh hồ" Desc=""></li>
+				<li Name="Phi thiên trạm nguyệt" Desc=""></li>
+				<li Name="Vân trung tinh tú" Desc=""></li>
+				<li Name="Thông thiên tháp" Desc=""></li>
+				<li Name="Cự long chuyển sinh" Desc=""></li>
+				<li Name="Bắt giữ yêu ma" Desc=""></li>
+				<li Name="Vĩnh hằng đồ giám" Desc=""></li>
+				<li Name="Tiên trận" Desc=""></li>
+				<li Name="Kim quang trận" Desc=""></li>
+				<li Name="Thần chúc trận" Desc=""></li>
+				<li Name="Minh tâm trận" Desc=""></li>
+				<li Name="Minh thiên trận" Desc=""></li>
+				<li Name="Chuyển thiên trận" Desc=""></li>
+				<li Name="Sa trung thủy trận" Desc=""></li>
+				<li Name="Chân lý trận" Desc=""></li>
+				<li Name="Tiên ngộ trận" Desc=""></li>
+			</None>
+		</SpecialItem>
+	</List>
+</SpecialNames>

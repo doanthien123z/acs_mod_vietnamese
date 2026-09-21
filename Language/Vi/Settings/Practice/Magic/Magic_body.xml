@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_ModifierTest">
+			<Desc>Thi triển thuật pháp với các hiệu chỉnh bổ sung. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_Body_JingXi">
+			<DisplayName>Kình Ngư Vận Khí Pháp</DisplayName>
+			<Desc>Phương pháp vận khí hung hãn giúp tăng hiệu quả vận khí lên 100 lần so với vận khí bình thường. Sau khi dùng thuật pháp này, ngực và phổi người dùng sẽ chịu gánh nặng cực lớn, khiến hiệu quả vận khí giảm mạnh trong vòng 10 ngày</Desc>
+			<TargetDesc>Vị trí dùng để vận khí</TargetDesc>
+		</Text>
+		<Text Name="Magic_Body_TuJin">
+			<DisplayName>Thôn Phệ Sinh Mệnh</DisplayName>
+			<Desc>Sử dụng Huyền Thể để tăng tốc vận hành cơ thể và hấp thu trực tiếp năng lượng thiên địa nhằm bù đắp lượng sức mạnh thiếu hụt. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi1">
+			<DisplayName>Thiêu đốt sinh mệnh</DisplayName>
+			<Desc>Sử dụng chân khí được tạo ra bằng cách thiêu đốt sinh khí của bản thân. Hành động này sẽ đẩy nhanh đáng kể tốc độ tiêu hao thọ nguyên và tốc độ luyện thể. Nếu muốn hủy thuật pháp, nhấn dùng lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_Body_ChiYi2">
+			<DisplayName>Thiêu Mệnh</DisplayName>
+			<Desc>Sử dụng chân khí được tạo ra bằng cách đốt cháy sinh mệnh của bản thân. Hành động này sẽ đẩy nhanh đáng kể việc tiêu hao tuổi thọ của người dùng và tăng tỷ lệ thành công khi luyện thể ở cấp cao. Nếu muốn hủy chú thuật, hãy nhấn dùng chú thuật lại một lần nữa</Desc>
+		</Text>
+		<Text Name="Magic_Body_Banyunqixue">
+			<DisplayName>Chuyển Hóa Năng Lượng</DisplayName>
+			<Desc>Sử dụng 50 Sinh Mệnh Hạch kích hoạt truyền năng lượng khắp cơ thể để đẩy nhanh tốc độ hồi phục chấn thương trong thời gian 100 giây.</Desc>
+		</Text>
+	</List>
+</Texts>

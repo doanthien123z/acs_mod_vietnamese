@@ -1,0 +1,84 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="StarDustLake">
+			<DisplayName>Hồ Ánh Sao</DisplayName>
+			<Desc>"Nước từ khắp nơi đổ về đây hợp thành một trước khi chảy ra biển lớn. Đây là nơi tựa như cánh cửa bước ra thế giới rộng lớn mà ngay cả dải Ngân Hà cũng hội tụ về đây vào ban đêm" - Trích từ 'Lục Đạo Ký''</Desc>
+			<Effect>Chính sách: Mở khóa chính sách Nghiên cứu Đạo Tự Nhiên</Effect>
+		</Text>
+		<Text Name="XiuXianCollege">
+			<DisplayName>Học viện Đạo học</DisplayName>
+			<Desc>"Việc học tập luôn phải chọn nơi yên tĩnh và hẻo lánh, để dù cho đệ tử có cảm thấy chán nản thì họ cũng không thể bỏ trốn đi đâu được" - Trích từ 'Lục Đạo Ký''</Desc>
+			<Effect>Nguyên liệu xây dựng giảm 20%</Effect>
+		</Text>
+		<Text Name="HugeToolCabin">
+			<DisplayName>Bảo tháp Trí Tuệ</DisplayName>
+			<Desc>"Tháp Trí Tuệ không phải là nơi bình thường, mỗi phân khu đều có thể tự vận hành và thành quả tạo ra vượt quá trí tưởng tượng. Nếu dùng nó để dệt vải, Người sẽ có những bộ y phục vô cùng thoải mái; hoặc nếu dùng nó để luyện khí, Người sẽ có được thanh bảo kiếm có thể chém đứt cả kim cương." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Hai cỗ khôi lỗi</Effect>
+		</Text>
+		<Text Name="CelestialCommercial">
+			<DisplayName>Thương hội Bạch Vân</DisplayName>
+			<Desc>"Thương hội này nằm trên ngọn núi được bảo vệ bởi một đại trận phòng thủ cực kỳ mạnh mẽ (ta mãi không hiểu vì sao các tông môn khác lại không giữ lại trận pháp kiểu này để sử dụng). Hơn nữa, nơi đây còn là trung tâm giao thương giữa các tu sĩ." Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Có thể mua vật phẩm từ thương nhân hoặc các tông môn khác với giá ưu đãi 20%</Effect>
+		</Text>
+		<Text Name="GreenBrothel">
+			<DisplayName>Lầu Ngọc Lục</DisplayName>
+			<Desc>"Lầu Ngọc Lục là một lầu xanh nằm bên hồ. Trong mắt người phàm, nó trông giống như một nơi nghỉ dưỡng dành cho giới thượng lưu. Nhưng trong mắt các tu sĩ, họ đều biết nơi này có dịch vụ đặc biệt giúp tẩy luyện tâm trí cho trong sáng. Có lẽ đây chính là lý do chính khiến các tu sĩ thường xuyên lui tới chốn này." Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Tâm trạng thám hiểm được cải thiện</Effect>
+		</Text>
+		<Text Name="AppTower">
+			<DisplayName>Tháp Uy Nghi</DisplayName>
+			<Desc>"Thật là công đức và thiện đức vô lượng khi tạo ra một con đường thông xẹt qua cho các vị thần." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Tất cả tu sĩ Thần đạo sẽ có thêm 1 vùng đất thần thánh</Effect>
+		</Text>
+		<Text Name="RiverDam">
+			<DisplayName>Đập nước</DisplayName>
+			<Desc>"Hãy thử nghĩ xem phải có bao nhiêu đời bạo chúa vô liêm sỉ mới có thể xây dựng xong một công trình vĩ đại như vậy. Chẳng lẽ các tiên nhân lại không xuống tay giúp đỡ sao?" Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Tất cả tu sĩ Thần đạo sẽ có thêm 1 vùng đất thần thánh</Effect>
+		</Text>
+		<Text Name="MountTemple">
+			<DisplayName>Tháp Hợp Sơn</DisplayName>
+			<Desc>"Đập ngàn dặm có thể sụp đổ vì vài vết nứt bằng tổ kiến, nhưng đỉnh núi Trương và dãy vạn đỉnh có thể hợp lại thành một chiến lũy kiên cố. Chỉ có những kẻ có kỹ năng, trí tuệ và ứng biến mới có thể tìm ra phương pháp như vậy." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Tất cả tu sĩ Thần đạo sẽ có thêm 1 vùng đất thần thánh</Effect>
+		</Text>
+		<Text Name="SanQingTemple">
+			<DisplayName>Thiên Địa Điện</DisplayName>
+			<Desc>"Mọi người đều cần một nơi để cúng bái Tam Bảo, nhưng việc xây dựng một công trình như thế trên cõi trần gian là vô cùng khó khăn." Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Điểm thiện cảm giữa tất cả các tông môn tăng 1 điểm</Effect>
+		</Text>
+		<Text Name="TreeGrave">
+			<DisplayName>Rừng Mộ Mộc</DisplayName>
+			<Desc>"Ở phía nam Tân Cương, người ta tin rằng cây cối cũng là sinh vật sống giống như động vật, và rất dễ thu hút sự oán hận cùng lời nguyền rủa từ chúng nếu không tổ chức tang lễ cho đàng hoàng. Vì vậy, những cây cổ thụ đã chết sẽ được thu thập và chạm khắc thành hình thù của sinh vật, và có vẻ như những bức khắc đó còn có thể hấp thụ linh khí." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Chính sách: Mở khóa chính sách Nghiên cứu Đạo Tự Nhiên</Effect>
+		</Text>
+		<Text Name="GroundAlter">
+			<DisplayName>Vạc Đại Địa</DisplayName>
+			<Desc>"Trong sâu thẳm núi sâu nơi người phàm khó lòng đặt chân tới, có một cái hố bát giác khổng lồ đầy ắp thác nước đổ xuống từ trên núi, và ngay chính giữa nơi đó đặt một chiếc vạc khổng lồ. Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Chính sách: Mở khóa chính sách Nghiên cứu Đạo Tự Nhiên</Effect>
+		</Text>
+		<Text Name="WaterTemple">
+			<DisplayName>Thiền viện Tu Di</DisplayName>
+			<Desc>"Ngôi chùa này giống như một con thuyền dù có chao đảo nhưng vẫn mang lại cảm giác an toàn và vững chắc. Không nhịn được mà tự hỏi liệu ngôi chùa này có thực sự là một con thuyền đang trôi nổi giữa đại dương hay không." Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Độ ổn định của đại trận tăng lên 20%</Effect>
+		</Text>
+		<Text Name="CelestialPalace">
+			<DisplayName>Tử Tiêu Điện</DisplayName>
+			<Desc>"Cung điện Mây Tím tựa như chốn thánh địa bồng lai tiên cảnh khó lòng với tới, và ai ai cũng rõ điều đó." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Điểm thiện cảm giữa tất cả các tông môn tăng 1 điểm</Effect>
+		</Text>
+		<Text Name="CircleTemple">
+			<DisplayName>Chùa Nguyên Huyền</DisplayName>
+			<Desc>"Đúng như câu nói, nơi nào càng lớn thì càng đông người. Quảng trường của chùa Nguyên Huyền rộng lớn vô biên, và mỗi năm đều có rất nhiều người đến chiêm bái nơi này." Trích từ 'Sách Vụ Giới''</Desc>
+			<Effect>Tỷ lệ nhận được tín ngưỡng hoặc sự că ghét tăng gấp đôi</Effect>
+		</Text>
+		<Text Name="CityMansion">
+			<DisplayName>Khu dân cư</DisplayName>
+			<Desc>Khu dân cư: Tỷ lệ gia tăng dân số ở tất cả các khu vực tăng 100%. "Khu dân cư là một dạng nhà ở mới có thể xây dựng ở hầu hết mọi nơi chỉ với một ít tài nguyên. Tuy nhiên, dân số đông hơn có thể đi kèm với các vấn đề về nạn đói.""</Desc>
+			<Effect>Tỷ lệ gia tăng dân số ở tất cả các khu vực tăng lên 100%</Effect>
+		</Text>
+		<Text Name="RedTombstone">
+			<DisplayName>Rừng Đá Đỏ</DisplayName>
+			<Desc>"Rừng Đá Đỏ ghi lại cuộc đời của rất nhiều người, từ bậc đế vương cho tới những bách tính áo vải, và điểm chung duy nhất giữa họ là tất cả đều đã qua đời." Trích từ 'Sách Vụ Giới' "Những gì được ghi lại trong Rừng Đá Đỏ là lịch sử lâu đời, thất tình lục dục và muôn vàn tham vọng của con người đều được lưu giữ trong đó. Đáng tiếc là con người không thể vượt qua những tham vọng và lòng tham đó, cuối cùng những câu chuyện mới lại liên tục được ghi khắc vào đó." Trích từ 'Kinh Sáng Thế''</Desc>
+			<Effect>Nhìn thấu tâm can con người và có thể nắm bắt ngay sở thích của họ</Effect>
+		</Text>
+	</List>
+</Texts>

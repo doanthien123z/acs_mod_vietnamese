@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BanSpouse">
+			<DisplayName>Độc thân</DisplayName>
+		</Text>
+		<Text Name="BanParents">
+			<DisplayName>Mồ côi</DisplayName>
+		</Text>
+		<Text Name="BanChild">
+			<DisplayName>Vô tử vô tôn</DisplayName>
+		</Text>
+		<Text Name="BanLove">
+			<DisplayName>Trung thành</DisplayName>
+		</Text>
+	</List>
+</Texts>
