@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TSheildSkill">
+			<DisplayName>Tăng phòng ngự</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong5_1">
+			<DisplayName>Thần Huyết Thuẫn</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong4_1">
+			<DisplayName>Linh Giáp</DisplayName>
+		</Text>
+		<Text Name="SheildSkill_Gong11_1">
+			<DisplayName>Thần Thuẫn</DisplayName>
+		</Text>
+	</List>
+</Texts>

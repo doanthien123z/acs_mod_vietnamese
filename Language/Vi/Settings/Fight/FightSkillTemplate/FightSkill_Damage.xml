@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TDamageSkill">
+			<DisplayName>Sát thương linh pháp</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_1">
+			<DisplayName>Chưởng kình</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_2">
+			<DisplayName>Hỏa bão</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_3">
+			<DisplayName>Thiên Lôi</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_4">
+			<DisplayName>Phá Linh</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong4_1">
+			<DisplayName>Hỗn Độn Hư Vô</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Gong7_1">
+			<DisplayName>Trảm Duyên Kiếm</DisplayName>
+		</Text>
+		<Text Name="DamageSkill_Teach">
+			<DisplayName>Pháp thuật sơ cấp</DisplayName>
+		</Text>
+	</List>
+</Texts>

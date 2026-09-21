@@ -1,0 +1,237 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_FenShenZhiShu">
+			<DisplayName>Phân hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thần chú: Phân Hồn\n Điều khiển Nguyên Anh, ép nó phân tách để tăng cường phân hồn. Người dùng sẽ bị mất đi giới hạn linh lực và tuổi thọ. Càng sử dụng nhiều, cái giá phải trả càng tăng theo cấp số nhân.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FengshuiItemOpen">
+			<DisplayName>Kiểm tra phong thủy</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thần chú: Xem phong thủy\n Sử dụng linh thạch để kiểm tra bảo vật và xác định đặc tính của nó.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_GanLingShu">
+			<DisplayName>Hô mưa</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Gọi Mưa\n Triệu hồi mưa trong một phạm vi nhất định, dùng để dập lửa và tăng nhẹ tốc độ tăng trưởng của cây trồng.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi1">
+			<DisplayName>Hài Hòa Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Hài Hòa Thuật \n Dùng thần thức giao tiếp để thuyết phục đối phương gia nhập phe mình. Số lượng Đạo Chủng, khoảng cách thuộc tính và ngộ tính càng lớn thì tỷ lệ thành công càng cao. Nếu chỉ số của mục tiêu vượt xa bản thân, có thể bị phản phệ và khống chế ngược. Mỗi mục tiêu chỉ có thể sử dụng một lần.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi2">
+			<DisplayName>Thuật cộng hưởng</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Cộng Hưởng Thuật\n Kết nối và cộng hưởng tư duy để thuyết phục đối phương gia nhập phe mình. Số lượng Đạo Chủng, khoảng cách thuộc tính và ngộ tính càng lớn thì tỷ lệ thành công càng cao. Nếu chỉ số của mục tiêu vượt xa bản thân, có thể bị phản phệ và khống chế ngược. Tỷ lệ thành công tăng mạnh nếu cả hai có đặc tính trưởng thành tương đồng hoặc cùng huyết thống. Nếu đối tượng có cơ sở tu vi, bắt buộc phải làm đối phương ngất đi trước khi dùng. Đây là thuật pháp cực kỳ nguy hiểm, nếu thất bại mục tiêu sẽ chết và người thi pháp sẽ bị thương.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi3">
+			<DisplayName>Thiên Ma Vũ</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Thiên Ma Vũ\n Dùng điệu múa Thiên Ma để kéo mục tiêu về phe mình. Nếu chỉ số của mục tiêu vượt xa bản thân, có thể bị phản phệ và khống chế ngược. Theo thời gian, tỷ lệ mục tiêu tỉnh lại càng cao. Khoảng cách thuộc tính và mị lực giữa bản thân và mục tiêu càng lớn thì khả năng mục tiêu tỉnh lại càng thấp. Nếu đối tượng có cơ sở tu vi, bắt buộc phải làm đối phương ngất đi trước khi dùng. Tâm trí của mục tiêu sẽ bị tổn hại mỗi khi chịu thuật pháp này.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_KongZhi4">
+			<DisplayName>Ngũ Linh Ấn Tâm</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Ngũ Linh Ấn Tâm\n Tẩy não mục tiêu bằng chân khí mạnh mẽ để họ tạm thời gia nhập phe mình. Nếu chỉ số của mục tiêu vượt xa bản thân, có thể bị phản phệ và khống chế ngược. Khoảng cách thuộc tính và trí tuệ giữa bản thân và mục tiêu càng lớn thì việc tẩy não càng dễ dàng. Nếu đối tượng có cơ sở tu vi, bắt buộc phải làm đối phương ngất đi trước khi dùng. Thời gian hiệu lực sẽ dài hơn mỗi lần dùng lại, nhưng sẽ gây ra tổn hại không thể khôi phục cho ngộ tính của mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine">
+			<DisplayName>Thái Cổ Thổ Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Tạo Sơn Thuật\n Tiêu hao lượng lớn chân khí để rút quặng khoáng từ sâu trong lòng đất lên.\n Học Thuật: Tạo Thủy Thuật\n Thi triển thuật pháp, biến vùng đất chỉ định thành vùng nước nông. \n Học Thuật: Tạo Địa Thuật\n Thi triển thuật pháp, biến vùng nước chỉ định thành đất liền.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_KaiHu">
+			<DisplayName>Tạo Thủy Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Tạo Thủy Thuật\n Thi triển thuật pháp, biến vùng đất chỉ định thành vùng nước nông.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildMine_ZaoLu">
+			<DisplayName>Kiến tạo đại lục</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Tạo Địa Thuật\n Thi triển thuật pháp, biến vùng nước chỉ định thành đất liền.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RebornSelf">
+			<DisplayName>Chuyển Sinh Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Nhận được Đan Phương: \n Chuyển Sinh Đan\n Học Thuật: Chuyển Sinh Thuật\n Bí thuật của Thái Ất Tông, dùng Linh Châu làm vật dẫn chân khí để phế bỏ toàn bộ cơ sở tu vi của bản thân, nhờ đó trùng sinh trở lại làm một người bình thường.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_JieHuiDaoPowerUp">
+			<DisplayName>Ngưng luyện Đạo tinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Luyện Đạo Tinh\n Tiêu hao 1 cụm Tiên Trần để nâng phẩm cấp vật phẩm lên 1 cấp.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalYouPowerUp">
+			<DisplayName>Luyện Tâm Ma Ngọc</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Luyện Ma Tâm Thạch\n Tiêu hao 1 viên Oán Ma Thạch để nâng phẩm cấp vật phẩm lên 1 cấp.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_SoulCrystalLingPowerUp">
+			<DisplayName>Luyện chế hồn châu</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Luyện Hồn Thạch\n Tiêu hao 1 viên Hồn Thạch để tăng chân khí bên trong vật phẩm (nếu vật phẩm là Pháp Bảo, lượng tăng sẽ chuyển thành giới hạn chân khí tối đa).)[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakeSoulCrystal">
+			<DisplayName>Vong Hồn Chú</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Vong Hồn Chú\n Dùng lên thi thể sắp chết của người không có cơ sở tu vi để luyện hóa linh hồn thành Hồn Thạch. Mỗi mục tiêu chỉ có thể sử dụng một lần.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_MakePuppet">
+			<DisplayName>Thao Thây Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Thao Thây Thuật\n Dùng để thức tỉnh thi thể người chết. Thi thể được thức tỉnh có thể sai khiến làm các công việc tạp vụ, vận chuyển. Phẩm chất thi thể phụ thuộc vào cơ sở tu vi khi còn sống của người đó.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuidPuppet">
+			<DisplayName>Khai linh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học Thuật: Ban Hồn Thuật\n Ban linh hồn cho khối lỗi, có thể dùng làm các công việc tạp vụ, vận chuyển. Phẩm chất khối lỗi phụ thuộc vào cấp độ nguyên liệu tạo ra nó.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="SeachSoul">
+			<DisplayName>Sưu hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Sưu Hồn\n Dùng lên thi thể người sắp chết để tìm kiếm thông tin về vị trí kho báu, công pháp tu luyện hoặc tri thức khác của người đó. Tỷ lệ thành công sưu hồn sẽ tăng cao hơn nếu dùng ở nơi có phong thủy xấu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ClosedDoor_1">
+			<DisplayName>Tập Trung Luyện Khí</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Tập Trung Luyện Khí\n Tiến vào trạng thái nhập định để tự tu luyện, tiêu hao thọ nguyên và thể lực nhanh chóng, nhưng hiệu suất luyện khí và lượng chân khí tối đa sẽ tăng lên.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Aoe_1">
+			<DisplayName>Thể Tức Linh Khí</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Thể Tức Linh Khí\n Đến vị trí chỉ định để hấp thu linh khí tự nhiên.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Live_1">
+			<DisplayName>Âm Ty Đạo</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Âm Ty Đạo\n Dùng lên sinh linh không có cơ sở tu luyện để rút thọ nguyên và dùng nó tăng chân khí cho người dùng.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Body_1">
+			<DisplayName>Thôn Huyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Thôn Huyết Thuật\n Luyện hóa thi thể người chết chuyển thành chân khí. Thể chất khi còn sống càng mạnh mẽ thì chân khí nhận được càng nhiều.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Thing_1">
+			<DisplayName>Nhất Thể Sơn Hà</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Nhất Thể Sơn Hà\n Dùng lên kiến trúc, thực vật và khoáng thạch trên bản đồ để hấp thu linh khí của chúng. Mục tiêu càng nhiều linh khí, tốc độ và lượng linh khí tối đa hấp thu được càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbLing_Item_1">
+			<DisplayName>Hấp Khí Chưởng</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Hấp Khí Chưởng\n Hấp thu linh khí chứa trong vật phẩm.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Damage_1">
+			<DisplayName>Khí Trị Thương</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Khí Trị Thương\n Truyền chân khí để chữa trị nội thương cho mục tiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_BuildBody_1">
+			<DisplayName>Tái Tạo Thể Xác</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Tái Tạo Thể Xác\n Tái tạo nội tạng và đúc lại toàn bộ các bộ phận cơ thể bị mất.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyLow_1">
+			<DisplayName>Hồn Ấn Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Sơ Cấp Đoạt Xá\n Thuật đoạt xá cấp thấp, chiếm đoạt cơ thể của sinh linh không có cơ sở tu luyện. Tuy nhiên, người dùng sẽ tổn thất lượng lớn nền tảng tu vi và dẫn đến sự xung khắc giữa linh hồn và thể xác.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_RobBodyHigh_1">
+			<DisplayName>Đại Pháp Ấn Hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Đại Đoạt Xá Thuật\n Thuật đoạt xá cấp cao, chiếm đoạt hoàn toàn cơ thể của sinh linh không có cơ sở tu luyện. Tuy nhiên, người dùng sẽ tổn thất lượng lớn nền tảng tu vi.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_1_1">
+			<DisplayName>Dẫn Hồn Lô</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Dẫn Hồn Lô\n Hấp thu thọ nguyên của sinh linh không có cơ sở tu luyện để tăng ngộ tính và nền tảng tu vi của bản thân. Hiệu quả hơn khi dùng lên mục tiêu có thể chất cường tráng.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_2_1">
+			<DisplayName>Ảo Mộng Giới</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Ảo Mộng Giới\n Tạo ra ảo cảnh mê hoặc sinh linh khác giới cùng chủng tộc không phải người tu luyện, sau đó hấp thu thọ nguyên của họ để rèn luyện ngộ tính và nâng cao tu vi bản thân. Hiệu quả hơn nếu dùng lên mục tiêu có mị lực cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_3_1">
+			<DisplayName>Rút Hồn Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Rút Hồn Thuật\n Chiếm đoạt cơ thể của sinh linh không có cơ sở tu luyện, chuyển hóa và khống chế sức mạnh của người đó để tăng ngộ tính và nền tảng tu vi. Hiệu quả hơn khi dùng lên mục tiêu có trí tuệ cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_4_1">
+			<DisplayName>Thiên Ma hóa thân</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thuật: Thiên Ma Hóa Thân\n Dùng thần thức của người tu luyện kết nối với Ma Giới để đạt tốc độ tu luyện vượt xa bình thường, nhưng đồng thời linh hồn người dùng sẽ liên tục bị Ma Hỏa thiêu đốt không ngừng. Cách duy nhất để giảm bớt là hành hạ các sinh linh khác nhằm làm dịu ma tâm.\n Học pháp chú: Luyện hồn\n Tiến hành luyện hồn bằng cực hình tra tấn đối với sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng, mang lại cho chúng nỗi đau đớn tột cùng và tận hưởng niềm vui từ đó.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_5_1">
+			<DisplayName>Bạo phát tâm tình</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Bộc phát cảm xúc\n Sử dụng lên mục tiêu là sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng. Nếu mục tiêu có trạng thái cảm xúc mãnh liệt (thanh cảm xúc lớn hơn 160 hoặc nhỏ hơn 40), người sử dụng sẽ nhận được tâm đắc và căn cơ tu luyện từ mục tiêu. Khi triển khai pháp chú, hiệu quả của pháp chú sẽ duy trì vĩnh viễn. Cảm xúc của mục tiêu càng mãnh liệt bao nhiêu, hiệu quả của pháp chú càng mạnh mẽ bấy nhiêu.\n Đối với mỗi mục tiêu được chỉ định, giá trị cơ bản về tâm trạng và cảm xúc của người sử dụng sẽ giảm đi theo số lượng mục tiêu, và mục tiêu sẽ có xu hướng dễ nổi giận hơn. Có thể dừng pháp chú bằng cách sử dụng lại lên mục tiêu cũ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_6_1">
+			<DisplayName>Tiềm linh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Tiềm linh\n Sử dụng lên mục tiêu là sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng. Đem nguyên thần của bản thân tiềm phục vào sinh linh để chuyển hóa tu vi căn cơ của mục tiêu thành giá trị tâm đắc và căn cơ tu luyện cho người sử dụng pháp chú vào lúc 0:00 mỗi ngày.\n Đối với mỗi mục tiêu bị tiềm linh, cấp độ tâm trạng và linh hồn của người sử dụng sẽ bị tổn thương theo số lượng mục tiêu, đồng thời mục tiêu cũng sẽ trở nên suy yếu và giảm ngũ đại thuộc tính do có linh hồn khác ẩn giấu bên trong cơ thể. Có thể dừng pháp chú bằng cách sử dụng lại lên mục tiêu cũ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_7_1">
+			<DisplayName>Ma tế thể</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Ma tế thể\n Sử dụng lên mục tiêu là sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng. Dùng mục tiêu làm vật hiến tế cho ma hồn, ma hồn sẽ ngẫu nhiên lấy đi các bộ phận cơ thể của mục tiêu, bù lại ma hồn sẽ ban trả tâm đắc và kinh nghiệm căn cơ tu luyện cho người sử dụng công pháp. Ngũ đại thuộc tính cơ bản của mục tiêu càng tốt bao nhiêu, hiệu quả của pháp chú càng mạnh mẽ bấy nhiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_8_1">
+			<DisplayName>Tịnh tâm</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Tịnh tâm\n Thi triển thần thông để khiến sinh linh không có căn cơ tu luyện và cùng chủng tộc với người sử dụng cảm thấy tâm trạng vui vẻ.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PlantGrowUp_1">
+			<DisplayName>Mộc tâm</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Mộc tâm\n Thu gom tâm trí, sử dụng chân khí của bản thân để truyền chưởng lực đến thực vật mục tiêu, gia tăng đáng kể tốc độ sinh trưởng trong 1 ngày. Hiệu quả sẽ giảm bớt khi sử dụng cho thực vật có đẳng cấp cao. Tác dụng phụ của pháp chú này là nó sẽ khiến huyệt vị linh mạch của người sử dụng bị thương nặng, xin hãy cẩn thận khi sử dụng.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_1">
+			<DisplayName>Thiên tâm đạo</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Thiên tâm đạo\n Tiêu hao 10 năm thọ nguyên để gia tăng tốc độ hồi phục chân khí và năng lực tổng thể của người sử dụng trong một khoảng thời gian ngắn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_9_2">
+			<DisplayName>Giải phong ấn yêu thú</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Giải phong ấn yêu thú\n Tiêu hao 10 năm thọ nguyên để gia tăng tốc độ hồi phục chân khí và năng lực tổng thể của người sử dụng trong một khoảng thời gian ngắn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_AbsorbGong_10_1">
+			<DisplayName>Trảm niệm kiếm</DisplayName>
+			<Desc>Tâm trí được rèn luyện trong đạo vô thượng có thể cắt đứt tất cả tạp niệm ra khỏi ý nghĩ. Bằng phương pháp tu luyện như vậy, tu sĩ có thể tận dụng những ý nghĩ này và biến chúng thành phân hồn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Trảm niệm kiếm\n Thi triển thuật pháp lên sinh linh không có căn cơ tu luyện, tẩy sạch toàn bộ trạng thái cảm xúc tạm thời.\n \n Nhận được 1 đạo phân hồn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingStoneMake_1">
+			<DisplayName>Luyện linh thạch</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Luyện linh thạch\n Ngưng tụ linh khí để biến nó thành linh thạch.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LingCrystalMake_1">
+			<DisplayName>Luyện linh tinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Luyện linh tinh\n Ngưng tụ linh khí để biến nó thành linh tinh.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_1">
+			<DisplayName>Suy toán Thiên Mệnh Luân Hồi</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Bói toán thiên mệnh luân hồi\n Cố gắng dự đoán xem sự kiện gì sẽ xảy ra ở tông môn trong vài ngày tới.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Prophesy_MapStory_1">
+			<DisplayName>Thần Toán</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Thiên cơ thần toán\n Cố gắng phỏng đoán những gì có thể xảy ra ở một nơi nào đó trong tương lai.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_LiuRenShensuan">
+			<DisplayName>Chiêm tinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp chú: Chiêm tinh\n Chọn nhân vật để dự đoán tung tích của người đó. Người dùng công pháp càng có nhiều Đạo chủng và thông tin về mục tiêu bao nhiêu, tỷ lệ thành công của việc dự đoán càng cao bấy nhiêu.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRain_1">
+			<DisplayName>Vũ Điệu Mưa Sa</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Vũ Điệu Mưa Sa\n Triệu hồi mưa rơi. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForSun_1">
+			<DisplayName>Xua Tan Mây Mù</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Xua Tan Mây Mù\n Thay đổi thời tiết khiến trời quang mây tạnh. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForRainstorm">
+			<DisplayName>Mưa bão</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Bão Vũ\n Thay đổi thời tiết tạo ra bão mưa vào mùa đông và mùa hạ. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForFohn">
+			<DisplayName>Bão gió nóng</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Bão Nhiệt\n Thay đổi thời tiết tạo ra bão gió nóng vào mùa hạ và mùa thu. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForDustStorm">
+			<DisplayName>Bão Cát</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Bão Cát\n Thay đổi thời tiết tạo ra bão cát vào mùa đông và mùa xuân. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForMiasma">
+			<DisplayName>Bão Phấn Hoa Độc</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Bão Phấn Hoa Độc\n Thay đổi thời tiết tạo ra bão phấn hoa độc vào mùa xuân và mùa hạ. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForLightningStorm">
+			<DisplayName>Bão sấm sét</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Bão Sấm Sét\n Thay đổi thời tiết tạo ra bão sấm sét vào mùa hạ và mùa thu. Tuy nhiên, hành động nghịch thiên này sẽ làm hao tổn tuổi thọ của người thi triển.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_PrayForWeather">
+			<DisplayName>Thiên Âm Tụng Kinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Xua Tan Mây Mù\n Học pháp thuật: Bão Vũ\n Học pháp thuật: Bão Nhiệt\n Học pháp thuật: Bão Cát\n Học pháp thuật: Bão Phấn Hoa Độc\n Học pháp thuật: Bão Sấm Sét[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Physique_1">
+			<DisplayName>Tẩy Tủy</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Tẩy Tủy\n Thanh tẩy và tái tạo tủy xương cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% Thể chất. Chỉ số cơ bản càng thấp, hiệu quả pháp thuật càng cao. Mục tiêu chỉ có thể được cường hóa một lần duy nhất trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Intelligence_1">
+			<DisplayName>Ngộ đạo</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Khai Tuệ\n Tăng trí tuệ cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% Ngộ tính. Chỉ số cơ bản càng thấp, hiệu quả pháp thuật càng cao. Mục tiêu chỉ có thể được cường hóa một lần duy nhất trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Charisma_1">
+			<DisplayName>Mị Ảnh Chi Thể</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Mị Ảnh Chi Thể\n Cải thiện dung mạo và linh hồn cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% Mị lực. Chỉ số cơ bản càng thấp, hiệu quả pháp thuật càng cao. Mục tiêu chỉ có thể được cường hóa một lần duy nhất trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_Healing_Perception_1">
+			<DisplayName>Khai Nhãn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học pháp thuật: Khai Nhãn\n Khai mở con mắt thứ ba cho sinh vật không có căn cơ tu luyện, tăng ít nhất 20% Nhận thức. Chỉ số cơ bản càng thấp, hiệu quả pháp thuật càng cao. Mục tiêu chỉ có thể được cường hóa một lần duy nhất trong đời.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_FenShenZhiShu_1">
+			<DisplayName>Phân hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học thần chú: Phân Hồn\n Giúp người dùng nhận được phân thân linh hồn.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

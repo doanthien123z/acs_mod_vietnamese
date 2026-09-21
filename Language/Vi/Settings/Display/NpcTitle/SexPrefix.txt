@@ -1,0 +1,8 @@
+Thường dân, Lão nhân, Quý tộc, Vương, Hoàng đế, Thành chủ, Hoàng tử, Vương gia, Công tử, Thiếu gia, Thượng sĩ, Nho sinh, Sư phụ, Gia chủ, Lãng khách, Thám hiểm gia
+Thường dân bình thường, Lão nhân, Quý tộc, Vương, Hoàng đế, Thành chủ, Hoàng tử, Vương gia, Công tử, Thiếu gia, Thượng sĩ, Nho sinh, Sư phụ, Gia chủ, Lãng khách, Thám hiểm gia
+Thường dân tốt bụng, Lão nhân, Quý tộc, Vương, Hoàng đế, Thành chủ, Hoàng tử, Vương gia, Công tử, Thiếu gia, Thượng sĩ, Nho sinh, Sư phụ, Gia chủ, Lãng khách, Thám hiểm gia
+Thường dân độc ác, Yêu ma, Quỷ dữ, Sát thủ, Ma đầu, Đồ tể, Lão nhân, Quý tộc, Vương, Hoàng đế, Thành chủ, Hoàng tử, Vương gia, Công tử, Thiếu gia, Thượng sĩ
+Thôn nữ, Cô nương, Phu nhân, Công chúa, Thánh nữ, Gia chủ, Lãng khách, Thám hiểm gia, Nữ kiếm khách
+Thôn nữ bình thường, Cô nương, Phu nhân, Công chúa, Thánh nữ, Gia chủ, Lãng khách, Thám hiểm gia, Nữ kiếm khách
+Thôn nữ tốt bụng, Cô nương, Phu nhân, Công chúa, Thánh nữ, Gia chủ, Lãng khách, Thám hiểm gia, Nữ kiếm khách
+Nữ ma đầu, Yêu nữ, Phù thủy, Đồ tể, Phu nhân, Yêu cơ, Hồ ly tinh

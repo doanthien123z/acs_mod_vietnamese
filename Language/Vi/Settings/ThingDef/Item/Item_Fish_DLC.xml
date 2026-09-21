@@ -1,0 +1,267 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="FishBase" sParam="Item">
+			<ThingName>Cá (thông thường)</ThingName>
+			<Item.FabaoSuffix>Nấu canh, cá, xương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_StoneCrab" sParam="Item">
+			<ThingName>Cua đá</ThingName>
+			<Desc>Loài cua thông thường sinh sống trong bùn đất và khe đá.</Desc>
+		</Text>
+		<Text Name="Fish_Ji" sParam="Item">
+			<ThingName>Cá chép</ThingName>
+			<Desc>Loài cá nước ngọt thông thường sinh sống ở mọi loại nguồn nước.</Desc>
+		</Text>
+		<Text Name="Fish_t6" sParam="Item">
+			<ThingName>Cá rô phi lùn xanh</ThingName>
+			<Desc>Loài cá thường được tìm thấy trên núi Côn Lôn.</Desc>
+		</Text>
+		<Text Name="Fish_t8" sParam="Item">
+			<ThingName>Cá killi đỏ</ThingName>
+			<Desc>Loài cá kích thước lớn chỉ sinh sống trên núi và chịu được thời tiết lạnh giá.</Desc>
+		</Text>
+		<Text Name="Fish_s3" sParam="Item">
+			<ThingName>Cá tráp xanh</ThingName>
+			<Desc>Loài cá chỉ sinh sống ở đỉnh Thông Thiên. Chúng rất thích ăn hoa băng.</Desc>
+		</Text>
+		<Text Name="Fish_s7" sParam="Item">
+			<ThingName>Cá một mắt núi</ThingName>
+			<Desc>Loài cá chỉ sinh sống ở vùng núi Tây Bắc.</Desc>
+		</Text>
+		<Text Name="Fish_s9" sParam="Item">
+			<ThingName>Cá một mắt hắc thạch</ThingName>
+			<Desc>Loài cá chỉ sinh sống trên núi Hắc Thạch. Do chịu ảnh hưởng từ kiếm trận nên nó sở hữu một thể xác màu đen cứng cáp và rất thích ăn những vật phẩm thuộc tính kim.</Desc>
+		</Text>
+		<Text Name="Fish_ChillyCrab" sParam="Item">
+			<ThingName>Cua băng</ThingName>
+			<Desc>Loài cua thịt ngon chỉ xuất hiện ở những nơi có khí hậu lạnh giá.</Desc>
+			<Item.FabaoSuffix>Nấu canh, mai cua, xương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_BaiHuang" sParam="Item">
+			<ThingName>Cá chép tuyết</ThingName>
+			<Desc>Một loại cá chép hiếm có sinh sống ở hồ Thạch Ngọc và chỉ xuất hiện vào mùa đông. Thịt của nó có hương vị thơm ngon và có thể trực tiếp thưởng thức.</Desc>
+		</Text>
+		<Text Name="Fish_s1" sParam="Item">
+			<ThingName>Cá killi trắng</ThingName>
+			<Desc>Loài cá hiếm kích thước lớn có màu trắng như tuyết sinh sống trong làn nước lạnh.</Desc>
+		</Text>
+		<Text Name="Fish_r6" sParam="Item">
+			<ThingName>Cá vây đỏ</ThingName>
+			<Desc>Loài cá hiếm có vây đỏ sắc bén. Nó sống ở những vùng khí hậu lạnh giá và tương truyền chỉ xuất hiện vào mùa đông.</Desc>
+		</Text>
+		<Text Name="Fish_QingHei" sParam="Item">
+			<ThingName>Cá lóc đầu xanh</ThingName>
+			<Desc>Một loài cá hiếm có phần đầu màu xanh, rất khó để bắt được.</Desc>
+		</Text>
+		<Text Name="Fish_t2" sParam="Item">
+			<ThingName>Cá vàng</ThingName>
+			<Desc>Loài cá phổ biến thường thấy ở vùng núi Nam Cương.</Desc>
+		</Text>
+		<Text Name="Fish_s2" sParam="Item">
+			<ThingName>Cá chép</ThingName>
+			<Desc>Loài cá phổ biến thường thấy ở các khe suối và sông ngòi gần vùng núi Nam Cương.</Desc>
+		</Text>
+		<Text Name="Fish_r8" sParam="Item">
+			<ThingName>Lươn vây xanh</ThingName>
+			<Desc>Tương truyền chỉ xuất hiện ở vùng gần Thái Ất Môn vào thời khắc đêm vĩnh cửu. Nó sở hữu sức mạnh thể chất vô cùng to lớn, nên còn có tên gọi khác là "Thủy Linh Ngư"."</Desc>
+		</Text>
+		<Text Name="Fish_s5" sParam="Item">
+			<ThingName>Cá tráp hồng</ThingName>
+			<Desc>Cá màu hồngmujTương truyền là con lai giữa cá chép và cá tráp. Vào mùa thu, nó bơi từ biển vào sông để đẻ trứng, thân thể nó sẽ trở nên mềm mại để thích nghi với các vách đá trong lòng sông suối.</Desc>
+		</Text>
+		<Text Name="Fish_t1" sParam="Item">
+			<ThingName>Cá ánh trăng</ThingName>
+			<Desc>Loài cá hiếm có thịt ngọt và ngon. Nó sống ở Thiên Hồ và chỉ xuất hiện sau nửa đêm vào mùa thu.</Desc>
+		</Text>
+		<Text Name="Fish_t5" sParam="Item">
+			<ThingName>Cá hồng nhạn lùn</ThingName>
+			<Desc>Loài cá nhỏ thường thấy gần khu vực Ngũ Sắc Liên Sơn.</Desc>
+		</Text>
+		<Text Name="Fish_r2" sParam="Item">
+			<ThingName>Cá chạch</ThingName>
+			<Desc>Một loài cá thân dài mảnh sống trong bùn đất gần các con suối.</Desc>
+		</Text>
+		<Text Name="Fish_r1" sParam="Item">
+			<ThingName>Cá mắt trắng</ThingName>
+			<Desc>Loài cá hiếm sống trên núi Thục.</Desc>
+		</Text>
+		<Text Name="Fish_r11" sParam="Item">
+			<ThingName>Cá lóc ngọc</ThingName>
+			<Desc>Loài cá hiếm quanh vùng núi Thục, rất thích ăn tinh hoa ngọc thạch. Có lẽ chúng bị thu hút bởi linh khí hệ Thổ của vùng đất này.</Desc>
+		</Text>
+		<Text Name="Fish_FenLi" sParam="Item">
+			<ThingName>Cá chép hồng</ThingName>
+			<Desc>Loài cá chép có toàn thân màu hồng. Người ta cho rằng nó chịu ảnh hưởng từ hoa đào ở khu vực gần đó.</Desc>
+		</Text>
+		<Text Name="Fish_t11" sParam="Item">
+			<ThingName>Cá quỷ</ThingName>
+			<Desc>Loài cá sống trong các đầm lầy vùng rừng rậm Nam Cương, tương truyền có hoa văn khắp thân vì đã hấp thụ hơi thở của Ma Đế. Chỉ xuất hiện vào mùa xuân.</Desc>
+		</Text>
+		<Text Name="Fish_r3" sParam="Item">
+			<ThingName>Cá chạch đen</ThingName>
+			<Desc>Loài cá lớn màu đen, chỉ xuất hiện ở vùng rừng rậm Nam Cương.</Desc>
+		</Text>
+		<Text Name="Fish_Black" sParam="Item">
+			<ThingName>Cá đen</ThingName>
+			<Desc>Loài cá nước ngọt phổ biến, thường sống ở các con sông.</Desc>
+		</Text>
+		<Text Name="Fish_BlueFish" sParam="Item">
+			<ThingName>Cá chép xanh</ThingName>
+			<Desc>Loài cá chép hiếm có màu xanh lam sống ở các con sông lớn. Cơ thể nó chuyển sang màu xanh sau khi hấp thụ linh khí hệ Thủy qua nhiều đời.</Desc>
+		</Text>
+		<Text Name="Fish_Huang" sParam="Item">
+			<ThingName>Cá chép vàng</ThingName>
+			<Desc>Loài cá có toàn thân màu vàng óng, thường sống ở các con sông lớn.</Desc>
+		</Text>
+		<Text Name="Fish_HongHuang" sParam="Item">
+			<ThingName>Cá chép đầu đỏ</ThingName>
+			<Desc>Cá chép đầu đỏ, hiếm khi thấy ở các con sông lớn.</Desc>
+		</Text>
+		<Text Name="Fish_r13" sParam="Item">
+			<ThingName>Lươn trắng</ThingName>
+			<Desc>Lươn trắng có hương vị thơm ngon, thịt mềm dẻo. Nó thường sống ở các con sông lớn.</Desc>
+		</Text>
+		<Text Name="Fish_RedFish" sParam="Item">
+			<ThingName>Cá hồi cầu vồng</ThingName>
+			<Desc>Cá nước ngọt màu đỏ sinh sống ở sâu trong dòng sông gần thành Hàn Sơn, chỉ xuất hiện vào mùa đông.</Desc>
+		</Text>
+		<Text Name="Fish_t10" sParam="Item">
+			<ThingName>Ngọc Khê Ngư</ThingName>
+			<Desc>Cá khổng tước ngọc chỉ sinh sống ở vùng nước có linh khí cực cao.</Desc>
+		</Text>
+		<Text Name="Fish_JadeCrab" sParam="Item">
+			<ThingName>Ngọc Giới</ThingName>
+			<Desc>Một loài cua cực kỳ quý hiếm, chỉ xuất hiện vào ban ngày. Thân thể chúng chịu ảnh hưởng của linh thủy nên mang màu sắc như ngọc. Một số tu sĩ nuôi chúng trên đỉnh Ngũ Sắc Liên Sơn.</Desc>
+			<Item.FabaoSuffix>Nấu canh, mai cua, xương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_s6" sParam="Item">
+			<ThingName>Khổng Tước Ngư</ThingName>
+			<Desc>Loài cá màu xanh lục trong suốt đẹp đẽ, thường sống ở vùng nước có linh khí cao. Nhiều tông môn nuôi chúng để làm cảnh.</Desc>
+		</Text>
+		<Text Name="Fish_r5" sParam="Item">
+			<ThingName>Đào Hoa Trư Ngư</ThingName>
+			<Desc>Loài cá chạch sinh sống ở vùng nước có linh khí cao và rất thích ăn linh thạch.</Desc>
+		</Text>
+		<Text Name="Fish_r12" sParam="Item">
+			<ThingName>Huỳnh Quang Thiện</ThingName>
+			<Desc>Loài lươn quý hiếm thường sống ở vùng nước có linh khí cao, chỉ xuất hiện vào mùa hè và rất thích ăn linh căn trân quý.</Desc>
+		</Text>
+		<Text Name="Fish_XieLi" sParam="Item">
+			<ThingName>Ma Lý Ngư</ThingName>
+			<Desc>Loài cá chép chỉ xuất hiện ở vùng nước màu máu, trên thân có hoa văn yêu ma.</Desc>
+		</Text>
+		<Text Name="Fish_t3" sParam="Item">
+			<ThingName>Hắc Đồng Xà Ngư</ThingName>
+			<Desc>Loài cá lớn có tròng mắt màu đen, chỉ xuất hiện ở vùng nước màu máu.</Desc>
+		</Text>
+		<Text Name="Fish_s4" sParam="Item">
+			<ThingName>Huyết Sắc Điêu Ngư</ThingName>
+			<Desc>Loài cá chỉ sinh sống trong các vũng máu và thường tấn công các loài thú đi ngang qua.</Desc>
+		</Text>
+		<Text Name="Fish_s11" sParam="Item">
+			<ThingName>Ma Độc Nhãn Ngư</ThingName>
+			<Desc>Loài cá quý hiếm sống ở vùng nước màu máu. Nó có mùi hôi nồng nặc nên không thu hút lắm đối với các thợ săn. Đây là một trong những nguyên nhân khiến vũng nước máu có mùi hôi vào mùa xuân.</Desc>
+		</Text>
+		<Text Name="Fish_FireCrab" sParam="Item">
+			<ThingName>Hỏa Giới</ThingName>
+			<Desc>Loài cua sống ở vùng đất nóng bức, có lớp giáp giúp chịu đựng được thời tiết giá lạnh.</Desc>
+			<Item.FabaoSuffix>Nấu canh, mai cua, xương</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_HongGui" sParam="Item">
+			<ThingName>Hồng Tam Văn Ngư</ThingName>
+			<Desc>Loài cá hồi đỏ thường xuất hiện gần khu vực Vô Biên Sa Mạc.</Desc>
+		</Text>
+		<Text Name="Fish_t4" sParam="Item">
+			<ThingName>Hoàng Kim Mân Ngư</ThingName>
+			<Desc>Loài cá sinh sống trong sa mạc, có khả năng chịu đói khát cực tốt, có lẽ là vì chúng chỉ ăn thức ăn có thuộc tính mộc.</Desc>
+		</Text>
+		<Text Name="Fish_s10" sParam="Item">
+			<ThingName>Hạt Mâu Ngư</ThingName>
+			<Desc>Loài cá được tìm thấy ở Vô Biên Sa Mạc.</Desc>
+		</Text>
+		<Text Name="Fish_r4" sParam="Item">
+			<ThingName>Hỏa Đồng Trư Ngư</ThingName>
+			<Desc>Loài cá chạch sinh sống gần mỏ quặng Hỏa Đồng, rất thích ăn quặng mang thuộc tính hỏa, điều này khiến cơ thể chúng có thể tỏa ra nhiệt lượng.</Desc>
+		</Text>
+		<Text Name="Fish_r7" sParam="Item">
+			<ThingName>Sa Trư Ngư</ThingName>
+			<Desc>Một loại cá sinh sống trong sa mạc.</Desc>
+		</Text>
+		<Text Name="Fish_t7" sParam="Item">
+			<ThingName>Đại Khẩu Ngư</ThingName>
+			<Desc>Loài cá có cái miệng lớn, thường được tìm thấy ở ngoài biển.</Desc>
+		</Text>
+		<Text Name="Fish_t9" sParam="Item">
+			<ThingName>Hắc Sắc Ngư</ThingName>
+			<Desc>Loài cá quý hiếm sinh sống ngoài đại dương.</Desc>
+		</Text>
+		<Text Name="Fish_t12" sParam="Item">
+			<ThingName>Hỏa Sắc Ngư</ThingName>
+			<Desc>Loài cá chỉ có thể được tìm thấy vào mùa hè, rất ít người từng nhìn thấy nó ở Độc Long Hồ.</Desc>
+		</Text>
+		<Text Name="Fish_s12" sParam="Item">
+			<ThingName>Hắc Minh Ngư</ThingName>
+			<Desc>Loài cá lớn sinh sống ở vùng biển sâu và chỉ đẻ trứng ở vùng nước nông.</Desc>
+		</Text>
+		<Text Name="Fish_s8" sParam="Item">
+			<ThingName>Thanh Dực Độc Nhãn Ngư</ThingName>
+			<Desc>Cá thường thấy ở ngoài biển</Desc>
+		</Text>
+		<Text Name="Fish_r9" sParam="Item">
+			<ThingName>Lươn biển</ThingName>
+			<Desc>Lươn thường thấy ở ngoài biển</Desc>
+		</Text>
+		<Text Name="Fish_r10" sParam="Item">
+			<ThingName>Lươn đốm</ThingName>
+			<Desc>Loài lươn hiếm sống dưới biển sâu. Trên thân có những đốm lạ, tương truyền là do ăn phải tro núi lửa dưới đáy biển</Desc>
+		</Text>
+		<Text Name="Shrimp1" sParam="Item">
+			<ThingName>Tôm sông</ThingName>
+			<Desc>Loài tôm phổ biến sống ở vùng nước ngọt</Desc>
+		</Text>
+		<Text Name="Shrimp2" sParam="Item">
+			<ThingName>Tôm biển</ThingName>
+			<Desc>Tôm biển kích thước lớn</Desc>
+		</Text>
+		<Text Name="Shrimp3" sParam="Item">
+			<ThingName>Tôm tím</ThingName>
+			<Desc>Loài tôm chỉ sống trên những ngọn núi gần Thiên Ngoại Cung</Desc>
+		</Text>
+		<Text Name="Shrimp4" sParam="Item">
+			<ThingName>Tôm đỏ</ThingName>
+			<Desc>Loài tôm có lớp vỏ đỏ rực, sở hữu khả năng chịu được nhiệt độ cực cao</Desc>
+		</Text>
+		<Text Name="Shrimp5" sParam="Item">
+			<ThingName>Tôm cát</ThingName>
+			<Desc>Loài tôm nhỏ sinh sống ở vùng sa mạc</Desc>
+		</Text>
+		<Text Name="Shrimp6" sParam="Item">
+			<ThingName>Tôm trắng</ThingName>
+			<Desc>Loài tôm nhỏ sinh sống gần những dòng sông lớn</Desc>
+		</Text>
+		<Text Name="Shrimp7" sParam="Item">
+			<ThingName>Tôm vân xanh</ThingName>
+			<Desc>Loài tôm sống gần vùng bình nguyên trung tâm, rất khó để bắt được</Desc>
+		</Text>
+		<Text Name="Shrimp8" sParam="Item">
+			<ThingName>Tôm đốm vàng</ThingName>
+			<Desc>Loài tôm sống gần rừng Nam Cương, thịt của chúng có vị rất đắng</Desc>
+		</Text>
+		<Text Name="Shrimp9" sParam="Item">
+			<ThingName>Huyết tôm</ThingName>
+			<Desc>Loài tôm sinh sống trong những vũng máu, tính tình vô cùng hung dữ</Desc>
+		</Text>
+		<Text Name="Shrimp10" sParam="Item">
+			<ThingName>Hỏa Huyết Tôm</ThingName>
+			<Desc>Loài tôm xuất hiện ở đầm lầy máu trên núi. Chúng cực kỳ ưa thích những thức ăn chứa hỏa linh khí. Do bản tính hung hăng, chúng thường xuyên xâm chiếm lãnh thổ của các loài thủy tộc khác</Desc>
+		</Text>
+		<Text Name="Shrimp11" sParam="Item">
+			<ThingName>Tôm phát quang</ThingName>
+			<Desc>Loài tôm chỉ xuất hiện tại hồ Ngũ Long vào những đêm hè. Tương truyền sở dĩ thân chúng phát sáng là vì chúng chỉ ăn những thực phẩm chứa mộc linh khí</Desc>
+		</Text>
+		<Text Name="Shrimp12" sParam="Item">
+			<ThingName>Tôm hoa đào</ThingName>
+			<Desc>Loài tôm chỉ xuất hiện tại rừng Đào Không Tàn vào mùa xuân. Tương truyền sở dĩ thân chúng có màu hồng là do chịu ảnh hưởng từ cánh hoa đào rơi xuống môi trường sống của chúng</Desc>
+		</Text>
+	</List>
+</Texts>

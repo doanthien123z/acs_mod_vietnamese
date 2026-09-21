@@ -1,0 +1,74 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TerrainBase">
+			<DisplayName>Địa hình cơ bản</DisplayName>
+			<StoryDesc>Nó xuất hiện trên đường phố</StoryDesc>
+		</Text>
+		<Text Name="Null">
+			<DisplayName>Trống rỗng</DisplayName>
+		</Text>
+		<Text Name="Soil">
+			<DisplayName>Thổ</DisplayName>
+			<StoryDesc>Đây là vùng đất có thể canh tác</StoryDesc>
+		</Text>
+		<Text Name="Soil_Sand">
+			<DisplayName>Cát</DisplayName>
+			<StoryDesc>Đây là vùng đất đầy cát</StoryDesc>
+		</Text>
+		<Text Name="Mud">
+			<DisplayName>Bùn</DisplayName>
+			<StoryDesc>Đây là vùng đất đầy bùn</StoryDesc>
+		</Text>
+		<Text Name="BlackB">
+			<DisplayName>Trống rỗng</DisplayName>
+			<StoryDesc>Nơi này trống rỗng</StoryDesc>
+		</Text>
+		<Text Name="WetLand">
+			<DisplayName>Đầm lầy</DisplayName>
+			<StoryDesc>Đây là vùng đất ẩm ướt</StoryDesc>
+		</Text>
+		<Text Name="FertileSoil">
+			<DisplayName>Đất thượng hạng</DisplayName>
+			<StoryDesc>Đây là vùng đất có thể canh tác</StoryDesc>
+		</Text>
+		<Text Name="StoneLand">
+			<DisplayName>Bề mặt đá</DisplayName>
+			<StoryDesc>Nó nằm trên nền đá gồ ghề</StoryDesc>
+		</Text>
+		<Text Name="SandLand">
+			<DisplayName>Nền cát</DisplayName>
+			<StoryDesc>Nó nằm trên nền đá gồ ghề</StoryDesc>
+		</Text>
+		<Text Name="LingSoil">
+			<DisplayName>Linh thổ</DisplayName>
+			<StoryDesc>Đây là vùng đất dồi dào linh khí</StoryDesc>
+		</Text>
+		<Text Name="DepthDepthWater">
+			<DisplayName>Nước sâu</DisplayName>
+		</Text>
+		<Text Name="DepthWater">
+			<DisplayName>Nước sâu</DisplayName>
+		</Text>
+		<Text Name="YunHai">
+			<DisplayName>Biển sương mù</DisplayName>
+		</Text>
+		<Text Name="ShallowWater">
+			<DisplayName>Nước nông</DisplayName>
+			<StoryDesc>Đây là vùng đất ngập nước nông</StoryDesc>
+		</Text>
+		<Text Name="BloodWater">
+			<DisplayName>Vũng máu</DisplayName>
+			<StoryDesc>Đây là vùng đất thường thấy sau khi phân xác thú</StoryDesc>
+		</Text>
+		<Text Name="DepthBloodWater">
+			<DisplayName>Huyết trì</DisplayName>
+		</Text>
+		<Text Name="LingWater">
+			<DisplayName>Linh tuyền</DisplayName>
+			<StoryDesc>Đây là vùng nước dồi dào linh khí</StoryDesc>
+		</Text>
+		<Text Name="Sand">
+			<DisplayName>Cát</DisplayName>
+		</Text>
+	</List>
+</Texts>

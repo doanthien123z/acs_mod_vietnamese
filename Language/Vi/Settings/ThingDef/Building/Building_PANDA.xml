@@ -1,0 +1,28 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsPanda_Carve" sParam="Building">
+			<ThingName>Thần Gấu Trúc Điêu Tượng</ThingName>
+			<Desc>Tượng điêu khắc của Thần Gấu Trúc, có thể dùng để hồi sinh hoặc triệu hồi Thần Gấu Trúc.</Desc>
+		</Text>
+		<Text Name="BambooBed" sParam="Building">
+			<ThingName>Trúc Sàng</ThingName>
+			<Desc>Giường trúc đơn thoải mái giúp Người có một đêm ngon giấc.</Desc>
+		</Text>
+		<Text Name="Building_BambooScreen1" sParam="Building">
+			<ThingName>Trúc Bình Phong</ThingName>
+		</Text>
+		<Text Name="Building_WaterWheel" sParam="Building">
+			<ThingName>Thủy Luân</ThingName>
+		</Text>
+		<Text Name="Building_BambooScreen2" sParam="Building">
+			<ThingName>Trúc Bình Phong</ThingName>
+		</Text>
+		<Text Name="BambooLight" sParam="Building">
+			<ThingName>Trúc Đăng</ThingName>
+			<Desc>Đèn trang trí chiếu sáng vào ban đêm cho không gian xung quanh.</Desc>
+		</Text>
+		<Text Name="Building_BambooPavilion" sParam="Building">
+			<ThingName>Trúc Đình</ThingName>
+		</Text>
+	</List>
+</Texts>

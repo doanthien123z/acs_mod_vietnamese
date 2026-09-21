@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Plant_Bamboo" sParam="Plant">
+			<ThingName>Trúc</ThingName>
+			<Desc>Loài thực vật sinh trưởng nhanh, có thể dùng làm nguyên liệu xây dựng và chế tạo vật phẩm đặc biệt. Khi trưởng thành có thể thu hoạch chồi non để ăn.</Desc>
+		</Text>
+	</List>
+</Texts>

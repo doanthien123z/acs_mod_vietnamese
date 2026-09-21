@@ -1,0 +1,132 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Weather_Elixir_Base">
+			<DisplayName>Dược Khí Cuồn Cuộn</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp không trung, kích thích linh khí trời đất dâng trào như dòng nước xiết.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Wu">
+			<DisplayName>Nguyên Thủy Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp không trung, kích thích linh khí trời đất dâng trào như dòng nước xiết.</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Jin">
+			<DisplayName>Kim Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Mu">
+			<DisplayName>Mộc Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Shui">
+			<DisplayName>Thủy Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Huo">
+			<DisplayName>Hỏa Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_Tu">
+			<DisplayName>Thổ Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMu">
+			<DisplayName>Hạn Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShui">
+			<DisplayName>Tinh Tế Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuo">
+			<DisplayName>Luyện Hóa Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinTu">
+			<DisplayName>Tích Tụ Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShui">
+			<DisplayName>Trù Phú Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuo">
+			<DisplayName>Thiêu Đốt Chi Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuTu">
+			<DisplayName>Phong Ấn Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuo">
+			<DisplayName>Tịch Mịch Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiTu">
+			<DisplayName>Phá Giới Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_HuoTu">
+			<DisplayName>Tàn Tro Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuShui">
+			<DisplayName>Sơ Sinh Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuHuo">
+			<DisplayName>Mộc Lâm Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinMuTu">
+			<DisplayName>Đại Địa Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiHuo">
+			<DisplayName>Thuần Kim Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinShuiTu">
+			<DisplayName>Thâm Thủy Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_JinHuoTu">
+			<DisplayName>Cương Kim Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiHuo">
+			<DisplayName>Tinh Hỏa Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuShuiTu">
+			<DisplayName>Tĩnh Thủy Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_MuHuoTu">
+			<DisplayName>Kiên Thổ Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_ShuiHuoTu">
+			<DisplayName>Thiêu Nhật Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoJin">
+			<DisplayName>Trảm Kim Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoMu">
+			<DisplayName>Trảm Mộc Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoShui">
+			<DisplayName>Trảm Thủy Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoHuo">
+			<DisplayName>Trảm Hỏa Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+		<Text Name="Elixir_NoTu">
+			<DisplayName>Trảm Thổ Chân Khí</DisplayName>
+			<StoryDesc>Dược khí lan tỏa khắp nơi</StoryDesc>
+		</Text>
+	</List>
+</Texts>

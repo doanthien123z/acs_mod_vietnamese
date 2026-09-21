@@ -1,0 +1,207 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BodyPracticeBase" sParam="Item">
+			<ThingName>Cơ bản</ThingName>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+			<ThingName>Vô Ngã Tinh Hoa</ThingName>
+			<Desc>Năng lượng còn sót lại từ sức mạnh sáng thế thuở hồng hoang. Loại tinh hoa này hiện nay vô cùng hiếm gặp.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+			<ThingName>Tinh Hoa Tinh Tú</ThingName>
+			<Desc>Năng lượng còn sót lại từ sức mạnh sáng thế thuở hồng hoang. Loại tinh hoa này hiện nay vô cùng hiếm gặp.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JieMie" sParam="Item">
+			<ThingName>Tinh Hoa Thiên Phạt</ThingName>
+			<Desc>Tinh hoa chứa đựng quyền năng hủy diệt của Thiên Phạt, chỉ có thể thu thập từ Thiên kiếp.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+			<ThingName>Tinh Hoa Nhật Quang</ThingName>
+			<Desc>Năng lượng cô đọng từ ánh mặt trời, vô cùng khó để thu thập.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+			<ThingName>Tinh Hoa Nguyệt Quang</ThingName>
+			<Desc>Năng lượng cô đọng từ hàn khí của ánh trăng, vô cùng khó để thu thập.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+			<ThingName>Tinh Hoa Thái Dương</ThingName>
+			<Desc>Tinh hoa của mặt trời, chỉ có thể thu thập vào thời điểm chính ngọ.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+			<ThingName>Nguyệt Tinh Hoa</ThingName>
+			<Desc>Tinh hoa của mặt trăng, chỉ có thể thu thập vào thời điểm nửa đêm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXJin" sParam="Item">
+			<ThingName>Huyền Kim Tinh Hoa</ThingName>
+			<Desc>Một trong Ngũ Hành Tiên Nguyên, chỉ có thể tìm thấy ở những nơi có bảo vật Kim thuộc cực kỳ cường đại.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXMu" sParam="Item">
+			<ThingName>Mộc Nguyên huyền bí</ThingName>
+			<Desc>Một trong Ngũ Hành Tiên Nguyên, chỉ có thể tìm thấy ở những nơi có bảo vật Mộc thuộc cực kỳ cường đại.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXShui" sParam="Item">
+			<ThingName>Thủy Nguyên huyền bí</ThingName>
+			<Desc>Một trong Ngũ Hành Tiên Nguyên, chỉ có thể tìm thấy ở những nơi có bảo vật Thủy thuộc cực kỳ cường đại.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+			<ThingName>Hỏa Nguyên huyền bí</ThingName>
+			<Desc>Một trong Ngũ Hành Tiên Nguyên, chỉ có thể tìm thấy ở những nơi có bảo vật Hỏa thuộc cực kỳ cường đại.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_EXTu" sParam="Item">
+			<ThingName>Thổ Nguyên huyền bí</ThingName>
+			<Desc>Một trong Ngũ Hành Tiên Nguyên, chỉ có thể tìm thấy ở những nơi có bảo vật Thổ thuộc cực kỳ cường đại.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jin" sParam="Item">
+			<ThingName>Kim Đan</ThingName>
+			<Desc>Một trong ngũ đại bản nguyên, có thể thu thập ở khắp mọi nơi trên thế giới, chỉ cần cẩn thận tìm kiếm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Mu" sParam="Item">
+			<ThingName>Mộc Nguyên</ThingName>
+			<Desc>Một trong ngũ đại bản nguyên, có thể thu thập ở khắp mọi nơi trên thế giới, chỉ cần cẩn thận tìm kiếm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Shui" sParam="Item">
+			<ThingName>Thủy Nguyên</ThingName>
+			<Desc>Một trong ngũ đại bản nguyên, có thể thu thập ở khắp mọi nơi trên thế giới, chỉ cần cẩn thận tìm kiếm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Huo" sParam="Item">
+			<ThingName>Viêm Tinh Hoa</ThingName>
+			<Desc>Một trong ngũ đại bản nguyên, có thể thu thập ở khắp mọi nơi trên thế giới, chỉ cần cẩn thận tìm kiếm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Tu" sParam="Item">
+			<ThingName>Thổ Nguyên</ThingName>
+			<Desc>Một trong ngũ đại bản nguyên, có thể thu thập ở khắp mọi nơi trên thế giới, chỉ cần cẩn thận tìm kiếm.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+			<ThingName>Cát Nguyên</ThingName>
+			<Desc>Bản nguyên từ từ ngưng tụ tại những nơi có phong thủy cát lợi.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+			<ThingName>Hung Nguyên</ThingName>
+			<Desc>Bản nguyên từ từ ngưng tụ tại những nơi có phong thủy hung sát.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Chun" sParam="Item">
+			<ThingName>Mầm Nguyên</ThingName>
+			<Desc>Bản nguyên hình thành từ thiên địa linh khí theo chu kỳ bốn mùa, phản chiếu sinh cơ bừng bừng của mùa xuân.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Xia" sParam="Item">
+			<ThingName>Hoa Nguyên</ThingName>
+			<Desc>Bản nguyên hình thành từ thiên địa linh khí theo chu kỳ bốn mùa, phản chiếu sức mạnh đơm hoa kết trái.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Qiu" sParam="Item">
+			<ThingName>Thu Nguyên</ThingName>
+			<Desc>Bản nguyên hình thành từ thiên địa linh khí theo chu kỳ bốn mùa, phản chiếu sự điêu tàn của mùa thu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Dong" sParam="Item">
+			<ThingName>Đông Nguyên</ThingName>
+			<Desc>Bản nguyên hình thành từ thiên địa linh khí theo chu kỳ bốn mùa, phản chiếu sự cô tịch của mùa đông.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_YongYe" sParam="Item">
+			<ThingName>Vĩnh Hàng Nguyên</ThingName>
+			<Desc>Bản nguyên kỳ bí sinh ra từ không gian thiên địa trong đêm trường vĩnh cửu. Nguồn gốc của nó vẫn là ẩn số, đồn rằng không phải vật của thế giới này.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+			<ThingName>Thủy Long Nguyên</ThingName>
+			<Desc>Bản nguyên chứa đựng sinh cơ thần bí của Thủy Long, cực kỳ hữu ích cho người tu luyện Bất Tử Thân.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+			<ThingName>Hỏa Phượng Tinh</ThingName>
+			<Desc>Bản nguyên chứa đựng sinh cơ thần bí của Phượng Hoàng lửa, cực kỳ hữu ích cho người tu luyện Bất Tử Thân.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+			<ThingName>Thiên Long Nguyên</ThingName>
+			<Desc>Bản nguyên chứa đựng sinh cơ thần bí của Thiên Long, cực kỳ hữu ích cho người tu luyện Bất Tử Thân.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+			<ThingName>Cổ Yêu Huyết Nguyên</ThingName>
+			<Desc>Tinh huyết ngưng tụ từ yêu thú thượng cổ với thân thể cường tráng vô song.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+			<ThingName>Cổ Yêu Cốt Nguyên</ThingName>
+			<Desc>Xương cốt ngưng tụ từ yêu thú thượng cổ với thân thể cường tráng vô song.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+			<ThingName>Hung Yêu Nguyên</ThingName>
+			<Desc>Yêu đan ẩn chứa tu vi thâm hậu của hung yêu, có lẽ ẩn giấu bí mật về nhục thân thiên phú của chúng.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+			<ThingName>Thuần Nguyên Thần Lực</ThingName>
+			<Desc>Bản nguyên sinh mệnh thuần khiết, cực kỳ thích hợp để rèn luyện nhục thân.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+			<ThingName>Tinh chất sinh mệnh</ThingName>
+			<Desc>Điểm linh quang nhỏ bé của một sinh mệnh vừa mới hình thành</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+			<ThingName>Mệnh cách tinh túy</ThingName>
+			<Desc>Hơi thở sự sống được hình thành tự nhiên từ linh khí của trời đất. Ngoài ra, tương truyền đây còn là nguồn gốc của các sinh vật cổ xưa.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_SiWang" sParam="Item">
+			<ThingName>Quỷ sát tinh túy</ThingName>
+			<Desc>Sau khi sinh vật tử vong, một phần sinh mệnh lực chân chính sẽ tán đi vào trời đất, trong khi một phần khác sẽ chuyển hóa thành loại tinh túy này.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuHui" sParam="Item">
+			<ThingName>Ô trọc tinh túy</ThingName>
+			<Desc>Mặc dù nguồn gốc của loại tinh túy này không rõ ràng, nhưng nó là nơi tụ họp năng lượng tiêu cực của vạn vật, chứa đựng huyền cơ sâu sắc về luân hồi và chuyển biến.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WuXing" sParam="Item">
+			<ThingName>Vô hình tinh túy</ThingName>
+			<Desc>Một loại tinh túy vô cùng kỳ dị. Nó trong suốt và không có hình dáng, tuy nhiên nó lại thực sự tồn tại và có thể chiết xuất được.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+			<ThingName>Tiên đạo tinh túy</ThingName>
+			<Desc>Tinh túy được ngưng tụ từ Kim Đan của người tu luyện Tiên đạo. Do nó chứa đựng chân khí của chủ nhân cũ, nên nó không có tác dụng với người tu luyện Thể tu. Nếu cố tình dùng nó để rèn luyện thân thể, nó sẽ xâm nhập vào cơ thể, phân rã sức mạnh, ngăn cản việc luyện thể và đưa cơ thể trở về trạng thái ban đầu.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
+			<ThingName>Tiên cốt tủy</ThingName>
+			<Desc>Tinh túy nhục thân được tạo ra từ Kim Đan của Tiên nhân. Vì loại tinh túy này quá mạnh mẽ, nên nó gây ra sự kích thích dữ dội trong cơ thể người tu luyện Thể tu. Không ai biết điều gì sẽ xảy ra nếu dùng nó để luyện thể.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+			<ThingName>Thần cốt tủy</ThingName>
+			<Desc>Tinh túy nhục thân được tạo ra từ Thần niệm của người tu luyện Thần đạo. Vì loại tinh túy này quá mạnh mẽ, nên nó gây ra sự kích thích dữ dội trong cơ thể người tu luyện Thể tu. Không ai biết điều gì sẽ xảy ra nếu dùng nó để luyện thể.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_BaBao" sParam="Item">
+			<ThingName>Vũ trụ tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của vũ trụ.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanDao" sParam="Item">
+			<ThingName>Khởi nguyên tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của khởi nguyên vũ trụ.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiQing" sParam="Item">
+			<ThingName>Âm Dương tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của Âm Dương.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+			<ThingName>Thời Không tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của không gian và thời gian.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+			<ThingName>Thủy Chung tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sự khởi đầu và kết thúc.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_Jian" sParam="Item">
+			<ThingName>Sinh Tử tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sinh mệnh và tử vong.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_LingYu" sParam="Item">
+			<ThingName>Phồn vinh tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sự hưng thịnh.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_WanGu" sParam="Item">
+			<ThingName>Hư vô tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sự phủ định.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+			<ThingName>Tịch mịch tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sự tịch mịch.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_QiSha" sParam="Item">
+			<ThingName>Diệt vong tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của sự diệt vong.</Desc>
+		</Text>
+		<Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+			<ThingName>Vận mệnh tinh túy</ThingName>
+			<Desc>Vào thuở sơ khai khi vũ trụ vừa được hình thành, mảnh tinh túy này hiển lộ đạo của vận mệnh.</Desc>
+		</Text>
+	</List>
+</Texts>

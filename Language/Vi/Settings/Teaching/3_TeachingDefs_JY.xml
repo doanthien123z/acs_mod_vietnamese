@@ -1,0 +1,453 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SchoolManager">
+			<Type>Phát triển</Type>
+			<DisplayName>Quản lý tông môn</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu về các tính năng khác nhau trong menu tông môn, cũng như ảnh hưởng của danh vọng và xu hướng chính đạo/ma đạo đối với tông môn\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Thông tin cơ bản</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mở khóa tông môn</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra danh vọng</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Kiểm tra điểm thiện ác</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Kiểm tra phong thủy của tông môn</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Kiểm tra linh thiện của tông môn</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Kiểm tra công pháp của tông môn</Chapters.0.Tasks.5>
+			<Chapters.1.DisplayName>Các tính năng khác của tông môn</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kiểm tra kiến trúc tông môn</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra danh sách đệ tử</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Kiểm tra ngoại giao</Chapters.1.Tasks.2>
+			<Tasks.2.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Khi Người có đệ tử nội môn, có thể kiểm tra và quản lý tông môn</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Nhấn để kiểm tra chi tiết danh vọng. Người có thể nhận danh vọng thông qua các hành động khác nhau như kỳ ngộ, sự kiện và thần thông, nhưng danh vọng càng cao thì kẻ địch xâm lược càng mạnh</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấp để xem thông tin danh vọng. Người có thể nhận danh vọng thông qua các hoạt động như du ngoạn thế gian, sự kiện và sử dụng thần thông. Tuy nhiên, danh vọng cao hơn sẽ thu hút kẻ địch mạnh hơn đến tấn công</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Tông môn có thể được mở rộng mỗi khi danh vọng đạt đến cấp độ mới. Tông môn lớn hơn có thể thu nhận nhiều đệ tử hơn</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Nhấp để xem xu hướng chính đạo và ma đạo. Các hành động khác nhau trong game sẽ ảnh hưởng đến xu hướng phe phái, từ đó ảnh hưởng đến mối quan hệ của Người với người khác cũng như các lựa chọn và tiến trình sự kiện</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Phong thủy của tông môn được quyết định bởi phong thủy của toàn bộ các phòng và các công trình phong thủy, điều này sẽ ảnh hưởng đến khí vận của tất cả đệ tử</Tasks.10.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>Khi Người đã chọn linh thiện cho tông môn, các đệ tử sẽ tự động ra lệnh nấu ăn hai giờ trước giờ ăn. Người có thể chọn các loại linh thiện khác nhau để cải thiện bữa ăn cho đệ tử dựa trên lượng nguyên liệu được tích trữ hiện tại. Khi có đủ nguyên liệu, Người cũng có thể hủy lựa chọn</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Nhấn để thu gọn "Công pháp tối cao" ở phía bên trái</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Nhấp để thu gọn "Công pháp tối cao" ở phía bên trái</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Nơi này sẽ hiển thị thông tin chi tiết về loại công pháp, độ tương thích công pháp, cảnh giới trong công pháp, v.v.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Nơi này sẽ hiển thị thông tin chi tiết về loại công pháp, độ tương thích công pháp, cảnh giới trong công pháp, v.v.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Nhấp để kiểm tra sơ đồ linh cảm</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>Nơi này sẽ hiển thị sơ đồ linh cảm chi tiết để Người kiểm tra. Sơ đồ này sẽ cung cấp thông tin về việc có thể lĩnh hội những tâm kinh nào cho công pháp này</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Nhấn để đóng menu công pháp</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Nhấp để đóng menu công pháp</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Trong trang thông tin cơ bản của tông môn, Người có thể tìm hiểu các thông tin khác nhau về tông môn hiện tại để dễ dàng quản lý</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Nhấp vào "Kiến trúc tông môn""</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Khi tông môn của Người trở thành thánh địa, có thể thiết lập các phân tông. Chủ phân tông càng có năng lực thì đệ tử ở phân tông càng nhận được nhiều buff. Khi đã thiết lập phân tông, có thể quy hoạch khu vực phân tông thông qua tính năng xây dựng, mang lại hiệu quả buff cho đệ tử. Việc thay đổi hoặc cho tông chủ nghỉ hưu cũng sẽ ảnh hưởng đến đệ tử</Tasks.26.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>Khi tông môn của Người trở thành thánh địa, có thể thiết lập các phân tông. Chủ phân tông càng có năng lực thì đệ tử ở phân tông càng nhận được nhiều buff. Khi đã thiết lập phân tông, có thể quy hoạch khu vực phân tông thông qua tính năng xây dựng, mang lại hiệu quả buff cho đệ tử. Việc thay đổi hoặc cho tông chủ nghỉ hưu cũng sẽ ảnh hưởng đến đệ tử</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Nhấp vào "Danh sách đệ tử""</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Người có thể nhấn "X" để trục xuất đệ tử</Tasks.30.TipsData.Desc>
+			<Tasks.31.TipsData.Desc>Người có thể nhấp "X" để trục xuất đệ tử</Tasks.31.TipsData.Desc>
+			<Tasks.33.TaskDesc>Nhấn "Ngoại giao""</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Người có thể kiểm tra trang này để nắm bắt thông tin về quan hệ, hữu nghị và xu hướng tương tác giữa tông môn của mình với các tông môn khác, từ đó lập kế hoạch phát triển tông môn tốt hơn.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Nhấn "Chi tiết" của Dinh thự Ô Dù</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Người có thể nhấn "Chi tiết" để xem quan hệ giữa các tông môn, nắm rõ thực lực tông môn và theo dõi những thay đổi để hoạch định các chiến lược khác biệt.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Nhấn để đóng menu Dinh thự Ô Dù.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Các tính năng này của tông môn đóng vai trò quan trọng trong quá trình chơi, Người có thể sử dụng chúng để phát triển tông môn của mình và lập các chiến lược khác biệt.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="FengShui">
+			<Type>Phát triển</Type>
+			<DisplayName>Phong thủy</DisplayName>
+			<Desc>Tìm hiểu về Ngũ Hành, Phong Thủy và sự phân bổ Linh khí trong hướng dẫn này.</Desc>
+			<Chapters.0.DisplayName>Công trình và Vật phẩm trang trí Phong Thủy</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra công trình Phong Thủy</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra vật phẩm trang trí</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Phong Thủy của công trình</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kiểm tra Phong Thủy của bàn</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra Phong Thủy gần bàn</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Đặt Thanh Đồng Hỏa</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Di chuyển vật phẩm trang trí</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Kiểm tra sự thay đổi của Phong Thủy</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Cách điều chỉnh Phong Thủy trong phòng</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Kiểm tra Phong Thủy trong phòng</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Kiểm tra công trình Phong Thủy</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Kiểm tra bố cục căn phòng</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Kiểm tra hướng cửa</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Chạm vào "Vật dụng" để mở cửa sổ kiến trúc vật dụng.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Trong game, hầu hết các công trình được phân loại vào mục Vật dụng, Xây dựng, Tông môn và Giải trí có gắn nhãn "Công trình Phong Thủy" sẽ được coi là công trình Phong Thủy. Phong Thủy của những công trình này sẽ thay đổi theo môi trường ngũ hành tại vị trí đặt. Khi ngũ hành của môi trường tương sinh với ngũ hành của công trình, Phong Thủy sẽ tốt và ngược lại.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Vật dụng</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Trong game, hầu hết các công trình được phân loại vào mục Vật dụng, Xây dựng, Tông môn và Giải trí có gắn nhãn "Công trình Phong Thủy" sẽ được coi là công trình Phong Thủy. Phong Thủy của những công trình này sẽ thay đổi theo môi trường ngũ hành tại vị trí đặt. Khi ngũ hành của môi trường tương sinh với ngũ hành của công trình, Phong Thủy sẽ tốt và ngược lại.</Tasks.4.TaskDesc>
+			<Tasks.7.TaskDesc>Trong game, các công trình không có nhãn "Công trình Phong Thủy" sẽ là vật phẩm trang trí. Những công trình này hầu hết kế thừa thuộc tính ngũ hành của vật liệu chính và ảnh hưởng đến môi trường ngũ hành xung quanh, bản thân chúng không chịu ảnh hưởng của Ngũ Hành và không có Phong Thủy.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>Trong game, một số công trình có nhãn ngũ hành riêng. Khi công trình có nhãn ngũ hành hoặc nhãn không xác định, nó sẽ không bị ảnh hưởng bởi ngũ hành của vật liệu chính, vì vậy yếu tố ảnh hưởng đến môi trường ngũ hành chính là ngũ hành trong nhãn.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TipsData.Desc>Hãy nhớ rằng, một số công trình có thuộc tính ngũ hành cho mặt đất mà nó tọa lạc, khác biệt hoàn toàn với ngũ hành của công trình. Ví dụ, mặt đất của lò sưởi là Hỏa, mặt đất của giếng nước là Thủy. Vì vậy, Người cần khám phá thuộc tính này và tìm hiểu thêm về Phong Thủy.</Tasks.10.TipsData.Desc>
+			<Tasks.13.TaskDesc>Bàn đá màu nâu là công trình Phong Thủy thuộc tính Thổ, vì vậy nó chịu ảnh hưởng bởi sự tương tác Ngũ Hành trong môi trường. Trong chế độ Phong Thủy, nếu công trình hiển thị màu vàng hoặc đỏ nghĩa là Phong Thủy không tốt. Công trình hiện tại đang hiển thị màu đỏ, rõ ràng là bị ảnh hưởng bởi ngũ hành tương khắc.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Bàn đá màu nâu là công trình Phong Thủy thuộc tính Thổ, bị đánh dấu màu đỏ trong chế độ Phong Thủy do chịu ảnh hưởng bởi ngũ hành tương khắc ở khu vực lân cận.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Đèn lồng Ô Dù là vật phẩm trang trí thuộc tính Mộc có ảnh hưởng đến môi trường ngũ hành xung quanh.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Chạm vào nút Phong Thủy một lần nữa để thoát chế độ Phong Thủy.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Nhấn nút Phong Thủy ở bên phải một lần nữa để mở chế độ Phong Thủy.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Chạm vào "Đặt vật phẩm""</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Chạm để chọn "Thanh Đồng Hỏa""</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Đặt vật phẩm</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Xác nhận lựa chọn</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Chạm vào "Tháo dỡ""</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Chọn đèn lồng Ô Dù ở phía bên phải bàn đá màu nâu.</Tasks.26.TaskDesc>
+			<Tasks.26.UiData.Name>Phá dỡ</Tasks.26.UiData.Name>
+			<Tasks.27.TaskDesc>Chạm vào "Di chuyển""</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Chạm vào "Đặt" và đặt vào vị trí được chỉ định.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Di chuyển</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Xác nhận lựa chọn</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>Chờ đợi hoàn tất.</Tasks.34.TaskDesc>
+			<Tasks.36.TaskDesc>Việc đặt thỏi đồng hỏa đã nâng cao hỏa thuộc tính trong môi trường xung quanh.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Sự hiện diện của đèn đồng hỏa đã nâng cao hỏa thuộc tính trong môi trường xung quanh.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Do sự thay đổi của môi trường thuộc tính, bàn đá nâu chịu ảnh hưởng của hỏa thuộc tính xung quanh giúp sinh Thổ cho bàn, do đó phong thủy được cải thiện.</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>Ngài có thể thay đổi ngũ hành xung quanh kiến trúc phong thủy để thay đổi phong thủy, và phong thủy của kiến trúc cũng sẽ ảnh hưởng đến phong thủy của căn phòng.</Tasks.40.TipsData.Desc>
+			<Tasks.42.TaskDesc>Chọn phòng bằng cách nhấp vào khu vực trống trong phòng</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Ngài có thể xem hiển thị phong thủy tại đây và sẽ thấy phong thủy của căn phòng được quyết định bởi nhiều yếu tố.</Tasks.43.TaskDesc>
+			<Tasks.45.TipsData.Desc>Phong thủy của toàn bộ kiến trúc phong thủy ảnh hưởng đến phong thủy căn phòng, điều này được quyết định bởi phong thủy tổng thể của tất cả kiến trúc bên trong.</Tasks.45.TipsData.Desc>
+			<Tasks.47.TipsData.Desc>Bố cục phòng chật hẹp hoặc quá trống trải sẽ làm hỏng phong thủy.</Tasks.47.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>Tùy thuộc vào chức năng của căn phòng, phong thủy sẽ chịu ảnh hưởng bởi các yếu tố như hướng cửa và việc có nhiều cửa. Phòng ngủ nên quay mặt về hướng Nam, vì vậy cửa nên được xây ở phía dưới. Dùng "Trợ giúp" để kiểm tra phong thủy và hướng cho các loại phòng khác</Tasks.48.TipsData.Desc>
+			<Tasks.50.TipsData.Desc>Người chơi có thể chạm "Trợ giúp" ở góc trên bên phải để kiểm tra phong thủy của phòng trong mục Ngũ Hành và Phong Thủy nhằm tìm hiểu thêm quy tắc chi tiết về phong thủy. Để biết thêm chi tiết, bạn có thể chạm nút trợ giúp ở góc trên bên phải để kiểm tra quy tắc phong thủy của phòng</Tasks.50.TipsData.Desc>
+		</Text>
+		<Text Name="RoomDesign">
+			<Type>Phát triển</Type>
+			<DisplayName>Quy hoạch phòng cho đệ tử nội môn</DisplayName>
+			<Desc>Trong hướng dẫn này, tìm hiểu nhu cầu chính của phòng đệ tử nội môn và cách đáp ứng các yêu cầu phong thủy.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Chọn phòng cho đệ tử nội môn</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra loại công pháp</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra ngũ hành của phòng</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Tạo điểm tu luyện</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Chọn nguyên liệu chính</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Chờ cho đến khi xây dựng hoàn tất</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Chọn đệ tử cư trú</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Cải thiện phong thủy</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Đặt đèn dầu</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Đặt nội thất</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Nhấn chọn đệ tử nội môn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấn vào thẻ Công pháp</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Công pháp của đệ tử thuộc hành Kim, theo quy luật tương sinh tương khắc của ngũ hành, chúng ta cần phân chia phòng thuộc hành Thổ cho đệ tử này.</Tasks.4.TipsData.Desc>
+			<Tasks.5.TaskDesc>Nhấn để đóng bảng công pháp và tu luyện</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấn vào "Phong Thủy" ở góc trên bên trái để进入 chế độ phong thủy.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Phòng này có hỏa thuộc tính cao, tương khắc với thuộc tính công pháp của đệ tử, do đó không thích hợp làm phòng của họ.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Căn phòng này có thuộc tính Thổ cao, tương sinh với thuộc tính công pháp của đệ tử, vì vậy rất phù hợp làm phòng của họ</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Nhấn nút Phong Thủy để thoát khỏi chế độ phong thủy.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Hãy tuân theo quy luật ngũ hành tương sinh tương khắc để chọn phòng cho đệ tử nội môn, và cố gắng xây phòng ở khu vực có thuộc tính tương sinh với đệ tử.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Chạm vào "Vật dụng" để mở cửa sổ kiến trúc vật dụng.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Nhấn vào "Giường" để bắt đầu chế độ đặt</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Vật dụng</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Nhấn "Giường" để bắt đầu chế độ đặt</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Đệ tử này thuộc hành Kim, nên sẽ thích hợp hơn khi tu luyện trong môi trường giàu Thổ thuộc tính. Kiến trúc phong thủy cần phối hợp với vật trang trí có thuộc tính sinh Thổ, do đó nên chọn nguyên liệu chính thuộc hành Kim để đặt nhiều vật trang trí hành Thổ tương sinh với hành Kim.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Thoát chế độ xây dựng</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Nhấn lư hương</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Chọn bàn làm việc để hiển thị trạng thái bên dưới</Tasks.23.TaskDesc>
+			<Tasks.26.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Chờ cho đến khi xây dựng hoàn tất</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Nhấn để chỉ định chủ sở hữu</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Nhấn vào nhân vật đầu tiên và xếp giường cho người đó</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Xác định</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Xác nhận sắp xếp</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Xác nhận sắp xếp</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Giường, bồ đoàn hoặc long tọa đều có thể dùng làm điểm tu luyện. Nguyên liệu chính nên cùng thuộc tính với công pháp của đệ tử nội môn.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Nhấn "Trang trí" để mở cửa sổ kiến trúc dụng cụ</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Nhấn "Đèn dầu" để bắt đầu chế độ đặt</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấn để chọn đá nâu làm nguyên liệu chính</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Vật trang trí</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Thoát chế độ xây dựng</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Nhấn lư hương</Tasks.44.TaskDesc>
+			<Tasks.47.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.47.TaskDesc>
+			<Tasks.47.UiData.Name>Nội thất</Tasks.47.UiData.Name>
+			<Tasks.48.TaskDesc>Thoát chế độ xây dựng</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.49.TaskDesc>
+			<Tasks.50.TaskDesc>Nhấn lư hương</Tasks.50.TaskDesc>
+			<Tasks.52.TaskDesc>Thoát chế độ xây dựng</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Đặt vào vị trí chỉ định trong bản thiết kế</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Nhấn lư hương</Tasks.54.TaskDesc>
+			<Tasks.57.TipsData.Desc>Bố cục phong thủy chính trong phòng đệ tử nội môn thường bao gồm giường, bồ đoàn ngồi, bồ đoàn tu luyện, v.v., và hướng phòng có bố cục phong thủy đó thường là phòng ngủ hướng về phía Nam. Cốt lõi thiết kế phòng đệ tử nội môn là sử dụng các kiến trúc trang trí làm từ nguyên liệu có thuộc tính tương sinh, phù hợp với thuộc tính công pháp của đệ tử nội môn. Ví dụ, đệ tử nội môn tu luyện công pháp hệ Kim sẽ dùng đèn dầu hệ Thổ để gia tăng sức mạnh, và dùng nguyên liệu hệ Kim cho vị trí tu luyện của họ (trong bài hướng dẫn này, lấy giường làm ví dụ))</Tasks.57.TipsData.Desc>
+		</Text>
+		<Text Name="WalkStop">
+			<Type>Phát triển</Type>
+			<DisplayName>Giao dịch</DisplayName>
+			<Desc>Trong bài hướng dẫn này, hãy tìm hiểu thông tin cần thiết về giao dịch và cách buôn bán với thương nhân.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Chuẩn bị trước khi giao dịch</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra thông tin từ thương nhân</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Quy hoạch khu giao dịch</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Chuẩn bị vật phẩm để giao dịch</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Phương thức giao dịch</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Giao dịch với thương nhân</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra giao diện giao dịch</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Nhấn "Xác nhận""</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấn vào dòng chữ ở bên phải</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Nhấn vào dòng chữ "Thương nhân đã đến""</Tasks.4.TaskDesc>
+			<Tasks.6.TipsData.Desc>Thương nhân sẽ thỉnh thoảng đến tông môn, người chơi có thể giao dịch tài nguyên với họ. Tiền tệ giao dịch chủ yếu là linh thạch, và cũng có thể trao đổi các vật phẩm có giá trị tương đương. Người chơi cần chuẩn bị tài nguyên muốn giao dịch trước mỗi lần thực hiện giao dịch.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TaskDesc>Nhấn để đóng bảng thông báo</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Nhấn "Khu vực" để mở cửa sổ kiến trúc khu vực</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấn "Khu giao dịch" để vào chế độ khu vực</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Khu vực</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Kéo và chọn khu giao dịch tại vị trí chỉ định</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Thoát chế độ xây dựng</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Nhấn lư hương</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Chọn bàn làm việc để hiển thị trạng thái bên dưới</Tasks.16.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn "Khu giao dịch" trong danh sách bên dưới</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Khu giao dịch</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Chờ vật phẩm được chuyển đến khu giao dịch</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Mỗi lần thương nhân đến, họ sẽ mang theo rất nhiều tài nguyên, vì vậy nên chuẩn bị trước vật phẩm cần giao dịch để tránh bỏ lỡ thời gian buôn bán.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Nhấn "Giao dịch""</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Chờ đệ tử đi giao dịch</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>Giao thương</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Chờ đệ tử đi giao dịch</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Đây là tài nguyên trong khu giao dịch của tông môn người chơi.</Tasks.32.TipsData.Desc>
+			<Tasks.33.TipsData.Desc>Đây là tài nguyên đang được giao dịch. Phía trên bên trái là tổng giá trị tài nguyên mà thương nhân giao dịch, còn phía trên bên phải là giá trị tài nguyên từ tông môn của người chơi. Khi hai bên đã thống nhất giá cả, người chơi có thể nhấn "Xác nhận" phía dưới để hoàn tất giao dịch</Tasks.33.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Đây là tài nguyên đang được giao dịch. Phía trên bên trái là tổng giá trị tài nguyên mà thương nhân giao dịch, còn phía trên bên phải là giá trị tài nguyên từ tông môn của người chơi. Khi hai bên đã thống nhất giá cả, người chơi có thể nhấn "Xác nhận" phía dưới để hoàn tất giao dịch</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Mỗi lần thương nhân đến, họ sẽ ở lại một thời gian, nên người chơi có thể giao dịch nhiều lần. Nhưng xin lưu ý rằng, nếu thương nhân chết tại tông môn của người chơi, toàn bộ tài nguyên sẽ thuộc về tông môn của người chơi, nhưng sau đó sẽ không còn thương nhân nào đến tông môn giao dịch nữa. Vì vậy hãy suy nghĩ kỹ trước khi hành động.</Tasks.37.TipsData.Desc>
+		</Text>
+		<Text Name="WorldMap">
+			<Type>Phát triển</Type>
+			<DisplayName>Địa danh thế giới</DisplayName>
+			<Desc>Trong bài hướng dẫn này, hãy tìm hiểu về các địa danh trên bản đồ thế giới và cách tương tác với những địa điểm này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Bản đồ thế giới</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra địa danh</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra sự kiện kỳ duyên</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Kiểm tra danh sách đệ tử</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Kiểm tra mở rộng lãnh địa</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Cách xuất sơn lịch luyện và hạ trại</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Phái đệ tử ra ngoài phiêu lưu</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Phái đi hạ trại</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Kiểm tra tiến độ khám phá</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Chạm để mở Bản đồ thế giới</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.2.TaskDesc>
+			<Tasks.4.TipsData.Desc>Khi người chơi đã có đệ tử nội môn, bạn có thể dùng bản đồ thế giới để phái đệ tử đến những nơi này lịch luyện, trong quá trình đó họ sẽ gặp phải các sự kiện kỳ duyên khác nhau và nhận được phần thưởng cũng như tài nguyên từ chúng.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Nhấp "Sự kiện kỳ duyên" ở góc dưới bên phải</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Khi người chơi phát hiện sự kiện kỳ duyên trong game, sự kiện đang diễn ra sẽ hiển thị ở đây. Nhấp vào sự kiện kỳ duyên và góc máy sẽ chuyển ngay đến vị trí xảy ra sự kiện.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Nhấp "Đệ tử" ở góc dưới bên phải</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Nếu Người đã phái đệ tử đi mạo hiểm hoặc đóng trại ở đâu đó, họ sẽ hiển thị ở đây. Nhấp "Triệu hồi về" nếu Người muốn gọi đệ tử trở về.</Tasks.10.TipsData.Desc>
+			<Tasks.11.TaskDesc>Nhấp lần nữa để đóng bảng đệ tử.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp "Mở rộng lãnh thổ" ở góc trên bên trái để vào chế độ mở rộng lãnh thổ.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Mỗi thế lực trên bản đồ đều có ranh giới và lãnh thổ riêng, các lãnh thổ khác nhau sẽ hiển thị bằng màu sắc khác nhau. Có nhiều cách để mở rộng tông môn của Người, và khu vực trung lập là nơi dễ chiếm nhất.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Nhấp "Thông tin" ở góc trên bên trái để thoát khỏi chế độ mở rộng lãnh thổ.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>Sau khi tìm hiểu về bản đồ thế giới, chúng ta đã nắm được nhiều thao tác tương tác. Tiếp theo, hãy cùng tìm hiểu thêm về các địa điểm cơ bản nhé.</Tasks.17.TipsData.Desc>
+			<Tasks.20.TaskDesc>Nhấn "Mạo hiểm"</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Chạm và chọn đệ tử</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Chạm và chọn đệ tử</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Xác nhận lựa chọn</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Nhấn "Xác nhận""</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Nhấn "Đồng ý""</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Nhấp vào "Xác nhận""</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Chạm và chọn đệ tử</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Chạm và chọn đệ tử</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Nhấn "Xác nhận""</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Nhấp "Xác nhận""</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>Đây là tiến độ khám phá của vị trí hiện tại. Thông qua mạo hiểm và đóng trại, Người có thể từng bước nâng cao tiến độ khám phá. Khi tiến độ khám phá tăng, các bí cảnh xung quanh sẽ được mở khóa 100%, nghĩa là địa điểm đó đã được khám phá hoàn toàn.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TipsData.Desc>Sau khi tìm hiểu về mạo hiểm và đóng trại, Người có thể đến nhiều địa điểm khác nhau trong thế giới rộng lớn để nhận các tài nguyên quý hiếm, khám phá các sự kiện bí mật thú vị và ghé thăm các tông môn khác.</Tasks.35.TipsData.Desc>
+		</Text>
+		<Text Name="DLPlace">
+			<Type>Phát triển</Type>
+			<DisplayName>Thành lập phân đường</DisplayName>
+			<Desc>Học cách thành lập và quản lý phân đường trong bài hướng dẫn này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Kiểm tra phân đường</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mở menu thành lập</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra phân đường Nam Sơn</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Quản lý phân đường</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kiểm tra quản lý thế lực</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Ban hành chính sách</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Thu thập tài nguyên</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Theo dõi chặt chẽ</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Kiểm tra menu phân đường</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Xử lý sự kiện phân đường</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Xử lý sự kiện thiện nguyện</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Kiểm tra kết quả</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Xử lý sự kiện đặc biệt</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Chạm để mở Bản đồ thế giới</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấp "Phong Nhiêu Thành"</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Trước khi phái ngoại môn đệ tử đến đồn trú tại phân đường, cần phải đáp ứng một số yêu cầu.</Tasks.6.TipsData.Desc>
+			<Tasks.9.TaskDesc>Nhấp "Nam Sơn"</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Khi ngoại môn đệ tử đã đồn trú tại phân đường, các tính năng và kiến trúc của phân đường sẽ được mở khóa thêm.</Tasks.10.TipsData.Desc>
+			<Tasks.11.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấp để đóng menu bản đồ thế giới</Tasks.12.TaskDesc>
+			<Tasks.16.TipsData.Desc>Khi Người đã có phân đường, có thể kiểm tra và quản lý phân đường.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn "Lao động"</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Mỗi phân đường có thể áp dụng chính sách địa phương khác nhau. Khi xảy ra sự kiện đặc biệt, việc đưa ra quyết định chính sách thường liên quan đến các yếu tố như uy danh, tín ngưỡng và dân số.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Nhấp "Lao động"</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>Mỗi phân đường đều có kho chứa riêng. Sau một khoảng thời gian nhất định, Người có thể nhấn "Thu thập" để thu thập tài nguyên địa phương, nhưng hãy nhớ rằng kho chứa có giới hạn.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Nhấn "Thu thập"</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Mỗi chi nhánh có kho chứa riêng của mình. Sau mỗi khoảng thời gian nhất định, người chơi có thể nhấn "Thu thập" để lấy tài nguyên địa phương, nhưng hãy nhớ rằng kho chứa có giới hạn</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>Nhấp "Thu thập"</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Nhấn "Theo dõi"</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>Đôi khi việc theo dõi chặt chẽ là cách tốt để tăng tần suất xuất hiện sự kiện ở phân đường, nhưng sẽ tốn nhiều tài nguyên hơn.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Nhấp "Theo dõi"</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Nhấp "Nam Sơn"</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Đây là thông tin chính về phân đường mà Người quản lý, chẳng hạn như đại diện chủ chốt, kiến trúc chính, sản lượng, kho chứa, v.v.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Nhấp "Đại diện" ở bên trái</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Đây là thông tin về người đại diện của phân đường do người chơi quản lý, như tổng chỉ số của đại diện và đệ tử đại diện.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.37.TaskDesc>
+			<Tasks.38.TipsData.Desc>Đây là thông tin về điểm tín ngưỡng của phân đường do người chơi quản lý, như xu hướng tín ngưỡng địa phương, điểm tín ngưỡng, tượng thần, tổng dân số, v.v.</Tasks.38.TipsData.Desc>
+			<Tasks.39.TaskDesc>Nhấp để đóng menu Nam Sơn.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Nhấp để đóng menu bản đồ thế giới</Tasks.40.TaskDesc>
+			<Tasks.42.TaskDesc>Nhấp để đóng menu quản lý thế lực.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Khi Người đã có phân đường, có thể kiểm tra và quản lý phân đường.</Tasks.44.TipsData.Desc>
+			<Tasks.48.TipsData.Desc>Sau khi xử lý xong sự kiện, cửa sổ sách lược sẽ không còn hiển thị dấu chấm than nữa.</Tasks.48.TipsData.Desc>
+			<Tasks.49.TaskDesc>Chạm để đóng menu quản lý thế lực.</Tasks.49.TaskDesc>
+			<Tasks.50.TipsData.Desc>Theo hướng dẫn, người chơi có thể chọn phương án giải quyết phù hợp, kết quả thường liên quan đến chỉ số của đệ tử đóng giữ tại phân đường.</Tasks.50.TipsData.Desc>
+			<Tasks.51.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.52.TaskDesc>
+			<Tasks.53.TipsData.Desc>Sau khi xử lý xong sự kiện, cửa sổ sách lược sẽ không còn hiển thị dấu chấm than nữa.</Tasks.53.TipsData.Desc>
+			<Tasks.54.TaskDesc>Cửa sổ sự kiện xuất hiện sau khi hoàn thành sự kiện hành thiện.</Tasks.54.TaskDesc>
+			<Tasks.56.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Nhấn "Đồng ý""</Tasks.57.TaskDesc>
+			<Tasks.59.TaskDesc>Cửa sổ sự kiện xuất hiện sau khi hoàn thành sự kiện hành thiện.</Tasks.59.TaskDesc>
+			<Tasks.60.TaskDesc>Nhấn "Đồng ý""</Tasks.60.TaskDesc>
+			<Tasks.61.TipsData.Desc>Sau khi người chơi hoàn thành sự kiện thành công, phân đường sẽ nhận được lượng lớn tín đồ. Lượng lớn tín đồ rất có lợi cho việc mở rộng phân đường.</Tasks.61.TipsData.Desc>
+			<Tasks.62.TaskDesc>Nhấp vào "Xác nhận""</Tasks.62.TaskDesc>
+			<Tasks.65.TaskDesc>Nhấp vào "Xác nhận""</Tasks.65.TaskDesc>
+			<Tasks.67.TaskDesc>Nhấn "Xây dựng" ở góc dưới bên trái để mở cửa sổ xây dựng</Tasks.67.TaskDesc>
+			<Tasks.68.TaskDesc>Nhấn "Lao động"</Tasks.68.TaskDesc>
+			<Tasks.70.TipsData.Desc>Người chơi có thể kiểm tra tin nhắn bên trái để xem các sự kiện đặc biệt đang diễn ra tại phân đường.</Tasks.70.TipsData.Desc>
+			<Tasks.71.TaskDesc>Nhấp "Nam Sơn"</Tasks.71.TaskDesc>
+			<Tasks.72.TipsData.Desc>Người chơi cần hoàn thành các yêu cầu sau trước khi đếm ngược kết thúc. Sự kiện chỉ hoàn thành khi các yêu cầu được đáp ứng trước khi đếm ngược kết thúc. Một lượng tín đồ nhất định sẽ rời đi nếu sự kiện không hoàn thành. Người chơi có thể dùng kỳ ngộ để giúp hoàn thành sự kiện đặc biệt.</Tasks.72.TipsData.Desc>
+			<Tasks.74.TipsData.Desc>Đôi khi phân đường có các sự kiện đặc biệt cần người chơi xử lý. Nếu xử lý thỏa đáng, phân đường sẽ nhận được nhiều ảnh hưởng. Ảnh hưởng cao giúp người chơi mở rộng lãnh thổ và nâng cấp phân đường. Phân đường còn mang lại nhiều lợi ích cho tông môn như sản vật địa phương, chiêu mộ đệ tử, nhận điểm tín ngưỡng, v.v.</Tasks.74.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolInteractive">
+			<Type>Phát triển</Type>
+			<DisplayName>Tương tác giữa các tông môn</DisplayName>
+			<Desc>Trong phần hướng dẫn này, tìm hiểu cách tương tác với các tông môn khác và giao dịch với họ.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Xây dựng mối quan hệ với tông môn khác</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Bái phỏng Tông môn Tô</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Hoàn thành nhiệm vụ tông môn</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Cách giao dịch với tông môn khác</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Giao dịch tông môn</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra vật phẩm giao dịch</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Thử ra giá</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Thử ra giá lại</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Chạm để mở Bản đồ thế giới</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Chạm "Bái phỏng"</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Nhấp "Bái phỏng"</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Người chơi phải tặng lễ bái kiến cho tông môn để hoàn thành chuyến bái phỏng. Vì vậy hãy quy hoạch khu giao dịch trước và chọn vật phẩm giao dịch phù hợp. Nhiều nội dung hơn sẽ chỉ được mở khóa sau khi hoàn thành chuyến bái phỏng.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Tăng số lượng</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Nhấn "Xác nhận""</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Nhấn "Xác nhận""</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Đóng bảng giao dịch</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấp để đóng menu bản đồ thế giới</Tasks.13.TaskDesc>
+			<Tasks.18.TipsData.Desc>Khi thông báo nhiệm vụ tông môn xuất hiện, người chơi có thể tặng vật phẩm họ cần trong menu mở rộng lãnh thổ.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Nhấp vào "Xác nhận""</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Chạm vào nút nhiệm vụ ở góc dưới bên phải để mở bảng nhiệm vụ.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.21.TaskDesc>
+			<Tasks.22.TipsData.Desc>Khi nhiệm vụ tông môn được kích hoạt, một dấu hỏi sẽ xuất hiện phía trên nút mở rộng lãnh thổ, nghĩa là người chơi có thể giúp đỡ tông môn khác và xây dựng mối quan hệ.</Tasks.22.TipsData.Desc>
+			<Tasks.23.TaskDesc>Chạm "Sinh Mệnh Đan"</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Đây là vật phẩm nhiệm vụ mà tông môn khác cần. Người chơi phải đặt vật phẩm đã chuẩn bị vào khu giao dịch để tặng cho họ.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>Nhấn "Đồng ý""</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Nhấn "Xác nhận""</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Đóng bảng giao dịch</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Chạm vào nút nhiệm vụ ở góc dưới bên phải để đóng bảng nhiệm vụ.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Nhấp vào "Xác nhận""</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Nhấp "Xác nhận""</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Chạm để chọn Tông môn Tô</Tasks.33.TaskDesc>
+			<Tasks.35.TipsData.Desc>Có nhiều cách để xây dựng mối quan hệ với tông môn khác, điều này ảnh hưởng đến việc giao dịch với tông môn đó trong tương lai. Nói chung, giao dịch với tông môn sẽ có lợi hơn khi có mối quan hệ tốt.</Tasks.35.TipsData.Desc>
+			<Tasks.37.TaskDesc>Chạm vào menu vật phẩm để phóng to</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Nhấp "Giao dịch"</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>Người chơi có thể xem những vật phẩm nào có thể giao dịch tại đây. Vật phẩm hiển thị màu đỏ nghĩa là mối quan hệ với tông môn khác quá thấp để giao dịch loại vật phẩm này.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Chạm "Hồng Sâm" từ vật phẩm của tông môn bên trái</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Người chơi có thể nhấp và phóng to để xem thêm các loại giao dịch khác, như thuê pháp bảo và yêu cầu đệ tử Kim Đan Kỳ trợ giúp.</Tasks.42.TipsData.Desc>
+			<Tasks.44.TaskDesc>Tăng số lượng</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Chạm vào "Thử đấu giá""</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Nhấn "Xác nhận""</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Chạm vào "Huyết phù" từ đạo cụ của người chơi ở phía bên phải</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Tăng số lượng</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Chạm vào "Thử đấu giá""</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Nhấn "Xác nhận""</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Nhấn "Xác nhận""</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Nhấp vào "Thử đấu giá""</Tasks.53.TaskDesc>
+			<Tasks.54.TaskDesc>Nhấp "Xác nhận""</Tasks.54.TaskDesc>
+			<Tasks.55.TaskDesc>Nhấp "Xác nhận""</Tasks.55.TaskDesc>
+			<Tasks.58.TipsData.Desc>Trong giao dịch tông môn, Người có thể sử dụng "Thử đấu giá" để định giá đạo cụ của tông môn khác, giúp mua đạo cụ với giá hợp lý.</Tasks.58.TipsData.Desc>
+		</Text>
+		<Text Name="MapExplore">
+			<Type>Phát triển</Type>
+			<DisplayName>Thám hiểm</DisplayName>
+			<Desc>Học cách vào địa điểm và bắt đầu thám hiểm trong hướng dẫn này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Quyền truy cập</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra khu vực quản hạt</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Mua quyền truy cập</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Thám hiểm</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kiểm tra quyền vào</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Vào bản đồ</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Thám hiểm di động</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Thám hiểm ẩn mình</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Tương tác trong bản đồ</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Thu thập đạo cụ</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Rời khỏi bản đồ</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Chạm để mở Bản đồ thế giới</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấp vào "Sơn mạch Liên Hoa""</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Nơi đây hiển thị khu vực quản hạt của vị trí hiện tại. Nếu địa điểm đó thuộc về thế lực nào, đệ tử cần phải nhận được quyền truy cập từ thế lực đó để phiêu lưu hoặc đóng trại ở đó.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Nhấp "Giao dịch"</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Có thể mua trước quyền truy cập để tự do vào tất cả các địa điểm của tông môn, giúp người chơi khám phá các địa điểm khác của tông môn.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Tăng số lượng</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Chạm vào "Địa tâm thạch" từ đạo cụ của người chơi ở phía bên phải</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Tăng số lượng</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấn "Xác nhận""</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Nhấn "Xác nhận""</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Đóng bảng giao dịch</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Nhấn để đóng bản đồ thế giới</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>Vùng màu đỏ trên bản đồ thế giới là nơi người chơi không thể truy cập. Người chơi có thể mua quyền truy cập vào khu vực thuộc về thế lực đó. Sau khi mở khóa, khu vực sẽ chuyển sang màu bình thường, nghĩa là người chơi có thể vào khám phá.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Nhấp để chọn Tông môn Tu</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Hầu hết các địa điểm trong game đều có thể khám phá bằng cách phái đệ tử đang đóng trại tại đó.</Tasks.21.TipsData.Desc>
+			<Tasks.24.TaskDesc>Nhấp vào "Vào""</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Người chơi có thể phái đệ tử đang đóng trại ở đó để vào bản đồ.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>Chạm và chọn đệ tử</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Nhấn "Xác nhận""</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Nhấn "Đồng ý"</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Nhấp vào "Có""</Tasks.29.TaskDesc>
+		</Text>
+		<Text Name="MapExplore2">
+			<Type>Phát triển</Type>
+			<DisplayName>Thám hiểm II</DisplayName>
+			<Desc>Học cách vào địa điểm và bắt đầu thám hiểm trong hướng dẫn này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Thám hiểm</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra quyền vào</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Vào bản đồ</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Thám hiểm di động</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Thám hiểm ẩn mình</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Tương tác trong bản đồ</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Thu thập đạo cụ</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Rời khỏi bản đồ</Chapters.1.Tasks.1>
+			<Tasks.3.TaskDesc>Chạm và chọn đệ tử</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Người chơi có thể chạm để di chuyển xung quanh và khám phá bối cảnh.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Chạm vào công tắc tốc độ ở góc dưới bên phải và chuyển sang tốc độ tối đa.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Chạm vào nút tốc độ ở góc dưới bên phải và chuyển sang tốc độ 2x</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Vào trạng thái thám hiểm bằng cách sử dụng nút di chuyển</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Chạm vào "Đặt" và đặt vào vị trí được chỉ định.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Đợi họ di chuyển</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Chạm vào "Ẩn mình" và bắt đầu chế độ ẩn mình</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Ẩn thân</Tasks.12.UiData.Name>
+			<Tasks.14.TipsData.Desc>Khi đang ẩn nấp, nếu biểu tượng con mắt trên đệ tử có màu đỏ, họ có khả năng cao bị người khác phát hiện. Nếu là màu vàng, khả năng bị phát hiện thấp. Nếu là màu trắng, họ sẽ không bị phát hiện. Nếu không có biểu tượng con mắt, nghĩa là không ai ở đây quan tâm đến hành động của đệ tử</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Vào trạng thái thám hiểm bằng cách sử dụng nút di chuyển</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Chạm và di chuyển đến vị trí chỉ định</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Đợi họ di chuyển</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>Cơ hội bị phát hiện liên quan mật thiết đến thể chất và cảm nhận của đệ tử, đồng thời cũng chịu ảnh hưởng bởi khoảng cách và chênh lệch cảnh giới giữa đệ tử và nhân vật khác.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TipsData.Desc>Hãy nhớ rằng không phải bản đồ nào cũng an toàn. Ở một số bản đồ, sẽ có mục tiêu kẻ thù hoặc thế lực. Ngoài ra, trong bản đồ còn có đạo cụ và công trình để tương tác trong quá trình thám hiểm, có thể dùng để tìm kiếm thêm nội dung. Tuy nhiên, việc thu thập đạo cụ của tông môn khác khi đang lẩn trốn sẽ dẫn đến hậu quả nghiêm trọng nếu đệ tử bị phát hiện.</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Chạm vào "Thu thập" và bắt đầu thu thập</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Thu thập</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Chạm để thu thập đạo cụ "Phản kiếm""</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Xác nhận thu thập</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Đợi cho đến khi "Phản kiếm" được thu thập xong</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>Đạo cụ do người chơi thu thập sẽ được hiển thị trong menu này, và mỗi đệ tử có thể mang theo tối đa sáu loại đạo cụ. Người chơi có thể vứt bỏ đạo cụ không cần thiết bằng cách nhấp vào nút tương ứng trong menu đạo cụ. Đạo cụ thu thập được sẽ nhận khi đệ tử quay về tông môn an toàn.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Chạm và chọn đệ tử</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Vào trạng thái thám hiểm bằng cách sử dụng nút di chuyển</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Chạm và di chuyển đến vị trí chỉ định</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Đợi họ di chuyển</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Chạm vào "Ẩn mình" và dừng chế độ ẩn mình</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Ẩn thân</Tasks.34.UiData.Name>
+			<Tasks.36.TipsData.Desc>Người chơi có thể chạm vào "Rời khỏi" để rời khỏi bản đồ hiện tại và quay về tông môn, nhưng đệ tử phải ở trạng thái an toàn. Họ không thể rời khỏi bản đồ nếu đang trong chiến đấu. Nếu tính mạng của đệ tử bị đe dọa, họ cũng sẽ bị ép buộc rời đi.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>Trong game còn rất nhiều địa điểm khác, nhưng phương thức thám hiểm cơ bản đều như nhau. Hãy cẩn thận khi thám hiểm các bản đồ khác, chú ý đến những nguy hiểm và cơ hội ẩn giấu.</Tasks.38.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

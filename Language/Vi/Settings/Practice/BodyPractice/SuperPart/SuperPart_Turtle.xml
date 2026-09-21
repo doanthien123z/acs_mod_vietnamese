@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Turtle_1">
+			<Prefix>Quy Giáp</Prefix>
+			<Suffix>Đạo</Suffix>
+			<Desc>Thể xá bí ẩn được truyền lại trong huyết mạch của yêu tộc thượng cổ Quy tộc. Sử dụng sức mạnh của đạo để tôi luyện mai rùa thêm phần kiên cố, khi tu luyện thành công sẽ khiến thân thể gần như bất khả chiến bại.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>

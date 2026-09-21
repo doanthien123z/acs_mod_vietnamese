@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>Linh hồn thực phẩm</DisplayName>
+			<Desc>Có thiên phú tự nhiên hấp thụ linh khí cực cao</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>Linh hồn thạch nham</DisplayName>
+			<Desc>Có thiên phú tự nhiên về lượng căn cơ chân khí cực cao</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>Linh hồn pháp bảo</DisplayName>
+			<Desc>Có thiên phú tự nhiên về tốc độ hồi phục chân khí pháp bảo và tỷ lệ truyền chân khí cao</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>Linh hồn đan dược</DisplayName>
+			<Desc>Các loại đan dược sẽ không bị cơ thể kháng thuốc trong một lần sử dụng</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>Tự trưởng thành</DisplayName>
+			<Desc>Phát triển chậm rãi mỗi ngày</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>Tự hồi phục</DisplayName>
+			<Desc>Quá trình hồi phục: {0}\n Khi quá trình hồi phục đạt 100, tất cả cơ quan sẽ được hồi phục và quá trình hồi phục sẽ trở về không</Desc>
+		</Text>
+	</List>
+</Texts>

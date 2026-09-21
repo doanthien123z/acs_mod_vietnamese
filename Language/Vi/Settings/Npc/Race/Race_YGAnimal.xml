@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGRabbit">
+			<DisplayName>Yêu Thố Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu nhờ khai mở linh trí thành công: Yêu Thố Tộc.</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGChicken">
+			<DisplayName>Yêu Kê Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu nhờ khai mở linh trí thành công: Yêu Kê Tộc.</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+			<TalkBefore>Chíp</TalkBefore>
+			<TalkAfter>Chíp!</TalkAfter>
+		</Text>
+		<Text Name="YGWolf">
+			<DisplayName>Yêu Lang Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu nhờ khai mở linh trí thành công: Yêu Lang Tộc.</Desc>
+			<TalkBefore>Gừừừ</TalkBefore>
+			<TalkAfter>Ngao!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGSnake">
+			<DisplayName>Yêu Xà Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu nhờ khai mở linh trí thành công: Yêu Xà Tộc.</Desc>
+			<TalkBefore>Xèèè</TalkBefore>
+			<TalkAfter>Xè</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGBoar">
+			<DisplayName>Yêu Trư Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu nhờ khai mở linh trí thành công: Yêu Trư Tộc.</Desc>
+			<TalkBefore>Ụt</TalkBefore>
+			<TalkAfter>Ực</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGBear">
+			<DisplayName>Yêu Hùng tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Hùng tộc</Desc>
+			<TalkBefore>Rống</TalkBefore>
+			<TalkAfter>Rống</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGTurtle">
+			<DisplayName>Yêu Quy tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Quy tộc</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGFrog">
+			<DisplayName>Yêu Cáp tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Cáp tộc</Desc>
+			<TalkBefore>Ộp</TalkBefore>
+			<TalkAfter>Ộp</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGCat">
+			<DisplayName>Yêu Miêu tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Miêu tộc</Desc>
+			<TalkBefore>Meowww</TalkBefore>
+			<TalkAfter>Meow</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGCattle">
+			<DisplayName>Yêu Ngưu tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Ngưu tộc</Desc>
+			<TalkBefore>Móooo</TalkBefore>
+			<TalkAfter>Moo!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="YGTiger">
+			<DisplayName>Yêu Hổ tộc</DisplayName>
+			<Desc>Yêu thú đã hóa hình thành bán yêu tộc nhờ thành công thức tỉnh linh trí: Yêu Hổ tộc</Desc>
+			<TalkBefore>Rống~</TalkBefore>
+			<TalkAfter>Rống!</TalkAfter>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+	</List>
+</Texts>

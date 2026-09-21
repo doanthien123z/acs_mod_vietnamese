@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Wolf_1">
+			<Prefix>Hấp thu</Prefix>
+			<Suffix>Linh hồn</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Lang Yêu Tộc, giúp tăng tỷ lệ nhận được Đạo Tủy khi nuốt chửng, nhưng số lượng Đạo Tủy nhận được sẽ giảm mạnh.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ nhận được Tinh Phách khi nuốt vật phẩm\n Giảm mạnh số lượng tinh hoa nhận được khi nuốt chửng vật phẩm</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Wolf_2">
+			<Prefix>Thể</Prefix>
+			<Suffix>Yêu Linh</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Lang Yêu Tộc, khi tu luyện thành công sẽ gia tăng mạnh khả năng chịu đựng đau đớn của người tu luyện.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh thể chất cơ bản cho người tu luyện Thể Tu\n Tăng đáng kể khả năng chịu đau của người tu luyện Bất Tử Thể</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

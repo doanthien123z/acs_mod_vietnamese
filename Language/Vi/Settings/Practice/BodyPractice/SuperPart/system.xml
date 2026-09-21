@@ -1,0 +1,12 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<Prefix>Tổn Thất Nhất Định</Prefix>
+			<Desc>Tổn Thất Nhất Định</Desc>
+		</Text>
+		<Text Name="_SYS_CORE_">
+			<Prefix>Nhục thân</Prefix>
+			<Desc>Nhục thân</Desc>
+		</Text>
+	</List>
+</Texts>

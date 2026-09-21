@@ -1,0 +1,410 @@
+ID	Name	Desc
+ID	Achievement Title	Description
+1	Phi thăng lần đầu	Có 1 người phi thăng
+2	Học lỏm cách phi thăng	Có 3 người phi thăng
+3	Phi thăng như cơm bữa	Có 5 người phi thăng
+4	Tu sĩ lẫy lừng	Có 10 người phi thăng
+5	Thiếu niên chưa trải sự đời	Phiêu lưu tổng 1 lần
+6	Nhà phiêu lưu nhàn nhã	Phiêu lưu tổng 100 lần
+7	Nhà phiêu lưu thành thạo	Phiêu lưu tổng 500 lần
+8	Cao thủ phiêu lưu	Phiêu lưu tổng 1.000 lần
+9	Luyện đan lần đầu	Luyện đan 1 lần
+10	Luyện đan thành thạo	Luyện đan 50 lần
+11	Đại sư luyện đan	Luyện đan 100 lần
+12	Đan đạo tông sư	Luyện đan 500 lần
+13	Luyện khí lần đầu	Tạo ra 1 kiện pháp bảo
+14	Thợ luyện khí thành thạo	Tạo ra 50 kiện pháp bảo
+15	Thợ luyện khí chuyên gia	Tạo ra 100 kiện pháp bảo
+16	Đại sư luyện khí	Tạo ra 500 kiện pháp bảo
+17	Vẽ bùa lần đầu	Vẽ 1 tấm bùa
+18	Vẽ bùa thành thạo	Vẽ 50 tấm bùa
+19	Vẽ bùa chuyên gia	Vẽ 100 tấm bùa
+20	Đại sư vẽ bùa	Vẽ 500 tấm bùa
+21	Tiêu diệt lần đầu	Tiêu diệt 1 sinh linh
+22	Đồ tể chuyên nghiệp	Tiêu diệt 100 sinh linh
+23	Đồ tể vô tình	Tiêu diệt 500 sinh linh
+24	Thợ săn	Tiêu diệt 1.000 sinh linh
+25	Thợ săn tu tiên	Tiêu diệt 1 kẻ tu tiên
+26	Thảm họa tu tiên	Tiêu diệt 100 kẻ tu tiên
+27	Kẻ sát hại tu sĩ	Tiêu diệt 500 kẻ tu tiên
+28	Đồ tể tu sĩ	Tiêu diệt 1.000 kẻ tu tiên
+29	Sưu hồn lần đầu	Sưu hồn 1 lần
+30	Sưu hồn thành thạo	Sưu hồn 10 lần
+31	Sưu hồn chuyên gia	Sưu hồn 50 lần
+32	Đại sư sưu hồn	Sưu hồn 100 lần
+33	Đầu bếp	Chế tạo đủ 10 loại món ăn
+34	Đầu bếp	Chế tạo đủ 20 loại món ăn
+35	Đầu bếp bậc thầy	Chế tạo đủ 50 loại món ăn
+36	Tia sáng trí tuệ	Sáng tạo tác phẩm nghệ thuật VII 1 món
+37	Dòng chảy tư tưởng	Sáng tạo tác phẩm nghệ thuật VII 10 món
+38	Nghệ sĩ thiên bẩm	Sáng tạo tác phẩm nghệ thuật VII 50 món
+39	Bán thêm một món	Chiêu mộ 1 lữ khách gia nhập
+40	Bán thêm năm món	Chiêu mộ 5 lữ khách gia nhập
+41	Bán thêm mười món	Chiêu mộ 10 lữ khách gia nhập
+42	Càng đông càng vui	Chiêu mộ 20 lữ khách gia nhập
+43	Đọc lần đầu	Học được công pháp từ việc đọc 1 cuốn
+44	Mọt sách	Học được công pháp từ việc đọc 10 cuốn
+45	Hiền nhân	Học được công pháp từ việc đọc 50 cuốn
+46	Đại thư sư	Học được công pháp từ việc đọc 100 cuốn
+47	Tai nạn bi thương	Đệ tử tử vong 1 người
+48	Họa vô đơn chí	Đệ tử tử vong 5 người
+49	Tai ương chồng chất	Đệ tử tử vong 10 người
+50	Kiếp sống mong manh	Đệ tử tử vong 50 người
+51	Tổn thất nặng nề	Đệ tử nội môn tử vong 1 người
+52	Tổn thất to lớn	Đệ tử nội môn tử vong 5 người
+53	Tổn thất trầm trọng	Đệ tử nội môn tử vong 10 người
+54	Tan nát cõi lòng	Đệ tử nội môn tử vong 20 người
+55	Ta Là Ngươi	Bị nhập hồn 1 người
+56	Hắn Là Ta	Bị nhập hồn 5 người
+57	Chúng Ta Là Tất Cả	Bị nhập hồn 10 người
+58	Vương Nhập Hồn	Bị nhập hồn 20 người
+59	Trong Nháy Mắt	Thiền định tổng cộng 100 năm
+60	Tuế Nguyệt Trôi Qua	Thiền định tổng cộng 500 năm
+61	Năm Tháng Bị Quên Lãng	Thiền định tổng cộng 1.000 năm
+62	Đỉnh Cao Cô Độc	Thiền định tổng cộng 5.000 năm
+63	Dâng Nộp Thọ Nguyên	Cướp đoạt thọ nguyên người khác tổng cộng 10 năm
+64	Dâng Nộp Thêm Thọ Nguyên	Cướp đoạt thọ nguyên người khác tổng cộng 50 năm
+65	Số Mệnh Là Thế	Cướp đoạt thọ nguyên người khác tổng cộng 500 năm
+66	Âm Sai	Cướp đoạt thọ nguyên người khác tổng cộng 1.000 năm
+67	Nỗi Đau Vực Sâu	Luyện hóa 1 linh hồn
+68	Tiếng Oán Than	Luyện hóa 10 linh hồn
+69	Cội Nguồn Khổ Đau	Luyện hóa 50 linh hồn
+70	Hung thú	Luyện hóa 100 linh hồn
+71	Đoạt Linh Hồn	Cướp 1 linh hồn
+72	Linh Hồn Tươi Mới	Cướp 10 linh hồn
+73	Đại Diện Linh Hồn	Cướp 50 linh hồn
+74	Bá Chủ Linh Hồn	Cướp 100 linh hồn
+75	Thôn Phệ Huyết Khí	Thực hiện Thôn Huyết 1 lần
+76	Sinh Mệnh Luân Hồi	Thực hiện Thôn Huyết 10 lần
+77	Quy Tắc Âm Dương	Thực hiện Thôn Huyết 50 lần
+78	Tử Vong Vương	Thực hiện Thôn Huyết 100 lần
+79	Nghiệp Chướng	Hiến tế thành công 1 lần
+80	Tín Ngưỡng Tà Ma	Hiến tế thành công 10 lần
+81	Người Gánh Nghiệp	Hiến tế thành công 50 lần
+82	Tà Đạo Tông Đồ	Hiến tế thành công 100 lần
+83	Đoạt Hồn	Đoạt hồn 1 người
+84	Bất Tử Vong Hồn	Đoạt hồn 10 người
+85	Vĩnh Hằng Vong Hồn	Đoạt hồn 50 người
+86	Trái Với Đạo Trời	Đoạt hồn 100 người
+87	Bằng Hữu	Nhận 1 Đại Binh Khí
+88	Hòa Hợp	Nhận 10 Đại Binh Khí
+89	Hành Giả	Khám phá 5 địa điểm mới khi phiêu bạt (không tính học từ sách))
+90	Thám Hiểm Giả	Khám phá 25 địa điểm mới khi phiêu bạt (không tính học từ sách))
+91	Đại Du Giả	Khám phá 50 địa điểm mới khi phiêu bạt (không tính học từ sách))
+1002	Luân Hồi Tẩy Luyện	Luyện chế Luân Hồi Đan
+1003	Vĩnh Hằng Tinh Thạch	Luyện chế Vĩnh Hằng Đan
+1004	Vận Mệnh Ta	Ngưng tụ Kim Đan thành công
+1005	Người Được Chọn	Đúc Kim Đan tầng I Thành công
+1006	Truyền nhân Tối Cao Thang	Tu luyện Tối Cao Thang 16 Cấp
+1007	Đạo orthodox: Tối Cao Thang	Tu luyện Tối Cao Thang 16 Cấp với độ tương thích vượt mức 150%
+1008	Tầng I: Tối Cao Thang	Đúc Kim Đan tầng I Bằng Tối Cao Thang 16 Cấp
+1009	Thành tựu: Tối Cao Thang	Phi thăng bằng Tối Cao Thang 16 Cấp
+1010	Truyền nhân Vạn Binh	Tu luyện Vạn Binh Thuật
+1011	Đạo orthodox: Vạn Binh	Tu luyện Vạn Binh Thuật với độ tương thích vượt mức 150%
+1012	Tầng I: Vạn Binh	Đúc Kim Đan tầng I Bằng Vạn Binh Thuật
+1013	Thành tựu: Vạn Binh	Phi thăng bằng Vạn Binh Thuật
+1014	Truyền nhân Kiếm Đạo	Tu luyện Thất Sát Kiếm Pháp
+1015	Đạo orthodox: Kiếm	Tu luyện Thất Sát Kiếm Pháp với độ tương thích vượt mức 150%
+1016	Tầng I: Kiếm	Đúc Kim Đan tầng I Bằng Thất Sát Kiếm Pháp
+1017	Thành tựu: Kiếm	Phi thăng bằng Thất Sát Kiếm Pháp
+1018	Truyền nhân Thuần Ngọc	Tu luyện Thuần Ngọc Tiên Công
+1019	Đạo orthodox: Thuần Ngọc	Tu luyện Thuần Ngọc Tiên Công với độ tương thích vượt mức 150%
+1020	Tầng I: Thuần Ngọc	Đúc Kim Đan tầng I Bằng Thuần Ngọc Tiên Công
+1021	Thành tựu: Thuần Ngọc	Phi thăng bằng Thuần Ngọc Tiên Công
+1022	Truyền nhân Đạo Thiên	Tu luyện Đạo Thiên Biến Mệnh Công
+1023	Đạo orthodox: Đạo Thiên	Tu luyện Đạo Thiên Biến Mệnh Công với độ tương thích vượt mức 150%
+1024	Tầng I: Đạo Thiên	Đúc Kim Đan tầng I Bằng Đạo Thiên Biến Mệnh Công
+1025	Thành tựu: Đạo Thiên	Phi thăng bằng Đạo Thiên Biến Mệnh Công
+1026	Truyền nhân Nguyên Thủy Đan	Tu luyện Nguyên Thủy Đan Thuật
+1027	Đạo orthodox: Đan dược	Tu luyện Nguyên Thủy Đan Thuật với độ tương thích vượt mức 150%
+1028	Tầng I: Đan dược	Đúc Kim Đan tầng I Nhờ Tiên Thiên Đan Quyết
+1029	Hướng tới thành tựu: Đan Dược	Phi thăng nhờ Tiên Thiên Đan Quyết
+1030	Người kế thừa Đại Thừa Trí Tuệ	Tu luyện Đại Thừa Trí Tuệ Quyết
+1031	Đạo orthodox: Đại Thừa	Tu luyện Đại Thừa Trí Tuệ Quyết với độ tương thích vượt mức 150%
+1032	Tầng I: Đại Thừa	Đúc Kim Đan tầng I Nhờ Đại Thừa Trí Tuệ Quyết
+1033	Hướng tới thành tựu: Đại Thừa	Phi thăng nhờ Đại Thừa Trí Tuệ Quyết
+1034	Người kế thừa Lục Đạo Luân Hồi	Tu luyện Lục Đạo Luân Hồi Quyết
+1035	Đạo orthodox: Luân Hồi	Tu luyện Lục Đạo Luân Hồi Quyết với độ tương thích vượt mức 150%
+1036	Tầng I: Luân Hồi	Đúc Kim Đan tầng I Nhờ Lục Đạo Luân Hồi Quyết
+1037	Hướng tới thành tựu: Luân Hồi	Phi thăng nhờ Lục Đạo Luân Hồi Quyết
+1038	Người kế thừa Chân Dương	Tu luyện Luyện Chân Dương Quyết
+1039	Đạo orthodox: Chân Dương	Tu luyện Luyện Chân Dương Quyết với độ tương thích vượt mức 150%
+1040	Tầng I: Chân Dương	Đúc Kim Đan tầng I Nhờ Luyện Chân Dương Quyết
+1041	Hướng tới thành tựu: Chân Dương	Phi thăng nhờ Luyện Chân Dương Quyết
+1042	Người kế thừa Quỳ Hoa	Tu luyện Luyện Quỳ Hoa Quyết
+1043	Đạo orthodox: Quỳ Hoa	Tu luyện Luyện Quỳ Hoa Quyết với độ tương thích vượt mức 150%
+1044	Tầng I: Quỳ Hoa	Đúc Kim Đan tầng I Nhờ Luyện Quỳ Hoa Quyết
+1045	Hướng tới thành tựu: Quỳ Hoa	Phi thăng nhờ Luyện Quỳ Hoa Quyết
+1046	Người kế thừa Đoạn Tình	Tu luyện Đoạn Tình Quyết
+1047	Đạo orthodox: Đoạn Tình	Tu luyện Đoạn Tình Quyết với độ tương thích vượt mức 150%
+1048	Tầng I: Đoạn Tình	Đúc Kim Đan tầng I Nhờ Đoạn Tình Quyết
+1049	Hướng tới thành tựu: Đoạn Tình	Phi thăng nhờ Đoạn Tình Quyết
+1050	Ẩn Tích Vô Danh	Danh tiếng tông môn đạt 400: Ẩn Tích Vô Danh
+1051	Vang Danh Khắp Nơi	Danh tiếng tông môn đạt 1,000: Vang danh khắp nơi
+1052	Kiệt xuất	Danh tiếng tông môn đạt 5,000: Xuất chúng
+1053	Danh Lẫy Lừng	Danh tiếng tông môn đạt 10,000: Danh lẫy lừng
+1054	Vô Song	Danh tiếng tông môn đạt 40,000: Vô song
+1055	Được Kính Trọng	Trạng thái tông môn: Kính trọng
+1056	Tôn kính	Trạng thái tông môn: Tôn quý
+1057	Tưng Bừng	Trạng thái tông môn: Tưng bừng
+1058	Bí Ẩn U Tối	Trạng thái tông môn: Ẩn dật
+1059	Tai Tiếng	Trạng thái tông môn: Mang tiếng xấu
+1060	Ô Nhục	Trạng thái tông môn: Ô nhục
+1061	An Cư	Tông môn có 5 đệ tử
+1062	Mở Rộng Quy Mô	Tông môn có 10 đệ tử
+1063	Hưng Thịnh	Tông môn có 18 đệ tử
+1064	Khởi Đầu Mới	Tông môn có 1 đệ tử nội môn
+1065	Vươn Lên Mạnh Mẽ	Tông môn có 4 đệ tử nội môn
+1066	Kỳ Tài Đầy Viện	Tông môn có 8 đệ tử nội môn
+1067	Tai họa: Cực Hàn	Sống sót qua tai họa cực hàn
+1068	Tai họa: Bão Nhiệt	Sống sót qua tai họa bão nhiệt
+1069	Tai họa: Vĩnh Dạ	Sống sót qua tai họa Vĩnh Dạ
+1070	Niệm Lực	Mức thành thạo binh khí đạt cấp 20
+1071	Thi triển Mê Hồn Thuật	Mật chú đạt cấp 20
+1072	Vượt qua cái chết	Phòng thủ đạt cấp độ 20
+1073	Y tiên	Đan đạo đạt cấp độ 20
+1074	Thợ thủ công	Luyện khí đạt cấp độ 20
+1075	Hàn băng giá lạnh	Trải qua năm thứ 1 trong game
+1076	Thời gian vội vã	Trải qua năm thứ 5 trong game
+1077	Năm tháng trôi qua	Trải qua năm thứ 10 trong game
+1078	Lĩnh ngộ	Tạo kỳ tích lần đầu: Ngộ tính
+1079	Có mị lực	Tạo kỳ tích lần đầu: Mị lực
+1080	Tinh tường sắc sảo	Tạo kỳ tích lần đầu: Sắc sảo
+1081	Cường đại kiên cường	Tạo kỳ tích lần đầu: Kiên cường
+1082	Người tái tạo	Tạo kỳ tích lần đầu: Tái tạo
+1083	Chủ nhân mây mưa	Tạo kỳ tích lần đầu: Hô phong hoán vũ
+1084	Trời quang mây tạnh	Tạo kỳ tích lần đầu: Xua mây
+1085	Khai hoa lộc đỉnh	Hộp sọ bị thương
+1086	Bạo đầu!	Đầu bị thương
+1087	Thây ma sống	Não bộ bị thương
+1088	Mất gan!	Gan bị thương
+1089	Mất khả năng sinh sản	Đã triệt sản
+1090	Tim ta vẫn đập	Tim bị thương
+1091	Tu luyện	Phong thủy tông môn trở thành “Tu luyện”
+1092	Nhận được chúc phúc	Phong thủy tông môn trở thành “Nhận được chúc phúc”
+1093	Cát tường	Phong thủy của một căn phòng trở thành Cát tường
+1094	Cát tường thịnh vượng	Phong thủy của một căn phòng trở thành Cát tường thịnh vượng
+1095	Tiên cấp I	Có tiên nhân vượt qua 1 lần Thiên kiếp tọa trấn tông môn
+1096	Tiên cấp III	Có tiên nhân vượt qua 3 lần Thiên kiếp tọa trấn tông môn
+1097	Tiên cấp V	Có tiên nhân vượt qua 5 lần Thiên kiếp tọa trấn tông môn
+1098	Tiên cấp IX	Có tiên nhân vượt qua 9 lần Thiên kiếp tọa trấn tông môn
+1099	Hiếm có	Nhận được pháp bảo qua 1 lần Luyện thiên
+1100	Trân quý	Nhận được pháp bảo qua 5 lần Luyện thiên
+1101	Tinh xảo	Nhận được pháp bảo qua 10 lần Luyện thiên
+1102	Truyền thuyết	Nhận được pháp bảo qua 20 lần Luyện thiên
+2000	Tay nghề điêu luyện	Chế tạo pháp bảo phẩm chất 100
+2001	Thông tuệ	Chế tạo pháp bảo tầng XII
+2002	Mực thần kỳ	Vẽ phù chú phẩm chất vượt 95
+2003	Phóng khoáng	Luyện chế pháp bảo tầng XII
+2004	Người chinh phục Thiên kiếp	Sống sót sau Thiên kiếp
+2005	Hủy diệt	Thất bại Thiên kiếp và tử vong
+2006	tuyệt vọng	Thất bại Thiên kiếp nhưng sống sót
+2007	Xuất chúng	Đột phá cảnh giới lần đầu
+2008	Sáng lập	Sáng lập tông môn
+2009	Phát triển	Tông môn mở rộng thành đại gia tộc
+2010	Khai thiên lập địa	Tông môn mở rộng thành Tiên giới
+2011	Khiêm tốn	Bái sư lần đầu
+2012	Cố vấn	Chỉ điểm người khác lần đầu
+2013	Tình yêu	Có đạo lữ đầu tiên
+2014	Bước đầu tiên	Tỏ tình lần đầu
+2015	Ký ức rung động	Tỏ tình thành công lần đầu
+2016	Quân tử	Tỏ tình thất bại lần đầu
+2017	U ám	Đọa ma lần đầu
+2018	Lạnh thấu tim	Trục xuất đệ tử khỏi tông môn lần đầu
+2019	Kỳ diệu	Đào được bảo hạp cổ đại lần đầu
+2020	Gớm ghiếc	Ăn phân lần đầu
+2021	Lãnh đạm	Ăn đất lần đầu
+2022	Ta từ bỏ làm người	Đoạt xá linh thú thành công
+2023	Giờ ngủ không phải giờ tu luyện!	Chơi game liên tục trên 4 tiếng và thời gian hiện tại từ 0:00–5:00.
+2024	Truy sát	Tiêu diệt Thủy Long
+2025	Đọa thiên	Tiêu diệt Phượng Hoàng
+2026	Quy Tắc Âm Dương	Tiêu diệt Chúc Long
+2027	Cực nhanh	Buộc Thủy Long hiện nguyên hình trong vòng 60 giây
+2028	Bẻ sừng	Tiêu diệt Thủy Long sau khi phá sừng
+2029	Chặt đuôi	Tiêu diệt Thủy Long sau khi chặt đuôi
+2030	Cuồng nộ	Tiêu diệt Thủy Long sau khi phá vảy cấm kỵ
+2031	Phẫn nộ	Tiêu diệt Thủy Long trước khi thi triển pháp thuật “Luyện ngục chi hỏa”
+2032	Ướt đẫm	Tiêu diệt Thủy Long trước khi thi triển pháp thuật “Đại hồng thủy”
+2033	Ánh thái dương! Ánh thái dương!	Để 5 người hấp thụ “Phượng Hoàng Hóa” Và không có ai bị thương
+2034	Trừng mắt	Chịu đựng “Hỏa Nhãn” 20 Phút giây không bị thương
+2035	Tỏa sáng	Giết Phượng Hoàng sau khi thi triển “Thái Dương Tinh Thể”
+2036	Dung nhan diễm lệ	Giết Phượng Hoàng sau khi phá hủy lông mão
+2037	Đuôi hỗn loạn	Giết Phượng Hoàng sau khi phá hủy lông đuôi
+2038	Luyện Khí	Bảo vệ trứng Phượng Hoàng không nở hoặc hỏng trong 36 ngày
+2039	Quét sạch	Dẹp hơn 9 quả trứng khi chinh phục Chúc Long
+2040	Ngạo nghễ	Hạ Chúc Long sau khi phá hủy vảy thánh
+2041	Hỗn loạn	Hạ Chúc Long sau khi phá hủy ngọc bội
+2042	Xung đột	Hạ Chúc Long khi có một nhân vật ở trong “Tâm diện nạ” Và “Cuồng hỏa”
+2043	Người chinh phục	Hạ Chúc Long khi không có trứng nào nở
+2044	Hơi thở vô ảnh	Hạ Chúc Long mà không ai trúng hơi thở
+2045	Linh căn	Trồng linh căn lần đầu
+2046	Thu hoạch	Thu hoạch “Ngũ hành linh căn”
+2047	Cực hạn	Ngũ hành linh căn đạt đến cực hạn của chúc phúc hoặc nguyền rủa
+2048	Thiên đạo quy tắc	Ngộ ra thiên đạo quy tắc lần đầu
+2049	Quy tắc dị biệt	Ngộ ra quy tắc biến đổi lần đầu
+2050	An lành	Giết 1 Cổ đại hiền giả
+2051	Huấn thú sư	Thuần phục linh thú lần đầu
+2052	Phản nghịch!	Linh thú biến dị thành yêu thú lần đầu
+10000	Cốc Sâu	Hoàn thành phiêu lưu đặc biệt: Cốc Sâu
+10001	Kho báu độc	Hoàn thành phiêu lưu đặc biệt: Kho báu độc
+10002	Vân Tiêu Cung	Hoàn thành phiêu lưu đặc biệt: Vân Tiêu Cung
+10003	Hỏa Diễm Động	Hoàn thành phiêu lưu đặc biệt: Hỏa Diễm Động
+10004	Thiên Trì	Hoàn thành phiêu lưu đặc biệt: Thiên Trì
+10005	Phong ấn yêu thú	Hoàn thành phiêu lưu đặc biệt: Phong ấn ma
+10006	Vực ngoại	Thấu triệt chân tướng thế giới
+3000	Học thức đi đầu	Xây dựng Tàng Kinh Các lần đầu
+3001	Chia sẻ tri thức	Sao chép công pháp tại Tàng Kinh Các lần đầu
+3002	Chăm chỉ học tập	Học công pháp từ tàng thư Tàng Kinh Các lần đầu
+3003	Tàng thư phong phú	Điểm tích lũy tàng thư Tàng Kinh Các đạt 500
+3004	Tàng thư vô tận	Điểm tích lũy tàng thư Tàng Kinh Các đạt 2,000
+3005	Tàng thư bao la	Điểm tích lũy tàng thư Tàng Kinh Các đạt 5,000
+3006	Tàng thư vô song	Điểm tích lũy tàng thư Tàng Kinh Các đạt 10,000
+3007	Phát sáng	Tạo pháp bảo hiếm lần đầu
+3008	Huyết ước	Thức tỉnh pháp bảo hiếm lần đầu
+3009	Tân thủ pháp bảo	Thức tỉnh 1 pháp bảo hiếm
+3010	Lão luyện pháp bảo	Thức tỉnh 5 loại pháp bảo hiếm khác nhau
+3011	Chuyên gia pháp bảo	Thức tỉnh 10 loại pháp bảo hiếm khác nhau
+3012	Đại sư luyện khí	Thức tỉnh 20 loại pháp bảo hiếm khác nhau
+3013	Tỉnh lại chưa?	Khai sáng u hồn có linh trí
+3014	Yên tĩnh chút đi	Diệt trừ u hồn có linh trí bằng “Siêu độ tàn hồn”
+3015	Nghe lòng ta	Chứng kiến linh thể sinh ra linh trí do gắn bó lâu với nhân vật
+3016	Đứa con của tự nhiên	Chứng kiến linh thể sinh ra linh trí trong tự nhiên
+3017	Ngươi là thứ gì	Lần đầu gặp linh thể hoang dã có linh trí
+3018	Trung Thổ: Hóa hình người	Tạo nhục thân cho linh thể có linh trí
+3019	Ngũ hành cân bằng	Tạo nhục thân cho linh thể có linh trí với tỷ lệ ngũ hành cân bằng
+3020	Đường ai nấy đi	Tạo nhục thân với 100% một thuộc tính, chọn công pháp phù hợp và tấn thăng thành đệ tử nội môn
+3021	Bữa ăn cho mọi người	Sinh tồn 2 năm không ai chết, đồng thời bật tùy chọn “Thoát chết trong gang tấc” Tất cả
+3022	Mọi loại thời tiết	Sinh tồn 1 năm không ai chết, đồng thời bật “Thời tiết khắc nghiệt” Tất cả
+3023	Thiên uy	Tiêu diệt toàn bộ yêu thú trên bản đồ khởi đầu trong năm đầu tiên, đồng thời bật “Yêu thú cường hóa” Tất cả
+3024	Kiến trúc phức tạp	Tạo “Tiểu vũ trụ” Trong năm đầu tiên, đồng thời bật “Kiến trúc phức tạp” Tất cả
+3025	Tự học thành tài	Tông môn đạt cấp “Cõi Tiên” Trong năm đầu tiên, đồng thời bật “Tuyệt kỹ thất truyền” Tất cả
+3026	Kinh phí eo hẹp	Tạo “Tiểu vũ trụ” Trong năm đầu tiên, đồng thời bật “Tài nguyên cạn kiệt” Tất cả
+3027	Tốt nhất trong khả năng	Chiêu mộ nhân vật có mọi thuộc tính cơ bản trên 5, đồng thời bật “Thời buổi khó khăn” Tất cả
+3028	Mặc cả quyết liệt	Mua vật phẩm phẩm giai 10+ từ du thương trong năm đầu tiên, đồng thời bật “Thương nhân tàn bạo” Tất cả
+3029	Thuận theo tự nhiên	Giúp nhân vật đạt “Nguyên thần” hoặc tương đương trong năm đầu tiên, đồng thời mở “Đạo quanh co” Tất cả
+3030	Cẩu đạo	Để linh thú đơn độc hạ gục Kim Đan Long (hoặc cao hơn) trong năm đầu tiên, đồng thời mở “Linh thú yếu ớt” Tất cả
+3031	Quan hệ khắp thiên hạ	Đạt độ hảo cảm 100 với chưởng môn tất cả tông phái, đồng thời mở “Thế giới lạnh lẽo” Tất cả
+3032	Đạo trục xuất	Tiêu diệt yêu thú xâm nhập vào ngày 80
+3033	Kẻ sát tu	Tiêu diệt “Sát tu” xâm nhập vào ngày 150
+3034	Đừng nhìn	Ngăn chặn chúa tể xuất hiện trong 200 ngày đầu, trong khi hang động bí ẩn xuất hiện vào ngày 30, sau đó tiêu diệt nó
+3035	Nông phu và rồng	Ngăn chặn chúa tể xuất hiện trong 200 ngày đầu, đồng thời mở “Uy nghiêm cổ xưa” tất cả, sau đó tiêu diệt nó
+3036	Bậc cao = Tôn nghiêm	Nâng cấp chính điện của tất cả khu vực và thành trì lên cấp 3 trong vòng 3 năm, đồng thời mở “Phàm trần sự” Tất cả
+3037	Tiên vô lệ	Mua vật phẩm phẩm giai 12+ từ các tông phái trong năm đầu tiên, đồng thời mở “Tiên vô tình” Tất cả
+3038	Đao phủ bất tử	Ép buộc tất cả tông phái quy thuận dưới tông môn NPC Tối đa
+3039	Kẻ diệt Âm	Tiêu diệt chúa tể khi nó ở trạng thái mạnh nhất
+3040	Kẻ diệt Dương	Tiêu diệt Phượng Hoàng khi nó ở trạng thái mạnh nhất
+3041	Kẻ diệt Đạo	Tiêu diệt Chúc Long khi nó ở trạng thái mạnh nhất
+3042	Trận chiến cuối cùng	Chinh phục kẻ địch vào ngày 1000 bằng cách mở tùy chọn “Càng khó càng tốt”
+3043	Tân thủ phi thăng	Giúp đệ tử phi thăng ở độ khó Thiên Kiếp I hoặc cao hơn
+3046	Cao thủ phi thăng	Giúp đệ tử phi thăng ở độ khó Thiên Kiếp IV hoặc cao hơn
+3049	Đại tông sư phi thăng	Giúp đệ tử phi thăng ở độ khó Thiên Kiếp VII hoặc cao hơn
+3052	Tân thủ chinh phục thế giới	Chinh phục mọi tông môn ở độ khó Thiên Kiếp I hoặc cao hơn
+3055	Cao thủ chinh phục thế giới	Chinh phục mọi tông môn ở độ khó Thiên Kiếp IV hoặc cao hơn
+3058	Đại tông sư chinh phục thế giới	Chinh phục mọi tông môn ở độ khó Thiên Kiếp VII hoặc cao hơn
+3061	Đạo trận pháp	Học tâm kinh trận pháp lần đầu
+3062	Trận pháp cổ đại	Học trận pháp cổ đại lần đầu
+3063	Ít mà chất	Bố trí trận pháp lần đầu
+3064	Truyền thuyết tái sinh	Bố trí trận pháp cổ đại lần đầu
+3065	Cơ quan phàm trần	Phân công “Cơ quan” Ban thưởng cho đệ tử lần đầu
+3066	Thám hiểm thế giới	Thiết lập và giao nhiệm vụ cơ quan cho tất cả các thành trì và khu vực
+3067	Thông minh xuất chúng	Tạo “Thần tích” Thành công
+3068	Dừng lại hết cho ta	Xây dựng đủ mọi loại thần tích
+3069	Tiếng lòng nhân dân	Nhận được hơn 20.000 tín đồ từ một sự kiện chính sách
+3070	Đại giáo	Khiến toàn bộ dân chúng trong một thành trì/khu vực trở thành tín đồ của tông môn ≥40%
+3071	Truyền giáo	Khiến toàn bộ dân chúng ở mọi thành trì/khu vực trở thành tín đồ của tông môn ≥40%
+3072	Cung nghênh nghe thông báo	Tham gia đấu giá lần đầu
+3073	Muốn gom sạch đồ à	Mua sạch vật phẩm trong một buổi đấu giá
+3074	Xuống vốn!	Mua vật phẩm bí ẩn trong buổi đấu giá
+3075	Giao dịch hời lớn	Đấu giá thành công vật phẩm với giá thấp hơn thị trường
+3076	Có thắng nổi không đây	Đấu giá thành công vật phẩm với giá gấp 10 lần giá thị trường
+3077	Trao đổi công bằng	Giao dịch với thương nhân lưu động lần đầu
+3078	Mảnh cuối cùng	Mua sạch Linh thạch của thương nhân lưu động
+3079	Đừng giết gà mẹ	Sát hại thương nhân lưu động
+3080	Ứng cứu kịp thời	Nhận 1 điểm thiện cảm từ tông môn NPC
+3081	Bạn thân	Nhận 10 điểm thiện cảm từ một tông môn
+3082	Cứu với!!!	Mượn đệ tử lần đầu
+3083	Một vì tất cả	Mượn 4 đệ tử cùng lúc từ 4 tông môn khác nhau
+3084	Đúng ý ta rồi	Tặng vật phẩm yêu thích cho Tông chủ trong chuyến viếng thăm chính thức
+3085	Thế giới rộng lớn	Tiến vào bản đồ dã ngoại lần đầu
+3086	Chỉ là khách qua đường	Tiến vào bản đồ tông môn lần đầu
+3087	Tất cả đều là của ta	Nhặt vật phẩm trong bản đồ dã ngoại lần đầu
+3088	Bây giờ hoặc không bao giờ	Trộm bảo vật trong bản đồ tông môn khi đang ẩn thân
+3089	Chinh phục: Tông môn Ẩn Ảnh	Chinh phục Tông môn Ẩn Ảnh
+3090	Chinh phục: Cung điện Côn Lôn	Chinh phục Cung điện Côn Lôn
+3091	Chinh phục: Cung Thiên Vòm	Chinh phục Cung Thiên Vòm
+3092	Chinh phục: Viện Vân Tím	Chinh phục Viện Vân Tím
+3093	Chinh phục: Tông môn Nhất Thể Huyền Bí	Chinh phục Tông môn Nhất Thể Huyền Bí
+3094	Chinh phục: Viện Liên Hoa Xanh	Chinh phục Viện Liên Hoa Xanh
+3095	Chinh phục: Tông môn Dặm Hoàng Hôn	Chinh phục Tông môn Dặm Hoàng Hôn
+3096	Chinh phục: Núi Trăm Côn Trùng	Chinh phục Bách Trùng Sơn
+3097	Chinh phục: Động Diệt Vong	Chinh phục Động Diệt Vong
+3098	Chinh phục: Thất Sát Tông	Chinh phục Thất Sát Tông
+3099	Chinh phục: Hợp Hoan Tông	Chinh phục Hợp Hoan Tông
+3100	Chinh phục: Ma Điện	Chinh phục Ma Điện
+3101	Chinh phục Tu Chân Giới	Chinh phục mọi tông môn tu tiên
+3102	Khai phá thế giới	Chinh phục mọi tông môn NPC Và khiến người dân mọi thành phố/khu vực tin theo tông môn ≥40%
+3103	Lời chào đầu tiên	Giao lưu lần đầu
+3104	Tâm kết của ta	Lần đầu thấu hiểu chấp niệm của người khác
+3105	Chơi bằng cả trái tim	Lần đầu phá vỡ rào cản tâm trí
+3106	Dẫn tham quan tông môn	Lần đầu mời người khác đến thăm tông môn
+3107	Sự thật phơi bày	Giải đố thành công
+3108	Linh Thú: Thiên Cẩu	Nhận được Thiên Cẩu
+3109	Linh Thú: Linh Hồ	Nhận được Linh Hồ
+3110	Linh Thú: Phi Long	Nhận được Phi Long
+3111	Linh Thú: Hắc Phượng	Nhận được Hắc Phượng
+3112	Trưởng thành hoàn toàn	Thức tỉnh hoàn toàn linh thú
+3113	Bằng hữu của linh thú	Khai trí cho linh thú
+3114	Hóa hình: 5 mảnh	Giúp đỡ Yêu Tộc có mảnh linh trí ≥5 Vượt qua Hóa Hình Kiếp
+3115	Hóa hình: 7 mảnh	Giúp đỡ Yêu Tộc có mảnh linh trí ≥7 Vượt qua Hóa Hình Kiếp
+3116	Hóa thân: 9 mảnh	Giúp đỡ Yêu Tộc có mảnh linh trí ≥9 Vượt qua Hóa Hình Kiếp
+3117	Chịu thiên kiếp	Độ kiếp thành công 5 lần
+3118	Trường thọ vô song	Vượt qua thọ kiếp 5 lần
+3119	Thần giáo bản thân	Dựng tượng tín ngưỡng trong thành và kết nối với tu sĩ “Thần道”
+3120	Hộ vệ của mình	Bổ nhiệm hộ vệ
+3121	Giáo phái bản thân	Nhận được tín đồ nòng cốt
+3122	Tín đồ của mình	Hoàn thành tâm nguyện “Sử thi” của tín đồ thành công
+3123	Thánh vật của mình	Nâng cấp “Thánh vật thần thánh” Đạt tầng 15
+3124	Thánh địa của mình	Mở rộng thánh địa bằng cách vượt kiếp siêu thoát
+3125	Bản tâm	Đạt cảnh giới tâm linh tối cao của tu luyện “Thần道”
+3126	Trì tụng: Thiên Lôi	Lĩnh ngộ “Thiên Lôi Kinh”
+3127	Kiến tạo: Thiên Lôi	Thiết lập thánh địa bằng “Thiên Lôi Kinh”
+3128	Viên mãn: Thiên Lôi	Xây dựng thánh địa bằng “Thiên Lôi” Đạt quy mô tối đa
+3129	Phi thăng: Thiên Lôi	Phi thăng nhờ tu tập Thiên Lôi Kinh
+3130	Trì tụng: Bát Hoang	Lĩnh ngộ “Bát Hoang Kinh”
+3131	Kiến tạo: Bát Hoang	Thiết lập thánh địa bằng “Bát Hoang Kinh”
+3132	Viên mãn: Bát Hoang	Xây dựng thánh địa bằng “Bát Hoang” Đạt quy mô tối đa
+3133	Phi thăng: Bát Hoang	Phi thăng nhờ nghiên cứu Bát Vũ Kinh
+3134	Tụng: Độ Hóa Địa Ngục	Lĩnh ngộ “Kinh Độ Hóa Địa Ngục”
+3135	Chế Tạo: Độ Hóa Địa Ngục	Thiết lập thánh địa bằng “Kinh Độ Hóa Địa Ngục”
+3136	Lĩnh Ngộ: Độ Hóa Địa Ngục	Xây dựng thánh địa bằng “Độ Hóa Địa Ngục” Đạt quy mô tối đa
+3137	Phi Thăng: Độ Hóa Địa Ngục	Phi thăng nhờ nghiên cứu Kinh Độ Hóa Địa Ngục
+3138	Huyễn Ảo Tinh Hoa	được “Ảo Ảnh Tinh Túy” Thông qua hô hấp
+3139	Vân Tinh Hoa	được “Nimbus Tinh Túy” Thông qua hô hấp
+3140	Viêm Tinh Hoa	được “Ignis Tinh Túy” Thông qua hô hấp
+3141	Nguyệt Tinh Hoa	được “Aqua Luna Tinh Túy” Thông qua hô hấp
+3142	Chí Cao Thể	Mở “Mật Thể” Lần đầu
+3143	Chinh chiến	Tích lũy “Tôi giáp” 100 Tầng
+3144	Sơ Cấp: Thái Sơ Nhất Thể	Lĩnh ngộ “Thái Sơ Nhất Thể”
+3145	Phi Thăng: Thái Sơ Nhất Thể	Phi thăng nhờ “Thái Sơ Nhất Thể”
+3146	Sơ Cấp: Man Hoang Luyện Thể	Lĩnh ngộ “Man Hoang Luyện Thể”
+3147	Phi Thăng: Man Hoang Luyện Thể	Phi thăng nhờ “Man Hoang Luyện Thể”
+3148	Sơ Cấp: Thượng Cổ Tộc	Lĩnh ngộ “Thượng Cổ Diêu Lai Thể”
+3149	Phi Thăng: Thượng Cổ Tộc	Phi thăng nhờ “Thượng Cổ Diêu Lai Thể”
+3150	Sơ Cấp: Đọa Thiên Tận Diệt	Lĩnh ngộ “Sát Lục Tiêu Diệt Thể”
+3151	Phi Thăng: Đọa Thiên Tận Diệt	Phi thăng nhờ “Sát Lục Tiêu Diệt Thể”
+3152	Cùng tìm đạo trường sinh!	Nhận được linh thú Tú Tú và Tiên Tiên
+3153	Tiên Gấu Trúc	Biến gấu trúc thành người và giúp phi thăng thành công
+3154	Một con cá	Câu được 1 con cá
+3155	100 con cá	Câu được 100 con cá
+3156	1.000 con cá	Câu được 1.000 con cá
+3157	10.000 con cá	Câu được 10.000 con cá
+3158	Cắn câu	Câu được dã thú khi đang câu cá
+3159	Ta chọn ngươi!	Câu được yêu thú khi đang câu cá
+3160	Vật phẩm lấp lánh	Câu được Khí Thạch
+3161	Đại sư câu cá	Bắt đủ tất cả các loài cá
+3162	Kẻ chinh phục Kraken	Bắt được cá nặng hơn 25 cân
+3163	Cơ trí thủ thắng	Nhận được toàn bộ bí bảo từ bia đá tại Tử Vân Cung
+3164	Âm Dương Hợp Nhất	Nhận được linh sủng Mèo Huyền Quy
+3165	Đạo orthodox: Linh Quang	Tu luyện “Công pháp Chinh Phục Linh Quang” Nhờ độ tương thích vượt mức 150%
+3166	Tầng I: Linh Quang	Đúc Kim Đan tầng I Bằng “Công pháp Chinh Phục Linh Quang”
+3167	Đạt thành tựu: Linh Quang	Phi thăng nhờ “Công pháp Chinh Phục Linh Quang”

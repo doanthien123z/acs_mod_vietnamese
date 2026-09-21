@@ -1,0 +1,8 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="DLC_Plant_HuangJing" sParam="Plant">
+			<ThingName>Địa căn</ThingName>
+			<Desc>Thảo dược mọc trên núi Võ Đang, ưa bóng râm và nơi ẩm ướt, cần trồng trên đất màu mỡ.</Desc>
+		</Text>
+	</List>
+</Texts>

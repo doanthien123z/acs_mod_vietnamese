@@ -1,0 +1,294 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Guard_LeiBu_1">
+			<DisplayName>Lôi Binh</DisplayName>
+			<Names>Anh</Names>
+			<Desc>Thủ vệ vung vẩy lôi đình chi lực. Khi cúng bái: Nâng cao năng lực toàn diện, tăng kỹ năng pháp bảo, tăng uy lực pháp bảo., [color=#D00808]Giảm tốc độ hồi phục chân khí của pháp bảo.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_2">
+			<DisplayName>Lôi Nữ</DisplayName>
+			<Names>Giang</Names>
+			<Desc>Thủ vệ vung vẩy lôi điện chi lực. Khi cúng bái: Nâng cao năng lực toàn diện, tăng kỹ năng pháp bảo, tăng tốc độ hồi phục linh khí của pháp bảo., [color=#D00808]Giảm uy lực của pháp bảo[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_3">
+			<DisplayName>Phong Vân Tướng Quân</DisplayName>
+			<Names>San</Names>
+			<Desc>Thủ vệ có năng lực điều khiển gió mây. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng hộ thân cương khí., [color=#D00808]Giảm uy lực của pháp bảo[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_4">
+			<DisplayName>Lôi Vũ Tướng Quân</DisplayName>
+			<Names>Chấn</Names>
+			<Desc>Thủ vệ có năng lực hô phong hoán vũ, triệu hồi sấm sét. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng hộ thân cương khí., [color=#D00808]Giảm tốc độ hồi phục chân khí của pháp bảo.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_5">
+			<DisplayName>Vân Thiên Sứ</DisplayName>
+			<Names>Cung</Names>
+			<Desc>Một trong ngũ sứ giả thiên lôi. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn linh khí tối đa, tăng uy lực pháp bảo, tăng giới hạn linh khí tối đa của pháp bảo, tăng tỷ lệ hồi phục linh khí của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_6">
+			<DisplayName>Lôi Quang Sứ</DisplayName>
+			<Names>Lôi</Names>
+			<Desc>Một trong ngũ sứ giả thiên lôi. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn linh khí tối đa, tăng uy lực pháp bảo., [color=#D00808]Giảm hộ thân cương khí[/color]</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_7">
+			<DisplayName>U Lôi Sứ</DisplayName>
+			<Names>Huyền</Names>
+			<Desc>Một trong ngũ sứ giả thiên lôi. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn linh khí tối đa, tăng uy lực pháp bảo, tăng uy lực thần thông, tăng lượng linh khí tiêu hao khi thi triển thần thông.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_8">
+			<DisplayName>Thần Lôi Sứ</DisplayName>
+			<Names>Đinh</Names>
+			<Desc>Một trong ngũ sứ giả thiên lôi. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn linh khí tối đa, tăng kỹ năng pháp bảo, tăng kỹ năng thần thông, tăng kỹ năng hộ thân cương khí.</Desc>
+		</Text>
+		<Text Name="Guard_LeiBu_9">
+			<DisplayName>Ngọc Lôi Sứ</DisplayName>
+			<Names>Châu</Names>
+			<Desc>Một trong ngũ sứ giả thiên lôi. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn linh khí tối đa.,\n[color=#0869d0]Lĩnh hội thần chú: Thần Linh Ngưng Thần[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_1">
+			<DisplayName>Thiên Nhân</DisplayName>
+			<Names>Đế</Names>
+			<Desc>Thủ lĩnh của Bát Bộ Thiên Long, hộ pháp tối cao. Khi thờ phụng: Nâng cao năng lực tổng thể.,\n[color=#0869d0]Học thần chú: Thiên Thần Hợp Nhất[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_2">
+			<DisplayName>Long Vương</DisplayName>
+			<Names>Long</Names>
+			<Desc>Hộ pháp cai quản vạn vật dưới đại dương thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng kỹ năng pháp thuật, tăng uy lực pháp thuật, tăng tỷ lệ tiêu hao linh lực khi thi triển pháp thuật.\n[color=#0869d0]Học pháp thuật: Long Ngâm[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_3">
+			<DisplayName>Dạ Xoa</DisplayName>
+			<Names>Lạc</Names>
+			<Desc>Hộ pháp tượng trưng cho sự linh hoạt và bí ẩn, thủ lĩnh của Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng uy lực pháp thuật, tăng tỷ lệ tiêu hao linh lực khi thi triển pháp thuật, giảm thời gian hồi chiêu pháp thuật, giảm thời gian thi triển pháp thuật.\n[color=#0869d0]Học pháp thuật: Hắc Huyết Chú[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_4">
+			<DisplayName>Càn Thát Bà</DisplayName>
+			<Names>Hoan</Names>
+			<Desc>Hộ pháp tượng trưng cho sự thay đổi thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng tốc độ hồi phục linh lực của pháp bảo, giảm tỷ lệ tiêu hao linh lực khi thi triển pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_5">
+			<DisplayName>A Tu La</DisplayName>
+			<Names>Ma</Names>
+			<Desc>Hộ pháp tượng trưng cho sự sát phạt thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng kỹ năng chiến đấu, tăng kỹ năng pháp bảo, tăng kỹ năng pháp thuật, tăng kỹ năng hộ giáp.\n[color=#0869d0]Học pháp thuật: Ma Thần Kiếm[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_6">
+			<DisplayName>Ca Lâu La</DisplayName>
+			<Names>Bằng</Names>
+			<Desc>Hộ pháp tượng trưng cho sự quyết liệt thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng tốc độ pháp bảo, tăng tốc độ phi hành của pháp bảo, tăng khả năng chuyển hướng của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_7">
+			<DisplayName>Khẩn Na La</DisplayName>
+			<Names>Nhạc</Names>
+			<Desc>Hộ pháp tượng trưng cho sự bình an thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng điểm mị lực, tăng tuổi thọ, tăng giới hạn linh lực tối đa.\n[color=#0869d0]Học pháp thuật: Nhẫn Thần Tâm[/color]</Desc>
+		</Text>
+		<Text Name="Guard_BaBuZhong_8">
+			<DisplayName>Ma Hầu La Già</DisplayName>
+			<Names>Kiệt</Names>
+			<Desc>Hộ pháp tượng trưng cho vạn vật trên đại địa thuộc Bát Bộ Thiên Long. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng kỹ năng hộ giáp, tăng uy lực hộ giáp.\n[color=#0869d0]Lĩnh hội thần chú: Thần Linh Ngưng Thần[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_1">
+			<DisplayName>Địa Ngục Phán Quan</DisplayName>
+			<Names>Lý</Names>
+			<Desc>Hộ pháp tượng trưng cho sinh tử nơi cõi chết. Khi thờ phụng: Nâng cao năng lực tổng thể, tăng kỹ năng hộ pháp thần thánh, tăng giới hạn linh lực tối đa.\n[color=#0869d0]Học thần chú: Âm Dương Nghịch Chuyển[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_2">
+			<DisplayName>Hắc Vô Thường</DisplayName>
+			<Names>Phạm</Names>
+			<Desc>Quỷ hồn dẫn lối nơi cõi chết. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng kỹ năng pháp bảo, tăng uy lực pháp bảo, tăng giới hạn linh lực tối đa của pháp bảo, tăng tốc độ hồi phục linh lực của pháp bảo.\n[color=#0869d0]Học pháp thuật: Vô Thường Hộ Vệ[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_3">
+			<DisplayName>Bạch Vô Thường</DisplayName>
+			<Names>Tạ</Names>
+			<Desc>Quỷ hồn dẫn lối nơi cõi chết. Khi thờ phụng: Nâng cao nhẹ năng lực tổng thể, tăng kỹ năng pháp thuật, tăng uy lực pháp thuật, tăng lượng linh lực tiêu hao khi thi triển pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_4">
+			<DisplayName>Ngưu Đầu Sứ Giả</DisplayName>
+			<Names>Nữu</Names>
+			<Desc>Tuần sát sứ giả của cõi chết. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng Giáp Chân Khí, tăng uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_5">
+			<DisplayName>Quỷ Mã Đại Tướng</DisplayName>
+			<Names>Mã</Names>
+			<Desc>Tuần sát sứ giả của cõi chết. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng Giáp Chân Khí, tăng uy lực pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_6">
+			<DisplayName>U Linh Xa Phu</DisplayName>
+			<Names>Mệnh</Names>
+			<Desc>Người chèo thuyền vượt sông vong. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn chân khí, tăng uy lực pháp bảo, tăng uy lực pháp thuật.\n[color=#0869d0]Học tập thần chú: Thần thuật hồi sinh[/color]</Desc>
+		</Text>
+		<Text Name="Guard_YouMing_7">
+			<DisplayName>Hắc Sơn Thủ Hộ</DisplayName>
+			<Names>Hà</Names>
+			<Desc>Thủ hộ giả của Hắc Sơn nơi cõi chết. Khi cúng bái: Tăng tuổi thọ, tăng giới hạn chân khí, tăng kỹ năng Giáp Chân Khí. \n[color=#0869d0]Lĩnh hội thần chú: Thần Linh Ngưng Thần[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_1">
+			<DisplayName>Thiên Trục Thủ Hộ</DisplayName>
+			<Names>Lỗ</Names>
+			<Desc>Tinh linh chưởng quản một phần thiên uy. Khi cúng bái: Nâng cao năng lực toàn diện, tăng uy lực pháp bảo, tăng uy lực pháp thuật., [color=#D00808]Giảm đáng kể tuổi thọ[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_2">
+			<DisplayName>Thất Sát Thủ Hộ</DisplayName>
+			<Names>Tra</Names>
+			<Desc>Tinh linh chưởng quản một phần thiên uy. Khi cúng bái: Nâng cao năng lực toàn diện, tăng uy lực pháp bảo, tăng uy lực pháp thuật., [color=#D00808]Giảm đáng kể giới hạn chân khí.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_3">
+			<DisplayName>Thiên Quang Thủ Hộ</DisplayName>
+			<Names>Quân</Names>
+			<Desc>Tinh linh chưởng quản một phần thiên uy. Khi cúng bái: Nâng cao năng lực toàn diện, tăng uy lực pháp bảo, tăng uy lực pháp thuật., [color=#D00808]Giảm đáng kể kỹ năng Giáp Chân Khí.[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_4">
+			<DisplayName>Xích Sắc Linh</DisplayName>
+			<Names>Xích</Names>
+			<Desc>Thủ hộ giả cổ xưa đại diện cho ngũ hành. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng pháp thuật, tăng uy lực pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_Other_5">
+			<DisplayName>Bạch Sắc Linh</DisplayName>
+			<Names>Bạch</Names>
+			<Desc>Thủ hộ giả cổ xưa đại diện cho ngũ hành. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng pháp bảo, tăng uy lực pháp bảo, tăng giới hạn pháp bảo, tăng tốc độ hồi phục pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Other_6">
+			<DisplayName>Hoàng Sắc Linh</DisplayName>
+			<Names>Cát</Names>
+			<Desc>Thủ hộ giả cổ xưa đại diện cho ngũ hành. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng kỹ năng Giáp Chân Khí, tăng Giáp Chân Khí.</Desc>
+		</Text>
+		<Text Name="Guard_Other_7">
+			<DisplayName>Hắc Sắc Linh</DisplayName>
+			<Names>Tử</Names>
+			<Desc>Thủ hộ giả cổ xưa đại diện cho ngũ hành. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng thần thức.</Desc>
+		</Text>
+		<Text Name="Guard_Other_8">
+			<DisplayName>Thiên Linh</DisplayName>
+			<Names>Linh</Names>
+			<Desc>Thủ hộ giả cổ xưa đại diện cho ngũ hành. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng giới hạn chân khí.</Desc>
+		</Text>
+		<Text Name="Guard_Other_9">
+			<DisplayName>Hải Linh</DisplayName>
+			<Names>Vương</Names>
+			<Desc>Thủ hộ giả mang di thừa thần bí của biển sâu. Khi cúng bái: Nâng cao nhẹ năng lực toàn diện, tăng uy lực pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_Other_10">
+			<DisplayName>Sơn Linh</DisplayName>
+			<Names>Thái</Names>
+			<Desc>Linh hồn bảo hộ của núi non. Khi thờ phụng: Nâng cao năng lực tổng thể một chút, tăng sức mạnh hộ giáp khí.</Desc>
+		</Text>
+		<Text Name="Guard_Other_11">
+			<DisplayName>Hoa Linh</DisplayName>
+			<Names>Tương</Names>
+			<Desc>Linh hồn bảo hộ của hoa cỏ. Khi thờ phụng: Nâng cao năng lực tổng thể một chút, tăng giới hạn tối đa chân khí.\n[color=#0869d0]Học tập Pháp thuật: Thần Hoa Bảy Màu[/color]</Desc>
+		</Text>
+		<Text Name="Guard_Other_12">
+			<DisplayName>Dạ Xoa Linh</DisplayName>
+			<Names>Chung</Names>
+			<Desc>Linh hồn bảo hộ mang sức mạnh to lớn. Khi thờ phụng: Nâng cao năng lực tổng thể một chút, tăng lực đẩy lùi của pháp bảo, tăng kháng đẩy lùi của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_1">
+			<DisplayName>Kim Tinh Linh</DisplayName>
+			<Names>Nhâm</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng kỹ năng pháp bảo, tăng uy lực pháp bảo, tăng giới hạn chân khí của pháp bảo, tăng tốc độ hồi phục chân khí của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_2">
+			<DisplayName>Mộc Tinh Linh</DisplayName>
+			<Names>Diệp</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng giới hạn tối đa chân khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_3">
+			<DisplayName>Thủy Tinh Linh</DisplayName>
+			<Names>Liễu</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng linh cảm chân khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_4">
+			<DisplayName>Hỏa Tinh Linh</DisplayName>
+			<Names>Viêm</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng kỹ năng pháp thuật, tăng uy lực pháp thuật.</Desc>
+		</Text>
+		<Text Name="Guard_Base_5">
+			<DisplayName>Thổ Tinh Linh</DisplayName>
+			<Names>Thần</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng kỹ năng hộ giáp khí, tăng sức mạnh hộ giáp khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_6">
+			<DisplayName>Địa Tinh</DisplayName>
+			<Names>Sâm</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng tuổi thọ.</Desc>
+		</Text>
+		<Text Name="Guard_Base_7">
+			<DisplayName>Mộc Tinh</DisplayName>
+			<Names>Linh</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng giới hạn tối đa chân khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_8">
+			<DisplayName>Kim Tinh</DisplayName>
+			<Names>Diệt</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng uy lực pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_9">
+			<DisplayName>Hồ Tinh Linh</DisplayName>
+			<Names>Dư</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng tốc độ hồi phục chân khí của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_10">
+			<DisplayName>Lưu Ly Tinh Linh</DisplayName>
+			<Names>Minh</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng giới hạn tối đa chân khí của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Guard_Base_11">
+			<DisplayName>Thạch Tinh Linh</DisplayName>
+			<Names>Hậu</Names>
+			<Desc>Linh vật bảo hộ lang thang có thể bắt gặp ở khắp nơi trên thế giới. Khi thờ phụng: Tăng sức mạnh hộ giáp khí.</Desc>
+		</Text>
+		<Text Name="Guard_Base_12">
+			<DisplayName>Hỏa Linh</DisplayName>
+			<Names>Trì</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng uy lực pháp thuật</Desc>
+		</Text>
+		<Text Name="Guard_Base_13">
+			<DisplayName>Thủy Linh</DisplayName>
+			<Names>Kiệt</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Giảm thời gian thi triển pháp thuật</Desc>
+		</Text>
+		<Text Name="Guard_Base_14">
+			<DisplayName>Phong Linh</DisplayName>
+			<Names>Tiểu</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng tốc độ bay của pháp bảo</Desc>
+		</Text>
+		<Text Name="Guard_Base_15">
+			<DisplayName>Phong Linh</DisplayName>
+			<Names>Minh</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng tốc độ quay đầu của pháp bảo</Desc>
+		</Text>
+		<Text Name="Guard_Base_16">
+			<DisplayName>Thạch Linh</DisplayName>
+			<Names>Tử</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng lực đánh văng của pháp bảo</Desc>
+		</Text>
+		<Text Name="Guard_Base_17">
+			<DisplayName>Hắc Linh</DisplayName>
+			<Names>Kiếm</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng khả năng kháng đánh văng của pháp bảo</Desc>
+		</Text>
+		<Text Name="Guard_Base_18">
+			<DisplayName>Mộc Hộ Pháp</DisplayName>
+			<Names>Diệp</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Giảm hồi chiêu thi triển pháp thuật</Desc>
+		</Text>
+		<Text Name="Guard_Base_19">
+			<DisplayName>Thủy Hộ Pháp</DisplayName>
+			<Names>Bố</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Giảm thời gian thi triển pháp thuật</Desc>
+		</Text>
+		<Text Name="Guard_Base_20">
+			<DisplayName>Kim Hộ Pháp</DisplayName>
+			<Names>Đồng</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng kỹ năng pháp bảo</Desc>
+		</Text>
+		<Text Name="Guard_Base_21">
+			<DisplayName>Hỏa Hộ Pháp</DisplayName>
+			<Names>Viêm</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng kỹ năng pháp thuật</Desc>
+		</Text>
+		<Text Name="Guard_Base_22">
+			<DisplayName>Thổ Hộ Pháp</DisplayName>
+			<Names>Mại</Names>
+			<Desc>Hộ pháp vân du có thể gặp ở bất cứ đâu trên thế gian. Khi cúng bái: Tăng kỹ năng hộ thể chân khí</Desc>
+		</Text>
+	</List>
+</Texts>

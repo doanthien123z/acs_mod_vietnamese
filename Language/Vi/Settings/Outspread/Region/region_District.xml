@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Region_Base">
+			<Desc>Đây là khu vực có thể xây dựng nhiều loại công trình khác nhau</Desc>
+		</Text>
+		<Text Name="zhongyuan">
+			<DisplayName>Trung Nguyên</DisplayName>
+			<Desc>Sản lượng: Đá nâu (số lượng lớn), Gỗ (ít), Lúa mì (ít))</Desc>
+		</Text>
+		<Text Name="JiangAnWoYe">
+			<DisplayName>Hồi Thủy Bình Nguyên</DisplayName>
+			<Desc>Sản lượng: wheat(Số lượng lớn), Đá nâu (ít))</Desc>
+		</Text>
+		<Text Name="DaXueYuan">
+			<DisplayName>Vĩnh Hằng Tuyết Vực</DisplayName>
+			<Desc>Sản lượng: Linh thạch (số lượng lớn), Gỗ (ít))</Desc>
+		</Text>
+		<Text Name="DaMo">
+			<DisplayName>Vô Tận Sa Mạc</DisplayName>
+			<Desc>Sản lượng: Linh thạch (số lượng lớn), Đá (ít))</Desc>
+		</Text>
+		<Text Name="NanHuang">
+			<DisplayName>Nam Cương Lâm</DisplayName>
+			<Desc>Sản lượng: Gỗ (số lượng lớn))</Desc>
+		</Text>
+		<Text Name="OurPlace">
+			<DisplayName>Nam Cương Sơn</DisplayName>
+			<Desc>Sản lượng: Gỗ, Đá, Lúa mì</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,305 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Fruit" sParam="Item">
+			<ThingName>Hổ Phách Quả</ThingName>
+			<Desc>Khi nuốt quả hổ phách, người dùng sẽ chống lại sự đói khát và mệt mỏi trong vòng 12 giờ. Tuy nhiên, loại quả này sẽ nhanh chóng thối rữa sau khi thu hoạch</Desc>
+			<Item.FabaoSuffix>Trái cây, hạt châu, linh đan, vật tròn</Item.FabaoSuffix>
+			<From>Linh thảo</From>
+		</Text>
+		<Text Name="Item_LingWater" sParam="Item">
+			<ThingName>Linh Lộ</ThingName>
+			<Desc>Sương đọng trên cỏ linh, chứa đầy sinh lực nhưng sẽ bay hơi nhanh chóng khi rời khỏi cỏ linh. Uống vào giúp hồi phục thể lực và tăng tốc độ hồi phục vết thương trong thời gian nhất định</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+			<From>Linh thổ</From>
+		</Text>
+		<Text Name="Item_ZaoHuaYuLu" sParam="Item">
+			<ThingName>Phúc Vận Cam Lộ</ThingName>
+			<Desc>Sương đọng chứa sức mạnh sáng tạo hình thành từ linh căn, sẽ bay hơi nhanh chóng khi rời khỏi linh căn. Uống vào sẽ khiến Nguyên Thần bị phong ấn, rơi vào trạng thái giả chết trong 81 ngày. Sau đó sẽ chữa lành mọi vết thương, tái tạo thân xác và xương cốt, tăng 20% cho cả năm chỉ số cơ bản, nhưng sẽ làm giảm đáng kể hạt Đạo. Cả đời một người chỉ có hiệu quả một lần duy nhất. Nếu uống lần thứ hai, Nguyên Thần của người đó sẽ tiêu tán vĩnh viễn và hoàn toàn hư vô</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SilverGrit" sParam="Item">
+			<ThingName>Băng phấn</ThingName>
+			<Desc>Bột khoáng nghiền từ quặng tinh thể băng, có thể dùng làm nguyên liệu luyện đan</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_CopperGrit" sParam="Item">
+			<ThingName>Hỏa phấn</ThingName>
+			<Desc>Bột khoáng nghiền từ quặng đồng hỏa, có thể dùng làm nguyên liệu luyện đan</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Cinnabar" sParam="Item">
+			<ThingName>Chu sa</ThingName>
+			<Desc>Khoáng vật đặc biệt này thường dùng làm nguyên liệu luyện đan và vẽ phù chú</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_JinEssence" sParam="Item">
+			<ThingName>Kim tinh quả</ThingName>
+			<Desc>Linh quả hệ Kim, ẩn chứa lượng linh khí dồi dào. Nghe nói loại quả này có thể tìm thấy ở Vân Cốc nằm trên đỉnh Thiên Sơn</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Gieo trồng</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Gieo trồng và nuôi dưỡng nó trở thành linh thảo</StoryBnts.0.Desc>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_MuEssence" sParam="Item">
+			<ThingName>Phan lôi đằng</ThingName>
+			<Desc>Linh đằng hệ Mộc, ẩn chứa linh khí dồi dào nhưng không thể ăn trực tiếp. Nghe nói loại dây leo này có thể tìm thấy trên núi Long Hổ và Cốc Huyết Trùng</Desc>
+			<Item.FabaoSuffix>Dây leo, khóa, xích, thừng, dây</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Gieo trồng</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Gieo trồng và nuôi dưỡng nó trở thành linh thảo</StoryBnts.0.Desc>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_ShuiEssence" sParam="Item">
+			<ThingName>Ngũ sắc kim liên</ThingName>
+			<Desc>Linh liên hệ Thủy, ẩn chứa linh khí dồi dào nhưng không thể ăn trực tiếp. Nghe nói loại sen này được tìm thấy ở hồ Ngũ Long nằm trên núi Màn Thiên</Desc>
+			<Item.FabaoSuffix>Hoa sen, đài sen, ấn tín, bao phủ, kết giới</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Gieo trồng</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Gieo trồng và nuôi dưỡng nó trở thành linh thảo</StoryBnts.0.Desc>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_HuoEssence" sParam="Item">
+			<ThingName>Hỏa kiếp quả</ThingName>
+			<Desc>Linh quả hệ Hỏa, ẩn chứa linh khí dồi dào nhưng không thể ăn trực tiếp. Nghe nói loại quả này có thể tìm thấy ở vách đá Ngọc Thạch nằm trên núi Tu và động Hỏa nằm trong đại sa mạc phía Tây</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Gieo trồng</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Gieo trồng và nuôi dưỡng nó trở thành linh thảo</StoryBnts.0.Desc>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_TuEssence" sParam="Item">
+			<ThingName>Hoàng Thổ Hạch</ThingName>
+			<Desc>Địa linh căn, bên trong ẩn chứa lượng lớn linh khí nhưng không thể trực tiếp nuốt lấy. Ngươi ta nói loại linh căn này có thể tìm thấy trong động Long Mạch ở Côn Lôn Sơn.</Desc>
+			<Item.FabaoSuffix>Thần tượng, khôi lỗi, căn, ấn</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Gieo trồng</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Gieo trồng và nuôi dưỡng nó trở thành linh thảo</StoryBnts.0.Desc>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_LingMuXueJie" sParam="Item">
+			<ThingName>Mộc Tâm Hạch</ThingName>
+			<Desc>Hạt nhân được chiết xuất từ rễ cây linh mộc. Khi nuốt nó có thể trực tiếp khôi phục thể lực.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_EarthEssence" sParam="Item">
+			<ThingName>Địa Nhũ</ThingName>
+			<Desc>Giọt nước kỳ diệu nằm sâu trong vỏ trái đất. Nó là chất lỏng có màu trắng như sữa và là nguyên liệu để luyện chế nhiều loại đan dược khác nhau. Uống trực tiếp sẽ giúp khôi phục thể lực và chân khí đáng kể, đồng thời làm tăng giới hạn chân khí tối đa. Tuy nhiên, uống một lượng lớn sẽ làm giảm hiệu quả của nó đi. Người ta đồn rằng nhãn tuyền Địa Nhũ có thể được tìm thấy trong Xuân Ngọc Động trên núi Thục và tại Tiêu Dao Đảo.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_EarthEssence1" sParam="Item">
+			<ThingName>Xích Địa Nhũ</ThingName>
+			<Desc>Giọt nước kỳ diệu nằm sâu trong vỏ trái đất. Nó là chất lỏng có màu đỏ thẫm như máu. Uống trực tiếp sẽ giúp khôi phục thể lực và chân khí đáng kể, đồng thời làm tăng giới hạn chân khí tối đa. Xích sắc Địa Nhũ có khả năng kháng dược cực thấp, cho phép uống nhiều lần mà hiệu quả chỉ giảm đi đôi chút. Tuy nhiên, Xích sắc Địa Nhũ chứa linh khí tiêu cực bên trong, do đó nó sẽ làm giảm vĩnh viễn tâm cảnh của người sử dụng. Nếu uống với số lượng lớn sẽ làm giảm hiệu quả tu luyện đi cực kỳ nhiều.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_EarthEssence_1" sParam="Item">
+			<ThingName>Thánh Hạch</ThingName>
+			<Desc>Chất lỏng đặc được cô đặc từ Địa Nhũ. Nó có thể chuyển hóa chân khí thành mạch hạch, nhưng sẽ làm giảm giới hạn chân khí tối đa. Tuy nhiên, nó có thể chữa lành nhiều loại thương tật, đồng thời tăng nhận thức, thể phách và trí tuệ lên mỗi loại một điểm. 10% **Suốt đời chỉ dùng được một lần duy nhất.**</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_EarthEssence1_1" sParam="Item">
+			<ThingName>Ma Hạch</ThingName>
+			<Desc>Chất lỏng đặc được cô đặc từ Địa Nhũ bị ô uế. Nó có thể chuyển hóa mạch hạch thành chân khí, làm tăng giới hạn chân khí tối đa. Tuy nhiên, sinh lực của người sử dụng sẽ bị tổn hại, dẫn đến việc giảm 10% các chỉ số nhận thức, thể phách và trí tuệ, và nó có thể được sử dụng lặp đi lặp lại nhiều lần.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LifeStream" sParam="Item">
+			<ThingName>Suối Nguồn Sinh Mệnh</ThingName>
+			<Desc>Suối nguồn linh thiêng được đồn đại là có thể kéo dài tuổi thọ của những ai uống phải nó. Có thể dùng làm nguyên liệu để luyện chế nhiều loại đan dược kỳ diệu. Nếu uống trực tiếp sẽ gia tăng ngay lập tức 99 năm tuổi thọ. Tiêu thụ với số lượng lớn sẽ làm giảm đáng kể hiệu quả thu được. Người ta đồn rằng dòng suối thần thánh này có thể được tìm thấy ở Thiên Trì nằm trên Ngũ Sắc Liên Sơn.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Ginseng" sParam="Item">
+			<ThingName>Nhân Sâm</ThingName>
+			<Desc>Dược liệu trân quý, nếu nuốt trực tiếp có thể nâng cao độ bền bỉ tự nhiên của người dùng trong 2 giờ. Nó có thể giúp thúc đẩy quá trình xây dựng nền tảng cho ngoại môn đệ tử hoặc tăng một chút thể lực cho nội môn đệ tử. Thường được sử dụng làm nguyên liệu nấu dược thiện. Tiêu thụ số lượng lớn sẽ làm giảm đáng kể hiệu quả thu được.</Desc>
+			<Item.FabaoSuffix>Thần tượng, khôi lỗi, búp bê</Item.FabaoSuffix>
+			<From>Thảo nguyên hoặc phiêu lưu</From>
+		</Text>
+		<Text Name="Item_GanodermaLucidum" sParam="Item">
+			<ThingName>Linh Chi</ThingName>
+			<Desc>Dược liệu trân quý, nếu nuốt trực tiếp có thể gia tăng ngay lập tức 3 năm tuổi thọ. Nó có thể giúp thúc đẩy quá trình xây dựng nền tảng cho ngoại môn đệ tử hoặc tăng một chút thể lực cho nội môn đệ tử. Thường được sử dụng làm nguyên liệu nấu dược thiện. Tiêu thụ số lượng lớn sẽ làm giảm đáng kể hiệu quả thu được.</Desc>
+			<Item.FabaoSuffix>Nấm, tử linh chi, bột, tán</Item.FabaoSuffix>
+			<From>Thảo nguyên hoặc phiêu lưu</From>
+		</Text>
+		<Text Name="Item_RedGinseng" sParam="Item">
+			<ThingName>Hồng Sâm</ThingName>
+			<Desc>Nhân sâm cao cấp có màu đỏ sậm. Nó có thể giúp thúc đẩy mạnh mẽ quá trình xây dựng nền tảng cho ngoại môn đệ tử hoặc tăng một chút thể lực cho nội môn đệ tử. Thường được sử dụng làm nguyên liệu luyện đan. Nếu nuốt trực tiếp có thể nâng cao độ bền bỉ tự nhiên của người dùng trong 2 giờ và tăng một lượng nhỏ giới hạn chân khí. Tuy nhiên, tiêu thụ số lượng lớn sẽ làm giảm đáng kể hiệu quả thu được.</Desc>
+			<Item.FabaoSuffix>Thần tượng, khôi lỗi, búp bê</Item.FabaoSuffix>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_PurpleGanodermaLucidum" sParam="Item">
+			<ThingName>Tử Linh Chi</ThingName>
+			<Desc>Nhân sâm cao cấp có màu đỏ tía. Nó có thể giúp thúc đẩy mạnh mẽ quá trình xây dựng nền tảng cho ngoại môn đệ tử hoặc tăng một chút thể lực cho nội môn đệ tử. Có thể được sử dụng để nấu dược thiện và một số loại đan dược kỳ diệu. Nếu nuốt trực tiếp có thể gia tăng ngay lập tức 10 năm tuổi thọ, đồng thời tăng một lượng nhỏ giới hạn chân khí. Tuy nhiên, tiêu thụ số lượng lớn sẽ làm giảm đáng kể hiệu quả thu được.</Desc>
+			<Item.FabaoSuffix>Nấm, tử linh chi, bột, tán</Item.FabaoSuffix>
+			<From>Thám hiểm hoặc giao dịch</From>
+		</Text>
+		<Text Name="Item_SoulPearl" sParam="Item">
+			<ThingName>Linh châu</ThingName>
+			<Desc>Yêu đan của yêu thú với âm khí cô đọng bên trong. Người ta nói rằng nó có thể được tìm thấy trong Tử Vong Động nằm ở Bách Trùng Sơn.</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Yêu thú ấu tể</Item.BeMaterial.NamePrefix>
+			<From>Yêu ma hoặc thương nhân</From>
+		</Text>
+		<Text Name="Item_MonsterBlood" sParam="Item">
+			<ThingName>Thú huyết</ThingName>
+			<Desc>Máu yêu thú với dương khí cô đọng bên trong. Dù đã đựng nó trong bình ngọc, hơi nóng của dương khí vẫn không tránh khỏi việc lan tỏa ra bên ngoài. Người ta nói rằng nó có thể được tìm thấy trong Vạn Xà Quật của Bách Trùng Sơn và Thôn Cồn Cát Vọng của Đại Mạc Tây.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+			<From>Yêu ma hoặc thương nhân</From>
+		</Text>
+		<Text Name="Item_Mint" sParam="Item">
+			<ThingName>Thanh Tâm Thảo</ThingName>
+			<Desc>Thảo mộc thông thường có tác dụng thư giãn. Ăn trực tiếp có thể giúp tâm hồn và chân khí của người đó bình ổn, đồng thời nâng cao tâm cảnh của nội môn đệ tử.</Desc>
+			<Item.FabaoSuffix>Hoa, nhụy hoa</Item.FabaoSuffix>
+			<From>Thảo nguyên hoặc phiêu lưu</From>
+		</Text>
+		<Text Name="Item_MagicHerb" sParam="Item">
+			<ThingName>Linh thảo</ThingName>
+			<Desc>Thảo dược tràn ngập linh khí. Nó có dược tính ôn hòa, ấm áp và được sử dụng rộng rãi trong việc nấu dược thiện và luyện đan.</Desc>
+			<Item.FabaoSuffix>Hoa, nhụy hoa</Item.FabaoSuffix>
+			<From>Thảo nguyên hoặc phiêu lưu</From>
+		</Text>
+		<Text Name="Item_Ginkgo" sParam="Item">
+			<ThingName>Hạt bạch quả</ThingName>
+			<Desc>Quả của cây bạch quả. Nó có tác dụng thư giãn cơ thể và có thể dùng làm dược liệu giúp giảm bớt căng thẳng.</Desc>
+			<Item.FabaoSuffix>Quả, hạt châu, đan dược, viên tròn, mái vòm</Item.FabaoSuffix>
+			<From>Linh thảo</From>
+		</Text>
+		<Text Name="Item_SnakeGallbladder" sParam="Item">
+			<ThingName>Mật rắn</ThingName>
+			<Desc>Túi mật của rắn. Nó có thể hồi phục một lượng nhỏ thể lực hoặc dùng làm nguyên liệu luyện dược. Nếu ngoại môn đệ tử nuốt phải, họ có thể cải thiện tình trạng cơ thể và tăng hiệu quả xây dựng nền tảng.</Desc>
+			<Item.FabaoSuffix>Đan dược, túi mật</Item.FabaoSuffix>
+			<From>Rắn hoặc thương nhân</From>
+		</Text>
+		<Text Name="Item_BearGallbladder" sParam="Item">
+			<ThingName>Mật gấu</ThingName>
+			<Desc>Túi mật của gấu. Nó có thể hồi phục một lượng nhỏ thể lực hoặc dùng làm nguyên liệu luyện dược. Nếu ngoại môn đệ tử nuốt phải, họ có thể cải thiện tình trạng cơ thể và tăng hiệu quả xây dựng nền tảng.</Desc>
+			<Item.FabaoSuffix>Đan dược, túi mật</Item.FabaoSuffix>
+			<From>Gấu hoặc thương nhân</From>
+		</Text>
+		<Text Name="Item_Healroot" sParam="Item">
+			<ThingName>Thảo dược hoang</ThingName>
+			<Desc>Thảo mộc thông thường được sử dụng để chữa trị nhiều loại bệnh. Tuy nhiên, hiệu quả của nó có phần hạn chế.</Desc>
+			<Item.FabaoSuffix>Dịch tiếng Thái: Leaf</Item.FabaoSuffix>
+			<From>Đồng cỏ hoặc phiêu lưu</From>
+		</Text>
+		<Text Name="Item_Hemostatics" sParam="Item">
+			<ThingName>Hương dược trị thương</ThingName>
+			<Desc>Dược phẩm thông thường có thể dùng để chữa lành các vết thương ngoài da và có hiệu quả điều trị rõ rệt.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SmallCycle" sParam="Item">
+			<ThingName>Đan dược trị thương</ThingName>
+			<Desc>Dược phẩm thông thường có thể dùng để điều trị chấn thương nội tạng, hiệu quả trị liệu rõ rệt.</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Plaster" sParam="Item">
+			<ThingName>Đan dược nối xương</ThingName>
+			<Desc>Dược phẩm thông thường có thể dùng để điều trị tổn thương xương cốt, hiệu quả trị liệu rõ rệt.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_StoneEssenceDrug" sParam="Item">
+			<ThingName>Thạch phấn</ThingName>
+			<Desc>Dược phẩm được chế tạo bằng cách nghiền nát thạch hạch thành bột rồi trộn cùng thảo dược rừng, có hiệu quả chữa trị vết thương và bệnh tật cực kỳ thần kỳ.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Anodyne" sParam="Item">
+			<ThingName>Thuốc Giảm Đau</ThingName>
+			<Desc>Dược phẩm thông thường có khả năng giảm đau hiệu quả.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Laxative" sParam="Item">
+			<ThingName>Thuốc Xổ</ThingName>
+			<Desc>Dược phẩm thông thường hỗ trợ tiêu hóa. Nó có thể dùng để trị các chứng như đầy hơi, trướng bụng. Tuy nhiên, người dùng sẽ cảm thấy đặc biệt suy nhược sau khi dược tính tan hết.</Desc>
+			<Item.FabaoSuffix>Cát, tinh thể, bụi, bột, khí tức</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_ThunderAir" sParam="Item">
+			<ThingName>Thiên tức</ThingName>
+			<Desc>Vết tích của hơi thở thiên địa bị đánh cắp từ bầu trời, bên trong lưu chuyển sức mạnh vô cùng đáng sợ.</Desc>
+			<Item.FabaoSuffix>Hơi thở, Thiên phạt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XianBone" sParam="Item">
+			<ThingName>Thần Cốt</ThingName>
+			<Desc>Xương cốt còn sót lại chứa sức mạnh thần thánh sau khi thân thể tiên nhân bị tiêu diệt. Nếu có thể chịu đựng được sức mạnh của nó và dung hợp vào cơ thể, người đó có thể hòa hợp với linh khí trời đất và giảm bớt lượng Đạo chủng đáng kể.</Desc>
+			<Item.FabaoSuffix>Xương, Khô lâu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XianBoneBall" sParam="Item">
+			<ThingName>Xá Lợi Tử</ThingName>
+			<Desc>Xá lợi chứa đựng sức mạnh tín ngưỡng còn sót lại sau khi thần linh sụp đổ. Nếu có thể chống lại thần uy của nó và luyện hóa vào cơ thể, nó có thể tăng vĩnh viễn và đáng kể trạng thái tinh thần, đồng thời tăng giới hạn tối đa số lượng thần cư (đeo trên người cũng có hiệu quả nhỏ).)</Desc>
+		</Text>
+		<Text Name="Item_ZaoHuaYuZi" sParam="Item">
+			<ThingName>Hạt giống may mắn</ThingName>
+			<Desc>Vật phẩm bí ẩn ngưng tụ dưới sâu hang động Long Mạch tại núi Côn Luân. Nó là vật thể rất nhỏ và cần những phương pháp bí truyền mới có thể tận dụng.</Desc>
+			<Item.FabaoSuffix>Ngọc, Ấn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BenYuan_None" sParam="Item">
+			<ThingName>Đạo Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Đạo thuần khiết. Chỉ tu sĩ luyện công pháp Vô Thuộc Tính mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao. Càng luyện hóa nhiều lần thì hiệu quả sẽ càng giảm.</Desc>
+			<Item.FabaoSuffix>Tinh thể</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Luyện</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử luyện hóa Đạo Tinh</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BenYuan_Jin" sParam="Item">
+			<ThingName>Kim Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Kim nguyên tố thuần khiết. Chỉ tu sĩ luyện công pháp Kim hệ mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao. Càng luyện hóa nhiều lần thì hiệu quả sẽ càng giảm.</Desc>
+		</Text>
+		<Text Name="Item_BenYuan_Mu" sParam="Item">
+			<ThingName>Mộc Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Mộc nguyên tố thuần khiết. Chỉ tu sĩ luyện công pháp Mộc hệ mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao. Càng luyện hóa nhiều lần thì hiệu quả sẽ càng giảm.</Desc>
+		</Text>
+		<Text Name="Item_BenYuan_Shui" sParam="Item">
+			<ThingName>Thủy Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Thủy nguyên tố thuần khiết. Chỉ tu sĩ luyện công pháp Thủy hệ mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao. Càng luyện hóa nhiều lần thì hiệu quả sẽ càng giảm.</Desc>
+		</Text>
+		<Text Name="Item_BenYuan_Huo" sParam="Item">
+			<ThingName>Hỏa Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Hỏa nguyên tố thuần khiết. Chỉ tu sĩ luyện công pháp Hỏa hệ mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao. Càng luyện hóa nhiều lần thì hiệu quả sẽ càng giảm.</Desc>
+		</Text>
+		<Text Name="Item_BenYuan_Tu" sParam="Item">
+			<ThingName>Thổ Tinh</ThingName>
+			<Desc>Kết tinh chứa năng lượng khởi nguồn của Thổ nguyên tố thuần khiết. Chỉ tu sĩ luyện công pháp Thổ hệ mới có thể luyện hóa nó. Nếu luyện hóa thành công sẽ giảm bớt Đạo chủng đáng kể, nhưng nếu thất bại, người luyện hóa sẽ bị trọng thương và tăng tội nghiệt cho bản thân. Số lượng Đạo chủng của người luyện hóa càng nhiều thì cơ hội thành công càng cao.</Desc>
+		</Text>
+		<Text Name="Item_YuanHunLu" sParam="Item">
+			<ThingName>Thánh Thủy</ThingName>
+			<Desc>Sương sớm chứa đựng tinh hoa linh hồn của yêu thú. Ăn nó sẽ làm chậm quá trình suy nghĩ và phục hồi tổn thương cho Nguyên Thần. Tuy nhiên, việc trì hoãn tư duy sẽ gây hại cho kỹ năng tâm cảnh và làm giảm trí tuệ. 10%</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XieHunLu" sParam="Item">
+			<ThingName>Nguyền Thủy</ThingName>
+			<Desc>Sương sớm chứa đựng tinh hoa linh hồn của yêu thú. Ăn nó sẽ tăng tốc quá trình suy nghĩ trong một khoảng thời gian, giúp tăng 10% trí tuệ và nâng cao khả năng học hỏi. Tuy nhiên, việc đẩy nhanh tư duy này sẽ rút cạn linh lực và gây tổn hại cho Nguyên Thần của bản thân.</Desc>
+			<Item.FabaoSuffix>Chất lỏng, nước, sương mù, khói, hơi nước</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_YanDaoGuo" sParam="Item">
+			<ThingName>Ngộ Đạo Quả</ThingName>
+			<Desc>Quả lạ chứa luồng hơi thở thiên địa bên trong. Ăn nó sẽ giúp cảm nhận rõ hơn quy luật vận hành của Đạo trời và hòa làm một với Đạo, từ đó tăng đáng kể số lượng Đạo chủng, đồng thời giảm đáng kể điểm tội nghiệt.</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_QieDaoGuo" sParam="Item">
+			<ThingName>Dẫn Thiên Quả</ThingName>
+			<Desc>Quả lạ chứa luồng hơi thở thiên địa bên trong. Ăn nó sẽ giúp đánh cắp một phần sức mạnh từ Đạo trời, giúp giảm đáng kể số lượng Đạo chủng, nhưng đổi lại sẽ tăng mạnh điểm tội nghiệt.</Desc>
+			<Item.FabaoSuffix>Hạt châu, đan dược, hoàn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XianDaoShenNian" sParam="Item">
+			<ThingName>Thần hồn</ThingName>
+			<Desc>Dương thần thoát ra từ xương cốt của tiên nhân. Tu sĩ có thể dùng nó để tôi luyện tâm trí và rèn giũa thân thể. Với sự hỗ trợ của nó, tu sĩ có thể bảo lưu một lượng nhỏ tri thức và điểm khái niệm sau khi luân hồi. Khi dùng vật này để luân hồi lần đầu, tiềm năng của người đó sẽ được nâng cao nhờ sự nuôi dưỡng của thần hồn.</Desc>
+			<Item.FabaoSuffix>Linh hồn, Hồn phách</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XianDaoXieNian" sParam="Item">
+			<ThingName>Ma hồn</ThingName>
+			<Desc>Dương thần bị nguyền rủa thoát ra từ xương cốt của ma tiên. Tu sĩ có thể dùng nó để tôi luyện tâm trí và rèn giũa thân thể. Với sự hỗ trợ của nó, tu sĩ có thể bảo lưu lượng lớn tri thức và điểm khái niệm sau khi luân hồi. Tuy nhiên, nếu dùng vật này để luân hồi sẽ khiến tiềm năng của người đó bị giảm sút do sự ăn mòn của ma hồn.</Desc>
+			<Item.FabaoSuffix>Linh hồn, Hồn phách</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WinterWarm" sParam="Item">
+			<ThingName>Tằm tuyết</ThingName>
+			<Desc>Sâu hỏa tuyết trưởng thành được nuôi trong mùa đông. Ăn nó sẽ giúp tăng nhẹ khả năng kháng lạnh.</Desc>
+			<Item.FabaoSuffix>Sâu</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerHerb" sParam="Item">
+			<ThingName>Hạ khô thảo</ThingName>
+			<Desc>Ấu trùng của Hỏa Tuyết Trùng trưởng thành vào mùa hè, ăn vào sẽ giúp tăng nhẹ khả năng kháng nhiệt.</Desc>
+			<Item.FabaoSuffix>Cỏ khô</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_God_ZhiNianJieJing" sParam="Item">
+			<ThingName>Thất tình châu</ThingName>
+			<Desc>Tinh thể ngưng tụ từ sự chấp niệm trong tâm trí con người, bao gồm cảm xúc, dục vọng và những suy nghĩ oán hận mãnh liệt. Không ai biết nó dùng để làm gì.</Desc>
+			<Item.FabaoSuffix>Tinh thể</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_God_JieHui" sParam="Item">
+			<ThingName>Tiên Trần</ThingName>
+			<Desc>Tro cốt sinh ra từ thân thể của tu sĩ bị tiêu diệt bởi sự phẫn nộ của thiên phạt. Tương truyền tro cốt này ngưng tụ tội nghiệt của chủ nhân bên trong.</Desc>
+			<Item.FabaoSuffix>Bột</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

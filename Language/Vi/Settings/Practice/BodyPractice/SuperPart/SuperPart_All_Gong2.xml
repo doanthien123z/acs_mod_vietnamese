@@ -1,0 +1,156 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_2_1">
+			<Prefix>Tả Túc</Prefix>
+			<Suffix>Chấn Địa Ngục</Suffix>
+			<Desc>Thân thể bí ẩn cơ bản, nổi tiếng với đòn tấn công hung bạo. Năng lực đặc trưng của chiêu thức này chính là khả năng tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả tấn công của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_1_1">
+			<Prefix>Hữu Túc</Prefix>
+			<Suffix>Chấn Địa Ngục</Suffix>
+			<Desc>Thân thể bí ẩn cơ bản, nổi tiếng với đòn tấn công hung bạo. Năng lực đặc trưng của chiêu thức này chính là khả năng tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả tấn công của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2">
+			<Prefix>Tả Thủ</Prefix>
+			<Suffix>Nhị Kiếp</Suffix>
+			<Desc>Rèn luyện đôi bàn tay bằng yêu lực để tạo ra sức mạnh vượt ngoài tưởng tượng. Năng lực đặc trưng của chiêu thức này chính là khả năng tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_2_1">
+			<Prefix>Hữu Thủ</Prefix>
+			<Suffix>Nhị Kiếp</Suffix>
+			<Desc>Rèn luyện đôi bàn tay bằng yêu lực để tạo ra sức mạnh vượt ngoài tưởng tượng. Năng lực đặc trưng của chiêu thức này chính là khả năng tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_3">
+			<Prefix>Bàn Chân</Prefix>
+			<Suffix>Cửu Thiên</Suffix>
+			<Desc>Hấp thụ năng lượng từ thế giới thông qua đôi bàn chân, dùng cơ thể làm cầu nối dẫn đến đỉnh đầu. Người đạt đến cảnh giới này sẽ có sức tấn công vô cùng mạnh mẽ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ nền tảng sức mạnh của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4">
+			<Prefix>Tả Túc</Prefix>
+			<Suffix>Thiên Thuẫn</Suffix>
+			<Desc>Luyện xương ống chân bằng bí thuật để chịu đựng sát thương, đồng thời giúp tấn công và phòng thủ nhanh chóng.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng vừa hiệu quả của Bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_4_1">
+			<Prefix>Hữu Túc</Prefix>
+			<Suffix>Thiên Thuẫn</Suffix>
+			<Desc>Luyện xương ống chân bằng bí thuật để chịu đựng sát thương, đồng thời giúp tấn công và phòng thủ nhanh chóng.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng vừa hiệu quả của Bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_5">
+			<Prefix>Thủ</Prefix>
+			<Suffix>Thôn Linh</Suffix>
+			<Desc>Luyện xương tay để có khả năng thôn phệ linh khí các hệ. Thân thể bí ẩn này chuyên về tấn công xuyên phá hộ thể linh khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Giảm sát thương nguyên tố phải chịu ở mức trung bình</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể\n Giảm sát thương nguyên tố phải chịu ở mức trung bình</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_6">
+			<Prefix>Thể</Prefix>
+			<Suffix>Vô Tướng</Suffix>
+			<Desc>Luyện hóa xương cốt chủ chốt trong cơ thể thành từng phần để phân tán sát thương phải nhận trong chiến đấu. Tương truyền người đạt đến cảnh giới này sẽ có thể phách gần như bất diệt.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ nền tảng độ bền của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.</Levels.3.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_7">
+			<Prefix>Huyết Mạch</Prefix>
+			<Suffix>Cửu Dương</Suffix>
+			<Desc>Luyện hóa tâm tạng bằng bí pháp để biến huyết dịch trong người mang sức mạnh của chín mặt trời. Nếu dùng phương pháp này để rèn luyện cột sống, sẽ có xác suất nhỏ khiến cột sống sinh biến hóa huyền ảo, khai phá tiềm năng tiến hóa của toàn bộ xương cốt.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Lĩnh hội Luyện Thể Thuật: Nhật Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_8">
+			<Prefix>Tim</Prefix>
+			<Suffix>Thiên Chiến</Suffix>
+			<Desc>Luyện hóa tâm tạng về trạng thái nguyên thủy để tăng tốc độ hồi phục của chân khí.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tốc độ hồi phục Chân khí của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa tốc độ hồi phục chân nguyên của bí thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tốc độ hồi phục chân khí của ẩn thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_9">
+			<Prefix>Ý chí</Prefix>
+			<Suffix>Thiên Chiến</Suffix>
+			<Desc>Rèn luyện đại não giúp người tu luyện có được chiến thần chi hồn, từ đó tăng mạnh khả năng tấn công.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Lĩnh hội thân pháp chiến đấu: Chiến Thần Chi Hồn</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_10">
+			<Prefix>Đôi Mắt</Prefix>
+			<Suffix>Bát Trạch</Suffix>
+			<Desc>Rèn luyện hai mắt bằng bí pháp để kết nối chúng với tám cực của cõi thiên địa, có khả năng dự đoán động tác của kẻ địch và tăng mạnh độ chính xác khi tấn công.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_2_11">
+			<Prefix>Thôn phệ</Prefix>
+			<Suffix>Phệ Mạch</Suffix>
+			<Desc>Thể xá bí ẩn được sinh ra từ việc mô phỏng cái miệng của Thao Thiết. Sử dụng thể xá này sẽ cho phép hấp thụ năng lượng giữa trời đất để bổ sung năng lượng cho bản thân.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Lĩnh hội thần thông: Phệ Mạch</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

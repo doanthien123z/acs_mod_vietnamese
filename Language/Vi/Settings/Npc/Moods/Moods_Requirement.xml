@@ -1,0 +1,119 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Hungry1">
+			<DisplayName>Đói đến phát điên</DisplayName>
+			<Desc>Xin hãy cho ta chút thức ăn, bất cứ thứ gì cũng được, xin ơn trên!</Desc>
+			<StoryDesc>Cảm giác phải chịu đựng cơn đói mà không có thức ăn thực sự khiến người ta phát điên</StoryDesc>
+		</Text>
+		<Text Name="Hungry2">
+			<DisplayName>Đói cực độ</DisplayName>
+			<Desc>Ta đói lắm rồi, có gì cho ta ăn không??</Desc>
+			<StoryDesc>Cảm giác đói cồn cào ruột gan</StoryDesc>
+		</Text>
+		<Text Name="Hungry3">
+			<DisplayName>Đói</DisplayName>
+			<Desc>Ta đói thực sự rồi, cho ta chút gì ăn đi?</Desc>
+			<StoryDesc>Cảm thấy thật khó để tập trung khi một người đang cảm thấy đói</StoryDesc>
+		</Text>
+		<Text Name="Hungry4">
+			<DisplayName>Đầy bụng</DisplayName>
+			<Desc>Ta ăn quá nhiều đến mức cảm thấy tức bụng</Desc>
+			<StoryDesc>Cảm thấy việc ăn quá nhiều cũng có thể khiến cơ thể khó chịu</StoryDesc>
+		</Text>
+		<Text Name="Thirsty1">
+			<DisplayName>Khát khô cả cổ</DisplayName>
+			<Desc>Ta khát đến mức cảm giác như linh hồn sắp lìa khỏi xác.</Desc>
+			<StoryDesc>Cảm thấy môi nứt nẻ vì cơ thể quá thiếu nước.</StoryDesc>
+		</Text>
+		<Text Name="Thirsty2">
+			<DisplayName>Khát nước</DisplayName>
+			<Desc>Cho ta chút nước, làm ơn....</Desc>
+			<StoryDesc>Khát đến mức giọng khản đặc.</StoryDesc>
+		</Text>
+		<Text Name="Thirsty3">
+			<DisplayName>Khô cổ</DisplayName>
+			<Desc>Cổ họng ta khô khốc, cần uống chút nước để giải khát.</Desc>
+			<StoryDesc>Cảm thấy nuốt khó khăn đôi chút.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue1">
+			<DisplayName>Mệt mỏi cực độ.</DisplayName>
+			<Desc>Ta cảm giác như có thể ngất đi bất cứ lúc nào.</Desc>
+			<StoryDesc>Sự mệt mỏi này khiến ta buồn ngủ và dễ dẫn đến ngất xỉu.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue2">
+			<DisplayName>Rất mệt</DisplayName>
+			<Desc>Nếu không nghỉ ngơi chút ít, e là ta sẽ ngất mất.</Desc>
+			<StoryDesc>Dụi mắt là cách để giữ sự tỉnh táo.</StoryDesc>
+		</Text>
+		<Text Name="Fatigue3">
+			<DisplayName>Mệt mỏi</DisplayName>
+			<Desc>Nếu được chợp mắt một lát thì thật tốt.</Desc>
+			<StoryDesc>Nếu được nghỉ ngơi một chút chắc sẽ ngừng ngáp được.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment1">
+			<DisplayName>Chán đến phát điên.</DisplayName>
+			<Desc>Ngày tháng tẻ nhạt, cuộc đời này thật vô nghĩa.</Desc>
+			<StoryDesc>Cảm thấy chán chường đến mức muốn phát điên.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment2">
+			<DisplayName>Chán nản cực độ.</DisplayName>
+			<Desc>Thế giới này chẳng còn gì thú vị nữa sao?</Desc>
+			<StoryDesc>Thứ duy nhất có thể làm lúc này để xua tan nỗi chán chường là vung tay múa chân.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment3">
+			<DisplayName>Chán nản</DisplayName>
+			<Desc>Ta nên tìm việc gì đó làm để giết thời gian.</Desc>
+			<StoryDesc>Sự chán chường khiến lòng người dễ sinh bực dọc.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment4">
+			<DisplayName>Hơi chán một chút.</DisplayName>
+			<Desc>Hừm, hơi tẻ nhạt một chút, nhưng dù sao cuộc sống cũng khá an nhàn.</Desc>
+			<StoryDesc>Tuy có hơi nhàm chán nhưng cuộc sống thật bình yên.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment5">
+			<DisplayName>Thú vị</DisplayName>
+			<Desc>Cuộc đời đáng để khám phá và tràn ngập niềm vui.</Desc>
+			<StoryDesc>Cảm thấy cuộc sống thật tràn đầy sức sống.</StoryDesc>
+		</Text>
+		<Text Name="Entertainment6">
+			<DisplayName>Sắc màu cuộc sống.</DisplayName>
+			<Desc>Cuộc sống thật rực rỡ, mỗi ngày đều có những điều đáng mong chờ.</Desc>
+			<StoryDesc>Sự đa dạng trong cuộc sống khiến người ta hạnh phúc.</StoryDesc>
+		</Text>
+		<Text Name="JoinSchool">
+			<DisplayName>Lần đầu đứng trước sơn môn.</DisplayName>
+			<Desc>Ta nhất định phải gia nhập, trở thành tiên nhân trường sinh là ước mơ của ta.!!</Desc>
+			<StoryDesc>Cảm thấy phấn khích đến mức không thể ngừng mỉm cười.</StoryDesc>
+		</Text>
+		<Text Name="NoTool">
+			<DisplayName>Cần có công cụ.</DisplayName>
+			<Desc>Người ta nên tự mình làm mọi việc. [TXT] Sao cơ? Ái chà, đau tay quá đi mất</Desc>
+			<StoryDesc>Cảm thấy việc không có pháp bảo phù hợp để hành sự thật là bực bội</StoryDesc>
+		</Text>
+		<Text Name="BeKick">
+			<DisplayName>Bị trục xuất</DisplayName>
+			<Desc>Ta đã làm sai chuyện gì chứ? Tại sao lại đối xử với ta như vậy??</Desc>
+			<StoryDesc>Cảm thấy tức giận đến phát nổ sau khi bị trục xuất khỏi tông môn</StoryDesc>
+		</Text>
+		<Text Name="Iamdying">
+			<DisplayName>Thọ nguyên sắp cạn kiệt</DisplayName>
+			<Desc>Ta sắp chết rồi</Desc>
+			<StoryDesc>Cảm thấy lo âu về những năm tháng cuối đời</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeHelp">
+			<DisplayName>Được cứu giúp</DisplayName>
+			<Desc>Trên thế gian này vẫn còn rất nhiều người tốt</Desc>
+			<StoryDesc>Cảm giác được cứu giúp thật là biết ơn</StoryDesc>
+		</Text>
+		<Text Name="WalkerBeKick">
+			<DisplayName>Bị trục xuất</DisplayName>
+			<Desc>Thật là điên rồ!</Desc>
+			<StoryDesc>Cảm thấy tức giận đến phát điên sau khi bị trục xuất khỏi tông môn</StoryDesc>
+		</Text>
+		<Text Name="BeSale">
+			<DisplayName>Bị bán đi</DisplayName>
+			<Desc>Ta đã làm sai chuyện gì chứ? Tại sao lại đối xử với ta như vậy??</Desc>
+			<StoryDesc>Cảm thấy tức giận đến phát nổ sau khi bị bán cho kẻ khác</StoryDesc>
+		</Text>
+	</List>
+</Texts>

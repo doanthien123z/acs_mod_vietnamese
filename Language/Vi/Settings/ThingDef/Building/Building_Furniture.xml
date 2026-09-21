@@ -1,0 +1,103 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Bed" sParam="Building">
+			<ThingName>Giường</ThingName>
+			<Desc>Giường đơn giúp ngủ ngon giấc suốt cả đêm</Desc>
+		</Text>
+		<Text Name="DoubleBed" sParam="Building">
+			<ThingName>Giường đôi</ThingName>
+			<Desc>Giường đôi thích hợp cho hai người</Desc>
+		</Text>
+		<Text Name="SmallTable" sParam="Building">
+			<ThingName>Bàn dài</ThingName>
+			<Desc>Bàn ăn thông thường</Desc>
+		</Text>
+		<Text Name="Table" sParam="Building">
+			<ThingName>Bàn vuông</ThingName>
+			<Desc>Bàn ăn tối theo phong cách truyền thống</Desc>
+		</Text>
+		<Text Name="WaterTank" sParam="Building">
+			<ThingName>Chum nước</ThingName>
+			<Desc>Vật dụng chứa nước sạch, thuận tiện cho việc lấy nước ra sử dụng</Desc>
+		</Text>
+		<Text Name="SmallPool" sParam="Building">
+			<ThingName>Vận Mệnh Trì</ThingName>
+			<Desc>Hồ nước được tạo nên từ Hỏa Đồng và Băng Tinh với Hạt Giống Vận Mệnh làm cốt lõi, có thể từ từ cải thiện chất lượng đất đai xung quanh</Desc>
+		</Text>
+		<Text Name="StreetLight" sParam="Building">
+			<ThingName>Đăng Trụ</ThingName>
+			<Desc>Đèn trang trí chiếu sáng vào ban đêm cho không gian xung quanh.</Desc>
+		</Text>
+		<Text Name="StreetLight1" sParam="Building">
+			<ThingName>Đăng Trụ</ThingName>
+			<Desc>Đèn trang trí chiếu sáng vào ban đêm cho không gian xung quanh.</Desc>
+		</Text>
+		<Text Name="StreetLight2" sParam="Building">
+			<ThingName>Đăng Trụ</ThingName>
+			<Desc>Đèn trang trí chiếu sáng vào ban đêm cho không gian xung quanh.</Desc>
+		</Text>
+		<Text Name="Lantern" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern1" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern2" sParam="Building">
+			<ThingName>Đèn lồng (Phòng thủ)</ThingName>
+		</Text>
+		<Text Name="Lantern3" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern4" sParam="Building">
+			<ThingName>Đèn lồng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern5" sParam="Building">
+			<ThingName>Hưng Thịnh Đăng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern6" sParam="Building">
+			<ThingName>Hòa Hợp Đăng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Lantern_S1" sParam="Building">
+			<ThingName>Hạc Minh Đăng</ThingName>
+			<Desc>Đèn lồng chiếu sáng vào ban đêm để cung cấp ánh sáng cho khu vực xung quanh</Desc>
+		</Text>
+		<Text Name="Candlestick" sParam="Building">
+			<ThingName>Đèn dầu</ThingName>
+			<Desc>Đèn thường dùng trong kiến trúc, thắp sáng vào ban đêm để chiếu rọi không gian xung quanh</Desc>
+		</Text>
+		<Text Name="TicTacToe" sParam="Building">
+			<ThingName>Bàn cờ caro</ThingName>
+			<Desc>Không cần vật liệu, chỉ cần khoảng trống trên mặt đất để chơi cờ caro</Desc>
+		</Text>
+		<Text Name="GoTable" sParam="Building">
+			<ThingName>Bàn cờ vây</ThingName>
+			<Desc>Bàn cờ vây có các đường kẻ 19x19 Dùng để chơi cờ vây</Desc>
+		</Text>
+		<Text Name="GuzhengTable" sParam="Building">
+			<ThingName>Cổ cầm</ThingName>
+			<Desc>Cổ cầm dùng để tấu khúc nhạc thư giãn tâm tình</Desc>
+		</Text>
+		<Text Name="CalligraphyTable" sParam="Building">
+			<ThingName>Bàn vẽ bùa</ThingName>
+			<Desc>Bàn đặt bút, mực, giấy và nghiên mực dùng để vẽ bùa. Ngoài ra, nó còn có thể dùng để thư giãn tâm trí.</Desc>
+		</Text>
+		<Text Name="CageShelf" sParam="Building">
+			<ThingName>Lồng chim</ThingName>
+			<Desc>Lồng chim được chế tác tinh xảo dành cho người nuôi chim và côn trùng.</Desc>
+		</Text>
+		<Text Name="Building_Tomb" sParam="Building">
+			<ThingName>Mộ phần</ThingName>
+			<Desc>Nơi chôn cất giản dị dành cho người đã khuất.</Desc>
+		</Text>
+		<Text Name="Building_BigTomb" sParam="Building">
+			<ThingName>Nghĩa địa</ThingName>
+			<Desc>Nơi chôn cất người đã khuất.</Desc>
+		</Text>
+	</List>
+</Texts>

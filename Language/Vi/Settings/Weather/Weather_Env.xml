@@ -1,0 +1,21 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YinChaos">
+			<DisplayName>Vĩnh Dạ (Thạch Bia))</DisplayName>
+		</Text>
+		<Text Name="Hotpot_Heat">
+			<DisplayName>Nhiệt Lãng (Yêu Tộc Liệt Phùng))</DisplayName>
+			<StoryDesc>Yêu Tộc Liệt Phùng đang ở trạng thái bất ổn, nên nó đang giải phóng nhiệt lãng một cách không kiểm soát.</StoryDesc>
+		</Text>
+		<Text Name="ColdHole_Cold">
+			<DisplayName>Hàn Lãng (Hàn Băng Lô))</DisplayName>
+			<StoryDesc>Hàn Băng Lô đang ở trạng thái bất ổn, nên nó đang giải phóng hàn lãng một cách không kiểm soát.</StoryDesc>
+		</Text>
+		<Text Name="Lightning_DragonHole">
+			<DisplayName>Lôi Bạo (Bí Động))</DisplayName>
+		</Text>
+		<Text Name="DustStorm_Dimu">
+			<DisplayName>Bão Cát (Thổ Địa Miếu))</DisplayName>
+		</Text>
+	</List>
+</Texts>

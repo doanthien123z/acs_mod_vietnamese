@@ -1,0 +1,36 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Yêu Hùng Tộc</DisplayName>
+			<Desc>Yêu thú đã hóa thành bán yêu nhờ thức tỉnh trí tuệ thành công: Yêu Hùng Tộc</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>Gấu trúc</DisplayName>
+			<Desc>Dã thú thông thường: Gấu Trúc</Desc>
+			<TalkBefore>*Eww*</TalkBefore>
+			<TalkAfter>*Eww*</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Yêu Hùng</DisplayName>
+			<Desc>Yêu thú nhận được sức mạnh mà không cần thức tỉnh: Yêu Hùng</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Tiên Tiên</DisplayName>
+			<Desc>Thánh thú Tiên Tiên là linh thú được sinh ra từ sức mạnh của trời đất. Nó đại diện cho những quy tắc nhất định của tự nhiên.</Desc>
+			<TalkBefore>*Eww*</TalkBefore>
+			<TalkAfter>*Eww*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Tú Tú</DisplayName>
+			<Desc>Thánh thú Tú Tú là linh thú được sinh ra từ sức mạnh của trời đất. Nó đại diện cho những quy tắc nhất định của tự nhiên.</Desc>
+			<TalkBefore>*Eww*</TalkBefore>
+			<TalkAfter>*Eww*</TalkAfter>
+		</Text>
+	</List>
+</Texts>

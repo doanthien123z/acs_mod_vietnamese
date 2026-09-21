@@ -1,0 +1,121 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam	BanNpc	UnlockNpc
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report	无成功失败/中性回答	Success!	Failed!	数值参数(SECRET为事件ID)	文本参数		
+Chat_Place_Snowfield1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng trong Dao Trì có một số loài cá lớn sinh sống và chúng chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_Snowfield2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng trong Dao Trì có một số loài cá lớn sinh sống và chúng chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_Snowfield3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng trong Dao Trì có một số loài cá lớn sinh sống và chúng chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_Snowfield1	0	Có tin tức gì về linh ngư không??	Có một loài cá có vây đỏ ở gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_Snowfield2	0	Có tin tức gì về linh ngư không??	Có một loài cá có vây đỏ ở gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_Snowfield3	0	Có tin tức gì về linh ngư không??	Có một loài cá có vây đỏ ở gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_BirthPlace11	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace12	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace13	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace14	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace15	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace16	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá màu đỏ và xanh lam chỉ xuất hiện vào thời gian vĩnh dạ mà thôi.						
+Chat_Place_BirthPlace11	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_BirthPlace12	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_BirthPlace13	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_BirthPlace14	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_BirthPlace15	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_BirthPlace16	0	Có tin tức gì về linh ngư không??	Có một loại lươn chỉ xuất hiện trong linh tuyền và vào mùa hè mà thôi.						
+Chat_Place_SouthForest1	0	Có tin tức gì về linh ngư không??	Có một loại lươn với hoa văn ma quỷ khắp người, nó sẽ xuất hiện vào gần mùa xuân.						
+Chat_Place_SouthForest2	0	Có tin tức gì về linh ngư không??	Có một loại lươn với hoa văn ma quỷ khắp người, nó sẽ xuất hiện vào gần mùa xuân.						
+Chat_Place_SouthForest3	0	Có tin tức gì về linh ngư không??	Có một loại lươn với hoa văn ma quỷ khắp người, nó sẽ xuất hiện vào gần mùa xuân.						
+Chat_Place_BirthPlace11	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_BirthPlace12	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_BirthPlace13	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_BirthPlace14	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_BirthPlace15	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_BirthPlace16	0	Có tin tức gì về linh ngư không??	Có một loài cá màu hồng ở gần đây và nó chỉ xuất hiện vào mùa thu mà thôi.						
+Chat_Place_Hei	0	Có tin tức gì về linh ngư không??	Có một loài linh ngư hình dẹt ở gần Hắc Thạch Sơn, chúng chỉ ăn thức ăn có thuộc tính Kim mà thôi.						
+Chat_Place_Hei1	0	Có tin tức gì về linh ngư không??	Có một loài linh ngư hình dẹt ở gần Hắc Thạch Sơn, chúng chỉ ăn thức ăn có thuộc tính Kim mà thôi.						
+Chat_Place_Shu	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_Shu1	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_Shu2	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_Shu3	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_Shu4	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_Shu5	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_WuLian1	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_WuLian2	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần đây và nó chỉ ăn ngọc hạch mà thôi, có lẽ nó bị thu hút bởi các vật phẩm thuộc tính Thổ.						
+Chat_Place_FertileField1	0	Có tin tức gì về linh ngư không??	Có một loài cá chép ở con sông gần đây, nó có vảy màu xanh lam thuần khiết và rất thích thức ăn thuộc tính Thủy.						
+Chat_Place_FertileField2	0	Có tin tức gì về linh ngư không??	Có một loài cá chép ở con sông gần đây, nó có vảy màu xanh lam thuần khiết và rất thích thức ăn thuộc tính Thủy.						
+Chat_Place_FertileField3	0	Có tin tức gì về linh ngư không??	Có một loài cá chép ở con sông gần đây, nó có vảy màu xanh lam thuần khiết và rất thích thức ăn thuộc tính Thủy.						
+Chat_Place_FertileField4	0	Có tin tức gì về linh ngư không??	Có một loài cá chép ở con sông gần đây, nó có vảy màu xanh lam thuần khiết và rất thích thức ăn thuộc tính Thủy.						
+Chat_Place_FertileField5	0	Có tin tức gì về linh ngư không??	Có một loài cá chép ở con sông gần đây, nó có vảy màu xanh lam thuần khiết và rất thích thức ăn thuộc tính Thủy.						
+Chat_Place_Desert2	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần sa mạc, nó có thể chịu đựng được điều kiện khô cằn và chỉ ăn thức ăn thuộc tính Mộc.						
+Chat_Place_Desert3	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần sa mạc, nó có thể chịu đựng được điều kiện khô cằn và chỉ ăn thức ăn thuộc tính Mộc.						
+Chat_Place_Desert4	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần sa mạc, nó có thể chịu đựng được điều kiện khô cằn và chỉ ăn thức ăn thuộc tính Mộc.						
+Chat_Place_XianKong1	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần sa mạc, nó có thể chịu đựng được điều kiện khô cằn và chỉ ăn thức ăn thuộc tính Mộc.						
+Chat_Place_XianKong	0	Có tin tức gì về linh ngư không??	Có một loài cá ở gần sa mạc, nó có thể chịu đựng được điều kiện khô cằn và chỉ ăn thức ăn thuộc tính Mộc.						
+Chat_Place_HeHuan1	0	Có tin tức gì về linh ngư không??	Có một loài lươn ở gần đây, nghe nói nó rất ưa chuộng và thích thú với thức ăn thuộc tính Hỏa, đặc biệt là tro núi lửa dưới đáy biển.						
+Chat_Place_HeHuan2	0	Có tin tức gì về linh ngư không??	Có một loài lươn ở gần đây, nghe nói nó rất ưa chuộng và thích thú với thức ăn thuộc tính Hỏa, đặc biệt là tro núi lửa dưới đáy biển.						
+Chat_Place_HeHuan	0	Có tin tức gì về linh ngư không??	Có một loài lươn ở gần đây, nghe nói nó rất ưa chuộng và thích thú với thức ăn thuộc tính Hỏa, đặc biệt là tro núi lửa dưới đáy biển.						
+									
+Chat_Place_WuLian	0	Có tin tức gì về linh ngư không??	Ta nghe nói có một loài cá cảnh ở Thiên Trì, chúng thường chỉ xuất hiện sau nửa đêm vào mùa thu mà thôi.						
+Chat_Place_WuLian1	0	Có tin tức gì về linh ngư không??	Ta nghe nói có một loài cá cảnh ở Thiên Trì, chúng thường chỉ xuất hiện sau nửa đêm vào mùa thu mà thôi.						
+Chat_Place_FertileField1	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở con sông gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_FertileField2	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở con sông gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_FertileField3	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở con sông gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_FertileField4	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở con sông gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_FertileField5	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở con sông gần đây và nó chỉ xuất hiện vào mùa đông mà thôi.						
+Chat_Place_WuLian	0	Có tin tức gì về linh ngư không??	Tông môn của chúng ta đã nhân giống cua ngọc ở đây, mai của chúng trông vô cùng xinh đẹp khi phản chiếu ánh sáng ban ngày.						
+Chat_Place_BaiMan1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng sẽ có một mùi nồng nặc bốc ra từ Tử Vong Động vào mùa xuân, có vẻ như mùi đó xuất phát từ một loài cá.						
+Chat_Place_BaiMan	0	Có tin tức gì về linh ngư không??	Tương truyền rằng sẽ có một mùi nồng nặc bốc ra từ Tử Vong Động vào mùa xuân, có vẻ như mùi đó xuất phát từ một loài cá.						
+Chat_Place_BaiMan2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng sẽ có một mùi nồng nặc bốc ra từ Tử Vong Động vào mùa xuân, có vẻ như mùi đó xuất phát từ một loài cá.						
+Chat_Place_BaiMan3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng sẽ có một mùi nồng nặc bốc ra từ Tử Vong Động vào mùa xuân, có vẻ như mùi đó xuất phát từ một loài cá.						
+Chat_Place_HeHuan	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở trong Độc Long Đàm và nó chỉ xuất hiện vào mùa hè mà thôi.						
+Chat_Place_HeHuan1	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở trong Độc Long Đàm và nó chỉ xuất hiện vào mùa hè mà thôi.						
+Chat_Place_HeHuan2	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở trong Độc Long Đàm và nó chỉ xuất hiện vào mùa hè mà thôi.						
+
+Chat_Place_WuLian	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá ở Thiên Trì chỉ xuất hiện vào thời điểm nửa đêm, và chúng thường bị thu hút bởi các vật phẩm thuộc tính Kim.						
+Chat_Place_WuLian1	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá ở Thiên Trì chỉ xuất hiện vào thời điểm nửa đêm, và chúng thường bị thu hút bởi các vật phẩm thuộc tính Kim.
+Chat_Place_FertileField1	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở dòng sông gần thành Hán Sơn, chúng chỉ có thể bị thu hút bởi các vật phẩm thuộc tính Hỏa mà thôi. 						
+Chat_Place_FertileField2	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở dòng sông gần thành Hán Sơn, chúng chỉ có thể bị thu hút bởi các vật phẩm thuộc tính Hỏa mà thôi. 						
+Chat_Place_FertileField3	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở dòng sông gần thành Hán Sơn, chúng chỉ có thể bị thu hút bởi các vật phẩm thuộc tính Hỏa mà thôi. 						
+Chat_Place_FertileField4	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở dòng sông gần thành Hán Sơn, chúng chỉ có thể bị thu hút bởi các vật phẩm thuộc tính Hỏa mà thôi. 						
+Chat_Place_FertileField5	0	Có tin tức gì về linh ngư không??	Có một loài cá tên là cá hồi cầu vồng ở dòng sông gần thành Hán Sơn, chúng chỉ có thể bị thu hút bởi các vật phẩm thuộc tính Hỏa mà thôi. 
+Chat_Place_BaiMan1	0	Có tin tức gì về linh ngư không??	Tương truyền trong Huyết Hà có một loài cá chỉ có thể bắt được bằng cách dùng cần câu thuộc tính Thổ. Thật là một loài cá kì lạ làm sao.!						
+Chat_Place_BaiMan	0	Có tin tức gì về linh ngư không??	Tương truyền trong Huyết Hà có một loài cá chỉ có thể bắt được bằng cách dùng cần câu thuộc tính Thổ. Thật là một loài cá kì lạ làm sao.!						
+Chat_Place_BaiMan2	0	Có tin tức gì về linh ngư không??	Tương truyền trong Huyết Hà có một loài cá chỉ có thể bắt được bằng cách dùng cần câu thuộc tính Thổ. Thật là một loài cá kì lạ làm sao.!						
+Chat_Place_BaiMan3	0	Có tin tức gì về linh ngư không??	Tương truyền trong Huyết Hà có một loài cá chỉ có thể bắt được bằng cách dùng cần câu thuộc tính Thổ. Thật là một loài cá kì lạ làm sao.!
+Chat_Place_HeHuan	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở gần đây và chỉ ưa thích thuộc tính Hỏa mà thôi.						
+Chat_Place_HeHuan1	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở gần đây và chỉ ưa thích thuộc tính Hỏa mà thôi.						
+Chat_Place_HeHuan2	0	Có tin tức gì về linh ngư không??	Có một loài cá vằn đỏ ở gần đây và chỉ ưa thích thuộc tính Hỏa mà thôi.	
+Chat_Place_Snowfield1	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá trong Dao Trì chỉ có thể câu được bằng cách dùng cần câu thuộc tính Thủy mà thôi.					
+Chat_Place_Snowfield2	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá trong Dao Trì chỉ có thể câu được bằng cách dùng cần câu thuộc tính Thủy mà thôi.						
+Chat_Place_Snowfield3	0	Có tin tức gì về linh ngư không??	Tương truyền có một loài cá trong Dao Trì chỉ có thể câu được bằng cách dùng cần câu thuộc tính Thủy mà thôi.
+Chat_Place_BirthPlace11	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.						
+Chat_Place_BirthPlace12	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.						
+Chat_Place_BirthPlace13	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.						
+Chat_Place_BirthPlace14	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.						
+Chat_Place_BirthPlace15	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.						
+Chat_Place_BirthPlace16	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài cá đỏ xanh chỉ bị thu hút bởi những vật phẩm thuộc tính Thủy.
+
+Chat_Place_KunLun	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_KunLun1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_KunLun2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_KunLun2_1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_TianJi	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_TianJi1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_TianJi2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_XianKong1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_XianKong	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_BaiMan	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_BaiMan1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_BaiMan2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_BaiMan3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng nơi đây có loài tôm nửa thân đỏ rực, và nó chỉ ăn những thứ thuộc tính Hỏa.
+Chat_Place_DanXia	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào ban đêm.
+Chat_Place_DanXia	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào mùa hạ.
+Chat_Place_DanXia	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ ăn những thứ thuộc tính Kim.
+Chat_Place_DanXia1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào ban đêm.
+Chat_Place_DanXia1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào mùa hạ.
+Chat_Place_DanXia1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ ăn những thứ thuộc tính Kim.
+Chat_Place_DanXia2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào ban đêm.
+Chat_Place_DanXia2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào mùa hạ.
+Chat_Place_DanXia2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ ăn những thứ thuộc tính Kim.
+Chat_Place_DanXia3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào ban đêm.
+Chat_Place_DanXia3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ xuất hiện vào mùa hạ.
+Chat_Place_DanXia3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm phát sáng sống trong ao Ngũ Long và chỉ ăn những thứ thuộc tính Kim.
+Chat_Place_SouthForest1	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm màu hồng ở gần đây và nó chỉ xuất hiện vào mùa xuân.
+Chat_Place_SouthForest2	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm màu hồng ở gần đây và nó chỉ xuất hiện vào mùa xuân.
+Chat_Place_SouthForest3	0	Có tin tức gì về linh ngư không??	Tương truyền rằng có một loài tôm màu hồng ở gần đây và nó chỉ xuất hiện vào mùa xuân.

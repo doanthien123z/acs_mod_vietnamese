@@ -1,0 +1,67 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="ClothesBase" sParam="Item">
+			<Item.FabaoSuffix>Y phục, giáp trụ, áo choàng, y phục</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SummerClothes" sParam="Item">
+			<ThingName>Y phục mỏng</ThingName>
+			<Desc>Y phục thoáng khí, nhưng khả năng chống lạnh rất kém.</Desc>
+		</Text>
+		<Text Name="Item_SilkClothes" sParam="Item">
+			<ThingName>Y phục mùa hè</ThingName>
+			<Desc>Y phục mang lại cảm giác tươi mát, thư thái, mặc vào vô cùng dễ chịu.</Desc>
+		</Text>
+		<Text Name="Item_PracticeClothes" sParam="Item">
+			<ThingName>Y phục tông môn</ThingName>
+			<Desc>Đồng phục tiêu chuẩn của tông môn, giữ ấm tốt nhưng mặc vào hơi nóng và khó chịu.</Desc>
+		</Text>
+		<Text Name="Item_FormalClothes" sParam="Item">
+			<ThingName>Y phục thường ngày</ThingName>
+			<Desc>Y phục thường ngày, giúp cơ thể giữ ấm nhưng khả năng thông khí không mấy tốt lắm.</Desc>
+		</Text>
+		<Text Name="Item_WinterClothes" sParam="Item">
+			<ThingName>Y phục mùa đông</ThingName>
+			<Desc>Y phục dày và bền, giúp tăng cường sự ấm áp cho cơ thể một cách trọn vẹn.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes1" sParam="Item">
+			<ThingName>Long Lân Bào</ThingName>
+			<Desc>Pháp y được dệt từ vảy rồng, có khả năng gia tăng chỉ số Kỹ năng hộ thể cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes2" sParam="Item">
+			<ThingName>Dạ Dạ Bào</ThingName>
+			<Desc>Pháp y được dệt bằng sợi chỉ ẩn chứa thuần âm chi khí, có khả năng gia tăng chỉ số Kỹ năng pháp thuật cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes3" sParam="Item">
+			<ThingName>Hỏa Diễm Bào</ThingName>
+			<Desc>Pháp y được dệt bằng sợi chỉ ẩn chứa thuần dương chi khí, có khả năng gia tăng chỉ số Kỹ năng pháp bảo cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes4" sParam="Item">
+			<ThingName>Thương Thiên Bào</ThingName>
+			<Desc>Pháp y được dệt bằng phương pháp bí truyền nghịch thiên, có khả năng giảm tiêu hao Đạo chủng cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes5" sParam="Item">
+			<ThingName>Vũ Y Phụng Hoàng</ThingName>
+			<Desc>Pháp y được dệt từ lông chim Phụng Hoàng, có uy năng xua đuổi tà ác, giúp người mặc tĩnh tâm và loại bỏ tâm ma.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes6" sParam="Item">
+			<ThingName>Kim Bào</ThingName>
+			<Desc>Pháp y được dệt bằng sợi chỉ ẩn chứa thuần dương chi khí, có khả năng gia tăng chỉ số Kỹ năng pháp bảo cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes7" sParam="Item">
+			<ThingName>Hỏa Bào</ThingName>
+			<Desc>Pháp y được dệt từ lông thú Lửa Địa Ngục, có khả năng gia tăng Kỹ năng hộ thể và giảm sát thương hệ Hỏa cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes8" sParam="Item">
+			<ThingName>Hải Bào</ThingName>
+			<Desc>Pháp y được dệt bằng phương pháp bí truyền nghịch thiên, có khả năng giảm tiêu hao Đạo chủng cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes9" sParam="Item">
+			<ThingName>Ảnh Linh Bào</ThingName>
+			<Desc>Pháp y được dệt bằng sợi chỉ ẩn chứa thuần âm chi khí, có khả năng gia tăng chỉ số Kỹ năng pháp thuật cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_SP_Clothes10" sParam="Item">
+			<ThingName>Vân Ngọc Bào</ThingName>
+			<Desc>Pháp y được dệt từ lông chim Phụng Hoàng, có uy năng xua đuổi tà ác, giúp người mặc tĩnh tâm và loại bỏ tâm ma.</Desc>
+		</Text>
+	</List>
+</Texts>

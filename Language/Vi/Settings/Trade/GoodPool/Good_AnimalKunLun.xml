@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="KunLunA">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng mèo</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Quá trình huấn luyện từ tông môn đã ban cho nó ký ức về tiềm năng.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="KunLunAL">
+			<IVNUMBER.0.Animal.DisplayName>Chuồng mèo thông thường</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Nó đã nhận được Trí tuệ của nỗi sợ.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng mèo thông thường</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Nó đã nhận được Trí tuệ của suy tư.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng mèo thông thường</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Nó đã nhận được Trí tuệ của niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng mèo thông thường</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Nó đã nhận được Trí tuệ của sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng mèo thông thường</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con mèo đang ở trạng thái tỉnh thức. Nó đã nhận được Trí tuệ của sự lo âu.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>

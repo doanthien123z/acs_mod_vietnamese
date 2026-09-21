@@ -1,0 +1,54 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Jin">
+			<DisplayName>Quy Tắc Tự Nhiên (Lương Nha Luật Định)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Thánh Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo Chủng.\nLĩnh hội tinh túy của kỹ năng ngự pháp bảo, giúp nâng giới hạn cấp tối đa của kỹ năng pháp bảo thêm 5 cấp.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Mu">
+			<DisplayName>Quy Tắc Tự Nhiên (Khô Vinh Kinh)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Thánh Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo Chủng.\nGiảm đáng kể tốc độ suy giảm thọ nguyên.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Shui">
+			<DisplayName>Quy Tắc Tự Nhiên (Phật Điển)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Thánh Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo Chủng.\nTăng đáng kể tỷ lệ chuyển hóa thể lực.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Huo">
+			<DisplayName>Quy Tắc Tự Nhiên (Trí Huệ Lục)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Thánh Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo Chủng.\nLĩnh hội tinh túy của kỹ năng sử dụng thuật pháp, giúp nâng giới hạn cấp tối đa của kỹ năng thuật pháp thêm 5 cấp.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Ling_Tu">
+			<DisplayName>Quy Tắc Tự Nhiên (Long Chân Ngôn)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Thánh Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo Chủng.\nTăng đáng kể hiệu quả hấp thụ linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Jin">
+			<DisplayName>Quy Tắc Dị Biến (Tịnh Hồn Chú)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Nguyền Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể điểm nghiệp lực.\nTăng đáng kể tiềm năng.\nTăng Nhận thức 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Mu">
+			<DisplayName>Quy Tắc Dị Biến (Sám Hối Kinh)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Nguyền Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể điểm nghiệp lực.\nLĩnh hội tinh túy của kỹ năng luyện chế pháp bảo, giúp nâng giới hạn cấp tối đa của kỹ năng luyện khí thêm 5 cấp.\nTăng cường thể lực 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Shui">
+			<DisplayName>Quy Tắc Dị Biến (Vô Tận Tuyệt Vọng)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Nguyền Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể điểm nghiệp lực.\nTăng đáng kể tốc độ hấp thụ thức ăn.\nTăng mị lực 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Huo">
+			<DisplayName>Quy Tắc Dị Biến (Nghịch Thiên Cách Mạng)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Nguyền Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể điểm nghiệp lực.\nLĩnh hội tinh túy của kỹ năng luyện đan, giúp nâng giới hạn cấp tối đa của kỹ năng luyện đan thêm 5 cấp.\nTăng Ngộ tính 100%[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Esoterica_LingZhi_MiFa_Sha_Tu">
+			<DisplayName>Quy Tắc Dị Biến (Phản Nguyền Chú)</DisplayName>
+			<Desc>Mật thư ghi chép về Ngũ Hành Chi Đạo liên kết với Nguyền Linh Căn. Đạo khả đạo phi thường đạo, đây là ngộ nhận của tu sĩ khi đối mặt với Đại Đạo, rất khó để truyền lại cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể điểm nghiệp lực.\nLĩnh hội tinh túy của kỹ năng phòng thủ, giúp nâng giới hạn cấp tối đa của hộ thể khí chấn thêm 5 cấp.\nTăng cơ duyên 100%[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

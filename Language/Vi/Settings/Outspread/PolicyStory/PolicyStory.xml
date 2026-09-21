@@ -1,0 +1,164 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PolicyStory_TreeEXP">
+			<DisplayName>Cầu đạo</DisplayName>
+			<Desc>Người đã lĩnh ngộ Thiên đạo đến một mức độ nhất định và có thể áp dụng nó vào việc luyện đan.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give1">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn thức ăn cho người qua đường.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give2">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn cho người qua đường. Có rất nhiều ăn xin đến xin tiền dọc hai bên đường.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give3">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, đại diện tông môn [NAME] đã dẫn các đệ tử ra phố trong thành phát chẩn cho người qua đường. Sau đó y thấy một cầu đá sụp đổ khiến người dân không thể qua lại được nữa.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give4">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Hôm nay là một ngày đẹp trời, đại diện tông môn [NAME] đã dẫn dắt các đệ tử xuống phố thị phát chẩn cứu tế cho người qua đường. Ngài nhìn thấy hai dân làng đang cãi nhau vì một con chó.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give5">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy hai người đàn ông đang tranh chấp một nữ tử.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give6">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Họ thấy hai người đàn ông vạm vỡ đang đánh nhau. Người qua đường giải thích rằng do một người trồng cây nhưng quả rụng sang nhà người kia, và người kia không chịu trả lại quả.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give7">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] Đang chuẩn bị đi phát chẩn, đột nhiên có một mỹ phụ bước vào nhà của Đại diện tông môn. [NAME] Sau đó nàng bắt đầu khóc và kể rằng đứa con của cô ta đã mất tích.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give8">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] Đang chuẩn bị đi phát chẩn, đột nhiên có một nam tử bước vào van xin Đại diện tông môn [NAME] cứu lấy người vợ đang hấp hối của mình.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give9">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã đi đến một nơi xa xôi để truyền đạo, nhưng lại bị một nhóm sơn tặc tấn công.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give10">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã tình cờ gặp được các đệ tử của{0} và nhìn thấy họ đang bố thí cho những người qua đường.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give11">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã tình cờ gặp được các đệ tử của{0} và thấy họ đang thuyết pháp truyền đạo.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give12">
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã tình cờ gặp được các đệ tử của{0} và thấy họ đang ngồi thiền cầu nguyện.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give13">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y gặp một căn nhà gỗ mục nát, chủ nhà lại bị tàn tật không thể tự mình sửa chữa.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give14">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy một nam tử mặc trang phục dị quốc đang lừa gạt người qua đường.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give15">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn dắt các đệ tử vào trong thành phát chẩn cứu tế cho người qua đường. Ngài đi ngang qua hai quán rượu đối diện nhau và dường như họ đang tranh cãi về việc kinh doanh.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give16">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y tình cờ gặp một nhóm người tị nạn.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give17">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các đệ tử vào trong thành phát chẩn cho người qua đường. Y thấy một người đàn ông bệnh nặng sắp chết bên đường, người đó khẩn cầu Đại diện tông môn [NAME] giúp hắn giải thoát khỏi nỗi đau khổ.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give18">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã dẫn các tín đồ vào thành phố phân phát đồ quyên góp cho người qua đường. Anh ta vô tình chạm phải một ông lão. Sau đó ông lão liền nằm vật xuống đất và hét lên: "Á à à à! Có người làm gãy chân ta! Chính ngươi đã làm gãy chân ta!"</Desc>
+		</Text>
+		<Text Name="PolicyStory_Product1">
+			<DisplayName>Sử dụng nhân công</DisplayName>
+			<Desc>Hôm nay là một ngày tốt lành, đại diện tông môn [NAME] đã quyết định ra ngoài thị sát, quan tâm đến các công nhân.</Desc>
+		</Text>
+		<Text Name="PolicyStory_TreasureHunt">
+			<DisplayName>Săn bảo vật</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã bói một quẻ và quyết định dẫn theo một nhóm đệ tử đi thám thỉnh bảo vật.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon1">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã vào trong thành chuẩn bị thuyết pháp truyền đạo.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon2">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã tiến hành giảng đạo. Đột nhiên có một nam nhân hét lớn: "Ngươi đang nói cái quái gì thế hả?!"!"</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon3">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã tiến hành thuyết pháp truyền đạo. Sau đó có một văn nhân bước đến tranh luận và bảo những điều Đại diện tông môn [NAME] "Lời ngươi nói hoàn toàn sai... Toàn là mấy chuyện lừa bịp mà thôi."</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon4">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã tiến hành giảng đạo, có một phụ nữ trung niên vỗ tay điên cuồng. Nhưng người phụ nữ đó không phải là đệ tử của tông môn.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret1">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã bước vào Mật Các và chuẩn bị lập mưu kế.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret2">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã phát hiện{0}đang chuẩn bị phát chẩn để lôi kéo dân làng gia nhập, vì vậy Đại diện tông môn [NAME] đang chuẩn bị kế hoạch ngăn cản</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret3">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã phát hiện{0}đang chuẩn bị truyền bá đạo pháp... đột nhiên một kế hoạch hiện lên trong đầu</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret4">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Đại diện tông môn [NAME] đã phát hiện{0}đang chuẩn bị tổ chức đại lễ, thế nên đại biểu tông môn [NAME] đã quyết định vạch ra một vài kế hoạch.....</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp1">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] đã bước vào đạo quán và chuẩn bị tiến hành Tẩy Tủy Đại Lễ</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp2">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn [NAME] thấy người dân sống xa hoa lãng phí, bèn quyết định cử hành đại điển tịnh hóa tham sân si.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp3">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn [NAME] thấy người giàu thì sống sa hoa phè phởn, kẻ nghèo thì chết đầu đường xó chợ không ai quan tâm, bèn quyết định cử hành đại điển tịnh hóa.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp4">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn [NAME] thấy đám lưu manh hoành hành ngang ngược, kẻ có quyền thế thì dung túng buông lơi, thậm chí còn cấu kết với chúng, bèn quyết định cử hành đại điển tịnh hóa để giáo hóa người trong thành.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp5">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Đại diện tông môn [NAME] thấy quan binh không những không bảo vệ dân lành mà còn ức hiếp bá tánh, kẻ chấp pháp lại lạm dụng luật pháp, bèn quyết định cử hành đại điển tịnh hóa.</Desc>
+		</Text>
+		<Text Name="PolicyStory_OtherDisp1">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Hôm nay là một ngày thời tiết tốt, đại diện tông môn [NAME] nhìn thấy[SCHOOL{0}]đang cử hành đại điển tịnh hóa.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Drought">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Đại diện tông môn [NAME] quyết định lập kế hoạch ứng phó với thiên tai hạn hán.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Flood">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Đại diện tông môn [NAME] quyết định lập kế hoạch ứng phó với thiên tai lụt lội.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Siberia">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Đại diện tông môn [NAME] Quyết định lập kế hoạch đối phó với nạn giá rét</Desc>
+		</Text>
+		<Text Name="PolicyStory_EarthQuake">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Đại diện tông môn [NAME] Quyết định lập kế hoạch đối phó với động đất</Desc>
+		</Text>
+		<Text Name="PolicyStory_God1">
+			<DisplayName>Thi triển thần thông</DisplayName>
+			<Desc>Đại diện tông môn [NAME] Quyết định hôm nay là ngày lành để đệ tử chứng kiến thần tích của người tu tiên</Desc>
+		</Text>
+	</List>
+</Texts>

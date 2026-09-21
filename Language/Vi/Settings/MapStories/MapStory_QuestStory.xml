@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>Kiểm tra bí tịch</DisplayName>
+			<Desc>[NAME] Nghiên cứu kỹ điển tịch</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+			<Selections.1.Display>Dùng cổ ấn để hóa giải phong ấn</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>Kiểm tra điển tịch</DisplayName>
+			<Desc>[NAME] Tiến hành kiểm tra thư tịch</Desc>
+			<Selections.0.Display>Đọc</Selections.0.Display>
+			<Selections.1.Display>Dùng Càn Khôn Ấn để giải phong ấn</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>Kiểm tra mảnh vỡ</DisplayName>
+			<Desc>[NAME] Thử kiểm tra mảnh tráp Kim Kinh</Desc>
+			<Selections.0.Display>Examine</Selections.0.Display>
+			<Selections.1.Display>Dùng Thượng Cổ Ấn để giải phong ấn</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

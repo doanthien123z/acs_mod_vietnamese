@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_BingCanSi" sParam="Item">
+			<ThingName>Băng tơ</ThingName>
+			<Item.BeMaterial.NamePrefix>Băng tơ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuZhiMing" sParam="Item">
+			<ThingName>Vật liệu không rõ nguồn gốc</ThingName>
+		</Text>
+		<Text Name="Item_Other_JinJing" sParam="Item">
+			<ThingName>Tây Kim Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Kim Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_MuJing" sParam="Item">
+			<ThingName>Đông Mộc Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Mộc Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_ShuiJing" sParam="Item">
+			<ThingName>Bắc Thủy Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Thủy Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_HuoJing" sParam="Item">
+			<ThingName>Nam Hỏa Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Hỏa Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TuJing" sParam="Item">
+			<ThingName>Trung Thổ Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Địa căn</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_NoneJing" sParam="Item">
+			<ThingName>Nguyên Hạch</ThingName>
+			<Item.BeMaterial.NamePrefix>Nguyên Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LarkPerk" sParam="Item">
+			<ThingName>Mỏ</ThingName>
+			<Item.BeMaterial.NamePrefix>Mỏ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
+			<ThingName>Sừng trâu</ThingName>
+			<Item.BeMaterial.NamePrefix>Sừng trâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_LionFang" sParam="Item">
+			<ThingName>Nanh báo</ThingName>
+			<Item.BeMaterial.NamePrefix>Nanh báo</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_TortoiseShell" sParam="Item">
+			<ThingName>Quy Giáp</ThingName>
+			<Item.BeMaterial.NamePrefix>Quy Giáp</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Other_DeerFeet" sParam="Item">
+			<ThingName>Móng hươu</ThingName>
+			<Item.BeMaterial.NamePrefix>Móng hươu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SPStuffCategories_1" sParam="Item">
+			<ThingName>Không rõ</ThingName>
+		</Text>
+	</List>
+</Texts>

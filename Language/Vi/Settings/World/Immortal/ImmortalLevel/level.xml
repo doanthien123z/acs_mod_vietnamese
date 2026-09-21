@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Level1">
+			<DisplayName>Thiên kiếp cấp 1</DisplayName>
+		</Text>
+		<Text Name="Level2">
+			<DisplayName>Thiên kiếp cấp 2</DisplayName>
+		</Text>
+		<Text Name="Level3">
+			<DisplayName>Thiên kiếp cấp 3</DisplayName>
+		</Text>
+		<Text Name="Level4">
+			<DisplayName>Thiên kiếp cấp 4</DisplayName>
+		</Text>
+		<Text Name="Level5">
+			<DisplayName>Thiên kiếp cấp 5</DisplayName>
+		</Text>
+		<Text Name="Level6">
+			<DisplayName>Thiên kiếp cấp 6</DisplayName>
+		</Text>
+		<Text Name="Level7">
+			<DisplayName>Thiên kiếp cấp 7</DisplayName>
+		</Text>
+		<Text Name="Level8">
+			<DisplayName>Thiên kiếp cấp 8</DisplayName>
+		</Text>
+		<Text Name="Level9">
+			<DisplayName>Thiên kiếp cấp 9</DisplayName>
+		</Text>
+	</List>
+</Texts>

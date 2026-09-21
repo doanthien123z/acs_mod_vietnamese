@@ -1,0 +1,77 @@
+ID	Des	Disname
+		
+-1	Empty	Empty
+1	Cường hóa trang bị bằng một lượng ít ngộ tính kỹ năng pháp bảo	Ngộ đạo: Ít
+2	Cường hóa trang bị bằng một lượng lớn ngộ tính kỹ năng pháp bảo	Ngộ đạo: Nhiều
+3	Cường hóa trang bị bằng một lượng ít ngộ tính kỹ năng thần thông	Ngộ đạo: Ít
+4	Cường hóa trang bị bằng một lượng lớn ngộ tính kỹ năng thần thông	Ngộ đạo: Nhiều
+5	Cường hóa trang bị bằng một lượng ít ngộ tính kỹ năng hộ thuẫn	Ngộ đạo: Ít
+6	Cường hóa trang bị bằng một lượng lớn ngộ tính kỹ năng hộ thuẫn	Ngộ đạo: Nhiều
+7	Cường hóa trang bị bằng một lượng ít ngộ tính kỹ năng luyện đan	Ngộ đạo: Ít
+8	Cường hóa trang bị bằng một lượng lớn ngộ tính kỹ năng luyện đan	Ngộ đạo: Nhiều
+9	Cường hóa trang bị bằng một lượng ít ngộ tính kỹ năng luyện khí	Ngộ đạo: Ít
+10	Cường hóa trang bị bằng một lượng lớn ngộ tính kỹ năng luyện khí	Ngộ đạo: Nhiều
+11	Cường hóa trang bị với kiến thức sơ cấp kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+12	Cường hóa trang bị với kiến thức cao cấp kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+13	Cường hóa trang bị với kiến thức chuyên gia kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+14	Cường hóa trang bị với kiến thức đại sư kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+15	Cường hóa trang bị với kiến thức sơ cấp kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+16	Cường hóa trang bị với kiến thức cao cấp kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+17	Cường hóa trang bị với kiến thức chuyên gia kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+18	Cường hóa trang bị với kiến thức đại sư kỹ năng pháp bảo	Ngộ tính công pháp: [TXT]
+19	Cường hóa trang bị với kiến thức sơ cấp kỹ năng hộ thuẫn	Ngộ tính công pháp: [TXT]
+20	Cường hóa trang bị với kiến thức cao cấp kỹ năng hộ thuẫn	Ngộ tính công pháp: [TXT]
+21	Cường hóa trang bị với kiến thức chuyên gia kỹ năng hộ thuẫn	Ngộ tính công pháp: [TXT]
+22	Cường hóa trang bị với kiến thức đại sư kỹ năng hộ thuẫn	Ngộ tính công pháp: [TXT]
+23	Cường hóa trang bị với kiến thức sơ cấp kỹ năng luyện đan	Ngộ tính công pháp: [TXT]
+24	Cường hóa trang bị với kiến thức cao cấp kỹ năng luyện đan	Ngộ tính công pháp: [TXT]
+25	Cường hóa trang bị với kiến thức chuyên gia kỹ năng luyện đan	Ngộ tính công pháp: [TXT]
+26	Cường hóa trang bị bằng tri thức luyện đan cấp Tông sư	Ngộ tính công pháp: [TXT]
+27	Cường hóa trang bị bằng tri thức luyện khí cấp Sơ cấp	Ngộ tính công pháp: [TXT]
+28	Cường hóa trang bị bằng tri thức luyện khí cấp Cao cấp	Ngộ tính công pháp: [TXT]
+29	Cường hóa trang bị bằng tri thức luyện khí cấp Chuyên gia	Ngộ tính công pháp: [TXT]
+30	Cường hóa trang bị bằng tri thức luyện khí cấp Tông sư	Ngộ tính công pháp: [TXT]
+31	Cường hóa trang bị bằng tri thức tu luyện linh khí cấp Sơ cấp	Ngộ tính công pháp: [TXT]
+32	Cường hóa trang bị bằng tri thức tu luyện linh khí cấp Cao cấp	Ngộ tính công pháp: [TXT]
+33	Cường hóa trang bị bằng tri thức tu luyện linh khí cấp Chuyên gia	Ngộ tính công pháp: [TXT]
+34	Cường hóa trang bị bằng tri thức tu luyện linh khí cấp Tông sư	Ngộ tính công pháp: [TXT]
+35	Cường hóa trang bị bằng một lượng kỹ năng nhỏ, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Nhỏ
+36	Cường hóa trang bị bằng một lượng kỹ năng vừa, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Vừa
+37	Cường hóa trang bị bằng một lượng kỹ năng trung bình, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Trung bình
+38	Cường hóa trang bị bằng một lượng kỹ năng nhiều, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Nhiều
+39	Cường hóa trang bị bằng một lượng kỹ năng rất nhiều, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Rất nhiều
+40	Cường hóa trang bị bằng một lượng kỹ năng khổng lồ, giúp tăng uy lực pháp bảo	Ngộ tính kỹ năng: Khổng lồ
+41	Cường hóa trang bị bằng một lượng kỹ năng nhỏ, giúp tăng linh lực	Ngộ tính kỹ năng: Nhỏ
+42	Cường hóa trang bị bằng một lượng kỹ năng vừa, giúp tăng linh lực	Ngộ tính kỹ năng: Vừa
+43	Cường hóa trang bị bằng một lượng kỹ năng trung bình, giúp tăng linh lực	Ngộ tính kỹ năng: Trung bình
+44	Cường hóa trang bị bằng một lượng kỹ năng nhiều, giúp tăng linh lực	Ngộ tính kỹ năng: Nhiều
+45	Cường hóa trang bị bằng một lượng kỹ năng rất nhiều, giúp tăng linh lực	Ngộ tính kỹ năng: Rất nhiều
+46	Cường hóa trang bị bằng một lượng kỹ năng khổng lồ, giúp tăng linh lực	Ngộ tính kỹ năng: Khổng lồ
+47	Cường hóa trang bị bằng một lượng kỹ năng nhỏ, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Nhỏ
+48	Cường hóa trang bị bằng một lượng kỹ năng vừa, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Vừa
+49	Cường hóa trang bị bằng một lượng kỹ năng trung bình, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Trung bình
+50	Cường hóa trang bị bằng một lượng kỹ năng nhiều, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Nhiều
+51	Cường hóa trang bị bằng một lượng kỹ năng rất nhiều, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Rất nhiều
+52	Cường hóa trang bị bằng một lượng kỹ năng khổng lồ, giúp tăng hộ thể linh khí	Ngộ tính kỹ năng: Khổng lồ
+53	Cường hóa trang bị bằng một lượng kỹ năng nhỏ, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Nhỏ
+54	Cường hóa trang bị bằng một lượng kỹ năng vừa, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Vừa
+55	Cường hóa trang bị bằng một lượng kỹ năng trung bình, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Trung bình
+56	Cường hóa trang bị bằng một lượng kỹ năng nhiều, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Nhiều
+57	Cường hóa trang bị bằng một lượng kỹ năng rất nhiều, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Rất nhiều
+58	Cường hóa trang bị bằng một lượng kỹ năng khổng lồ, giúp tăng tỷ lệ thành công khi đúc pháp bảo cao cấp	Ngộ tính kỹ năng: Khổng lồ
+59	Cường hóa trang bị bằng một lượng kỹ năng nhỏ, giúp tăng sản lượng luyện đan	Ngộ tính kỹ năng: Nhỏ
+60	Cường hóa trang bị bằng một ít kỹ năng để tăng sản lượng luyện đan.	Ngộ tính kỹ năng: Vừa
+61	Cường hóa trang bị bằng kỹ năng vừa phải để tăng sản lượng luyện đan.	Ngộ tính kỹ năng: Trung bình
+62	Cường hóa trang bị bằng nhiều kỹ năng để tăng sản lượng luyện đan.	Ngộ tính kỹ năng: Nhiều
+63	Cường hóa trang bị bằng rất nhiều kỹ năng để tăng sản lượng luyện đan.	Ngộ tính kỹ năng: Rất nhiều
+64	Cường hóa trang bị bằng lượng lớn kỹ năng để tăng sản lượng luyện đan.	Ngộ tính kỹ năng: Khổng lồ
+65	Cường hóa trang bị bằng lượng nhỏ kỹ năng để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Nhỏ
+66	Cường hóa trang bị bằng một ít kỹ năng để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Vừa
+67	Cường hóa trang bị bằng kỹ năng vừa phải để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Trung bình
+68	Cường hóa trang bị bằng nhiều kỹ năng để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Nhiều
+69	Cường hóa trang bị bằng rất nhiều kỹ năng để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Rất nhiều
+70	Cường hóa trang bị bằng lượng lớn kỹ năng để tăng tốc độ tu luyện.	Ngộ tính kỹ năng: Khổng lồ
+71	Tăng cường khả năng phi hành của pháp bảo (bản gốc sẽ không mất đi khả năng này)	Phi kiếm
+72	Cường hóa trang bị bằng cách tăng một ít kỹ năng Chân Khí Giáp (bản gốc sẽ không mất đi khả năng này)	Chân Khí Giáp: Nhỏ
+73	Cường hóa trang bị bằng cách tăng kỹ năng Chân Khí Giáp vừa phải (bản gốc sẽ không mất đi khả năng này)	Chân Khí Giáp: Vừa
+74	Cường hóa trang bị bằng cách tăng nhiều kỹ năng Chân Khí Giáp (bản gốc sẽ không mất đi khả năng này)	Chân Khí Giáp: Nhiều

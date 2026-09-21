@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_XianKong">
+			<Hate.0>Nhìn thấy mặt ngươi khiến ta thực sự muốn nôn mửa.</Hate.0>
+			<Hate.1>Tại sao tu vi của ngươi lại thảm hại thế này? Ngươi lại đột phá cảnh giới thất bại sao? Ha ha ha.</Hate.1>
+			<Submiss.0>((Vẫy tay) Bên này, mau mang những bảo vật tốt nhất của chúng ta ra đây.</Submiss.0>
+			<Submiss.1>Mời bên này, người có thể tùy ý chọn bảo vật theo ý muốn.</Submiss.1>
+			<GiftLike.0>Tuyệt vời, chẳng lẽ ngươi có thể đọc được suy nghĩ của ta? Làm sao ngươi biết ta thích thứ này??</GiftLike.0>
+			<GiftLike.1>Hôm nay tâm trạng ta khá ủ dột, nhưng vật này lại khiến ta thấy phấn chấn hẳn lên.</GiftLike.1>
+			<LowValueGift.0>Ta có thể dùng thứ này thay củi đốt đấy.</LowValueGift.0>
+			<LowValueGift.1>Ngươi không đùa ta đấy chứ? Ta không ngờ ngươi lại gọi thứ rác rưởi này là quà tặng.</LowValueGift.1>
+		</Text>
+	</List>
+</Texts>

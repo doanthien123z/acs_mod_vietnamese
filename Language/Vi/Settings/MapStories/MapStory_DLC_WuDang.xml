@@ -1,0 +1,53 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="System_FightMap_RedWall">
+			<DisplayName>Quan sát</DisplayName>
+			<Desc>[NAME] Cố gắng học hỏi phương pháp xây dựng công trình này</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>Quan sát</DisplayName>
+			<Desc>[NAME] Cố gắng cầu nguyện bằng Long Hương</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
+		</Text>
+		<Text Name="System_FightMap_DragonIncense">
+			<DisplayName>Cầu phúc</DisplayName>
+			<Desc>[NAME] Cố gắng cầu nguyện bằng Long Hương</Desc>
+			<Selections.0.Display>Cầu tâm trí sáng suốt</Selections.0.Display>
+			<Selections.1.Display>Cầu sớm ngày cường đại</Selections.1.Display>
+			<Selections.2.Display>Cầu vận may</Selections.2.Display>
+			<Selections.3.Display>Cầu ngộ đạo</Selections.3.Display>
+			<Selections.4.Display>Cầu mọi sự</Selections.4.Display>
+			<Selections.5.Display>Từ bỏ</Selections.5.Display>
+		</Text>
+		<Text Name="Story_Building_TaiZiDian">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi bên bàn và cố gắng giao tiếp với nó bằng thần thức</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoJianZhen">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi cạnh khiên và kiếm, cố gắng dùng thần thức để giao tiếp với chúng</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoDanLu">
+			<DisplayName>Phản kích</DisplayName>
+			<Desc>[NAME] Ngồi bên lò luyện đan, cố gắng dùng thần thức để giao tiếp với nó</Desc>
+			<Selections.0.Display>Phản kích</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+		<Text Name="Ls_CallXuanWu">
+			<DisplayName>Cảm nhận</DisplayName>
+			<Desc>Trong ngọc bội này có hai luồng sáng, ẩn chứa hơi thở của Huyền Vũ</Desc>
+			<Selections.0.Display>Cảm nhận</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Building_ZiXiaoShiBei">
+			<DisplayName>Cảm nhận</DisplayName>
+			<Desc>[NAME] Chạm vào các ký tự khắc trên bia đá</Desc>
+			<Selections.0.Display>Cảm nhận</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

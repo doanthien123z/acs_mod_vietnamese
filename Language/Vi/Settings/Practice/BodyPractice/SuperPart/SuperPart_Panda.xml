@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Panda_1">
+			<Prefix>Thể</Prefix>
+			<Suffix>Âm Dương</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Gấu Trúc, sử dụng năng lượng Âm Dương để tôi luyện thân thể, đạt đến trạng thái cân bằng như Thiên Địa. Khi tu luyện thành công sẽ có sức mạnh chấn động cả trời đất</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\nTăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\nTăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Panda_2">
+			<Prefix>Tả Âm</Prefix>
+			<Suffix>Hữu Dương</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Trúc Hùng Tộc. Ngưng tụ lực lượng Âm ở tay trái và lực lượng Dương ở tay phải. Khi tu luyện thành công, hai tay sở hữu sức mạnh có thể xé rách cả khe nứt không gian và trấn áp mọi pháp bảo.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\nTăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\nTăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>

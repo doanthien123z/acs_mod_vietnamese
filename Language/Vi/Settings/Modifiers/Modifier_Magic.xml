@@ -1,0 +1,46 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>Khắc ấn Âm linh</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>Thiêu đốt sinh mệnh</DisplayName>
+			<Desc>Tăng năng lực trong thời gian ngắn, nhưng sẽ gây tổn hại cho cơ thể khi hết thời gian.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>Thiên Ma hóa thân</DisplayName>
+			<Desc>Giao tiếp với Thiên ma và khiến cơ thể hoàn toàn biến thành yêu ma, nâng cao đáng kể thuộc tính thể chất và tốc độ tu luyện. Tuy nhiên từ nay về sau, người đó sẽ bị cả thần tiên lẫn phàm nhân khinh bỉ.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Linh hồn phải chịu đựng nỗi đau khổ thấu xương.</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>Phân hồn</DisplayName>
+			<Desc>Bằng cách phân tách Nguyên thần để dùng cho pháp thuật ký hồn, tâm trí nhân vật sẽ bị tổn thương, trí tuệ, tốc độ tu luyện và tốc độ lĩnh ngộ sẽ giảm nhẹ.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>Bạo phát tâm tình</DisplayName>
+			<Desc>Sử dụng bí pháp bạo phát tâm tình để thu nhận ngộ tính và tu vi từ linh hồn của sinh linh. Tuy nhiên, hành động này sẽ làm giảm nền tảng tâm cảnh và căn cơ cảm xúc.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>Bạo phát tâm tình</DisplayName>
+			<Desc>Sử dụng bí pháp bạo phát tâm tình để thu nhận ngộ tính và tu vi từ linh hồn của sinh linh. Tuy nhiên, hành động này sẽ làm giảm nền tảng tâm cảnh và căn cơ cảm xúc.</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>Mị lực Thiên Ma</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>Cắm rễ tâm niệm</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>Pháp chú phản hồi</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>Khôi phục Ngũ linh ấn</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>Khôi phục Thiên Ma vũ</DisplayName>
+		</Text>
+	</List>
+</Texts>

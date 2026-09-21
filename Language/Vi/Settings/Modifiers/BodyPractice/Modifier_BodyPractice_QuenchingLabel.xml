@@ -1,0 +1,130 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_QuenchingLabel_ChiYi">
+			<DisplayName>Từ chối</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Củng cố tạng phủ cơ bản</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Củng cố xương cốt cơ bản</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Củng cố nhục thân cơ bản</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Ngũ tạng ngưng khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Bộc phát tiềm năng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
+			<DisplayName>Tự nhiên hồi phục</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Truy hồi huyết mạch (tạng phủ))</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>Kích hoạt chức năng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Hung thú tạng phủ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>Thi cương khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Ma văn thú</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>Nội tạng biến dạng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Huyễn Ảnh Lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>Âm Dương Luân Hồi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
+			<DisplayName>Nhật Tinh Hình</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
+			<DisplayName>Nguyệt Tinh Hình</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Thiên Địa Quy Nhất</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>Vô Thường lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Bát mạch</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Vô hình lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Tinh tú lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Giam cầm lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>Kháng cự lực</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>Ẩn giấu huyết mạch</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>Bị phong ấn cốt cách</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>Nghịch chuyển chu kỳ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Nhật tinh khí</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
+			<DisplayName>Cường Hóa Não Bộ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
+			<DisplayName>Cường Hóa Mắt</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
+			<DisplayName>Cường Hóa Tai</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
+			<DisplayName>Cường Hóa Mũi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
+			<DisplayName>Cường Hóa Miệng</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
+			<DisplayName>Cường Hóa Cổ</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
+			<DisplayName>Cường Hóa Tim</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
+			<DisplayName>Cường Hóa Gan</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
+			<DisplayName>Cường Hóa Lách</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
+			<DisplayName>Cường Hóa Phổi</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Cường hóa thận</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Cường hóa dạ dày</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
+			<DisplayName>Cường hóa ruột</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
+			<DisplayName>Cường hóa cơ quan sinh dục</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,29 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Ls_School_Panda">
+			<DisplayName>Tiên sứ</DisplayName>
+			<Desc>Tiên Tiên Gấu Trúc đang cố gắng kết nối quan hệ ngoại giao giữa tông môn chúng ta và[SCHOOL]</Desc>
+			<Selections.0.Display>Xác nhận</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_FindPanda">
+			<DisplayName>Ngọc Gấu Trúc</DisplayName>
+			<Desc>Tương truyền trong rừng trúc lớn có một khối ngọc kỳ lạ, nửa trắng nửa đen, dường như là vật truyền thừa của tộc Gấu Trúc</Desc>
+			<Selections.0.Display>Tìm kiếm cẩn thận</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_CallPanda">
+			<DisplayName>Phá hủy</DisplayName>
+			<Desc>Khối ngọc này chứa đựng hai luồng khí âm dương, là sự kết hợp giữa nét đáng yêu và sự uy nghiêm</Desc>
+			<Selections.0.Display>Phá hủy</Selections.0.Display>
+		</Text>
+		<Text Name="HotStory_Practice_Fish">
+			<DisplayName>Sơ ngộ đạo</DisplayName>
+			<Desc>[NAME] Nhận được lĩnh ngộ mới!</Desc>
+			<Selections.0.Display>Lĩnh hội được tri thức</Selections.0.Display>
+		</Text>
+		<Text Name="Little_Panda">
+			<DisplayName>Gấu trúc Tu Tu</DisplayName>
+			<Desc>Tu Tu lại tìm thấy một con gấu trúc nữa ở đây sau khi nghe thấy tiếng của Tiên Tiên!</Desc>
+			<Selections.0.Display>Chào mừng</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

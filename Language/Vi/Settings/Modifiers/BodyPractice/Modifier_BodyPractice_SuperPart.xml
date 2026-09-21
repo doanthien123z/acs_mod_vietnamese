@@ -1,0 +1,88 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV1">
+			<DisplayName>Huyết Ngọc Nhãn 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV2">
+			<DisplayName>Huyết Ngọc Nhãn 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV3">
+			<DisplayName>Huyết Ngọc Nhãn 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV1">
+			<DisplayName>Dương Thiết Tâm 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV2">
+			<DisplayName>Dương Thiết Tâm 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV1">
+			<DisplayName>Âm Lưu Ly Tâm 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV2">
+			<DisplayName>Âm Lưu Ly Tâm 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_3_LV1">
+			<DisplayName>Long Tích Cốt</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV1">
+			<DisplayName>Thiên Địa Luyện Lô 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV2">
+			<DisplayName>Thiên Địa Luyện Lô 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV3">
+			<DisplayName>Thiên Địa Luyện Lô 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV4">
+			<DisplayName>Thiên Địa Luyện Lô 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_2_10">
+			<DisplayName>Bát Quái Nhãn</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_3_16">
+			<DisplayName>Tinh Tú Quang</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_5">
+			<DisplayName>Nhật Bộ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_6">
+			<DisplayName>Ảo Ảnh Thân</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_7">
+			<DisplayName>Thiên Ma Thủ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV1">
+			<DisplayName>Bách Cảm Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV2">
+			<DisplayName>Giác Quan Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Boar_1">
+			<DisplayName>Cổ Thú Huyết</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_1">
+			<DisplayName>Cửu Bí Thể</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_2">
+			<DisplayName>Pháp Phong Lưu Ly Nhãn</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cattle_1">
+			<DisplayName>Tứ Thủ Hộ Hung Cốt</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Chicken_2">
+			<DisplayName>Thiên Hỏa Quan</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Rabbit_2">
+			<DisplayName>Đạp Vân Bộ</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Tiger_2">
+			<DisplayName>Thân thể du ngoạn gió</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_1">
+			<DisplayName>Hấp thụ linh hồn</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_2">
+			<DisplayName>Thân thể quỷ dữ</DisplayName>
+		</Text>
+	</List>
+</Texts>

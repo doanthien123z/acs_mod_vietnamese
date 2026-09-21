@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_7_Huo">
+			<DisplayName>Đoạn Tình Quyết</DisplayName>
+			<Desc>Công pháp bí truyền của Bắc Thiên Cung. Người muốn tu luyện công pháp này cần phải có sức hút mê người. Người tu luyện phải trải qua kiếp nạn trong nhân gian để thấu hiểu hết thảy tình cảm con người trước khi từ bỏ chúng. Nhận thức được bản ngã chân thật giữa muôn vàn đau khổ và buông bỏ tất cả để phi thăng tiên giới. Người tu luyện thường có những mối quan hệ phức tạp với người khác và trải qua yêu hận đan xen do phương pháp tu luyện đặc thù này.</Desc>
+			<SelectDesc>Công pháp này nổi bật trong việc kiểm soát và sử dụng kỹ năng pháp bảo, tuy nhiên người tu luyện phải thường xuyên du hành để quan sát cuộc sống nhân gian trong mỗi lần đột phá cảnh giới. Người có chắc chắn muốn tu luyện công pháp này??</SelectDesc>
+			<Stages.0.DisplayName>Tu luyện</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Dung Hợp</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Bế quan</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tàn bạo</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Luyện hóa</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Đại dục vọng</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Tham lam</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có điểm mị lực thấp[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Chuyển thế</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Ngộ đạo</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tự ngộ</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.\nViệc phá cảnh ở bước này sẽ khó khăn đối với những người có điểm mị lực thấp[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Trảm linh</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Vô ngã</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Buông bỏ chấp niệm</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Buông bỏ bản ngã</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

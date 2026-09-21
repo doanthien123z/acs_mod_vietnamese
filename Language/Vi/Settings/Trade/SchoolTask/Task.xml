@@ -1,0 +1,152 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="War1">
+			<DisplayName>Truy sát báo thù</DisplayName>
+			<Desc>Một đệ tử của{0}đã bị một tu sĩ sát hại khi đang thực hiện nhiệm vụ tông môn. Vì vậy,{0}muốn nhờ bất kỳ ai đi trừ khử kẻ khốn đó thay họ, vì họ không tiện ra mặt để tránh gây ảnh hưởng đến danh tiếng của tông môn.</Desc>
+		</Text>
+		<Text Name="War2">
+			<DisplayName>Tiêu diệt gián諜</DisplayName>
+			<Desc>{0}phát hiện ra một đệ tử của họ là gián điệp trà trộn vào. Tuy nhiên, họ không thể tự mình xử lý do đang có biến loạn nội bộ. Vì vậy, họ hy vọng có người ra tay trừ khử tên gián điệp đó giúp họ.</Desc>
+		</Text>
+		<Text Name="War3">
+			<DisplayName>Tiêu diệt kẻ phản bội</DisplayName>
+			<Desc>Một đệ tử của{0}đã phạm phải quy tắc tông môn nghiêm trọng và bỏ trốn. Họ hy vọng tìm được người sẵn lòng giúp đỡ giải quyết vấn đề này cho họ.</Desc>
+		</Text>
+		<Text Name="Rest1">
+			<DisplayName>Chữa trị đệ tử</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã bị trọng thương do thổ khí. Tuy nhiên, cả{0}hiện tại lại không có đan dược nào có công hiệu trị liệu vết thương do thổ khí. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest2">
+			<DisplayName>Chữa trị đệ tử</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã bị trọng thương do mộc khí. Tuy nhiên, cả{0}hiện tại lại không có đan dược nào có công hiệu trị liệu vết thương do mộc khí. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest3">
+			<DisplayName>Chữa trị đệ tử</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã bị trọng thương do hỏa khí. Tuy nhiên, cả{0}hiện tại lại không có đan dược nào có công hiệu trị liệu vết thương do hỏa khí. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest4">
+			<DisplayName>Chữa trị đệ tử</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã bị trọng thương do kim khí. Tuy nhiên, cả{0}hiện tại lại không có đan dược nào có công hiệu trị liệu vết thương do kim khí. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest5">
+			<DisplayName>Chữa trị đệ tử</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã bị trọng thương do thủy khí. Tuy nhiên, cả{0}hiện tại lại không có đan dược nào có công hiệu trị liệu vết thương do thủy khí. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest6">
+			<DisplayName>Chữa trị trưởng lão</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đã bị trọng thương mà đan dược thông thường không thể chữa trị. Cách duy nhất là truyền lượng lớn thủy khí vào cơ thể một cách liên tục. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest7">
+			<DisplayName>Chữa trị trưởng lão</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đã bị trọng thương mà đan dược thông thường không thể chữa trị. Cách duy nhất là truyền lượng lớn hỏa khí vào cơ thể một cách liên tục. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest8">
+			<DisplayName>Chữa trị trưởng lão</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đã bị trọng thương mà đan dược thông thường không thể chữa trị. Cách duy nhất là truyền lượng lớn kim khí vào cơ thể một cách liên tục. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest9">
+			<DisplayName>Chữa trị trưởng lão</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đã bị trọng thương mà đan dược thông thường không thể chữa trị. Cách duy nhất là truyền lượng lớn mộc khí vào cơ thể một cách liên tục. Nếu có người sẵn lòng ra tay cứu giúp lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+		<Text Name="Rest10">
+			<DisplayName>Chữa trị trưởng lão</DisplayName>
+			<Desc>Một vị trưởng lão của{0}bị thương nặng mà đan dược bình thường không thể chữa trị được, cách duy nhất để cứu chữa chính là liên tục truyền một lượng lớn linh khí thổ vào trong cơ thể. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest11">
+			<DisplayName>Trì hoãn thiên kiếp</DisplayName>
+			<Desc>Một vị trưởng lão của{0}có việc quan trọng cần phải giải quyết gấp, nhưng hiện tại thiên kiếp sắp sửa giáng lâm xuống đầu vị trưởng lão đó, mà bọn họ lại không thể hạ mình đi cầu cứu các đại tông môn khác. Cho nên, nếu có ai có quan hệ tốt với bọn họ sẵn lòng ra tay giúp đỡ trong lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest12">
+			<DisplayName>Trì hoãn thiên kiếp</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang phải đối mặt với thiên kiếp, nhưng hiện tại cảnh giới tu luyện của hắn vẫn chưa đủ để vượt qua thiên kiếp lần này, thế nên hắn đang cần một loại đan dược nghịch thiên có thể gia tăng thọ nguyên và trì hoãn thiên kiếp.</Desc>
+		</Text>
+		<Text Name="Rest13">
+			<DisplayName>Sinh mệnh tiêu vong</DisplayName>
+			<Desc>Một vị đệ tử chân truyền của{0}đã tiêu tốn rất nhiều thọ nguyên khi thực hiện nhiệm vụ ở trần gian, khiến cho thọ nguyên của đệ tử đó sắp cạn kiệt. Bọn họ đang cực kỳ cần loại đan dược thần kỳ có công hiệu gia tăng thọ nguyên, đáng tiếc là bên trong{0}lại hoàn toàn không có loại đan dược đó. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest14">
+			<DisplayName>Sinh mệnh tiêu vong</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đã tiêu tốn rất nhiều thọ nguyên khi thực hiện nhiệm vụ ở trần gian, khiến cho thọ nguyên của vị trưởng lão đó sắp cạn kiệt. Vị trưởng lão ấy không muốn bước vào luân hồi, cho nên hắn đang cần sự trợ giúp từ người tu luyện cảnh giới cao.</Desc>
+		</Text>
+		<Text Name="Rest15">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang chuẩn bị đột phá cảnh giới để tiến lên cảnh giới tu luyện cao hơn, nhưng ngặt nỗi lúc này linh khí thủy bỗng nhiên khô cạn đột ngột, mà hiện tại bên trong{0}lại không có linh căn thủy. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest16">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang chuẩn bị đột phá cảnh giới để tiến lên cảnh giới tu luyện cao hơn, nhưng ngặt nỗi lúc này linh khí hỏa bỗng nhiên khô cạn đột ngột, mà hiện tại bên trong{0}lại không có linh căn hỏa. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest17">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang chuẩn bị đột phá cảnh giới để tiến lên cảnh giới tu luyện cao hơn, nhưng ngặt nỗi lúc này linh khí kim bỗng nhiên khô cạn đột ngột, mà hiện tại bên trong{0}lại không có linh căn kim. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest18">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang chuẩn bị đột phá cảnh giới để tiến lên cảnh giới tu luyện cao hơn, nhưng ngặt nỗi lúc này linh khí mộc bỗng nhiên khô cạn đột ngột, mà hiện tại bên trong{0}lại không có linh căn mộc. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Rest19">
+			<DisplayName>Đột phá cảnh giới</DisplayName>
+			<Desc>Một vị trưởng lão của{0}đang chuẩn bị đột phá cảnh giới để tiến lên cảnh giới tu luyện cao hơn, nhưng ngặt nỗi lúc này linh khí thổ bỗng nhiên khô cạn đột ngột, mà hiện tại bên trong{0}lại không có linh căn thổ. Nếu có vị cao nhân nào sẵn lòng ra tay giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build1">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang gặp khó khăn trong việc xây dựng kỳ quan do thiếu hụt đá thần - nguyên liệu chính để kiến thiết, nguyên nhân là do tính toán sai số lượng nguyên liệu cần thiết. Vì vậy, nếu ai sẵn lòng tặng đá thần cho bọn họ, bọn họ cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build2">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang gặp khó khăn trong việc xây dựng kỳ quan do thiếu hụt quặng tinh quang - nguyên liệu chính để kiến thiết, nguyên nhân là do tính toán sai số lượng nguyên liệu cần thiết. Vì vậy, nếu ai sẵn lòng tặng quặng tinh quang cho bọn họ, bọn họ cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build3">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang xây dựng lại sảnh đón khách, nhưng đáng tiếc là lõi đá của họ không đủ. Nếu vị nào sẵn lòng giúp đỡ bọn họ, họ cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build4">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang xây dựng lại hồ nước, nhưng đáng tiếc là lõi ngọc của họ không đủ. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build5">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang cần một lượng lớn quặng đồng xích hỏa để dùng cho việc đúc lại lò luyện đan, nhưng{0}hiện đang cực kỳ thiếu hụt quặng đồng xích hỏa. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build6">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang cần một lượng lớn quặng tinh thạch băng giá để dùng cho việc đúc lại lò luyện đan, nhưng{0}hiện đang cực kỳ thiếu hụt quặng tinh thạch băng giá. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build7">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang trong quá trình trùng tu đại điện, nhưng kho hàng của họ bỗng nhiên bốc cháy khiến hầu hết gỗ hoàng kim đều bị thiêu rụi thành tro tàn, khiến kế hoạch trùng tu đành phải đình trệ. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build8">
+			<DisplayName>Cải tạo tông môn</DisplayName>
+			<Desc>Phái{0}đang muốn mở rộng phòng ăn lớn hơn, nhưng gỗ trong tông môn lại bị mối mọt ăn mòn một lượng lớn do bảo quản không đúng cách. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build9">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>Cổng chính của{0}bỗng nhiên sụp đổ. Để tránh làm tổn hại đến danh tiếng của{0}họ đang cực kỳ cần đá thần để sửa chữa nó. Nếu vị nào sẵn lòng giúp đỡ, họ sẽ vô cùng biết ơn và cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build10">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>Pháp bảo của{0}đã bị hư hỏng do xảy ra một số sai sót trong quá trình luyện chế. Vì vậy, họ đang cực kỳ cần quặng tinh quang để sửa chữa nó. Nếu vị nào sẵn lòng giúp đỡ, họ sẽ vô cùng biết ơn và cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build11">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>Sân luyện võ của{0}đã bị hư hỏng do sử dụng trong thời gian dài, vì vậy họ đang cần một lượng lớn lõi đá để tu sửa lại sân luyện võ. Nếu vị nào sẵn lòng giúp đỡ, họ sẽ vô cùng biết ơn và cũng sẵn lòng trao lại một số phần thưởng để báo đáp.</Desc>
+		</Text>
+		<Text Name="Build12">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>{0}đang cần một lượng lớn lõi ngọc để xây dựng lại tượng tổ tiên, nhưng{0}hiện đang cực kỳ thiếu hụt lõi ngọc. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, bọn họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build13">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>{0}Đang muốn xây dựng một căn phòng có nhiệt độ cực nóng để chuẩn bị đối phó với Thiên kiếp, thế nhưng{0}hiện đang cực kỳ thiếu hụt quặng đồng xích hỏa. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build14">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>{0}Đang muốn xây dựng một căn phòng có nhiệt độ cực lạnh để chuẩn bị đối phó với Thiên kiếp, thế nhưng{0}hiện đang cực kỳ thiếu hụt quặng tinh thạch băng giá. Nếu có vị nào sẵn lòng giúp đỡ bọn họ lần này, họ sẽ vô cùng biết ơn.</Desc>
+		</Text>
+		<Text Name="Build15">
+			<DisplayName>Thiếu hụt tài nguyên</DisplayName>
+			<Desc>Phái{0}Đang trong quá trình nghiên cứu loại bùa chú mới, vì vậy họ đã sử dụng một lượng lớn Chu sa để vẽ các loại bùa chú khác nhau. Điều này khiến cho{0}Hiện tại đang cực kỳ thiếu hụt Chu sa, nếu ai đó nguyện ý ra tay giúp đỡ họ lần này, họ sẽ vô cùng cảm kích.</Desc>
+		</Text>
+	</List>
+</Texts>

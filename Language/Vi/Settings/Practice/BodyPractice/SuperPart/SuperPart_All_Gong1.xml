@@ -1,0 +1,151 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_1_1">
+			<Prefix>Tả Thủ</Prefix>
+			<Suffix>Thuộc tính hỗn hợp</Suffix>
+			<Desc>Thể xá bí ẩn cơ bản rất phổ biến trong số các tu sĩ tu luyện Bất Diệt Thể vì tính dễ luyện. Nó khá bình thường ở mọi mặt, nhưng bù lại có không gian phát triển rất lớn.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả của thể xá bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_1_1">
+			<Prefix>Hữu Thủ</Prefix>
+			<Suffix>Thuộc tính hỗn hợp</Suffix>
+			<Desc>Thể xá bí ẩn cơ bản rất phổ biến trong số các tu sĩ tu luyện Bất Diệt Thể vì tính dễ luyện. Nó khá bình thường ở mọi mặt, nhưng bù lại có không gian phát triển rất lớn.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả của thể xá bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ nền tảng sức mạnh của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_2">
+			<Prefix>Cảnh</Prefix>
+			<Suffix>Lục Hợp</Suffix>
+			<Desc>Lấy hai tay làm trục chính và eo làm trục phụ, dung hợp âm khí, thủy khí và ánh trăng vào tay trái; dung hợp dương khí, mộc khí, hỏa khí và ánh mặt trời lại làm một ở tay phải. Có khả năng áp chế pháp bảo của kẻ địch cực kỳ mạnh mẽ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_3">
+			<Prefix>Quyền</Prefix>
+			<Suffix>Ngũ Đạo</Suffix>
+			<Desc>Sử dụng năng lượng ngũ hành trong cơ thể để thúc đẩy quyền pháp và tấn công kẻ địch bằng năm hình thức, có khả năng xuyên thủng linh khí tráo của kẻ địch cực kỳ xuất sắc.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ công kích xuyên thấu hộ thể chân khí của thần thể bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_4">
+			<Prefix>Dung Hợp</Prefix>
+			<Suffix>Hùng Ưng</Suffix>
+			<Desc>Bí kỹ cao cấp nhất trong Nguyên Thủy Thể Tông Hợp. Luyện cơ lưng trông giống như cánh chim ưng, điều chỉnh vai cường tráng tựa thân gấu, gia cố độ bền của cột sống vững chãi tựa rồng.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\n Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_5">
+			<Prefix>Tim</Prefix>
+			<Suffix>Dương Thiết</Suffix>
+			<Desc>Sử dụng thuần dương chi lực để tôi luyện tâm tạng, khiến nhục thân tu vi của người tu luyện tăng mạnh.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng vừa phải tỷ lệ rèn luyện thể xác của người tu luyện Bất Diệt Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tốc độ gia tăng uy lực khi sử dụng bạo nộ cuồng nộ của người tu luyện Thể tu.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_6">
+			<Prefix>Tim</Prefix>
+			<Suffix>Âm Bôi</Suffix>
+			<Desc>Sử dụng âm khí để tâm thần tĩnh lặng, nâng cao cảnh giới chân khí của tu sĩ Bất Diệt Thể.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng vừa tỷ lệ né tránh của thể xá bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Giảm đáng kể tiêu hao chân khí khi áp chế pháp bảo của tu sĩ Bất Diệt Thể</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_7">
+			<Prefix>Tích</Prefix>
+			<Suffix>Chân Long</Suffix>
+			<Desc>Mô phỏng chân long bằng cách cường hóa đầu, cột sống và xương chậu, dùng chúng làm trục chính để kết nối toàn thân cốt cách, khiến uy lực tấn công của thể xá bí ẩn tăng lên.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng uy lực của thần thể bí ẩn 5%</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng uy lực của thần thể bí ẩn 5%</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng uy lực của thần thể bí ẩn 5%</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_8">
+			<Prefix>Lò luyện</Prefix>
+			<Suffix>Thiên Địa</Suffix>
+			<Desc>Phương pháp tu luyện thể xá bí ẩn được sáng tạo dựa trên việc mô phỏng Kim Đan của tu sĩ Tiên đạo. Rút năng lượng từ tim và thận thông qua kỹ thuật hội tụ tại dạ dày để dùng làm lò luyện, giúp tăng mạnh tốc độ trao đổi chất và sản sinh thể lực. Tu luyện đến cực hạn để lĩnh hội phương pháp vận khí của cá voi, có thể nhanh chóng ngưng tụ đạo nguyên từ hư không.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng phần thưởng tiêu thụ thức ăn cho người tu luyện thể tu bất tử.\n Tăng vừa hiệu quả hồi phục thể lực của tu sĩ Bất Diệt Thể\n Tăng nhẹ cảm giác thèm ăn cho người tu luyện Thể Tu đạo</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ nhận được Tinh Phách khi nuốt vật phẩm\n Tăng vừa lượng nguyên tinh nhận được khi nuốt chửng vật phẩm\n Tăng mức độ thèm ăn của người tu luyện Bất Tử Thân Trung Cấp</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tiền thưởng tiêu thụ thức ăn của người tu luyện Bất Diệt Thể\n Tăng mạnh buff hồi phục thể lực cho người tu luyện Bất Tử Thân\n Đại幅 tăng sự thèm ăn của người tu luyện thể tu bất tử.</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng mạnh tỷ lệ nhận được Tinh Phách khi nuốt vật phẩm\n Tăng mạnh số lượng Tinh Phách nhận được khi nuốt vật phẩm\n Đại幅 tăng sự thèm ăn của người tu luyện thể tu bất tử.</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Lĩnh ngộ thần thông: Hành Khí Kình Vực</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_9">
+			<Prefix>Bàn Chân</Prefix>
+			<Suffix>Thụ Căn</Suffix>
+			<Desc>Một loại bí thể cơ bản phổ biến trong số các tu sĩ Bất Tử Thân vì nó có thể dễ dàng tu luyện bằng cách rèn luyện cả hai chân bằng mộc khí, giúp cơ thể di chuyển ổn định hơn. Việc sử dụng bí thể này tương tự như một cái cây cắm rễ sâu xuống đất một cách vững chắc.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu quả của thể xá bí ẩn</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ nền tảng độ bền của Huyền Thể</Levels.2.Desc>
+			<Levels.3.Title>Tầng thứ tư</Levels.3.Title>
+			<Levels.3.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.3.Desc>
+			<Levels.4.Title>Tầng thứ năm</Levels.4.Title>
+			<Levels.4.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.4.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_10">
+			<Prefix>Quy Giáp</Prefix>
+			<Suffix>Huyền Quy</Suffix>
+			<Desc>Mô phỏng lớp mai cứng cáp của rùa bằng cách dùng xương sườn làm cốt lõi để hợp nhất cơ bắp ở vùng eo, lưng, ngực và bụng thành một bộ phận giống mai rùa, có khả năng phòng thủ trước mọi hình thức tấn công.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng đáng kể nền tảng độ bền của thân thể bí ẩn.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11">
+			<Prefix>Tả Thủ</Prefix>
+			<Suffix>Hư Vô Thần Lôi</Suffix>
+			<Desc>Sử dụng bí thuật để tôi luyện xương của cả hai bàn tay và dung hợp với lôi khí, giúp tăng tốc độ lên cực đại khiến cơ thể nhanh như chớp giật.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_1_11_1">
+			<Prefix>Hữu Thủ</Prefix>
+			<Suffix>Hư Vô Thần Lôi</Suffix>
+			<Desc>Sử dụng bí thuật để tôi luyện xương của cả hai bàn tay và dung hợp với lôi khí, giúp tăng tốc độ lên cực đại khiến cơ thể nhanh như chớp giật.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.2.Desc>
+		</Text>
+	</List>
+</Texts>

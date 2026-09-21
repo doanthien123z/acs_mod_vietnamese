@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Diaster_Drought">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Nơi này đang gặp hạn hán, lương thực là thứ cần thiết để ngăn chặn nạn đói do mất mùa</Desc>
+		</Text>
+		<Text Name="Diaster_Flood">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Nơi này đang gặp lũ lụt, đá là thứ cần thiết để giúp dân làng xây đập ngăn nước</Desc>
+		</Text>
+		<Text Name="Diaster_Siberia">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Nơi này đang gặp giá rét, gỗ là thứ cần thiết để giúp dân làng đốt lửa sưởi ấm</Desc>
+		</Text>
+		<Text Name="Diaster_EarthQuake">
+			<DisplayName>Giảm nhẹ thiên tai</DisplayName>
+			<Desc>Nơi này đang gặp động đất, đá là thứ cần thiết để giúp dân làng xây dựng và tu sửa lại nhà cửa</Desc>
+		</Text>
+	</List>
+</Texts>

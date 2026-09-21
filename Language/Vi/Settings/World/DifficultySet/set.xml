@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Lv0">
+			<DisplayName>Tân thủ</DisplayName>
+			<Desc>Độ khó tân thủ: Ở độ khó này, Người có thể tu luyện một cách thư thái tự tại như gió thoảng mây bay, phàm trần vật chất không thể nhiễu loạn đạo tâm của Người. Thêm vào đó, tốc độ sản xuất và tu luyện được gia tốc đáng kể, không có ngoại địch xâm lấn, không có khắc nghiệt thiên tai, trải nghiệm cực kỳ nhàn hạ.</Desc>
+		</Text>
+		<Text Name="Lv1">
+			<DisplayName>Bình thường</DisplayName>
+			<Desc>Độ khó thông thường: Độ khó truyền thống, thích hợp cho người chơi đã có sẵn kiến thức về trò chơi. Các sự kiện phát sinh bình thường, tốc độ sản xuất và tu luyện theo tiêu chuẩn.</Desc>
+		</Text>
+		<Text Name="Lv2">
+			<DisplayName>Hiền nhân</DisplayName>
+			<Desc>Độ khó đại năng: Độ khó cao cấp, thích hợp cho người chơi đã vô cùng quen thuộc với trò chơi. Người có thể tự thử thách bản thân trong Tiên Tôn Môn, nơi hội tụ trọn vẹn tinh hoa trải nghiệm game. Chế độ này sẽ kiểm tra kỹ năng đến cực hạn, chỉ dành cho chân chính đại năng. Một số thành tựu chỉ có thể đạt được trong chế độ Tiên Tôn.</Desc>
+		</Text>
+	</List>
+</Texts>

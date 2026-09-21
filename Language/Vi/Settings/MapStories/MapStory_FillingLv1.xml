@@ -1,0 +1,366 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="TESTALL">
+			<DisplayName>Tiên Nhân Thức Tỉnh</DisplayName>
+			<Desc>Từ khi dòng triều linh khí ngàn năm cuộn trào, cổ tu sĩ xuất hiện khắp nơi. Hãy thu thập càng nhiều thông tin càng tốt, các vị tiên nhân đã giáng lâm cõi trần thế này một lần nữa.</Desc>
+			<Selections.0.Display>Tiên Nhân Thức Tỉnh</Selections.0.Display>
+		</Text>
+		<Text Name="BaseFillingStory">
+			<DamageCache.0.DescTags>Pháp bảo giao tranh</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>Pháp bảo giao tranh</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>Pháp bảo giao tranh</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>Pháp bảo giao tranh</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>Pháp bảo giao tranh</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>Pháp bảo giao tranh</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>Pháp bảo giao tranh</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>Pháp bảo giao tranh</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>Pháp bảo giao tranh</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>Pháp bảo giao tranh</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>Sát thương Kim hệ</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>Sát thương Kim hệ</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>Sát thương Kim hệ</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>Sát thương Kim hệ</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>Sát thương Kim hệ</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>Sát thương Mộc hệ</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>Sát thương Mộc hệ</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>Sát thương Mộc hệ</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>Sát thương Mộc hệ</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>Sát thương Mộc hệ</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>Sát thương Mộc hệ</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>Sát thương Thủy hệ</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>Sát thương Thủy hệ</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>Sát thương Thủy hệ</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>Sát thương Thủy hệ</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>Sát thương Thủy hệ</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>Sát thương Hỏa hệ</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>Sát thương Hỏa hệ</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>Sát thương Hỏa hệ</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>Sát thương Hỏa hệ</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>Sát thương Hỏa hệ</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>Sát thương Thổ hệ</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>Sát thương Thổ hệ</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>Sát thương Thổ hệ</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>Sát thương Thổ hệ</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>Sát thương Thổ hệ</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>Sát thương Thổ hệ</DamageCache.36.DescTags>
+		</Text>
+		<Text Name="Free_Base">
+			<DisplayName>Dạo chơi</DisplayName>
+			<Desc>[NAME] phát hiện một nơi có phong cảnh vô cùng tuyệt mỹ liền hạ pháp bảo xuống[ITS]rồi bước ra thưởng ngoạn phong cảnh xung quanh</Desc>
+		</Text>
+		<Text Name="Free_1">
+			<DisplayName>Thưởng trà</DisplayName>
+			<Desc>[NAME] đi ngang qua một tiểu trấn nhỏ và cảm thấy hơi mệt [ENHIM]liền thu liễm chân khí, giả làm người phàm rồi bước vào quán trà trong thôn để thưởng trà</Desc>
+		</Text>
+		<Text Name="Free_2">
+			<DisplayName>Nghỉ ngơi</DisplayName>
+			<Desc>Trên đường đi [NAME] cảm thấy hơi mệt nên quyết định chợp mắt dưới gốc cây</Desc>
+		</Text>
+		<Text Name="Join_Base">
+			<DisplayName>Tham gia Tiên Duyên Hội</DisplayName>
+			<Desc>[NAME] đã phát hiện vài người phàm có khả năng có căn cơ tu luyện, liền chỉ điểm vị trí tông môn[ITS] cho nhóm người đó trước khi ngự kiếm rời đi</Desc>
+		</Text>
+		<Text Name="Kidnap_Base">
+			<DisplayName>Bắt cóc người phàm</DisplayName>
+			<Desc>[NAME] vận chuyển pháp lực bắt cóc một nhóm người phàm đi</Desc>
+		</Text>
+		<Text Name="Join_1">
+			<DisplayName>Tham gia Tiên Duyên Hội</DisplayName>
+			<Desc>[NAME] phát hiện một thiếu niên có thiên phú khó tin, tìm thấy một mầm non tài năng xuất chúng. Thế nên đã hiển thánh trong giấc mộng của họ và ban cho cơ duyên tu tiên. Nếu đệ tử này có tâm hướng đạo, hắn có thể sẽ đến sơn môn trong một hai ngày tới.</Desc>
+		</Text>
+		<Text Name="Join_2">
+			<DisplayName>Tham gia Tiên Duyên Hội</DisplayName>
+			<Desc>[NAME] đã chạm trán vô vàn ác ý mỗi khi trăng biến thành màu sắc u lam. Khi nhìn thấy những kẻ bị truy sát và nhận ra số phận của họ dường như có liên quan đến tông môn [NAME] liền niệm chú cứu giúp họ và đưa họ về tông môn</Desc>
+		</Text>
+		<Text Name="Visit_Base">
+			<DisplayName>Kỳ ngộ</DisplayName>
+			<Desc>[NAME] đã đụng độ một nhóm đệ tử của[SCHOOL]đến chào hỏi[ENHIM]khi đang đi dạo trên phố</Desc>
+			<Selections.0.Display>bước tới</Selections.0.Display>
+			<Selections.1.Display>trò chuyện thân thiết</Selections.1.Display>
+			<Selections.2.Display>Đàm đạo đôi câu</Selections.2.Display>
+			<Selections.3.Display>Giễu cợt</Selections.3.Display>
+			<Selections.4.Display>Giễu cợt</Selections.4.Display>
+			<Selections.5.Display>Không để ý</Selections.5.Display>
+			<Selections.6.Display>Khiêu khích</Selections.6.Display>
+			<Selections.6.Tip>Kim Đan</Selections.6.Tip>
+			<Selections.7.Display>Khiêu khích</Selections.7.Display>
+			<Selections.7.Tip>Kim Đan</Selections.7.Tip>
+			<Selections.8.Display>Không để ý</Selections.8.Display>
+			<Selections.8.Tip>Kim Đan</Selections.8.Tip>
+			<Selections.9.Display>Không để ý</Selections.9.Display>
+			<Selections.9.Tip>Kim Đan</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_1">
+			<DisplayName>Kỳ ngộ</DisplayName>
+			<Desc>[NAME] Gặp trưởng lão của[SCHOOL]Trong lúc đang đi trên đường</Desc>
+			<Selections.0.Display>bước tới</Selections.0.Display>
+			<Selections.1.Display>Chào hỏi</Selections.1.Display>
+			<Selections.2.Display>Đàm đạo đôi câu</Selections.2.Display>
+			<Selections.3.Display>Tập kích</Selections.3.Display>
+			<Selections.3.Tip>Kim Đan</Selections.3.Tip>
+			<Selections.4.Display>Tập kích</Selections.4.Display>
+			<Selections.4.Tip>Kim Đan</Selections.4.Tip>
+			<Selections.5.Display>Tấn công</Selections.5.Display>
+			<Selections.5.Tip>Kim Đan</Selections.5.Tip>
+			<Selections.6.Display>Không để ý</Selections.6.Display>
+			<Selections.7.Display>Khiêu khích</Selections.7.Display>
+			<Selections.7.Tip>Kim Đan</Selections.7.Tip>
+			<Selections.8.Display>Khiêu khích</Selections.8.Display>
+			<Selections.8.Tip>Kim Đan</Selections.8.Tip>
+			<Selections.9.Display>Không để ý</Selections.9.Display>
+			<Selections.9.Tip>Kim Đan</Selections.9.Tip>
+			<Selections.10.Display>Không để ý</Selections.10.Display>
+			<Selections.10.Tip>Kim Đan</Selections.10.Tip>
+		</Text>
+		<Text Name="Visit_2">
+			<DisplayName>Bái phỏng tông môn</DisplayName>
+			<Desc>Khi [NAME] Biết rằng[SCHOOL]Ở gần nơi này [ENHIM]Liền lập tức tiến về phía[SCHOOL]Ngay lập tức</Desc>
+			<Selections.0.Display>Đi vào</Selections.0.Display>
+			<Selections.1.Display>Bái kiến tông chủ</Selections.1.Display>
+			<Selections.2.Display>Bái kiến tông chủ</Selections.2.Display>
+			<Selections.3.Display>Được Thượng Thiên Cung tín nhiệm</Selections.3.Display>
+			<Selections.4.Display>Bí mật của Lôi Đình Động</Selections.4.Display>
+			<Selections.5.Display>Chào hỏi</Selections.5.Display>
+			<Selections.6.Display>Chào hỏi</Selections.6.Display>
+			<Selections.7.Display>Chào hỏi</Selections.7.Display>
+			<Selections.8.Display>Chào hỏi</Selections.8.Display>
+			<Selections.9.Display>Chào hỏi</Selections.9.Display>
+			<Selections.9.Tip>Cảnh giới Nguyên Thần hoặc có quan hệ tốt</Selections.9.Tip>
+			<Selections.10.Display>Lén lút lẻn vào</Selections.10.Display>
+			<Selections.10.Tip>Cảnh giới Nguyên Thần và có phúc duyên cao</Selections.10.Tip>
+			<Selections.11.Display>Không để ý</Selections.11.Display>
+		</Text>
+		<Text Name="Story_Base">
+			<DisplayName>Nhân giới</DisplayName>
+			<Desc>[NAME] Đi ngang qua một tòa thành nhỏ, cảm thấy hứng thú bèn cải trang thành phàm nhân rồi hòa vào dòng người trong thành</Desc>
+			<Selections.0.Display>Du ngoạn nhân gian</Selections.0.Display>
+			<Selections.1.Display>Gây rối nơi nhân gian</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Story_1">
+			<DisplayName>Nhân giới</DisplayName>
+			<Desc>[NAME] Để ý thấy một bà lão đang mài thanh sắt bên bờ sông</Desc>
+			<Selections.0.Display>Hỏi thăm (thiện ý)</Selections.0.Display>
+			<Selections.1.Display>Người đã có điều lĩnh ngộ</Selections.1.Display>
+			<Selections.2.Display>Hỏi thăm (ác ý)</Selections.2.Display>
+			<Selections.3.Display>Lại là bà lão đó nữa sao</Selections.3.Display>
+			<Selections.4.Display>Lại là bà lão đó nữa sao</Selections.4.Display>
+			<Selections.5.Display>Lại là bà lão đó nữa sao</Selections.5.Display>
+		</Text>
+		<Text Name="Story_2">
+			<DisplayName>Nhân giới</DisplayName>
+			<Desc>[NAME] Dường như có duyên định trước mới gặp được thắng cảnh ngập tràn linh khí trời đất này [IT]Ngồi xuống đó và tự hỏi liệu có thể đốn ngộ được điều gì từ nơi này chăng</Desc>
+			<Selections.0.Display>Tĩnh tọa ngộ đạo</Selections.0.Display>
+			<Selections.0.Tip>Dùng trí tuệ</Selections.0.Tip>
+			<Selections.1.Display>Hấp thu linh khí</Selections.1.Display>
+		</Text>
+		<Text Name="Story_3">
+			<DisplayName>Nhân giới</DisplayName>
+			<Desc>[NAME] Bắt gặp hai đầu yêu thú đang đại chiến giữa không trung, dường như cả hai hung thú đều có chiêu thức chiến đấu vô cùng kỳ lạ, tựa như trận chiến giữa dị thú từ dị giới [NAME] Vừa cảm thấy hồi hộp vừa thấy kinh ngạc, dường như cuộc chiến giữa hai đầu yêu thú này ẩn chứa huyền cơ nào đó</Desc>
+			<Selections.0.Display>Mô phỏng yêu thú</Selections.0.Display>
+			<Selections.0.Tip>Dùng thần thức cảm nhận</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="GoodFight_Base">
+			<DisplayName>Dịch bệnh hoành hành</DisplayName>
+			<Desc>[NAME] Đi ngang qua một tòa thành và phát hiện nơi đây đang bùng phát dịch bệnh. Dường như ở cổng thành có vài tu sĩ đang giúp đỡ dân chúng khống chế dịch bệnh, thế nhưng tình thế khắp nơi vẫn ngày một tồi tệ hơn và e rằng họ không thể cầm cự được bao lâu nữa</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.1.Display>Giúp đỡ nửa vời</Selections.1.Display>
+			<Selections.1.Tip>Nền tảng chân khí</Selections.1.Tip>
+			<Selections.2.Display>Giúp đỡ nửa vời</Selections.2.Display>
+			<Selections.2.Tip>Ngưng tụ chân đan</Selections.2.Tip>
+			<Selections.3.Display>Không để ý</Selections.3.Display>
+		</Text>
+		<Text Name="GoodFight_1">
+			<DisplayName>Chính tà đại chiến</DisplayName>
+			<Desc>[NAME] Trông thấy ánh sáng lóe lên và tiếng nổ vang vọng cách đó không xa, dường như đang có người giao chiến</Desc>
+			<Selections.0.Display>Tấn công đệ tử của Ma môn</Selections.0.Display>
+			<Selections.0.Tip>Ngưng tụ chân đan</Selections.0.Tip>
+			<Selections.1.Display>Tấn công đệ tử của Ma môn</Selections.1.Display>
+			<Selections.1.Tip>Ngưng tụ chân đan</Selections.1.Tip>
+			<Selections.2.Display>Tấn công đệ tử của Chính đạo</Selections.2.Display>
+			<Selections.2.Tip>Ngưng tụ chân đan</Selections.2.Tip>
+			<Selections.3.Display>Tấn công đệ tử của Chính đạo</Selections.3.Display>
+			<Selections.3.Tip>Ngưng tụ chân đan</Selections.3.Tip>
+			<Selections.4.Display>Không để ý</Selections.4.Display>
+		</Text>
+		<Text Name="BadFight_Base">
+			<DisplayName>Ma trận Luyện Hồn</DisplayName>
+			<Desc>[NAME] Đi ngang qua một tòa thành và phát hiện nơi này tràn ngập oán khí, dường như có kẻ đang tu luyện ma công</Desc>
+			<Selections.0.Display>Hỗ trợ</Selections.0.Display>
+			<Selections.1.Display>Giúp đỡ nửa vời</Selections.1.Display>
+			<Selections.1.Tip>Kim Đan</Selections.1.Tip>
+			<Selections.2.Display>Ngăn cản bọn chúng</Selections.2.Display>
+			<Selections.2.Tip>Kim Đan</Selections.2.Tip>
+			<Selections.3.Display>Không để ý</Selections.3.Display>
+		</Text>
+		<Text Name="BadFight_1">
+			<DisplayName>Chính tà đại chiến</DisplayName>
+			<Desc>[NAME] Trông thấy ánh sáng lóe lên và tiếng nổ vang vọng cách đó không xa, dường như đang có người giao chiến</Desc>
+			<Selections.0.Display>Tấn công đệ tử của Ma môn</Selections.0.Display>
+			<Selections.0.Tip>Ngưng tụ chân đan</Selections.0.Tip>
+			<Selections.1.Display>Tấn công đệ tử của Ma môn</Selections.1.Display>
+			<Selections.1.Tip>Ngưng tụ chân đan</Selections.1.Tip>
+			<Selections.2.Display>Tấn công đệ tử của Chính đạo</Selections.2.Display>
+			<Selections.2.Tip>Ngưng tụ chân đan</Selections.2.Tip>
+			<Selections.3.Display>Tấn công đệ tử của Chính đạo</Selections.3.Display>
+			<Selections.3.Tip>Ngưng tụ chân đan</Selections.3.Tip>
+			<Selections.4.Display>Không để ý</Selections.4.Display>
+		</Text>
+		<Text Name="Treasure_Base">
+			<DisplayName>Tìm kiếm pháp bảo</DisplayName>
+			<Desc>[NAME] Vô tình phát hiện nơi ẩn náu của một vị tu sĩ... có vẻ như nó đã bị bỏ hoang từ lâu</Desc>
+			<Selections.0.Display>Đi tới xem xét</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Treasure_1">
+			<DisplayName>Phát hiện đầm nước bí ẩn</DisplayName>
+			<Desc>[NAME] Mệt mỏi sau nhiều ngày hành trình liên tục, tối hôm đó[ENHIM]Tìm thấy một hồ nước sâu với phong cảnh tuyệt đẹp nên quyết định dừng chân nghỉ ngơi. Đêm hôm đó [NAME] Cảm thấy vô cùng kinh ngạc khi thấy ánh sáng mờ ảo xuất hiện trong hồ nước đó</Desc>
+			<Selections.0.Display>Đi tới xem xét</Selections.0.Display>
+			<Selections.0.Tip>Tu luyện chân khí</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Base">
+			<DisplayName>Thu thập tài nguyên</DisplayName>
+			<Desc>Khi [NAME] Hành trình tới một địa điểm [ENHIM]Phát hiện nơi này có nhiều vật phẩm khá hữu ích</Desc>
+			<Selections.0.Display>Thu thập</Selections.0.Display>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="City_Base">
+			<DisplayName>Thành thị</DisplayName>
+			<Desc>[NAME] Đã đi đến[PLACE]Phát hiện nơi đây dân cư đông đúc và việc làm ăn buôn bán vô cùng phát đạt</Desc>
+			<Selections.0.Display>Tìm kiếm đệ tử</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may và mị lực</Selections.0.Tip>
+			<Selections.1.Display>Cướp bóc người thường</Selections.1.Display>
+			<Selections.2.Display>Giúp đỡ người dân</Selections.2.Display>
+			<Selections.3.Display>Mua vật tư</Selections.3.Display>
+			<Selections.4.Display>Rời đi</Selections.4.Display>
+		</Text>
+		<Text Name="Business_Base">
+			<DisplayName>Mua vật tư</DisplayName>
+			<Desc>[NAME] Phát hiện nơi đây có thị trường buôn bán rất sầm uất với giá cả rẻ hơn bình thường [ENHIM]Quyết định mua một vài thứ mang về</Desc>
+			<Selections.0.Display>Mua lương thực</Selections.0.Display>
+			<Selections.1.Display>Mua đá cẩm thạch</Selections.1.Display>
+			<Selections.2.Display>Mua gỗ xẻ</Selections.2.Display>
+			<Selections.3.Display>Mua quặng sắt</Selections.3.Display>
+			<Selections.4.Display>Mua bông vải</Selections.4.Display>
+		</Text>
+		<Text Name="Highfind_Base">
+			<DisplayName>Tìm kiếm bảo vật</DisplayName>
+			<Desc>[NAME] Nghe tin đồn có vật phẩm trong[PLACE] Có lợi cho việc tu luyện</Desc>
+			<Selections.0.Display>Tìm kiếm</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Secret_Base">
+			<DisplayName>Tìm kiếm manh mối</DisplayName>
+			<Desc>[NAME] Đi ngang qua[PLACE]Trong lúc đang trên đường đi, phát hiện người dân địa phương đang bàn tán về một chuyện gì đó</Desc>
+			<Selections.0.Display>Hỏi thăm thông tin</Selections.0.Display>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Base">
+			<DisplayName>Tìm kiếm địa điểm</DisplayName>
+			<Desc>[NAME] Nghe nói có một địa điểm thú vị nằm gần[PLACE] Vì vậy,[ENHIM]nên quyết định lên đường tìm kiếm nơi đó.</Desc>
+			<Selections.0.Display>Tìm kiếm một nơi yên tĩnh</Selections.0.Display>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Cold">
+			<DisplayName>Vô tình phát hiện ra vùng đất tuyết</DisplayName>
+			<Desc>[NAME] Dường như có duyên định trước mới gặp được thắng cảnh ngập tràn linh khí trời đất này [IT]Ngồi xuống đó và tự hỏi liệu có thể đốn ngộ được điều gì từ nơi này chăng</Desc>
+			<Selections.0.Display>Lĩnh ngộ ý tưởng</Selections.0.Display>
+			<Selections.0.Tip>Dùng trí tuệ</Selections.0.Tip>
+			<Selections.1.Display>Hấp thu linh khí</Selections.1.Display>
+			<Selections.2.Display>Nơi này quá lạnh</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Cold2">
+			<DisplayName>Vô tình phát hiện ra vùng đất tuyết</DisplayName>
+			<Desc>[NAME] Bắt gặp hai đầu yêu thú đang đại chiến giữa không trung, dường như cả hai hung thú đều có chiêu thức chiến đấu vô cùng kỳ lạ, tựa như trận chiến giữa dị thú từ dị giới [NAME] Vừa cảm thấy hồi hộp vừa thấy kinh ngạc, dường như cuộc chiến giữa hai đầu yêu thú này ẩn chứa huyền cơ nào đó</Desc>
+			<Selections.0.Display>Mô phỏng yêu thú</Selections.0.Display>
+			<Selections.0.Tip>Dùng thần thức cảm nhận</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+			<Selections.2.Display>Nơi này quá lạnh</Selections.2.Display>
+		</Text>
+		<Text Name="Secret_Cold_Base">
+			<DisplayName>Tìm kiếm manh mối</DisplayName>
+			<Desc>[NAME] Đã đi đến[PLACE]Và[IT]Nghe được một vài tin đồn đang lan truyền trong dân gian</Desc>
+			<Selections.0.Display>Hỏi thăm thông tin</Selections.0.Display>
+			<Selections.0.Tip>Chống lại cái lạnh</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Cold_Base">
+			<DisplayName>Tìm kiếm địa điểm</DisplayName>
+			<Desc>[NAME] Nghe nói có một địa điểm thú vị nằm gần[PLACE] Vì vậy,[ENHIM]nên quyết định lên đường tìm kiếm nơi đó.</Desc>
+			<Selections.0.Display>Tìm kiếm một nơi yên tĩnh</Selections.0.Display>
+			<Selections.0.Tip>Chống lại cái lạnh</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Cold_Base">
+			<DisplayName>Thu thập tài nguyên</DisplayName>
+			<Desc>Trong lúc [NAME] Đang trên đường đi [ENHIM]Vô tình chú ý thấy có thứ gì đó xung quanh [PLACE] Thứ này tương đối có ích cho tông môn</Desc>
+			<Selections.0.Display>Thu thập tài nguyên địa phương</Selections.0.Display>
+			<Selections.0.Tip>Chống lại cái lạnh</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+		</Text>
+		<Text Name="Highfind_Cold_Base">
+			<DisplayName>Tìm kiếm bảo vật</DisplayName>
+			<Desc>[NAME] Nghe tin đồn có vật phẩm trong[PLACE] Có lợi cho việc tu luyện</Desc>
+			<Selections.0.Display>Tìm kiếm</Selections.0.Display>
+			<Selections.0.Tip>Sử dụng vận may</Selections.0.Tip>
+			<Selections.1.Display>Không để ý</Selections.1.Display>
+			<Selections.2.Display>Nơi này quá lạnh</Selections.2.Display>
+		</Text>
+		<Text Name="Visit_Old_Base">
+			<DisplayName>Kỳ ngộ</DisplayName>
+			<Desc>[NAME] đã đụng độ một nhóm đệ tử của[SCHOOL]đến chào hỏi[ENHIM]Trong lúc đang đi trên đường</Desc>
+			<Selections.0.Display>trò chuyện thân thiết</Selections.0.Display>
+			<Selections.1.Display>Đàm đạo đôi câu</Selections.1.Display>
+			<Selections.2.Display>Giễu cợt</Selections.2.Display>
+			<Selections.3.Display>Giễu cợt</Selections.3.Display>
+			<Selections.4.Display>Không để ý</Selections.4.Display>
+			<Selections.5.Display>Khiêu khích</Selections.5.Display>
+			<Selections.5.Tip>Kim Đan</Selections.5.Tip>
+			<Selections.6.Display>Khiêu khích</Selections.6.Display>
+			<Selections.6.Tip>Kim Đan</Selections.6.Tip>
+			<Selections.7.Display>Không để ý</Selections.7.Display>
+			<Selections.7.Tip>Kim Đan</Selections.7.Tip>
+			<Selections.8.Display>Không để ý</Selections.8.Display>
+			<Selections.8.Tip>Kim Đan</Selections.8.Tip>
+		</Text>
+		<Text Name="Visit_Old_1">
+			<DisplayName>Kỳ ngộ</DisplayName>
+			<Desc>[NAME] Gặp trưởng lão của[SCHOOL]Trong lúc đang đi trên đường</Desc>
+			<Selections.0.Display>Chào hỏi</Selections.0.Display>
+			<Selections.1.Display>Đàm đạo đôi câu</Selections.1.Display>
+			<Selections.2.Display>Tập kích</Selections.2.Display>
+			<Selections.2.Tip>Kim Đan</Selections.2.Tip>
+			<Selections.3.Display>Tập kích</Selections.3.Display>
+			<Selections.3.Tip>Kim Đan</Selections.3.Tip>
+			<Selections.4.Display>Tấn công</Selections.4.Display>
+			<Selections.4.Tip>Kim Đan</Selections.4.Tip>
+			<Selections.5.Display>Không để ý</Selections.5.Display>
+			<Selections.6.Display>Khiêu khích</Selections.6.Display>
+			<Selections.6.Tip>Kim Đan</Selections.6.Tip>
+			<Selections.7.Display>Khiêu khích</Selections.7.Display>
+			<Selections.7.Tip>Kim Đan</Selections.7.Tip>
+			<Selections.8.Display>Không để ý</Selections.8.Display>
+			<Selections.8.Tip>Kim Đan</Selections.8.Tip>
+			<Selections.9.Display>Không để ý</Selections.9.Display>
+			<Selections.9.Tip>Kim Đan</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_Old_2">
+			<DisplayName>Bái phỏng tông môn</DisplayName>
+			<Desc>Khi [NAME] Biết rằng[SCHOOL]Ở gần nơi này [ENHIM]Liền lập tức tiến về phía[SCHOOL]Ngay lập tức</Desc>
+			<Selections.0.Display>Bái kiến tông chủ</Selections.0.Display>
+			<Selections.1.Display>Chào hỏi</Selections.1.Display>
+			<Selections.2.Display>Chào hỏi</Selections.2.Display>
+			<Selections.3.Display>Chào hỏi</Selections.3.Display>
+			<Selections.4.Display>Chào hỏi</Selections.4.Display>
+			<Selections.5.Display>Chào hỏi</Selections.5.Display>
+			<Selections.5.Tip>Cảnh giới Nguyên Thần hoặc có quan hệ tốt</Selections.5.Tip>
+			<Selections.6.Display>Lén lút lẻn vào</Selections.6.Display>
+			<Selections.6.Tip>Cảnh giới Nguyên thần hoặc có cơ duyên cao</Selections.6.Tip>
+			<Selections.7.Display>Không để ý</Selections.7.Display>
+		</Text>
+	</List>
+</Texts>

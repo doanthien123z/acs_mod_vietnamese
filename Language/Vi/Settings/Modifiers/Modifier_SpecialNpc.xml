@@ -1,0 +1,62 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Chỉ số ban đầu</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Chỉ số cơ bản chiến đấu</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Thần hồn</DisplayName>
+			<Desc>Người này có căn cơ vững chắc và chân khí vô tận</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Độ bền</DisplayName>
+			<Desc>Người này có sức phòng ngự cứng cáp tựa thép</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Nhiệt huyết</DisplayName>
+			<Desc>Người này điều khiển pháp bảo tấn công mạnh mẽ tựa sấm sét</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Cường tráng</DisplayName>
+			<Desc>Người này điều khiển pháp bảo vững chãi như núi với sức mạnh không gì phá hủy được</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Linh hoạt</DisplayName>
+			<Desc>Kẻ này điều khiển pháp bảo nhanh như chớp giật</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Tinh thông</DisplayName>
+			<Desc>Kẻ này điều khiển pháp bảo vô cùng uyển chuyển vô song</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Đa tài</DisplayName>
+			<Desc>Kẻ này có thể tinh thông nhiều món pháp bảo</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Bí ẩn</DisplayName>
+			<Desc>Kẻ này sở hữu linh lực vô song</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Chớp nhoáng</DisplayName>
+			<Desc>Kẻ này có thể thi triển pháp thuật vô cùng chớp nhoáng</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>Kẻ thù truyền kiếp</DisplayName>
+			<Desc>Khi đối mặt với kẻ thù truyền kiếp, sức mạnh sẽ gia tăng nhờ vào ngọn lửa thù hận</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Luyện Khí sơ kỳ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Trúc Cơ sơ kỳ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Kim Đan sơ kỳ</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Nguyên Anh sơ kỳ</DisplayName>
+		</Text>
+	</List>
+</Texts>

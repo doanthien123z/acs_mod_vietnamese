@@ -1,0 +1,50 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="GodStory_1">
+			<DisplayName>Truyền bá đạo pháp</DisplayName>
+			<Desc>Trong lúc vân du [NAME] Đã không ngừng truyền đạo và giúp đỡ những phàm nhân không có căn cơ tu luyện trong suốt chuyến đi</Desc>
+			<Selections.0.Display>Không sao là tốt rồi</Selections.0.Display>
+		</Text>
+		<Text Name="GodStory_2">
+			<DisplayName>Truyền bá đạo pháp</DisplayName>
+			<Desc>Trong lúc vân du [NAME] Đã gặp những phàm nhân đang cần giúp đỡ và ra tay tương trợ họ</Desc>
+			<Selections.0.Display>Không sao là tốt rồi</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_1">
+			<DisplayName>Chiến tranh nhân giới</DisplayName>
+			<Desc>[NAME] Đã vội vã tiến về[PLACE]Và phát hiện nơi đây có vô số nạn dân đang chịu khổ cực bởi chiến tranh</Desc>
+			<Selections.0.Display>Kêu gọi ngừng chiến</Selections.0.Display>
+			<Selections.1.Display>Dùng vũ lực chấm dứt chiến tranh</Selections.1.Display>
+			<Selections.1.Tip>Kim Đan</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_2">
+			<DisplayName>Thảm họa dịch bệnh</DisplayName>
+			<Desc>[NAME] Đã vội vã tiến về[PLACE]Và phát hiện nơi này đang bùng phát dịch bệnh nghiêm trọng, rất nhiều dân chúng đã ngã xuống tử vong..</Desc>
+			<Selections.0.Display>Cứu chữa cho dân chúng</Selections.0.Display>
+			<Selections.0.Tip>Kim Đan</Selections.0.Tip>
+			<Selections.1.Display>Phong tỏa thành trì, cách ly bệnh nhân</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_3">
+			<DisplayName>Ma khí nơi nhân gian</DisplayName>
+			<Desc>[NAME] Đã vội vã tiến về[PLACE]Và phát hiện nơi này ma khí tụ tập vô cùng dày đặc, người dân nơi đây đều rơi vào cảnh hỗn loạn.</Desc>
+			<Selections.0.Display>Lập kế hoạch xua tan ma khí</Selections.0.Display>
+			<Selections.1.Display>Dùng vũ lực xua tan ma khí</Selections.1.Display>
+			<Selections.1.Tip>Kim Đan</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_4">
+			<DisplayName>Thiên tai</DisplayName>
+			<Desc>Trong lúc [NAME] Đã vội vã tiến về[PLACE] [ENHIM]Phát hiện tình hình nơi này vô cùng hỗn loạn, người dân gào khóc trong sợ hãi và tìm cách tháo chạy khỏi thiên tai.</Desc>
+			<Selections.0.Display>Cứu giúp dân chúng</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_Gong_God_1">
+			<DisplayName>Tuyệt kỹ thất truyền</DisplayName>
+			<Desc>Khi [NAME] Đã đến thung lũng được đề cập, đột nhiên có luồng lôi điện mờ ảo giáng xuống, hoàn toàn khác với lôi điện thông thường, xem ra nơi đây có điều không hề bình thường.</Desc>
+			<Selections.0.Display>Điều tra thung lũng</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

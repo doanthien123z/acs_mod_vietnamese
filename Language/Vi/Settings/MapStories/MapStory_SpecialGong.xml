@@ -1,0 +1,61 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Secrets_Gong2">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện vạn đạo sinh vạn binh kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong3">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện thất sát kiếm kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong4">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện thái ất thuần ngọc kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong5">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện thôn thiên đạo kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong6">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện hồng mông luyện đan kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_Gong7">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE] Và phát hiện nơi này là di tích truyền thừa công pháp của một vị thượng cổ chân tiên, bên trong xuất hiện thái thượng trảm tình kinh. Tuy nhiên, di tích này lại được bao quanh bởi thượng cổ tiên trận để bảo vệ. Dường như đây là thủ pháp của thượng cổ chân tiên nhằm tuyển chọn người thích hợp để kế thừa y bát của họ. Có những tia chớp luân chuyển khắp trận pháp và dường như ẩn chứa uy lực hủy diệt cực kỳ to lớn.</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GongRandom">
+			<DisplayName>Kinh thư truyền thừa cổ xưa</DisplayName>
+			<Desc>[NAME] Đã đến[PLACE]Và phát hiện ra một bộ công pháp bí ẩn được đặt ở đó [ENHIM]Bản thân cũng không biết đây rốt cuộc là công pháp của ai</Desc>
+			<Selections.0.Display>Dùng sức mạnh phá vỡ trận pháp và lấy nó ra</Selections.0.Display>
+			<Selections.0.Tip>Nguyên anh và cơ duyên</Selections.0.Tip>
+			<Selections.1.Display>Chấp nhận truyền thụ</Selections.1.Display>
+			<Selections.1.Tip>Khí vận</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

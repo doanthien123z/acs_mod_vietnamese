@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_YaoShou">
+			<DisplayName>Công pháp tu luyện bản năng</DisplayName>
+			<Desc>Công pháp tu luyện mà yêu thú dựa vào bản năng của chính mình để tu luyện</Desc>
+			<Stages.0.DisplayName>Tầng thứ 1</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tầng thứ 1</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Tầng thứ 2</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tầng thứ 2</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Tầng thứ 3</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Tầng thứ 3</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Tầng thứ 4</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Tầng thứ 4</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Tầng thứ 5</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Tầng thứ 5</Stages.4.Necks.0.DisplayName>
+			<Stages.5.DisplayName>Tầng thứ 6</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Tầng thứ 6</Stages.5.Necks.0.DisplayName>
+			<Stages.6.DisplayName>Tầng thứ 7</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Tầng thứ 7</Stages.6.Necks.0.DisplayName>
+			<Stages.7.DisplayName>Tầng thứ 8</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Tầng thứ 8</Stages.7.Necks.0.DisplayName>
+			<Stages.8.DisplayName>Tầng thứ 9</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Tầng thứ 9</Stages.8.Necks.0.DisplayName>
+			<Stages.9.DisplayName>Tầng thứ 10</Stages.9.DisplayName>
+			<Stages.9.Necks.0.DisplayName>Tầng thứ 10</Stages.9.Necks.0.DisplayName>
+			<Stages.10.DisplayName>Tầng thứ 11</Stages.10.DisplayName>
+			<Stages.10.Necks.0.DisplayName>Tầng thứ 11</Stages.10.Necks.0.DisplayName>
+			<Stages.11.DisplayName>Tầng thứ 12</Stages.11.DisplayName>
+			<Stages.11.Necks.0.DisplayName>Tầng thứ 12</Stages.11.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,64 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>Bất tỉnh</DisplayName>
+			<Desc>Ngất đi</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>Tăng cường độ cứng cáp</DisplayName>
+			<Desc>Tấn công và phòng thủ sẽ tăng lên theo căn cơ</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>Hậu Thổ thần ân</DisplayName>
+			<Desc>Năng lực tăng mạnh dưới ảnh hưởng của Hậu Thổ thần ân</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>Thủy chi lực</DisplayName>
+			<Desc>Thủy long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>Hỏa chi lực</DisplayName>
+			<Desc>Hỏa phượng chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>Âm Dương chi lực</DisplayName>
+			<Desc>Thiên long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>Thủy chi lực</DisplayName>
+			<Desc>Thủy long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>Thủy chi lực</DisplayName>
+			<Desc>Thủy long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>Thủy chi lực</DisplayName>
+			<Desc>Thủy long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>Hỏa chi lực</DisplayName>
+			<Desc>Hỏa phượng chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>Hỏa chi lực</DisplayName>
+			<Desc>Hỏa phượng chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>Âm Dương chi lực</DisplayName>
+			<Desc>Thiên long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>Âm Dương chi lực</DisplayName>
+			<Desc>Thiên long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>Âm Dương chi lực</DisplayName>
+			<Desc>Thiên long chi khí và lực tấn công tăng lên</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>Cao cấp cộng hưởng chân khí</DisplayName>
+			<Desc>Cộng hưởng chân khí giữa các linh thụ phát quang có thể tăng tốc độ hồi phục chân khí</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>Xây dựng hệ thống núi</DisplayName>
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>Theo dõi</DisplayName>
+			<TargetDesc>Chọn nhân vật muốn theo dõi</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Đốt pháo hoa</DisplayName>
+			<TargetDesc>Chọn vị trí đốt lửa</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>Bắn pháo hoa</DisplayName>
+			<TargetDesc>Chọn vị trí đốt lửa</TargetDesc>
+		</Text>
+	</List>
+</Texts>

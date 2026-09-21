@@ -1,0 +1,23 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Tổn Thất Nhất Định</DisplayName>
+		</Text>
+		<Text Name="SYS_ATK">
+			<DisplayName>Công Kích Thân Pháp</DisplayName>
+			<Desc>Người tu luyện Bất Tử Thân sẽ tấn công kẻ địch bằng toàn bộ sức mạnh, tuy nhiên điều này sẽ làm giảm khả năng phòng thủ của bí thể.</Desc>
+		</Text>
+		<Text Name="SYS_NORMAL">
+			<DisplayName>Cơ Bản Thân Pháp</DisplayName>
+			<Desc>Thế chiến đấu tiêu chuẩn cho người tu luyện Bất Tử Thân. Đầu tiên sẽ đối phó với pháp bảo của kẻ địch rồi tấn công cơ thể chúng, thân pháp này cân bằng cả công lẫn thủ.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_ManJi">
+			<DisplayName>Chiến Hồn</DisplayName>
+			<Desc>Sử dụng ý chí chiến đấu mạnh mẽ để điều khiển toàn bộ cơ thể di chuyển và trực tiếp tấn công thân thể kẻ địch, gia tăng đáng kể khả năng tấn công trong khi vẫn duy trì một phần bản năng phòng thủ.</Desc>
+		</Text>
+		<Text Name="BPAttitudes_WangZhe">
+			<DisplayName>Vương Giả Chi Nhã</DisplayName>
+			<Desc>Trấn định tâm thần khi đối mặt với chiến đấu bằng trái tim của vương giả, giảm tiêu hao năng lượng của bí thể.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,55 @@
+Name	DisplayName	Tips
+		 
+DisplayName	Tên hiển thị	Tên vật phẩm
+Desc	Mô tả	Mô tả vật phẩm
+Element	Ngũ Hành	Thuộc tính ngũ hành của vật phẩm
+Rate	Phẩm cấp	Phẩm cấp của vật phẩm
+Zhuji	Tu vi cơ bản	Chỉ số cơ bản tăng lên khi sử dụng/tiêu thụ vật phẩm này (phạm vi: 0–30.000) (chỉ dành cho ngoại môn đệ tử))
+Fesistance	Kháng dược tính lâu dài	Tỷ lệ dược hiệu suy giảm khi sử dụng lặp lại nhiều lần. Giá trị “Kháng dược = 1” Có nghĩa là lần sử dụng tiếp theo sẽ “Không mang lại tác dụng gì” (Phạm vi giá trị: 0–1; Độ phân giải: 0.01)
+Ling	Khí	Lượng Khí tăng lên khi sử dụng/tiêu thụ vật phẩm này (phạm vi: 0–999,999,999)
+Nutrition	Giá trị dinh dưỡng	Độ no hồi phục khi tiêu thụ vật phẩm này (phạm vi: 0–100)
+Water	Khát nước	Độ khát hồi phục khi tiêu thụ vật phẩm này (phạm vi: 0–100)
+PracticeNutrition	Thể lực	Thể lực hồi phục khi tiêu thụ vật phẩm này (phạm vi: 0–9,999)
+DiscipleOnly	Chỉ có hiệu lực với nội môn đệ tử	Vật phẩm này chỉ có hiệu lực với nội môn đệ tử phải không?
+DanModifier	Hiệu ứng đan dược	Hiệu ứng đặc biệt nhận được khi sử dụng vật phẩm
+Color	Màu biểu tượng	Màu biểu tượng của vật phẩm
+EquipLable	Loại trang bị	Phân loại trang bị
+EquipModel	Mô hình	Mô hình trang bị
+Sex	Giới tính	Điều kiện giới tính để mặc trang bị
+TemperatureMaxAdd	Nhiệt độ tối đa thích hợp	Hệ số điều chỉnh nhiệt độ cao tối đa thích hợp của nhân vật, giá trị thực tế tùy thuộc vào phẩm chất trang bị và nguyên liệu (Khoảng giá trị: -999–999)
+TemperatureMinAdd	Nhiệt độ tối thiểu thích hợp	Hệ số điều chỉnh nhiệt độ thấp tối thiểu thích hợp của nhân vật, giá trị thực tế tùy thuộc vào phẩm chất trang bị và nguyên liệu (Khoảng giá trị: -999–999)
+WeaponKind	Binh khí	Loại vũ khí
+Damage	Sát thương cơ bản	Sát thương cơ bản của vũ khí, giá trị thực tế tùy thuộc vào phẩm chất trang bị và nguyên liệu (Khoảng giá trị: 1–999)
+AttackSpeed	Tốc độ tấn công	Tốc độ tấn công của vũ khí trên giây (Khoảng giá trị: 0.3–3)
+AttackRange	Phạm vi tấn công	Khoảng cách tấn công xa nhất của vũ khí, đơn vị: ô (Khoảng giá trị: 1.5–20)
+Difficulty	Độ khó lĩnh hội	Độ khó của công pháp, càng khó càng tốn nhiều linh cảm nhưng điểm lĩnh hội nhận được sẽ càng cao (Khoảng giá trị: 0–999)
+EsotericaType	Loại công pháp	Phân loại công pháp
+MaxStack	Hệ số nhân	
+Duration	Thời gian duy trì	Thời gian duy trì hiệu ứng đặc biệt, đơn vị: giây (Khoảng giá trị: -1 hoặc 1–999,999; Nếu là -1 sẽ có hiệu lực vĩnh viễn)
+Skill	Điểm cộng kỹ năng	Điểm cộng chỉ số kỹ năng bổ sung phát sinh từ hiệu ứng đặc biệt
+Property	Điểm cộng thuộc tính	Điểm cộng chỉ số bổ sung phát sinh từ hiệu ứng đặc biệt
+GLevel	Cảnh giới/Tầng	Cảnh giới/Tầng yêu cầu để lĩnh hội công pháp
+DanLevel	Đạo hạnh luyện đan	Cấp độ luyện đan cần thiết để luyện chế đan dược (Khoảng giá trị: 1–20)
+DanCount	Sản lượng luyện đan	Số lượng lý thuyết nhận được khi luyện đan, số lượng thực tế tùy thuộc vào cảnh giới luyện đan và địa điểm. Khi luyện luôn nhận được ít nhất 1 viên (Khoảng giá trị: 0.1–999)
+DanRate	Độ khó luyện đan	Độ khó khi luyện chế đan dược, giá trị càng cao càng khó thành công
+ELearn	Học từ công pháp	Phương pháp luyện chế đan dược có thể học từ công pháp
+WorldDrop	Rơi từ thế giới	Có thể nhận được đan dược từ phần thưởng ngẫu nhiên trong quá trình thám hiểm
+Businessman	Bán bởi thương nhân du lịch	Có thể mua đan dược từ thương nhân du lịch
+InitialUnlock	Mở khóa ban đầu	Mặc định ai cũng có thể luyện chế loại đan dược này
+DropCount	Số lượng rơi	Số lượng đan dược nhận được trong quá trình phiêu lưu
+DropRate	Tỉ lệ rơi	Cơ hội nhận được đan dược khi kích hoạt phần thưởng đan dược ngẫu nhiên trong quá trình phiêu lưu
+SellPrice	Giá vật phẩm	Giá mua vật phẩm từ thương nhân
+SellCount	Số lượng trong kho	Số lượng đan dược thương nhân mang theo mỗi lần
+StuffSelect	Nguyên liệu phụ	Chọn nguyên liệu phụ để sử dụng khi chế tạo vật phẩm
+EsoDropRate	Tỉ lệ rơi	Cơ hội nhận được bí tịch khi kích hoạt phần thưởng bí tịch ngẫu nhiên trong quá trình phiêu lưu
+StartUnlock	Tự động mở khóa	Tự động nhận được khi bắt đầu trò chơi mới
+EsoWorldDrop	Rơi từ thế giới	Có thể nhận được bí tịch từ phần thưởng bí tịch ngẫu nhiên trong quá trình phiêu lưu
+EquipModifier	Hiệu quả trang bị	Hiệu quả đặc biệt nhận được khi trang bị vật phẩm này
+EsoModifier	Hiệu quả bí tịch	Hiệu quả đặc biệt nhận được khi nghiên cứu bí tịch này
+MaterialSelect	Nguyên liệu chính	Loại nguyên liệu chính cần dùng để chế tạo vật phẩm
+BuildSelect	Công trình cần thiết	Công trình cần có để chế tạo vật phẩm
+MainCostItemCount	Số lượng nguyên liệu chính	Số lượng nguyên liệu chính cơ bản cần dùng để chế tạo vật phẩm (khoảng giá trị: 1–999)
+DanSelect	Công thức đan dược	Công thức đan dược có thể học được từ bí tịch
+ModSelect	Mô hình	Mẫu vũ khí
+Ignorelimit	Không tính giới hạn cấp độ	Tiền thưởng cấp kỹ năng này có bỏ qua giới hạn cấp kỹ năng 20 hay không
+PpTypeSelect	Loại tiền thưởng	Loại tiền thưởng chỉ số

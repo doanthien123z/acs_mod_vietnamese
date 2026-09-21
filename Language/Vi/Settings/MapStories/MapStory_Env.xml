@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="DiMuWish">
+			<DisplayName>Cúng bái</DisplayName>
+			<Desc>Dâng linh thạch cho miếu Thổ Địa</Desc>
+			<Selections.0.Display>Cầu nguyện linh thạch</Selections.0.Display>
+			<Selections.1.Display>Cầu nguyện cho tự nhiên</Selections.1.Display>
+		</Text>
+		<Text Name="YinYangCanWu">
+			<DisplayName>Ý niệm Âm Dương</DisplayName>
+			<Desc>Âm Dương Thạch chứa đựng quy luật Âm Dương của thiên địa, có thể dùng để lĩnh ngộ Đại Đạo trong tu luyện</Desc>
+			<Selections.0.Display>Ý niệm Âm Dương</Selections.0.Display>
+			<Selections.1.Display>Không có chuyện gì xảy ra...</Selections.1.Display>
+		</Text>
+		<Text Name="FeelQi">
+			<DisplayName>Cảm ứng chân khí</DisplayName>
+			<Desc>Xung quanh Thần Đăng Thụ phảng phất có linh khí vô cùng kỳ diệu, có thể giao cảm với người tu tiên</Desc>
+			<Selections.0.Display>Cảm ứng chân khí</Selections.0.Display>
+			<Selections.1.Display>Không có chuyện gì xảy ra...</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

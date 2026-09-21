@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="_OnTheWay">
+			<DisplayName>Đang đi đến</DisplayName>
+		</Text>
+		<Text Name="_GodOnTheWay">
+			<DisplayName>Thần đang đi</DisplayName>
+		</Text>
+		<Text Name="_InMap">
+			<DisplayName>Khu vực</DisplayName>
+		</Text>
+		<Text Name="_StayFree">
+			<DisplayName>Đang chu du đại thế giới</DisplayName>
+		</Text>
+		<Text Name="Place_OldSchool">
+			<DisplayName>Cổ Tông Môn</DisplayName>
+		</Text>
+		<Text Name="_TestMap">
+			<DisplayName>Đang đi đến</DisplayName>
+		</Text>
+		<Text Name="_LOSTPALCE">
+			<DisplayName>Vùng đất tiêu điều (trống))</DisplayName>
+		</Text>
+	</List>
+</Texts>

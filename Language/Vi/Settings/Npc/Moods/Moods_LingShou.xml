@@ -1,0 +1,29 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsHelpPlayHappy">
+			<DisplayName>Vô cùng hạnh phúc</DisplayName>
+			<Desc>Đùa nghịch với linh thú khiến Người cảm thấy vui vẻ cả ngày</Desc>
+			<StoryDesc>Cảm thấy những khoảnh khắc vui vẻ này thật sự làm cho một ngày trở nên tươi sáng</StoryDesc>
+		</Text>
+		<Text Name="BiteHappy">
+			<DisplayName>Cảm thấy yêu mến</DisplayName>
+			<Desc>Cái cắn nhẹ nhàng của linh thú khiến Người cảm thấy yêu mến nó</Desc>
+			<StoryDesc>Không cảm thấy đau chút nào, chỉ hơi ngứa một chút</StoryDesc>
+		</Text>
+		<Text Name="BiteSad">
+			<DisplayName>Bực bội</DisplayName>
+			<Desc>Bị linh thú cắn mạnh, dường như nó không thích ta cho lắm</Desc>
+			<StoryDesc>Cảm thấy không vui</StoryDesc>
+		</Text>
+		<Text Name="PetHeal">
+			<DisplayName>Linh thú theo chân Người</DisplayName>
+			<Desc>Linh thú đó luôn ở bên bầu bạn cùng Người, khiến tâm trạng của Người tốt hơn</Desc>
+			<StoryDesc>Cảm thấy tâm trạng dần dần tốt lên</StoryDesc>
+		</Text>
+		<Text Name="PetStay">
+			<DisplayName>Linh thú theo chân Người</DisplayName>
+			<Desc>Linh thú đó luôn ở bên bầu bạn cùng Người, khiến tâm trạng của Người tốt hơn</Desc>
+			<StoryDesc>Cảm thấy tâm trạng dần dần tốt lên</StoryDesc>
+		</Text>
+	</List>
+</Texts>

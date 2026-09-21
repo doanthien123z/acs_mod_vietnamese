@@ -1,0 +1,178 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Effect_Constant_AnimalToMonster">
+			<DisplayName>Biến dị yêu thú</DisplayName>
+			<Desc>Sinh vật chết đi có thể biến thành yêu thú hung ác.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ElixirGas">
+			<DisplayName>Đan dược tạo linh khí hoàn hảo</DisplayName>
+			<Desc>Khi luyện đan thành công, năng lượng ngũ hành của đan dược trong khu vực sẽ gia tăng, gây ra các kết quả khác nhau tùy theo tỷ lệ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LifeLost">
+			<DisplayName>Vận mệnh xoay chuyển đột ngột</DisplayName>
+			<Desc>Kháng dược tính khi dùng đan dược sẽ giảm, nhưng tuổi thọ sẽ bị tiêu hao nhanh hơn bình thường gấp trăm lần.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_AncientStoneChest">
+			<DisplayName>Ma Thạch Chú</DisplayName>
+			<Desc>Tăng xác suất đào được hộp đá cổ đại lên rất nhiều, nhưng đệ tử thực hiện đào sẽ phải bỏ mạng.</Desc>
+			<Effects.0.sParam1>Ma Thạch Chú</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_LinQiSurge">
+			<DisplayName>Thiên uy vĩ đại</DisplayName>
+			<Desc>Mỗi khi thời tiết thay đổi sẽ xảy ra hiện tượng sóng linh khí bùng phát. Tuy nhiên, nếu muốn cưỡng ép thay đổi thời tiết, phải đánh đổi bằng tuổi thọ của người thực hiện.</Desc>
+			<Effects.0.sParam1>Thiên uy vĩ đại</Effects.0.sParam1>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GoodsExpensiveButSuppliesCheaper">
+			<DisplayName>Người người đều mưu cầu lợi ích</DisplayName>
+			<Desc>Thương nhân sẽ bán hàng với giá thấp hơn một nửa, nhưng giá mua lại tăng gấp đôi. Trong một chu kỳ giao dịch, việc mua lặp lại sẽ làm giá tăng cao, trong khi bán lặp lại sẽ làm giá rẻ đi.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FiveElementsRelationChange">
+			<DisplayName>Ngũ hành đảo lộn</DisplayName>
+			<Desc>Quy luật tương sinh tương khắc của ngũ hành bị đảo ngược hoàn toàn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_CantDrawFuAndRandomFu">
+			<DisplayName>Phù đạo sụp đổ</DisplayName>
+			<Desc>Không thể vẽ bùa chú theo ý muốn. Khi vẽ bùa sẽ cho kết quả ngẫu nhiên, nhưng có thể sử dụng đồng thời 6 ô bùa chú.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RefineMustSuccess">
+			<DisplayName>Thần khí định mệnh</DisplayName>
+			<Desc>Việc rèn pháp bảo chắc chắn thành công, nhưng phải đánh đổi bằng việc tiêu tốn nhiều tài nguyên hơn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_NpcAvoidDangerAutomatically">
+			<DisplayName>Thế giới cân bằng</DisplayName>
+			<Desc>Nhận được sự yêu mến cao hơn từ các tu sĩ, có thể trực tiếp đột phá tâm cảnh, nhưng các tu sĩ sẽ có linh cảm tự tránh né nguy hiểm.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_RealTime">
+			<DisplayName>Điều chỉnh nhân quả thời gian</DisplayName>
+			<Desc>Thời gian của các sự kiện bí mật giảm xuống còn một phần ba. Đệ tử được phái đi bên ngoài sẽ tiêu tốn thời gian thực tế.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_SupplyBox">
+			<DisplayName>Tàn tích thời kỳ mạt thế</DisplayName>
+			<Desc>Màn sương trên bản đồ bị xóa bỏ hoàn toàn. Thế giới này không thể nhận được thành quả từ việc sát sinh, chặt cây, thu hoạch hay đào khoáng, nhưng mỗi ngày sẽ có hòm tiếp tế từ trên trời rơi xuống tông môn.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetGoodBadScoreRandom">
+			<DisplayName>Duyên nợ khắp nhân gian</DisplayName>
+			<Desc>Khi nhận được danh tiếng qua các phương thức khác nhau, danh tiếng nhận được sẽ ngẫu nhiên là dương hoặc âm, hệ số nhân của danh tiếng sẽ ngẫu nhiên từ 0.1 đến 10 lần.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_UnlockGong">
+			<DisplayName>Đạo quả lâm nguy</DisplayName>
+			<Desc>Điểm tu luyện nền tảng dùng để xây dựng căn cơ và điểm tu luyện của mọi cấp độ đều bị nhân năm. Tất cả công pháp bồi dưỡng được mở cho toàn bộ tu sĩ.</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yang">
+			<DisplayName>Vùng đất cực dương</DisplayName>
+			<Desc>Phong thủy của tông môn đạt đến đỉnh điểm vĩnh viễn. Hiệu quả tụ linh tăng thêm 100 điểm. Hỏa và Mộc trong mọi khu vực của tông môn đều tăng lên, nhiệt độ cơ bản của bản đồ tăng lên. 20°</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Yin">
+			<DisplayName>Vùng đất cực âm</DisplayName>
+			<Desc>Phong thủy của tông môn đạt đến đỉnh điểm vĩnh viễn. Hiệu quả tụ linh tăng thêm 100 điểm. Kim và Thủy trong mọi khu vực của tông môn đều tăng lên, nhiệt độ cơ bản của bản đồ giảm xuống. 20°</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_1">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Săn giết một lượng thỏ nhất định, nhận được bảo vật quý giá.</Desc>
+			<SpecialDesc>Sau khi đệ tử trong tông môn săn bắt một lượng thỏ [TARGET] Xuất hiện!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_2">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Săn giết một lượng sói nhất định, nhận được bảo vật quý giá.</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng sói [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_3">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng gấu, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng gấu [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_4">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng rùa, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng rùa [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_5">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng hổ, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng hổ [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_6">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng trâu, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng trâu bò [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_7">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng gà, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng gà [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Hunter_8">
+			<DisplayName>Yêu thú thợ săn</DisplayName>
+			<Desc>Tiêu diệt một lượng rắn, nhận được bảo vật trân quý</Desc>
+			<SpecialDesc>Khi đệ tử trong tông môn săn bắt một lượng rắn [TARGET] Phát sinh!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_1">
+			<DisplayName>Tội nghiệp chiếm hữu</DisplayName>
+			<Desc>Nhận được rất nhiều bảo vật hiếm, nhưng toàn bộ tông môn lại nhìn chúng ta với ánh mắt căm ghét</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_OuterDiscipleRoomDemand">
+			<Desc>Đệ tử ngoại môn có thể ngự kiếm bay lội, nhưng cần chỗ ở lớn hơn</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetItem_2">
+			<Desc>Thiên ân vạn lộc</Desc>
+			<SpecialDesc>Khi danh tiếng của tông môn tăng vọt [TARGET] Liền hiện thân!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_Sacrific">
+			<Desc>Bắt đầu nghi lễ tế thần yêu thú</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetSchoolRelation">
+			<Desc>Đánh thức cơn giận của Vạn Yêu Điện</Desc>
+			<SpecialDesc>Hiến tế yêu thú làm bùng cháy cơn giận của Yêu Điện!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_FengShuiChange">
+			<Desc>Đệ tử trong tông đều là kỳ tài, mọi thuộc tính +2 (Giới hạn tăng lên) nhưng bị thiên đạo đố kỵ, khiến mọi vật phẩm thần thánh đều trở thành vật bất tường</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_1">
+			<Desc>Khả năng lĩnh hội của đệ tử trong tông môn tăng lên, kỹ năng luyện đan +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_2">
+			<Desc>Khả năng thám hiểm của đệ tử trong tông giảm mạnh, nhưng kỹ năng luyện khí đặc biệt +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_3">
+			<Desc>Kỹ năng chế khí của đệ tử trong tông môn +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_4">
+			<Desc>Tâm trạng giảm mạnh, kỹ năng giao tiếp +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_5">
+			<Desc>Kỹ năng thủ công tinh xảo của đệ tử trong tông giảm mạnh, kỹ năng xây dựng +10 Kỹ năng khai khoáng +10</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_6">
+			<Desc>Kỹ năng xã giao của đệ tử trong tông -5, kỹ năng chiến đấu +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_7">
+			<Desc>Đệ tử trong tông dễ đói và mệt hơn (Cảm ứng khí +10)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_8">
+			<Desc>Đệ tử trong tông được tăng 50 năm thọ nguyên, khả năng chịu đựng cực âm cực dương giảm -10/-20</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_9">
+			<Desc>Giới hạn chân khí của đệ tử trong tông tăng lên, nhưng thiên kiếp sẽ đến sớm hơn 70%</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_10">
+			<Desc>Kỹ năng chiến đấu của đệ tử trong tông -5, kỹ năng hộ thể +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_11">
+			<Desc>Tốc độ tu luyện của đệ tử trong tông môn giảm mạnh, nhưng kỹ năng môn phái +10 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_12">
+			<Desc>Đệ tử trong tông môn được gia tăng tốc độ tu luyện trúc cơ và tu hành trong thời gian ngắn</Desc>
+			<SpecialDesc>Sự phi thăng thiên giới của [NPC] Giúp tăng tốc độ xây dựng nền móng và tu luyện của tất cả đệ tử trong tông môn trong một khoảng thời gian ngắn!</SpecialDesc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_13">
+			<Desc>Đệ tử trong tông môn chịu ảnh hưởng lớn, khiến tốc độ tu luyện trúc cơ và tu hành giảm đi</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_ModifierChange_14">
+			<Desc>Tốc độ lĩnh hội của đệ tử trong tông môn giảm mạnh, kỹ năng luyện khí +5 (Giới hạn tăng lên)</Desc>
+		</Text>
+		<Text Name="Mutation_Effect_Constant_GetStageValue_1">
+			<Desc>Nhận được tu vi</Desc>
+			<SpecialDesc>[NPC] Nhận được lượng tu vi khổng lồ sau khi tiêu diệt kẻ địch!</SpecialDesc>
+		</Text>
+	</List>
+</Texts>

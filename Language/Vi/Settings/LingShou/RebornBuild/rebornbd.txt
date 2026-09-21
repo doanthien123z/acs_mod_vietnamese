@@ -1,0 +1,5 @@
+race	bdtag	desc
+LsDog	DogStone	Chú cún bị bỏ rơi vì chậm lớn. Là linh thú sinh ra từ linh khí thiên địa nên cực kỳ hiếm gặp. Có khả năng sử dụng hộ thể cương khí và linh lực.
+LsFox	FoxStone	Linh thú được nuôi dưỡng bởi Thái Ất Tông. Nó từng rời đi để đưa tin, khi quay về thì phát hiện Thái Ất Tông đã bị hủy diệt. Từ đó về sau nó lang bạt khắp nơi. Có khả năng sử dụng yêu đan và các chiêu thức liên quan.
+LsDragon	DragonStone	Thú mang huyết mạch rồng. Là thần thú có tiềm năng cao ở mọi phương diện. Có khả năng sử dụng linh lực để tấn công uy lực cực mạnh.
+LsPhoenix	PhoenixStone	Thú mang huyết mạch Phượng Hoàng. Là thần thú có tiềm năng cao ở mọi phương diện. Có khả năng sử dụng linh lực và yêu đan.

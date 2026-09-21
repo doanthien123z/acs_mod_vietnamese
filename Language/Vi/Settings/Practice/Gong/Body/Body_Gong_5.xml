@@ -1,0 +1,17 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_5">
+			<DisplayName>Đọa Thiên Thể</DisplayName>
+			<Desc>Trong quá khứ, từng có những tu sĩ luyện thể bất tử cho rằng cuộc đời này giống như một nhà tù, và ánh sáng đêm vĩnh hằng chính là ánh sáng phát ra từ bên ngoài nhà tù. Họ hấp thụ các hạch nguyên tố kỳ lạ từ đêm vĩnh hằng để tái tạo lại thể xác, tin rằng cuối cùng cơ thể của họ sẽ trở nên mạnh mẽ đến mức có thể phá vỡ nhà tù này và đưa họ thoát khỏi biển khổ. Do những tu sĩ luyện thể bất tử tu luyện môn công pháp này là những kẻ sùng bái đêm vĩnh hằng, nên họ bị các tu sĩ luyện thể bất tử khác chán ghét, và những người đó đã đặt tên cho công pháp luyện thể này là "Đọa Thiên Thể"."</Desc>
+			<SelectDesc>Bước chân vào con đường luyện thể bất tử nghĩa là ngươi phải dung hợp thân thể, chân khí và nguyên thần làm một. Điều này khiến ngươi không thể triển khai pháp thuật hay thậm chí sử dụng pháp bảo. Thứ duy nhất ngươi có thể dựa vào chính là thân thể của mình. Biết được điều này, ngươi có còn muốn bước chân vào con đường luyện thể bất tử nữa không??</SelectDesc>
+			<Stages.0.DisplayName>Giai đoạn Luyện Thể</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tạo Thể</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Giai đoạn Tẩy Tủy</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Phạt Tủy</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Giai đoạn Ngưng Tụ Linh Thể</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Dung Hợp Thân Tâm</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Thần Biến Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Kiếp Thể</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

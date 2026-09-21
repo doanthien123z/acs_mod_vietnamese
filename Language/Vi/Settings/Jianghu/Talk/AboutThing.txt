@@ -1,0 +1,43 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数	文本参数
+S_Carry_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]Nắm giữ[TXT]đang	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_Carry_Ask	0	Ngươi có biết là [NAME] Đang nắm giữ thứ gì?	Làm sao ta biết được?	Đúng, ta biết [TIT]Mang theo[TXT]Luôn mang theo bên người	Ta không muốn nói cho ngươi		
+							
+S_Esoterica_Discuss	0	Ngươi có biết không? [TNAME]Đó là sở trường về[TXT]Rất nhiều!	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_Esoterica_Ask	0	Ngươi có biết là [TNAME]Đó tinh thông chuyện gì?	Làm sao ta biết được?	Đúng, ta biết [TIT]Lợi hại về mặt[TXT]Rất nhiều	Ta không muốn nói cho ngươi		
+							
+S_Feature_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]Đó là người[TXT]	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_Feature_Ask	0	Ngươi có biết là [TNAME]Đó là người như thế nào?	Làm sao ta biết được?	Đúng, ta biết [TIT]Đó là người[TXT]	Ta không muốn nói cho ngươi		
+							
+S_HateItem_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]Đó chán ghét[TXT]Rất nhiều	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_HateItem_Ask	0	Ngươi có biết là [TNAME]Đó không thích gì?	Làm sao ta biết được?	Đúng, ta biết [TIT]Ghét[TXT]Rất nhiều [TIT]Thậm chí không thể nhìn nó mà không cảm thấy tức giận	Ta không muốn nói cho ngươi		
+							
+S_Hobby_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]Đó có[TXT]về...	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_Hobby_Ask	0	Ngươi có biết điều gì mà ta nên chú ý khi trò chuyện với [TNAME]?	Làm sao ta biết được?	[TIT]Đó[TXT]Về... Hãy chú ý đến nó nếu ngươi muốn kết bạn với[TIT]	Ta không muốn nói cho ngươi		
+							
+S_LikeItem_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]Đó yêu thích[TXT]Rất nhiều	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_LikeItem_Ask	0	Ngươi có biết là [TNAME]Đó có sở thích gì?	Làm sao ta biết được?	Đúng, ta biết [TIT]Yêu thích[TXT]Rất nhiều [TIT]Đến mức quên ăn quên ngủ vì[TXT]	Ta không muốn nói cho ngươi		
+							
+S_Secret_Discuss	0	Ta sẽ nói cho ngươi biết một chuyện [TNAME]nắm rất rõ về[TXT]	Ta không quan tâm chuyện đó	Thật trùng hợp, ta cũng biết chuyện đó!	Hả, đó là sự thật sao? Làm sao ngươi biết được chuyện này??		
+S_Secret_Ask	0	Nói cho ta biết [TNAME]Biết những gì	Làm sao ta biết được?	Về chuyện[TXT] [TIT]Dường như biết điều gì đó	Ta không muốn nói cho ngươi		
+							
+T_Carry_Discuss	0	Ngươi có[TXT]Mang theo người, nó sẽ rất hữu ích trong một số tình huống. Ngươi thật chu đáo!	Chúng ta đã nói về chuyện đó rồi phải không??	Phải rồi, chính ngươi cũng nghĩ rằng[TXT]Nó quan trọng phải không? Ngươi quả là kẻ thông minh giống như ta!	Hả? Ngươi đang nói chuyện gì vậy? (Kéo tay áo che túi))		
+T_Carry_Ask	0	Có những thứ gì mà ngươi thường mang theo bên người??	Chúng ta đã nói về chuyện đó rồi phải không??	Ta thường mang[TXT]Bên người mỗi khi ta xuất phát du hành. Nó có thể hữu ích trong một số tình huống	Hả? Ngươi đang nói chuyện gì vậy? (Kéo tay áo che túi))		
+							
+T_Esoterica_Discuss	0	Ta nghe nói ngươi rất lợi hại về[TXT] Đó là một chuyện tuyệt vời. Sẽ thật tuyệt vời làm sao nếu ta có kỹ năng như ngươi	Chúng ta đã nói về chuyện đó rồi phải không??	Ngươi là đạo hữu của ta, ta có thể dạy ngươi nếu ngươi muốn! Với năng lực của ngươi, việc tinh thông kỹ năng này chỉ là chuyện nhỏ	Ồ? Vậy ngươi muốn gì?		
+T_Esoterica_Ask	0	Ngươi tinh thông kỹ năng về mặt nào vậy?	Chúng ta đã nói về chuyện đó rồi phải không??	Ta khá tinh thông về[TXT]	Tại sao ta phải nói cho ngươi??		
+							
+T_Feature_Discuss	0	Thật ra ta cũng là người[TXT]giống nhau, đôi khi nó cũng làm phiền lòng ta, nhưng ta biết làm sao được?	Chúng ta đã nói về chuyện đó rồi phải không??	Phải, ngươi cũng như vậy sao? Chúng ta đúng là cùng một loại người....	Ngươi đang nói cái gì vậy? Ngươi đang mỉa mai ta sao??		
+T_Feature_Ask	0	(Không thích hợp để hỏi những câu hỏi như vậy trực diện. Tốt hơn là nên tìm thêm thông tin từ người khác rồi quay lại nói chuyện sau.)	...	...	...		
+							
+T_HateItem_Discuss	0	Tại sao thứ đáng ghét như[TXT]lại phải tồn tại trên đời này chứ? Ngươi có đồng ý không??	Chúng ta đã nói về chuyện đó rồi phải không??	Áaaaa! Ngươi cũng ghét[TXT]giống ta sao?! Ta cũng nghĩ như ngươi, ta muốn tiêu diệt[TXT]cho sạch bóng trên thế giới này.	What? Đây là ngươi đang trêu chọc ta sao??		
+T_HateItem_Ask	0	Có điều gì ngươi không thích không??	Chúng ta đã nói về chuyện đó rồi phải không??	Hừ, ta cực kỳ ghét[TXT]Ta muốn tiêu diệt[TXT]cho sạch bóng trên thế giới này.	Tại sao ta phải nói cho ngươi??		
+							
+T_Hobby_Discuss	0	Thật ra, ta cũng có[TXT]tương tự như ngươi... Chuyện này khá dài dòng.	Chúng ta đã nói về chuyện đó rồi phải không??	Ngươi cũng gặp phải kiếp nạn giống ta sao? Đúng vậy, khó mà để người khác hiểu được....	(Thay đổi thái độ) Tại sao ngươi lại nhắc đến chuyện này??		
+T_Hobby_Ask	0	(Không thích hợp để hỏi những câu hỏi như vậy trực diện. Tốt hơn là nên tìm thêm thông tin từ người khác rồi quay lại nói chuyện sau.)	...	...	...		
+							
+T_LikeItem_Discuss	0	Ta yêu thích[TXT]Rất nhiều [TXT]Điều đó khiến ta cảm thấy tràn đầy sức sống.!	Chúng ta đã nói về chuyện đó rồi phải không??	Ngươi cũng nghĩ vậy sao? Ta không thể tưởng tượng nổi cuộc sống nếu không có[TXT]được nữa.!	Ồ? Tại sao ngươi lại nhắc đến chuyện này??		
+T_LikeItem_Ask	0	Có điều gì ngươi yêu thích không??	Chúng ta đã nói về chuyện đó rồi phải không??	Ta yêu thích[TXT]Ta cực kỳ thích nó, ta chưa bao giờ cảm thấy chán khi nói về nó! Nó giống như một món quà từ thiên đạo vậy.	Tại sao ta phải nói cho ngươi??		
+							
+T_Secret_Discuss	0	Thật ra, ta khá tò mò về[TXT]rằng nó thú vị đến mức nào.!	Chúng ta đã nói về chuyện đó rồi phải không??	Ta cũng biết đôi chút về[TXT] Chuyện là thế này...	Ồ? Tại sao ngươi lại nhắc đến chuyện này??		
+T_Secret_Ask	0	(Đây là chủ đề khó nói khi ngươi không biết gì cả. Tốt hơn là nên tìm thêm thông tin từ người khác rồi quay lại nói chuyện sau....)	...	...	...		

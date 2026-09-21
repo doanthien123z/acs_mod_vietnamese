@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>Hoa Tiễn</DisplayName>
+			<Desc>Thiên khuyển Hoa Tiễn là linh thú được sinh ra từ sức mạnh của thiên địa, nó đại diện cho một số quy luật của tự nhiên.</Desc>
+			<TalkBefore>Gâu gâu</TalkBefore>
+			<TalkAfter> Gâu!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>Thanh Mộc Tuyết</DisplayName>
+			<Desc>Hồ ly tinh linh Thanh Mộc Tuyết là linh thú được sinh ra từ sức mạnh của thiên địa, nó đại diện cho một số quy luật của tự nhiên.</Desc>
+			<TalkBefore>Ngao</TalkBefore>
+			<TalkAfter> Ngao!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>Thương Hải</DisplayName>
+			<Desc>Thanh Long Thương Hải là linh thú được sinh ra từ sức mạnh của thiên địa. Nó đại diện cho một vài quy luật của tự nhiên.</Desc>
+			<TalkBefore>Rốnggg</TalkBefore>
+			<TalkAfter> Rống!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>Dực Minh</DisplayName>
+			<Desc>Hắc Phượng Dực Minh là linh thú được sinh ra từ sức mạnh của thiên địa. Nó đại diện cho một vài quy luật của tự nhiên.</Desc>
+			<TalkBefore>Chíp chíp</TalkBefore>
+			<TalkAfter> Chíp!</TalkAfter>
+		</Text>
+	</List>
+</Texts>

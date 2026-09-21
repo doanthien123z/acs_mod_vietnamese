@@ -1,0 +1,14 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainMenuEnv">
+			<Notes>Đánh giá về giao diện menu chính của người dùng</Notes>
+			<Title>Môi trường</Title>
+			<Desc>Bằng cách chọn linh thú, động phủ và pháp bảo để thay đổi môi trường, mang lại trải nghiệm trò chơi hoàn toàn mới.</Desc>
+		</Text>
+		<Text Name="MainMenuImmortal">
+			<Notes>Đánh giá về giao diện menu chính của người dùng</Notes>
+			<Title>Chế Độ Tiên Nhân</Title>
+			<Desc>Tăng độ khó bằng các tùy chọn bổ sung. Điều này sẽ tăng tính đa dạng và giúp nhận cúp vinh dự từ chế độ này.</Desc>
+		</Text>
+	</List>
+</Texts>

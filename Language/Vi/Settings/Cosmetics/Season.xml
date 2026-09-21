@@ -1,0 +1,172 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="TheGate">
+			<CosmeticsDatas.0.Display>Bia Đá Tông Môn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Tranh Bia Đá Tông Môn Cổ Điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bia Đá Cao Cấp</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Tranh bia đá tông môn lộng lẫy uy nghiêm, vinh quang dành riêng cho Khí Tông đỉnh cao</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="LsDog">
+			<CosmeticsDatas.0.Display>Họa Quyển Truyền Thống</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Tranh Họa Quyển Thường</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu Ma Biến Dị</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Tranh Họa Quyển hóa thành yêu ma trong thời đại yêu ma</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<CosmeticsDatas.0.Display>Vườn Đá (Đồi))</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Tranh Vườn Đá (Đồi) Cổ Điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Cảnh Trí - Song Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Tranh giả sơn lộng lẫy uy nghiêm, vinh quang dành riêng cho Khí Tông đỉnh cao</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_Tower">
+			<CosmeticsDatas.0.Display>Tháp Trấn Yêu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Tháp Trấn Ma cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Thái Bình An Lạc</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh Chuông Rồng trấn áp yêu ma, biểu tượng của bình an</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<CosmeticsDatas.0.Display>Lò đúc</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh lò đúc lớn cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Linh Hồ Lô</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh Linh Hồ Lô tự nhiên, biểu tượng cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ColdHole">
+			<CosmeticsDatas.0.Display>Hàn Băng Lô</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Hàn Băng Lô cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ngọa Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh lò luyện đan cổ mộc mạc ẩn chứa thần quang, biểu tượng cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<CosmeticsDatas.0.Display>Thạch Nhân</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Thạch Nhân cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tượng Thần Tướng</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh tượng Thần Tướng uy nghi, biểu tượng cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<CosmeticsDatas.0.Display>Khiên Kiếm</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Khiên Kiếm cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Trảm Long Giả</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh đại cổ kiếm mang nhiều phong ấn</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="IncenseTripod">
+			<CosmeticsDatas.0.Display>Lư Hương</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Lư Hương cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tử Kim Lô</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh Tử Kim Lô, danh xưng bảo vật Đạo môn</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<CosmeticsDatas.0.Display>Băng Phượng</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình điêu khắc Băng Phượng cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phượng Vương</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình điêu khắc Phượng Vương cao quý uy nghi</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<CosmeticsDatas.0.Display>Thanh Đồng Long</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Thanh Đồng Long cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Kỳ Lân</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh Kỳ Lân cao quý uy nghi</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar">
+			<CosmeticsDatas.0.Display>Linh Khế Cổ Điển: Dã Trư</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Linh Khế cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Yêu thú</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh Linh Khế đặc biệt thời Quần Ma</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<CosmeticsDatas.0.Display>Tiểu Lô</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Tiểu Lô cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ngọa Long</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh lò luyện đan cổ mộc mạc ẩn chứa thần quang, biểu tượng cột mốc đặt trước</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<CosmeticsDatas.0.Display>Sơn Môn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Sơn Môn cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Phi Long Đình</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Trang trí Sơn Môn Cổ thay lời tạ lỗi chân thành</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<CosmeticsDatas.0.Display>Đèn Huyền Vũ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh Đèn Huyền Vũ cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Đèn Phổ Hiền</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Biểu tượng của chí nguyện, voi trắng sáu ngà thể hiện uy lực</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Item_Other_PuppetTest">
+			<CosmeticsDatas.0.Display>Khôi lỗi</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh vật dụng cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Rối gỗ bí ẩn</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh đại diện từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Bed">
+			<CosmeticsDatas.0.Display>Giường</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh giường cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Tụ Vụ</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh giường đơn từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DoubleBed">
+			<CosmeticsDatas.0.Display>Giường đôi</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh giường đôi cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Khu Ma</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh giường đôi từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="WaterTank">
+			<CosmeticsDatas.0.Display>Chum nước</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh chum nước cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bát Cảnh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh chum nước từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Candlestick">
+			<CosmeticsDatas.0.Display>Đèn dầu</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh đèn dầu cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Chim Đậu</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh đèn dầu từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<CosmeticsDatas.0.Display>Bồ đoàn Khí</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh bồ đoàn khí cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ma Văn</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh bồ đoàn khí từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="DanStove">
+			<CosmeticsDatas.0.Display>Lò luyện đan</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh lò luyện đan cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ma Hỏa</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh lò luyện đan từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Cushion">
+			<CosmeticsDatas.0.Display>Bồ đoàn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh bồ đoàn cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Vảy Xoáy</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh bồ đoàn từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<CosmeticsDatas.0.Display>Lư hương</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình ảnh lư hương cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Lạc Nhai</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình ảnh lư hương từ thời đại Chư Ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="StreetLight">
+			<CosmeticsDatas.0.Display>Cột đèn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình trụ đèn cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Ánh rượu</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình trụ đèn từ thời đại yêu ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="SmallTable">
+			<CosmeticsDatas.0.Display>Bàn</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình bàn cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Bàn ngọc</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình bàn từ thời đại yêu ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Table">
+			<CosmeticsDatas.0.Display>Bàn vuông</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình bàn vuông nhỏ cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Mây linh</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình bàn vuông nhỏ từ thời đại yêu ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<CosmeticsDatas.0.Display>Kệ</CosmeticsDatas.0.Display>
+			<CosmeticsDatas.0.Desc>Hình kệ cổ điển</CosmeticsDatas.0.Desc>
+			<CosmeticsDatas.1.Display>Điện Tương</CosmeticsDatas.1.Display>
+			<CosmeticsDatas.1.Desc>Hình kệ từ thời đại yêu ma, cảm ơn tất cả người chơi đã ủng hộ 'Amazing Cultivation Simulator'!</CosmeticsDatas.1.Desc>
+		</Text>
+	</List>
+</Texts>

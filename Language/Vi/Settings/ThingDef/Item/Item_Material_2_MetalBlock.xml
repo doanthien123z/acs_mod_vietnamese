@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="MetalBlockBase" sParam="Item">
+			<Item.FabaoSuffix>Kim loại, Ấn chương, Thạch bia, Ngọc bội, Phiến, Tháp, Cự thạch.</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_IronBlock" sParam="Item">
+			<ThingName>Thiết đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ sắt, có thể dùng để chế tạo nhiều loại trang bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Sắt.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock" sParam="Item">
+			<ThingName>Xích Đồng đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ Xích Đồng, có thể dùng để chế tạo nhiều loại trang bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Xích Đồng.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock" sParam="Item">
+			<ThingName>Thỏi Băng Tinh</ThingName>
+			<Desc>Thanh kim loại được luyện từ Băng Tinh, có thể dùng để chế tạo nhiều loại trang bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Băng Tinh.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperBlock1" sParam="Item">
+			<ThingName>Xích Hỏa Tâm đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ một lượng lớn Xích Đồng trộn với máu yêu thú, mỗi lần chế tạo đều tốn rất nhiều thời gian.</Desc>
+			<Item.BeMaterial.NamePrefix>Xích Hỏa Tâm.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverBlock1" sParam="Item">
+			<ThingName>Băng Tâm đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ một lượng lớn Băng Tinh trộn với máu yêu thú, mỗi lần chế tạo đều tốn rất nhiều thời gian.</Desc>
+			<Item.BeMaterial.NamePrefix>Băng Tâm.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelBlock" sParam="Item">
+			<ThingName>Hắc Thiết đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ Hắc Thiết, có thể dùng để chế tạo nhiều loại trang bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Hắc Thiết.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceBlock" sParam="Item">
+			<ThingName>Tinh Quang Thạch đĩnh.</ThingName>
+			<Desc>Thanh kim loại được luyện từ Tinh Quang Thạch, có thể dùng để chế tạo nhiều loại trang bị.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh Quang Thạch.</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

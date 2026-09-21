@@ -1,0 +1,175 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LsXuanWu_Carve" sParam="Building">
+			<ThingName>Huyền Vũ điêu khắc</ThingName>
+			<Desc>Huyền Vũ điêu khắc, có thể dùng để hồi sinh Huyền Vũ.</Desc>
+		</Text>
+		<Text Name="ZhenWuCarve" sParam="Building">
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+			<ThingName>Chân Võ Đại Đế điêu khắc</ThingName>
+			<Desc>Thần tượng của Chân Võ Đại Đế để thờ cúng, mang theo uy năng thần thánh không thể kháng cự cùng phúc trạch vô biên.</Desc>
+		</Text>
+		<Text Name="TurTleMonu" sParam="Building">
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+			<ThingName>Bát Hi Hạ Thạch Bi</ThingName>
+			<Desc>Truyền thuyết kể rằng ngàn năm trước, Đại Vũ trị thủy đã thuần hóa thần quy Bát Hi để dùng cho việc nạo vét sông ngòi, tháo nước hồ và trấn áp hồng thủy. Toàn bộ sự kiện đã được ghi lại trên tấm bia đá này.</Desc>
+		</Text>
+		<Text Name="IncenseTripod" sParam="Building">
+			<ThingName>Đạo giáo hương lô</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+			<Desc>Hương lô của Đạo giáo dùng để thắp hương tịnh tâm.</Desc>
+		</Text>
+		<Text Name="DragonIncense" sParam="Building">
+			<ThingName>Long Thủ hương lô</ThingName>
+			<StoryBnts.0.Name>Tế bái</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thờ cúng Long Thủ hương lô</StoryBnts.0.Desc>
+			<Desc>Nó được bảo quản trên Nam Nham điện của núi Võ Đang. Kẻ muốn dâng hương phải bái lạy bằng cả tay chân để dâng nén hương thơm, sơ sẩy một chút là rơi xuống vực sâu.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeft" sParam="Building">
+			<ThingName>Góc tường đỏ (L)</ThingName>
+			<Desc>Bức tường mang đặc trưng của Võ Đang Tông. Dù vô cùng uy nghiêm và tráng lệ, nhưng nó không thể dùng để xây phòng.</Desc>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDownLeft2" sParam="Building">
+			<ThingName>Góc tường đỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft" sParam="Building">
+			<ThingName>Góc tường đỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeft2" sParam="Building">
+			<ThingName>Góc tường đỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp" sParam="Building">
+			<ThingName>Tường đỏ bên cạnh (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidUp2" sParam="Building">
+			<ThingName>Tường đỏ bên cạnh (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight" sParam="Building">
+			<ThingName>Tường đỏ bên cạnh (L)</ThingName>
+		</Text>
+		<Text Name="RedWallMidRight2" sParam="Building">
+			<ThingName>Tường đỏ bên cạnh (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVertical" sParam="Building">
+			<ThingName>Tường đỏ chính giữa (L)</ThingName>
+		</Text>
+		<Text Name="RedWallVerticalHalf" sParam="Building">
+			<ThingName>Tường đỏ phong tỏa (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontalHalf" sParam="Building">
+			<ThingName>Tường đỏ phong tỏa (L)</ThingName>
+		</Text>
+		<Text Name="RedWallHorizontal" sParam="Building">
+			<ThingName>Tường đỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallDownLeftTiny" sParam="Building">
+			<ThingName>Góc tường đỏ nhỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallUpLeftTiny" sParam="Building">
+			<ThingName>Góc tường đỏ nhỏ (L)</ThingName>
+		</Text>
+		<Text Name="RedWallGate" sParam="Building">
+			<ThingName>Đạo giáo bảo tháp</ThingName>
+			<Desc>Đạo giáo bảo tháp uy nghiêm và trang nghiêm.</Desc>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallDrum" sParam="Building">
+			<ThingName>Thái Cực trống</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+			<Desc>Vật trang trí thông thường. Nó ảnh hưởng đến Ngũ Hành của môi trường xung quanh tùy theo vật liệu chế tạo.</Desc>
+		</Text>
+		<Text Name="WuDangBigGate" sParam="Building">
+			<ThingName>Võ Đang sơn môn</ThingName>
+			<Desc>Sơn môn uy nghiêm của Võ Đang Tông.</Desc>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangScreen" sParam="Building">
+			<ThingName>Hắc Phượng bình phong</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangFlag" sParam="Building">
+			<ThingName>Võ Đang cờ</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXiangLu" sParam="Building">
+			<ThingName>Long đỉnh</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangPuTuan" sParam="Building">
+			<ThingName>Tam Thanh phù</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXianHeDeng" sParam="Building">
+			<ThingName>Linh Hợp Tiên Tử đăng</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangDivine" sParam="Building">
+			<ThingName>Thánh Vân bàn</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+			<Desc>Kiến trúc đặc trưng của dãy núi Võ Đang. Trên đó khắc thánh hiệu của Chân Võ Đại Đế.</Desc>
+		</Text>
+		<Text Name="WuDangJinDian" sParam="Building">
+			<ThingName>Kim Điện</ThingName>
+			<Desc>Kiến trúc kỳ tích huyền diệu tọa lạc trên đỉnh núi của Võ Đang Tông. Nơi đây nhận được chúc phúc từ thần lực của Chân Võ Đại Đế, đồng thời ẩn giấu tuyệt thế công pháp của Võ Đang. Tương truyền chỉ có người có duyên mới có thể tìm thấy.</Desc>
+			<StoryBnts.0.Name>Ý niệm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cảm ngộ Thiên đạo ẩn giấu bên trong đó.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="WuDangXuanWuDeng" sParam="Building">
+			<ThingName>Huyền Vũ đăng</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu1" sParam="Building">
+			<ThingName>Vân Thượng trà thụ</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ChaShu2" sParam="Building">
+			<ThingName>Vân Thượng trà thụ</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong1" sParam="Building">
+			<ThingName>Võ Đang tùng</ThingName>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_WuDangSong2" sParam="Building">
+			<ThingName>Võ Đang tùng</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong3" sParam="Building">
+			<ThingName>Võ Đang tùng</ThingName>
+		</Text>
+		<Text Name="Building_WuDangSong4" sParam="Building">
+			<ThingName>Võ Đang tùng</ThingName>
+		</Text>
+		<Text Name="Table_TaiZi" sParam="Building">
+			<StoryBnts.0.Name>Tương tác</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tương tác bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Tương tác</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tương tác bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Tương tác</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tương tác bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
+			<StoryBnts.0.Name>Tương tác</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tương tác bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

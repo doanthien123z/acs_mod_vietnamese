@@ -1,0 +1,7 @@
+ID	Name	Desc	sParam1	sParam2
+
+40001	Gấu trúc ngộ đạo		Panda,10,10,10,10,10,3,Target,,3	ở[TXT] Gấu trúc đã lĩnh hội được "[FRAG]" một cách tình cờ và bắt đầu thức tỉnh.
+40002	Gấu trúc ngộ đạo		Panda,10,10,10,10,10,3,Emotion,,3	ở[TXT] Vì một lý do nào đó, gấu trúc vô tình cảm nhận được "[FRAG]" Trải qua vô số lần cuối cùng đã ngộ đạo
+40003	Gấu trúc ngộ đạo		Panda,10,10,10,10,10,3,Scene,,3	ở[TXT] Gấu trúc đã "[FRAG]" Trải qua vô số lần, nhận được tuệ căn và thành công ngộ đạo
+40004	Linh thú gia nhập	Gấu trúc đã đến tông môn của Người và có vẻ nó rất thích nơi này	Panda	
+40005	Thú dữ xâm nhập	Có vài con gấu trúc xuất hiện gần tông môn và chúng trông vô cùng hung ác	JYPanda	TongYong_DropList

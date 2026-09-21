@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Tang_Dan">
+			<DisplayName>Luyện đan</DisplayName>
+			<Desc>Thông thạo luyện đan, nâng cao năng lực liên quan đến luyện đan của đệ tử trong phân nhánh dựa theo trình độ của phân nhánh chủ</Desc>
+		</Text>
+		<Text Name="Tang_Qi">
+			<DisplayName>Luyện chế pháp bảo</DisplayName>
+			<Desc>Thông thạo luyện chế pháp bảo, nâng cao năng lực liên quan đến luyện chế pháp bảo của đệ tử trong phân nhánh dựa theo trình độ của phân nhánh chủ</Desc>
+		</Text>
+		<Text Name="Tang_Zhan">
+			<DisplayName>Chiến đấu</DisplayName>
+			<Desc>Thông thạo chiến đấu, nâng cao năng lực liên quan đến chiến đấu của đệ tử trong phân nhánh dựa theo trình độ của phân nhánh chủ</Desc>
+		</Text>
+		<Text Name="Tang_XiuLian">
+			<DisplayName>Tu luyện</DisplayName>
+			<Desc>Tinh thông đạo tu luyện và bồi dưỡng, nâng cao năng lực liên quan đến tu luyện và bồi dưỡng của đệ tử trong phân tông dựa theo cảnh giới của phân tông chủ.</Desc>
+		</Text>
+		<Text Name="Tang_WaiShi">
+			<DisplayName>Sứ giả giao hảo</DisplayName>
+			<Desc>Tinh thông đạo ngoại giao, nâng cao năng lực liên quan đến ngoại giao của đệ tử trong phân tông dựa theo cảnh giới của phân tông chủ.</Desc>
+		</Text>
+	</List>
+</Texts>

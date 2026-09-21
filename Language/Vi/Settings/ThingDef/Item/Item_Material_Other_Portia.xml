@@ -1,0 +1,150 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Other_Portia_1" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 1</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_other05[/img]</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử kiểm tra vật phẩm này</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_2" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 2</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_QQBed[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_3" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 3</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_functionalFurnishing_DreamLamp[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_4" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 4</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_objects_carpet_003_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_5" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 5</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_Fan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_6" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 6</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_gift_KMLamp_2[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_7" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 7</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_Station02[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_8" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 8</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_safe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_9" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 9</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_WinterSolstice_xueren03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_10" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 10</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_hoe_steel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_11" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 11</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_Marco_Weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_12" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 12</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_weapon_001[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_13" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 13</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_weapon_003[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_14" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 14</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_weapon_ironAxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_15" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 15</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_weapon_ironPickaxe[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_16" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 16</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_gift_Aadit[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_17" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 17</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_researchcd[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_18" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 18</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_bus002[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_19" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 19</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_AlpacaSmall[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_20" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 20</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_food_HaiTaiFengWeiJuanBing[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_21" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 21</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_food_04[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_22" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 22</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_small_NaiYouGuiYuTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_23" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 23</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_food_ShuCaiWanZiTang[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_24" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 24</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_small_JingDianRouJiangMian[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_25" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 25</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_yamtato_puree[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_26" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 26</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_food_ZhiShiXiaJuFan[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_27" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 27</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_yingyuecaozhi[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_28" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 28</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_fish[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_29" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 29</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_wheat_seeds[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_30" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 30</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_small_TongTianYangNai[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_31" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 31</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_food_03[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_32" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 32</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_treasure_AircraftModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_33" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 33</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_treasure_RocketModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_34" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 34</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_treasure_SailboatModel[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_35" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 35</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_treasure_FoldingFanOrnaments[/img]</Desc>
+		</Text>
+		<Text Name="Item_Other_Portia_36" sParam="Item">
+			<ThingName>Vật phẩm dị giới: 36</ThingName>
+			<Desc>Vật phẩm phong ấn bí ẩn đến từ thế giới khác. Loại phong ấn này được tạo thành bằng cách sử dụng linh khí dị giới kết hợp với một loại bí thuật đặc biệt. Cưỡng ép mở nó bằng vũ lực sẽ khiến nó và vật bên trong tự hủy ngay lập tức. Khi dùng thần thức dò xét, Người sẽ thấy bên trong phong ấn đó có ẩn giấu những vật phẩm kỳ lạ. \n [img]res\Sprs\object_portia\Item_treasure_Objects11[/img]</Desc>
+		</Text>
+	</List>
+</Texts>

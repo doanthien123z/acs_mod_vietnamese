@@ -1,0 +1,190 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPratice_BodyRecover">
+			<DisplayName>Tỷ lệ tự phục hồi của Thể tu</DisplayName>
+			<Desc>Tốc độ tự phục hồi của Thể tu khi bị thương</Desc>
+			<DisplayValue>{0:P2}/Giây</DisplayValue>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_MaxZhenQi">
+			<DisplayName>Chân khí tối đa</DisplayName>
+			<Desc>Lượng chân khí tối đa của Thể tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_RecoverZhenQi">
+			<DisplayName>Tỷ lệ phục hồi chân khí cơ bản</DisplayName>
+			<Desc>Tỷ lệ phục hồi chân khí cơ bản của Thể tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_DefenseRecoverZhenQi">
+			<DisplayName>Tỷ lệ phục hồi chân khí</DisplayName>
+			<Desc>Tỷ lệ phục hồi chân khí mỗi giây của Thể tu khi cạn kiệt chân khí</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_CatchFaboValue">
+			<DisplayName>Tỷ lệ tiêu hao chân khí khi khống chế pháp bảo</DisplayName>
+			<Desc>Tỷ lệ tiêu hao chân khí khi trấn áp pháp bảo của Thể Tu</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_BodyStrong">
+			<DisplayName>Sức chịu đựng cơ thể</DisplayName>
+			<Desc>Khả năng chịu sát thương của Thể Tu, cơ thể càng cường hoành thì tỷ lệ tử vong do trọng thương càng thấp</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_QuenchingSpeed">
+			<DisplayName>Tốc độ luyện thể</DisplayName>
+			<Desc>Tốc độ luyện thể của Thể Tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
+			<DisplayName>Số lượng thế công tối đa của Bí Thể</DisplayName>
+			<Desc>Số lượng thế công của Bí Thể có thể kích hoạt đồng thời tối đa</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
+			<DisplayName>Số lượng thế thủ tối đa của Bí Thể</DisplayName>
+			<Desc>Số lượng thế thủ của Bí Thể có thể kích hoạt đồng thời tối đa</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
+			<DisplayName>Số lượng hiệu quả tối đa của Bí Thể</DisplayName>
+			<Desc>Số lượng hiệu quả của Bí Thể có thể kích hoạt đồng thời tối đa</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_Other_TunaAddp">
+			<DisplayName>Hiệu quả bổ sung khi vận khí</DisplayName>
+			<Desc>Tăng thêm nguyên hạch nhận được khi vận khí của Thể Tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartCostAddP">
+			<DisplayName>Tỷ lệ tiêu hao chân khí của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ tiêu hao chân khí của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPratice_SuperPartRecoverAddP">
+			<DisplayName>Tốc độ hồi phục chân khí của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tốc độ hồi phục chân khí của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkPower">
+			<DisplayName>Uy lực cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm uy lực cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefPower">
+			<DisplayName>Sức chịu đựng cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm sức chịu đựng cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_AtkRate">
+			<DisplayName>Độ chính xác cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm độ chính xác cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_DefRate">
+			<DisplayName>Tỷ lệ phòng thủ cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ phòng thủ cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
+			<DisplayName>Tỷ lệ xuyên hộ thể cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ xuyên hộ thể cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddp_CatchFabao">
+			<DisplayName>Tỷ lệ trấn áp pháp bảo cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ trấn áp pháp bảo cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkPower">
+			<DisplayName>Uy lực cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm uy lực cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefPower">
+			<DisplayName>Sức chịu đựng cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm sức chịu đựng cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_AtkRate">
+			<DisplayName>Độ chính xác cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm độ chính xác cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_DefRate">
+			<DisplayName>Tỷ lệ phòng thủ cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ phòng thủ cơ bản của Bí ThểDefense Success Rate tất cả đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
+			<DisplayName>Tỷ lệ xuyên hộ thể cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ xuyên hộ thể cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_SuperPartAddv_CatchFabao">
+			<DisplayName>Tỷ lệ trấn áp pháp bảo cơ bản của Bí Thể</DisplayName>
+			<Desc>Tăng thêm tỷ lệ trấn áp pháp bảo cơ bản của tất cả Bí Thể đang kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireNum">
+			<DisplayName>Số lượng ký ức đau thương tối đa</DisplayName>
+			<Desc>Số lượng ký ức đau thương tối đa mà Thể Tu có thể ghi nhớ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireDuration">
+			<DisplayName>Thời gian cuồng nộ</DisplayName>
+			<Desc>Thời gian cuồng nộ khi Thể Tu kích hoạt</Desc>
+			<DisplayValue>{0:N} Giây</DisplayValue>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_AngerFireEffectAddp">
+			<DisplayName>Tỷ lệ tăng sức mạnh cuồng nộ</DisplayName>
+			<Desc>Tỷ lệ tăng sức mạnh cuồng nộ khi Thể Tu kích hoạt</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemMaxRate">
+			<DisplayName>Phẩm cấp vật phẩm tối đa có thể thôn phệ</DisplayName>
+			<Desc>Phẩm cấp vật phẩm mà Thể Tu có thể thôn phệ</Desc>
+			<DisplayValue>Cấp độ {0:N}</DisplayValue>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceCountAddp">
+			<DisplayName>Tăng số lượng nguyên hạch nhận được từ thôn phệ</DisplayName>
+			<Desc>Thưởng số lượng lõi nhận được từ nuốt chửng của Thể Tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_EatItemProduceRateAddp">
+			<DisplayName>Thưởng nhận lõi hiếm từ nuốt chửng</DisplayName>
+			<Desc>Thưởng nhận lõi hiếm từ nuốt chửng của Thể Tu</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache1">
+			<DisplayName>Thưởng Tôi Thể cấp Tốt</DisplayName>
+			<Desc>Thưởng tỷ lệ nhận đường tiến hóa cấp Tốt khi Thể Tu Tôi Thể</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache2">
+			<DisplayName>Thưởng Tôi Thể cấp Hiếm</DisplayName>
+			<Desc>Thưởng tỷ lệ nhận đường tiến hóa cấp Hiếm khi Thể Tu Tôi Thể</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache3">
+			<DisplayName>Thưởng Tôi Thể cấp Cực Phẩm</DisplayName>
+			<Desc>Thưởng tỷ lệ nhận đường tiến hóa cấp Cực Phẩm khi Thể Tu Tôi Thể</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Cache4">
+			<DisplayName>Thưởng Tôi Thể cấp Truyền Thuyết</DisplayName>
+			<Desc>Thưởng tỷ lệ nhận đường tiến hóa cấp Truyền Thuyết khi Thể Tu Tôi Thể</Desc>
+			<FunctionKind>Thuộc tính tu sĩ</FunctionKind>
+		</Text>
+		<Text Name="BodyPractice_RollAddtion_Null">
+			<DisplayName>Thưởng tỷ lệ Tôi Thể thất bại</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_MaxFoodAddtion">
+			<DisplayName>Thưởng giới hạn độ no</DisplayName>
+			<Desc>Thưởng giới hạn độ no của Thể Tu</Desc>
+			<FunctionKind>Trạng thái cơ bản</FunctionKind>
+		</Text>
+	</List>
+</Texts>

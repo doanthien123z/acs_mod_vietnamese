@@ -1,0 +1,76 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LingShouShitPlace" sParam="Building">
+			<ThingName>Điểm bài tiết</ThingName>
+			<Desc>Khu vực quy định để linh thú thực hiện việc bài tiết đúng nơi quy định</Desc>
+		</Text>
+		<Text Name="LSEnemyCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân kẻ địch</ThingName>
+			<Desc>Linh thú có thể kéo thân xác kẻ địch đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSWaiCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân đệ tử ngoại môn</ThingName>
+			<Desc>Linh thú có thể kéo đệ tử ngoại môn đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSNeiCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân đệ tử nội môn</ThingName>
+			<Desc>Linh thú có thể kéo đệ tử nội môn đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSVistorCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân khách viếng thăm</ThingName>
+			<Desc>Linh thú có thể kéo khách viếng thăm đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSIncomingCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân khách lưu trú</ThingName>
+			<Desc>Linh thú có thể kéo khách lưu trú đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác kẻ địch</ThingName>
+			<Desc>Linh thú có thể kéo xác kẻ địch đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác đệ tử ngoại môn</ThingName>
+			<Desc>Linh thú có thể kéo xác đệ tử ngoại môn đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác đệ tử nội môn</ThingName>
+			<Desc>Linh thú có thể kéo xác đệ tử nội môn đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác khách viếng thăm</ThingName>
+			<Desc>Linh thú có thể kéo xác khách viếng thăm đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSIncomingBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác khách lưu trú</ThingName>
+			<Desc>Linh thú có thể kéo xác khách lưu trú đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace" sParam="Building">
+			<ThingName>Điểm thu gom xác người thường</ThingName>
+			<Desc>Linh thú có thể kéo xác người thường đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LSMortalCarryPlace" sParam="Building">
+			<ThingName>Điểm đặt thân người thường</ThingName>
+			<Desc>Linh thú có thể kéo người thường đang hôn mê đến khu vực này. Các thân xác không bị chồng lên nhau và sẽ ưu tiên vị trí gần linh thú nhất</Desc>
+		</Text>
+		<Text Name="LsDogHouse" sParam="Building">
+			<ThingName>Giường linh thú</ThingName>
+			<Desc>Giường ngủ của linh thú</Desc>
+		</Text>
+		<Text Name="LsDog_Carve" sParam="Building">
+			<ThingName>Tượng Thiên Cẩu</ThingName>
+			<Desc>Tượng của Thiên Cẩu, có thể dùng để hồi sinh hoặc triệu hồi Thiên Cẩu</Desc>
+		</Text>
+		<Text Name="LsFox_Carve" sParam="Building">
+			<ThingName>Tượng Linh Hồ</ThingName>
+			<Desc>Tượng của Linh Hồ, có thể dùng để hồi sinh hoặc triệu hồi Linh Hồ</Desc>
+		</Text>
+		<Text Name="LsDragon_Carve" sParam="Building">
+			<ThingName>Tượng Thanh Long</ThingName>
+			<Desc>Tượng của Thanh Long, có thể dùng để hồi sinh hoặc triệu hồi Thủy Long</Desc>
+		</Text>
+		<Text Name="LsPhoenix_Carve" sParam="Building">
+			<ThingName>Tượng Hắc Phượng</ThingName>
+			<Desc>Hắc Phượng điêu khắc, có thể dùng để hồi sinh hoặc triệu hồi Hỏa Phượng.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Cat_1">
+			<Prefix>Thể</Prefix>
+			<Suffix>Cửu Bí</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Miêu Yêu Tộc, dùng ánh nguyệt quang rèn luyện tim và thần trí. Khi tu luyện thành công sẽ tăng mạnh sức chống chịu của cơ thể, đây chính là nguồn gốc câu nói mèo có chín mạng.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh thể chất cơ bản cho người tu luyện Thể Tu</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Cat_2">
+			<Prefix>Đôi Mắt</Prefix>
+			<Suffix>Lưu Ly Kính</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Miêu Yêu Tộc, lấy Tinh Hà Tinh Hoa tôi luyện đôi mắt. Khi tu luyện thành công có thể nhìn thấu mọi điểm yếu của đối thủ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

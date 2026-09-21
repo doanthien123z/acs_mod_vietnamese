@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FeatureModifierBase">
+			<Desc>Chất điều chỉnh được tạo ra bởi thuộc tính, hệ thống chỉ có thể sử dụng, không thể tùy chỉnh</Desc>
+		</Text>
+		<Text Name="ExperienceModifierBase">
+			<Desc>Chất điều chỉnh được tạo ra bởi lịch sử quá khứ, hệ thống chỉ có thể sử dụng, không thể tùy chỉnh</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang1">
+			<DisplayName>Động lực của chủ tịch</DisplayName>
+			<Desc>Dưới sự quan tâm của chủ tịch hội đồng quản trị, chúng ta sẽ tăng gấp đôi nỗ lực!</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang2">
+			<DisplayName>Động lực của chủ tịch</DisplayName>
+			<Desc>Dưới sự quan tâm của chủ tịch hội đồng quản trị, chúng ta sẽ tăng gấp đôi nỗ lực!</Desc>
+		</Text>
+	</List>
+</Texts>

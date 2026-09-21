@@ -1,0 +1,22 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="BuildCurb1">
+			<DisplayName>Bị ngăn cản</DisplayName>
+			<Desc>Trong lúc đang xây dựng kỳ quan, có kẻ đến chê bai phong thủy nơi này</Desc>
+			<Selections.0.Display>Đánh đuổi chúng</Selections.0.Display>
+			<Selections.1.Display>Luận bàn phong thủy với bọn chúng</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb2">
+			<DisplayName>Bị ngăn cản</DisplayName>
+			<Desc>Trong lúc đang xây dựng kỳ quan, có kẻ đến hỏi mọi người đang làm gì vậy</Desc>
+			<Selections.0.Display>Phớt lờ chúng</Selections.0.Display>
+			<Selections.1.Display>Giải thích đang làm gì</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb3">
+			<DisplayName>Bị ngăn cản</DisplayName>
+			<Desc>Trong lúc đang xây dựng kỳ quan, có kẻ đến phát thưởng</Desc>
+			<Selections.0.Display>Bảo chúng hôm khác hãy tới</Selections.0.Display>
+			<Selections.1.Display>Nhận thưởng</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

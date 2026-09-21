@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level3Base">
+			<Desc>Lv.3 Location Templates</Desc>
+		</Text>
+		<Text Name="Place_QingLianShan">
+			<DisplayName>Thanh Liên Sơn</DisplayName>
+			<Desc>Ngọn núi này từng là nơi ẩn cư của Thanh Liên Tiên Tử trước khi nàng phi thăng tiên giới. Toàn bộ ngọn núi được ẩn giấu trong biển sâu Nam Hải, nếu không có phương pháp dẫn đường bí truyền thì tuyệt đối không thể tìm thấy tiên sơn này.</Desc>
+		</Text>
+		<Text Name="Place_ChiLianYuan">
+			<DisplayName>Bích Ngọc Cung</DisplayName>
+			<Desc>Nơi ở riêng tư được để lại bởi Nam Cung Hoằng, vị tiên nhân được mệnh danh là người đầu tiên của đại lục này phi thăng tiên giới. Cung điện này ẩn giấu giữa trời và biển, nếu không có phương pháp dẫn đường bí truyền thì tuyệt đối không thể tìm thấy tiên sơn này.</Desc>
+		</Text>
+		<Text Name="Place_LongTai">
+			<DisplayName>Long Đàn</DisplayName>
+			<Desc>Tương truyền trong quá khứ, long tộc đã cất giấu hàng ngàn bảo vật tại Long Đàn và đặt rất nhiều cấm ấn để bảo vệ chúng. Trải qua nhiều năm tháng bị dòng chảy thời gian bào mòn, phần lớn cấm ấn đã suy yếu đi nhiều, thế nên các tu sĩ thường xuyên đến đây vận may tìm kiếm kho báu của loài rồng.</Desc>
+		</Text>
+		<Text Name="Place_XuanKongDong">
+			<DisplayName>Vô Niệm Động</DisplayName>
+			<Desc>Nơi bế quan tịnh tu của Tiên nhân Viên Lạc Tu. Theo truyền thuyết, Viên Lạc Tu đã cất giữ toàn bộ bảo vật thu thập được trong suốt cuộc đời mình tại đây để chờ đợi hậu nhân có duyên đến khám phá.</Desc>
+		</Text>
+		<Text Name="Place_GuZhanChang">
+			<DisplayName>Chiến trường Tàn Thiên</DisplayName>
+			<Desc>Tàn tích chiến trường của đại chiến lần thứ nhất giữa Tiên và Ma vào thời thượng cổ. Nơi đây đầy rẫy vô số bảo vật, nhưng cũng cực kỳ nguy hiểm do không gian và thời gian bị vỡ nát. Nhìn lại thời điểm đó, sự phân chia giữa phe tu tiên và phe ma tu bắt đầu rõ rệt, mâu thuẫn giữa hai bên dần trở nên gay gắt đến mức không thể hòa giải. Cuối cùng, cuộc chiến quyết định đã bùng nổ ở vùng đất phương Nam, kéo dài hơn một tháng và cướp đi vô số sinh mạng. Đạo của Âm và Dương bị ảnh hưởng nghiêm trọng, khơi dậy cơn giận dữ của Thiên Long - đại diện cho Thiên địa. Do đó, chân thân của Thiên Long đã giáng thế và dùng cơn thịnh nộ đó hủy diệt gần như toàn bộ vùng đất phương Nam. Đây chính là dấu chấm hết cho cuộc đại chiến Tiên - Ma lần thứ nhất, vùng đất phương Nam hiện tại chỉ là tàn dư còn sót lại sau sự hủy diệt đó.</Desc>
+		</Text>
+		<Text Name="Place_YiJieLieFeng">
+			<DisplayName>Khe nứt không gian</DisplayName>
+			<Desc>Theo truyền thuyết, sự vỡ nát của không thời gian này dẫn đến những dị trạng tại mọi chiều không gian. Nơi đây là hệ quả từ cuộc chiến Tiên - Ma thời thượng cổ hàng ngàn năm trước và đã biến mất suốt bấy lâu nay, không ai ngờ rằng nó lại xuất hiện một lần nữa trong thời đại này. Tuy nhiên, vết nứt không gian này cực kỳ nguy hiểm, những người đi thám hiểm chỉ có thể dựa vào vận may của mình. Bởi nếu thiếu đi cơ duyên, ngay cả những tiên nhân dày dạn kinh nghiệm cũng có thể bị mắc kẹt vĩnh viễn trong vết nứt không gian này.</Desc>
+		</Text>
+	</List>
+</Texts>

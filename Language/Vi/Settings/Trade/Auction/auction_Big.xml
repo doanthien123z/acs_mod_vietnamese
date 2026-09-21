@@ -1,0 +1,66 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Exotic">
+			<DisplayName>Đấu giá bảo vật trân hiếm</DisplayName>
+			<Npc.0.Talk.Bid.0>Tăng!</Npc.0.Talk.Bid.0>
+			<Npc.0.Talk.Bid.1>Ta theo!</Npc.0.Talk.Bid.1>
+			<Npc.0.Talk.Bid.2>Rẻ thật, lại thêm lần nữa!</Npc.0.Talk.Bid.2>
+			<Npc.0.Talk.Exceed.0>Quả là đối thủ ngang tài ngang sức</Npc.0.Talk.Exceed.0>
+			<Npc.0.Talk.Exceed.1>Ngươi giàu hơn ta sao??</Npc.0.Talk.Exceed.1>
+			<Npc.0.Talk.Buy.0>Ha ha! Bảo vật này đã thuộc về ta!</Npc.0.Talk.Buy.0>
+			<Npc.0.Talk.Buy.1>Ha ha! Kẻ nghèo hèn như ngươi muốn đọ giàu với ta sao??</Npc.0.Talk.Buy.1>
+			<Npc.0.Talk.Like.0>Ta muốn thứ này!</Npc.0.Talk.Like.0>
+			<Npc.0.Talk.Like.1>Ta đã quyết định rồi!</Npc.0.Talk.Like.1>
+			<Npc.0.Talk.Like.2>Thấy không? Thứ này sắp thuộc về ta rồi</Npc.0.Talk.Like.2>
+			<Npc.0.Talk.Last.0>Cuối cùng cũng đến rồi, bảo vật trân quý.!</Npc.0.Talk.Last.0>
+			<Npc.0.Talk.Last.1>Bảo vật hiếm có nhất trên đời.!</Npc.0.Talk.Last.1>
+			<Npc.0.Talk.DontKnow.0>Dù nhìn hơi lạ nhưng nó rất thú vị, đúng không??</Npc.0.Talk.DontKnow.0>
+			<Npc.0.Talk.Chat.0>Có lần ta đến hồ Thiên Đường và thấy một tiên nữ đang tắm, ha ha ha!</Npc.0.Talk.Chat.0>
+			<Npc.0.Talk.Chat.1>Năm nay ta chỉ thu được 800.000 Nguyên, túi tiền của ta đang khóc thét!</Npc.0.Talk.Chat.1>
+			<Npc.0.Talk.Chat.2>Nếu biết trước, ta đã phái tỳ nữ đi mua sạch nó rồi</Npc.0.Talk.Chat.2>
+			<Npc.1.Talk.Bid.0>Có hơi đắt một chút nhưng ta vẫn muốn nâng giá!</Npc.1.Talk.Bid.0>
+			<Npc.1.Talk.Bid.1>Tháng này ta sẽ nhịn ăn 2 ngày để tiết kiệm chi tiêu một chút...</Npc.1.Talk.Bid.1>
+			<Npc.1.Talk.Bid.2>(Giậm chân) Ta theo!</Npc.1.Talk.Bid.2>
+			<Npc.1.Talk.Exceed.0>Không đủ tiền để mua nó sao??</Npc.1.Talk.Exceed.0>
+			<Npc.1.Talk.Exceed.1>Đây là bảo vật mà ai cũng khao khát</Npc.1.Talk.Exceed.1>
+			<Npc.1.Talk.Exceed.2>Hơi hấp dẫn một chút, ta có nên nâng giá thêm không?...</Npc.1.Talk.Exceed.2>
+			<Npc.1.Talk.Buy.0>Tốt, rất tốt, tu vi của ta sẽ tiến triển vượt bậc nhờ thứ này!</Npc.1.Talk.Buy.0>
+			<Npc.1.Talk.Buy.1>Tuyệt vời, cuối cùng nó cũng nằm trong tay ta!</Npc.1.Talk.Buy.1>
+			<Npc.1.Talk.Like.0>Sư tôn từng nói viên đan dược này có công hiệu cực tốt, ta sẽ mua nó!</Npc.1.Talk.Like.0>
+			<Npc.1.Talk.Like.1>Vũ khí dùng để chiến đấu, đan dược dùng để tu luyện! Thứ này nhìn rất được đấy!</Npc.1.Talk.Like.1>
+			<Npc.1.Talk.Last.0>Cuối cùng khoảnh khắc này cũng đã đến, bảo vật vô cùng hiếm có.!</Npc.1.Talk.Last.0>
+			<Npc.1.Talk.Last.1>Á thống! Mắt của ta! Đây là bảo vật gì thế này??</Npc.1.Talk.Last.1>
+			<Npc.1.Talk.DontKnow.0>Thứ quái quỷ gì thế này?...</Npc.1.Talk.DontKnow.0>
+			<Npc.1.Talk.Chat.0>Có bao nhiêu kẻ lạ mặt tụ tập ở đây, bọn họ thật sự giàu có đến thế sao???</Npc.1.Talk.Chat.0>
+			<Npc.2.Talk.Bid.0>Ha ha, ta sẽ đưa ra mức giá cao nhất</Npc.2.Talk.Bid.0>
+			<Npc.2.Talk.Bid.1>Đắt thêm nữa, đắt thêm nữa</Npc.2.Talk.Bid.1>
+			<Npc.2.Talk.Bid.2>Ta sẽ mua nó, ta nâng giá</Npc.2.Talk.Bid.2>
+			<Npc.2.Talk.Exceed.0>Có kẻ thực sự muốn nó, ha ha</Npc.2.Talk.Exceed.0>
+			<Npc.2.Talk.Exceed.1>Cao thêm nữa, cao thêm nữa</Npc.2.Talk.Exceed.1>
+			<Npc.2.Talk.Exceed.2>Nhiều thêm nữa, nhiều thêm nữa</Npc.2.Talk.Exceed.2>
+			<Npc.2.Talk.Buy.0>Nó... kết thúc rồi! Ta... ta không còn linh thạch nữa...</Npc.2.Talk.Buy.0>
+			<Npc.2.Talk.Last.0>Ai mà thèm thứ như vậy chứ...</Npc.2.Talk.Last.0>
+			<Npc.2.Talk.DontKnow.0>Ai mà thèm thứ như vậy chứ...</Npc.2.Talk.DontKnow.0>
+			<Npc.2.Talk.Chat.0>Tại buổi đấu giá này, ta nên khiêu khích kẻ nào đây? Ha ha ha</Npc.2.Talk.Chat.0>
+			<Npc.2.Talk.Chat.1>Giá càng cao thì phần thưởng ta nhận được sẽ càng lớn</Npc.2.Talk.Chat.1>
+			<Npc.3.Talk.Bid.0>Ngươi có thể dùng tiền tài để đo lường giá trị của một kẻ tu tiên sao? Ta theo...!</Npc.3.Talk.Bid.0>
+			<Npc.3.Talk.Bid.1>Tu vi của ta sẽ tiến bộ vượt bậc nếu có được thứ này.!</Npc.3.Talk.Bid.1>
+			<Npc.3.Talk.Bid.2>Sư tôn của ta đang cần thứ này.!</Npc.3.Talk.Bid.2>
+			<Npc.3.Talk.Exceed.0>Sao lại thế được?...</Npc.3.Talk.Exceed.0>
+			<Npc.3.Talk.Buy.0>Tuyệt diệu, chỉ còn cách một bước nữa thôi.!</Npc.3.Talk.Buy.0>
+			<Npc.3.Talk.Like.0>Thứ này quả là bảo vật vô giá, và chỉ có ta mới xứng đáng sở hữu nó.!!</Npc.3.Talk.Like.0>
+			<Npc.3.Talk.Last.0>Lần này lại là bảo vật bí mật của tông môn nào đây??</Npc.3.Talk.Last.0>
+			<Npc.3.Talk.DontKnow.0>Bên trong đó thật vô cùng huyền bí và không thể dò thấu....</Npc.3.Talk.DontKnow.0>
+			<Npc.3.Talk.Chat.0>Ta đến đây theo lệnh của sư tôn.</Npc.3.Talk.Chat.0>
+			<Npc.3.Talk.Chat.1>Ta sắp chuyển thế rồi.!</Npc.3.Talk.Chat.1>
+			<Npc.4.Talk.Bid.0>Ta nhất định phải có được thứ này.</Npc.4.Talk.Bid.0>
+			<Npc.4.Talk.Exceed.0>Đáng chết.!</Npc.4.Talk.Exceed.0>
+			<Npc.4.Talk.Like.0>Đừng có hòng! Dù có chuyện gì xảy ra đi nữa, ta cũng phải giành được thứ này.!</Npc.4.Talk.Like.0>
+			<Npc.4.Talk.Like.1>Thật là quá thú vị rồi! Xin lỗi vì chuyện này nhé.!</Npc.4.Talk.Like.1>
+			<Npc.4.Talk.Buy.0>Ha ha, các ngươi đừng hòng có được nó.!</Npc.4.Talk.Buy.0>
+			<Npc.4.Talk.Last.0>Chẳng lẽ... thứ này chính là!</Npc.4.Talk.Last.0>
+			<Npc.4.Talk.DontKnow.0>Á... cái gì? Thứ này rốt cuộc là cái gì thế??</Npc.4.Talk.DontKnow.0>
+			<Npc.4.Talk.Chat.0>Hãy đến để nghiền nát sự ngạo mạn kiêu hãnh của đám người này nào.</Npc.4.Talk.Chat.0>
+		</Text>
+	</List>
+</Texts>

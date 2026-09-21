@@ -1,0 +1,44 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Policy_TianDaoShenDan">
+			<DisplayName>Cầu đạo</DisplayName>
+			<Desc>Quan sát sự xoay chuyển của thiên địa và phong thủy, thỉnh thoảng luyện chế một viên Ngộ Đạo Đan</Desc>
+		</Text>
+		<Text Name="Policy_TreasureHunt">
+			<DisplayName>Săn bảo vật</DisplayName>
+			<Desc>Săn tìm bảo vật quý hiếm tại những vùng đất chưa được khám phá, mỗi loại bảo vật khác nhau đều yêu cầu phương pháp và chỉ số thông minh khác nhau</Desc>
+		</Text>
+		<Text Name="Policy_Acceleration">
+			<DisplayName>Sử dụng lao động</DisplayName>
+			<Desc>Phái đại diện tông môn hoặc đệ tử đến giám sát lao động để nhận được sản lượng tăng thêm theo định kỳ. Sản lượng ruộng đồng phụ thuộc vào kỹ năng nông nghiệp, sản lượng mỏ và mỏ linh thạch phụ thuộc vào kỹ năng khai khoáng, sản lượng từ xưởng gỗ phụ thuộc vào nhân khẩu</Desc>
+		</Text>
+		<Text Name="Policy_Discipline">
+			<DisplayName>Tẩy Tủy Đại Lễ</DisplayName>
+			<Desc>Nhắc nhở người dân cư xử đúng mực và giữ gìn đạo đức. Cần sử dụng các loại hình khác nhau tùy theo tình huống, tỷ lệ thành công phụ thuộc vào kỹ năng chiến đấu</Desc>
+		</Text>
+		<Text Name="Policy_Secret">
+			<DisplayName>Lập mưu kế</DisplayName>
+			<Desc>Cố gắng thuyết phục đệ tử của tông môn khác cải đạo gia nhập tông môn của người bằng nhiều phương thức, từ việc phá rối công việc của đại diện tông môn khác đến việc tạo ra các rắc rối làm xáo trộn cuộc sống thường nhật của dân chúng. Việc này đòi hỏi chỉ số thông minh rất cao cùng với các mưu kế đặc biệt để tăng tỷ lệ thành công</Desc>
+		</Text>
+		<Text Name="Policy_Sermon">
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Truyền bá giáo lý của tông môn, đồng thời giải quyết các vấn đề một cách hiệu quả. Kết quả thu được sẽ phụ thuộc vào mị lực, độ thu hút và tính ổn định</Desc>
+		</Text>
+		<Text Name="Policy_Give">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Phát chẩn lương thực cho những người nghèo khổ đói khát. Những người nhận được sự giúp đỡ sẽ cảm thấy ấn tượng với tông môn của người. Người có thể nhận được thêm một số lượng đệ tử, cũng như tăng độ thu hút và sức ảnh hưởng</Desc>
+		</Text>
+		<Text Name="Policy_Missionary">
+			<DisplayName>Tạo công đức</DisplayName>
+			<Desc>Phát chẩn lương thực cho những người nghèo khổ đói khát. Những người nhận được sự giúp đỡ sẽ cảm thấy ấn tượng với tông môn của người. Người có thể nhận được thêm một số lượng đệ tử, cũng như tăng độ thu hút và sức ảnh hưởng</Desc>
+		</Text>
+		<Text Name="Policy_Submiss">
+			<DisplayName>Hợp nhất</DisplayName>
+			<Desc>Trở thành đại diện tông môn duy nhất tại thành trì này. Sẽ có rất nhiều sự kiện xảy ra để thử thách năng lực của người. Hãy cố gắng phát triển tiến độ hợp nhất thành trì, việc này sẽ thành công khi giá trị thành tựu đạt 20. Nếu đi nhầm một nước cờ, dân làng có thể cảm thấy người đang đe dọa cuộc sống của họ, dẫn đến việc người có thể phải bắt đầu lại từ đầu. Nếu có sự thay đổi chính sách trong quá trình thực hiện, tiến độ hợp nhất sẽ bị gián đoạn</Desc>
+		</Text>
+		<Text Name="Policy_God">
+			<DisplayName>Kỳ tích</DisplayName>
+			<Desc>Để đệ tử tu tiên sử dụng thần tích của họ</Desc>
+		</Text>
+	</List>
+</Texts>

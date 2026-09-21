@@ -1,0 +1,203 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>Ý kiến về hệ thống tin nhắn</Notes>
+			<Title>Hệ thống tin nhắn</Title>
+			<Desc>Mục hệ thống tin nhắn</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>Ý kiến về công trình</Notes>
+			<Title>Kiến trúc</Title>
+			<Desc>Mục công trình</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>Ý kiến về trạng thái nhân vật</Notes>
+			<Title>Trạng thái nhân vật</Title>
+			<Desc>Mục trạng thái nhân vật</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>Ý kiến về xã hội của nhân vật</Notes>
+			<Title>Xã hội của nhân vật</Title>
+			<Desc>Mục xã hội của nhân vật</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>Ý kiến về sinh mệnh của nhân vật</Notes>
+			<Title>Sinh lực</Title>
+			<Desc>Mục sinh mệnh</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>Ý kiến về quá trình tu luyện của nhân vật</Notes>
+			<Title>Nhân vật</Title>
+			<Desc>Mục nhân vật</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>Ý kiến về luyện thể của nhân vật</Notes>
+			<Title>Tu luyện cơ bản</Title>
+			<Desc>Mục luyện thể</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>Ý kiến về chỉ số thông minh của nhân vật</Notes>
+			<Title>Chỉ số thông minh</Title>
+			<Desc>Mục chỉ số thông minh</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>Ý kiến về trang bị của nhân vật</Notes>
+			<Title>Trang bị</Title>
+			<Desc>Mục trang bị</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>Ý kiến về trang bị và bí mật rèn thể</Notes>
+			<Title>Trang bị và bí mật rèn thể</Title>
+			<Desc>Trang bị và bí mật rèn thể</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>Ý kiến về chiến lược của nhân vật</Notes>
+			<Title>Chiến lược</Title>
+			<Desc>Mục chiến lược</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>Ý kiến về chi tiết trạng thái nhân vật</Notes>
+			<Title>Chi tiết trạng thái</Title>
+			<Desc>Mục chi tiết trạng thái</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>Ý kiến về kháng tính đan dược của nhân vật</Notes>
+			<Title>Kháng tính đan dược</Title>
+			<Desc>Mục kháng tính đan dược</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>Ý kiến về bí ẩn</Notes>
+			<Title>Bí ẩn</Title>
+			<Desc>Mục bí ẩn</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>Ý kiến vềNPC</Notes>
+			<Title>NPC</Title>
+			<Desc>Mục NPC</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>Ý kiến về manh mối</Notes>
+			<Title>Manh mối</Title>
+			<Desc>Mục manh mối</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>Ý kiến về trận pháp</Notes>
+			<Title>Trận pháp</Title>
+			<Desc>Mục trận pháp</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>Ý kiến về tinh chỉnh trận pháp</Notes>
+			<Title>Tinh chỉnh trận pháp</Title>
+			<Desc>Mục tinh chỉnh trận pháp</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>Ý kiến về thành phần trận pháp</Notes>
+			<Title>Thành phần trận pháp</Title>
+			<Desc>Mục thành phần trận pháp</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>Ý kiến về lịch trình</Notes>
+			<Title>Lịch trình</Title>
+			<Desc>Mục lịch trình</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>Ý kiến về tổng quan tông môn</Notes>
+			<Title>Tông môn</Title>
+			<Desc>Tông môn</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>Ý kiến về kiến trúc tông môn</Notes>
+			<Title>Kiến trúc tông môn</Title>
+			<Desc>Kiến trúc tông môn</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>Ý kiến về đệ tử tông môn</Notes>
+			<Title>Đệ tử tông môn</Title>
+			<Desc>Đệ tử tông môn</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>Ý kiến về ngoại giao tông môn</Notes>
+			<Title>Ngoại giao tông môn</Title>
+			<Desc>Ngoại giao tông môn</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>Ý kiến về quản lý năng lượng</Notes>
+			<Title>Quản lý năng lượng</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>Ý kiến về tặng quà tông môn</Notes>
+			<Title>Quà tặng</Title>
+			<Desc>Quà tông môn</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>Ý kiến về giao thương giữa các tông môn</Notes>
+			<Title>Giao thương giữa các tông môn</Title>
+			<Desc>Giao thương giữa các tông môn</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>Ý kiến về truyền tin tông môn</Notes>
+			<Title>Thông báo tông môn</Title>
+			<Desc>Thông báo tông môn</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>Ý kiến về quy tắc tông môn</Notes>
+			<Title>Quy củ tông môn</Title>
+			<Desc>Quy củ tông môn</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>Ý kiến về giao thương</Notes>
+			<Title>Giao thương</Title>
+			<Desc>Giao thương</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>Ý kiến về bí mật</Notes>
+			<Title>Bí mật</Title>
+			<Desc>Bí mật</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>Ý kiến về luyện thể</Notes>
+			<Title>Luyện thể</Title>
+			<Desc>Luyện thể</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>Ý kiến về nuôi dưỡng linh thú tông môn</Notes>
+			<Title>Nuôi dưỡng linh thú tông môn</Title>
+			<Desc>Nuôi dưỡng linh thú tông môn</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>Ý kiến về huấn luyện linh thú tông môn</Notes>
+			<Title>Huấn luyện linh thú tông môn</Title>
+			<Desc>Huấn luyện linh thú tông môn</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>Ý kiến về dinh dưỡng linh thú tông môn</Notes>
+			<Title>Dinh dưỡng linh thú tông môn</Title>
+			<Desc>Dinh dưỡng linh thú tông môn</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>Ý kiến về hành vi linh thú tông môn</Notes>
+			<Title>Tập tính yêu thú của tông môn</Title>
+			<Desc>Tập tính yêu thú của tông môn</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>Ý kiến về tư tưởng và suy nghĩ</Notes>
+			<Title>Tư tưởng và suy nghĩ</Title>
+			<Desc>Tư tưởng và suy nghĩ</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>Về tư tưởng: Ý kiến về Ngộ tính</Notes>
+			<Title>Tư tưởng: Ngộ tính</Title>
+			<Desc>Một trong ba nguyên tắc, mảnh vỡ tinh thể Ngộ tính có thể hợp nhất thành một Ngộ tính</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>Về tư tưởng: Ý kiến về Lý tính</Notes>
+			<Title>Tư tưởng: Lý tính</Title>
+			<Desc>Một trong ba nguyên tắc, mảnh vỡ tinh thể Lý tính có thể hợp nhất thành một Lý tính</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>Về tư tưởng: Ý kiến về Khái niệm</Notes>
+			<Title>Tư tưởng: Khái niệm</Title>
+			<Desc>Một trong ba nguyên tắc, mảnh vỡ tinh thể Khái niệm có thể hợp nhất thành một Khái niệm</Desc>
+		</Text>
+	</List>
+</Texts>

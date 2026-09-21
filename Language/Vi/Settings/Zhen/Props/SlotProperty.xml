@@ -1,0 +1,116 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>Trống</Descript>
+			<Tip>Trống</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>Trận pháp ổn định cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>Trận pháp ổn định cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>Độ ổn định trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>Độ ổn định trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>Pháp bảo kỹ năng cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>Pháp bảo kỹ năng cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>Kỹ năng pháp bảo {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>Kỹ năng pháp bảo {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>Pháp lực kỹ năng cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>Pháp lực kỹ năng cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>Kỹ năng chân khí {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>Kỹ năng chân khí {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>Hộ thể linh giáp cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>Hộ thể linh giáp cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildAddv">
+			<Descript>Hộ Thể Chân Khí {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>Hộ Thể Chân Khí {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>Sử dụng cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>Sử dụng cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>Sử dụng {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>Sử dụng {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>Trận pháp hiệu năng cơ sở {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>Trận pháp hiệu năng cơ sở {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>Hiệu suất trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>Hiệu suất trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>Quy mô trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>Quy mô trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>Quy mô trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>Quy mô trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasev">
+			<Descript>Gánh nặng trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasep">
+			<Descript>Gánh nặng trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddv">
+			<Descript>Gánh nặng trận pháp {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddp">
+			<Descript>Gánh nặng trận pháp {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasev">
+			<Descript>Trận pháp linh năng cực hạn {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasep">
+			<Descript>Trận pháp linh năng cực hạn {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddv">
+			<Descript>Trận pháp linh năng cực hạn {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddp">
+			<Descript>Trận pháp linh năng cực hạn {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>

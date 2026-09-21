@@ -1,0 +1,174 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong13_Esoterica_Dan">
+			<DisplayName>Đan Phương Chiến Đấu</DisplayName>
+			<Desc>Đan phương ghi chép bí quyết luyện chế đan dược bí truyền của Võ Đang phái</Desc>
+			<EffectDesc>Nhận được Đan Phương:\nThế Khí Đan\nTam Hạch Đan</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_Fabao1">
+			<DisplayName>Kiếm phổ Chinh Phục</DisplayName>
+			<Desc>Kế thừa trân quý ghi lại bí pháp luyện khí của Chiến Thần Thiên Đế</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế tiên khí thượng cổ:\nChiến Thần Kiếm[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_Fabao2">
+			<DisplayName>Tử Vụ Đạo Kinh</DisplayName>
+			<Desc>Kế thừa trân quý ghi lại bí pháp luyện chế pháp bảo của Võ Đang phái</Desc>
+			<EffectDesc>[size=10][color=#D06508]Đã nhận phương pháp luyện chế tiên khí thượng cổ:\nTử Vụ Quang Trượng[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_1">
+			<DisplayName>Thanh Tịnh Tâm Nhãn</DisplayName>
+			<Desc>Công pháp sử dụng thuần dương chi khí để nâng cao tâm cảnh và tăng hiệu suất hấp thu linh khí, tuy nhiên nó sẽ khiến căn cơ tu luyện không ổn định, đồng thời làm giảm cảm ngộ linh khí và lượng linh khí tối đa.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng hiệu suất hấp thu linh khí\nGiảm cấp độ cảm ngộ linh khí\nGiảm giới hạn chân khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_2">
+			<DisplayName>Tạp chất linh khí</DisplayName>
+			<Desc>Công pháp sử dụng thái âm chi khí để củng cố căn cơ tu luyện, giúp tăng cảm ngộ linh khí và lượng linh khí tối đa, tuy nhiên lại làm giảm tâm cảnh và hiệu suất hấp thu linh khí cùng lúc.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao linh thức\nTăng giới hạn chân khí\nGiảm cấp độ tâm cảnh\nGiảm hiệu suất hấp thu linh khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_3">
+			<DisplayName>Khai tâm kiến tính</DisplayName>
+			<Desc>Công pháp sử dụng sự cân bằng giữa âm và dương để nâng cao tiềm năng bản thân, giúp năm chỉ số cơ bản tăng lên đáng kể và mở rộng đan điền của người tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng 5 chỉ số thuộc tính cơ bản mỗi loại 30%.\nTăng đáng kể tiềm năng.\nMở rộng đáng kể giới hạn tối đa của đan điền[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_4">
+			<DisplayName>Thái Dương Quang Chú</DisplayName>
+			<Desc>Vận chuyển linh khí đến trung tâm các huyệt đạo, biến nó thành ngọn lửa thuần khiết có thể tẩy trừ mọi tạp chất, giúp người tu luyện nâng cao đáng kể hiệu suất tu luyện, tuy nhiên lại ảnh hưởng tiêu cực đến kỹ năng ngự khí và pháp thuật cùng lúc.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể hiệu suất tu luyện\nGiảm 5 cấp kỹ năng pháp bảo\nGiảm 5 cấp pháp thuật[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_5">
+			<DisplayName>Nguyệt Minh Phù</DisplayName>
+			<Desc>Quan sát thiên đạo và thần ân của chư thần, tu luyện môn này giúp áp chế sát tâm và chuyển hóa nó thành thiên địa chi lực, giúp nâng cao nhiều cấp kỹ năng pháp bảo và pháp thuật, nhưng đồng thời cũng làm giảm đáng kể hiệu suất tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng 5 cấp kỹ năng pháp bảo\nTăng 5 cấp pháp thuật\nGiảm đáng kể hiệu suất tu luyện[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_6">
+			<DisplayName>Vô Cực Lục</DisplayName>
+			<Desc>Hấp thu dương, vận chuyển âm trong cơ thể, dùng thân thể như vũ trụ lò luyện. Bằng cách sử dụng âm dương chi lực này, người tu luyện có thể tăng cường tiềm năng sử dụng pháp bảo và pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Lĩnh hội tinh túy ngự khí, giúp nâng cao 3 cấp giới hạn tối đa kỹ năng pháp bảo.\nLĩnh hội tinh túy pháp thuật, giúp nâng cao 3 cấp giới hạn tối đa pháp thuật.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_7">
+			<DisplayName>Lục Dương Thuần Dương Thể</DisplayName>
+			<Desc>Luyện thể bằng thuần dương chi khí để bước vào thuần dương thể, nâng cao kỹ năng chiến đấu của người tu luyện, nhưng sẽ làm giảm đáng kể tâm cảnh và độ tỉ mỉ của kỹ năng chế tạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao 20 cấp chiến đấu\nGiảm 20 cấp chế tạo\nGiảm đáng kể cấp độ tâm cảnh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_8">
+			<DisplayName>Cửu Âm Kinh Mạch</DisplayName>
+			<Desc>Luyện thể bằng thuần âm chi khí để bước vào thuần âm thể, nâng cao đáng kể kỹ năng chế tạo và tâm cảnh, nhưng sẽ khiến người tu luyện dễ bị kiệt sức khi chiến đấu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cấp thủ công 20 cấp\nNâng cao đáng kể trạng thái tâm cảnh\nGiảm cấp chiến đấu 20 cấp[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_9">
+			<DisplayName>Lục Dương Cửu Âm Nhị Tiên</DisplayName>
+			<Desc>Luyện hóa năng lượng Âm Dương và tinh luyện vào cơ thể, tăng đáng kể Linh thức và Hộ thể chân khí của người tu luyện</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể Linh thức\nTiếp cận tinh túy của kỹ năng phòng ngự, giúp nâng cao giới hạn tối đa của Hộ thể chân khí lên 3 cấp</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_10">
+			<DisplayName>Linh hồn bí ẩn Âm Dương</DisplayName>
+			<Desc>Hòa hợp Âm Dương làm một, sử dụng nó như kiếm khí và pháp lực cùng lúc</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nhận được Âm Dương linh hồn[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_11">
+			<DisplayName>Thiên Đạo khí</DisplayName>
+			<Desc>Phương pháp vận hành chân khí dẫn dắt linh khí đất trời vào cơ thể để tăng giới hạn chân khí tối đa, tuy nhiên việc dẫn dắt năng lượng thiên địa vào người sẽ khiến tuổi thọ người tu luyện rút ngắn</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn chân khí\nGiảm đáng kể tuổi thọ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_12">
+			<DisplayName>Thái cổ khí</DisplayName>
+			<Desc>Kiểm soát dòng chảy chân khí và chuyển hóa cơ thể về trạng thái tương đương với Thái cổ đạo thể. Phương pháp này giúp kéo dài tuổi thọ, đồng thời củng cố sinh cơ cho người tu luyện</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm giới hạn chân khí\nTăng đáng kể tuổi thọ[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_13">
+			<DisplayName>Bí tịch Ngũ Hành</DisplayName>
+			<Desc>Luân chuyển sức mạnh Ngũ Hành khắp cơ thể. Tu luyện phương pháp này giúp người tu luyện giảm sát thương từ Ngũ Hành</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm sát thương phải chịu từ Ngũ Hành[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_14">
+			<DisplayName>Chân Dương chi quang</DisplayName>
+			<Desc>Ngưng tụ thuần dương chân khí vào cơ thể để tăng giới hạn chân khí tối đa, tuy nhiên gây ảnh hưởng lớn đến tâm cảnh</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn chân khí\nGiảm đáng kể cấp độ tâm cảnh[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_15">
+			<DisplayName>Tịnh Nguyệt chi quang</DisplayName>
+			<Desc>Tẩy rửa nội tâm bằng ánh trăng để tăng đáng kể tâm cảnh, tuy nhiên phương pháp này gây ảnh hưởng đến giới hạn chân khí tối đa</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao đáng kể trạng thái tâm cảnh\nGiảm giới hạn chân khí[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_16">
+			<DisplayName>Quy tắc vận hành chân khí</DisplayName>
+			<Desc>Thay đổi chính là bất biến, vô thường có lên có xuống, cứng và mềm hỗ trợ lẫn nhau. Chân lý này biểu thị sự thật của đạo biến đổi. Hiểu thấu chân lý này sẽ giảm đáng kể ảnh hưởng của Đạo chủng lên người sử dụng</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể số lượng Đạo chủng[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_17">
+			<DisplayName>Thiên phú tinh túy</DisplayName>
+			<Desc>Vạn vật đều bắt nguồn từ một khởi đầu. Khi hiểu được nguyên lý này, người tu luyện sẽ thấu hiểu cốt lõi của các loại công pháp khác sâu sắc hơn</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng độ tương thích với tất cả công pháp trên thế gian[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_18">
+			<DisplayName>Vong ưu kiếm</DisplayName>
+			<Desc>Vận hành chân khí theo con đường hư vô và tĩnh lặng. Việc này giúp tăng uy lực của pháp bảo nhưng lại ảnh hưởng đến chân khí của nó</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nGiảm lượng chân khí của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_19">
+			<DisplayName>Đế vương kiếm</DisplayName>
+			<Desc>Quá trình thấu hiểu pháp bảo. Khi thấu hiểu chúng sẽ tăng sự đồng điệu chân khí với người dùng, khiến lượng chân khí của pháp bảo tăng lên, nhưng giảm sức mạnh uy mãnh của pháp bảo</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn linh khí pháp bảo\nGiảm uy lực của pháp bảo[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_20">
+			<DisplayName>Luân hồi kiếm</DisplayName>
+			<Desc>Kiếm phổ tập trung vào căn cơ nguyên bản. Khi căn cơ vững chắc, người tu luyện có thể hồi phục chân khí pháp bảo nhanh chóng, đồng thời phá vỡ giới hạn kỹ năng của pháp bảo</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hệ số hồi phục linh khí pháp bảo\nLĩnh hội tinh túy ngự khí, giúp nâng cao 3 cấp giới hạn tối đa kỹ năng pháp bảo.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_21">
+			<DisplayName>Chân lý kiếm</DisplayName>
+			<Desc>Tay trái Âm, tay phải Dương, khi tu luyện đến đại thành sẽ giúp người tu luyện điều khiển thêm pháp bảo, nhưng phải đánh đổi bằng việc giảm nhẹ nguyên thần pháp lực</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng 2 ô trang bị pháp bảo\nGiảm 2 kỹ năng pháp lực của nguyên thần[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_22">
+			<DisplayName>Chân lý pháp</DisplayName>
+			<Desc>Vận chuyển âm dương bên trong dòng chân khí trong cơ thể, khi luyện đến đại thành sẽ làm tăng số lượng pháp thuật mà nguyên thần của người tu luyện có thể sử dụng, nhưng lại làm giảm số lượng pháp bảo có thể điều khiển.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng số lượng pháp thuật mà nguyên thần có thể sử dụng thêm 2 pháp thuật.\nGiảm 2 ô trang bị pháp bảo.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_23">
+			<DisplayName>Đạo chân lý</DisplayName>
+			<Desc>Lưu chuyển theo quy luật âm dương, khi thấu hiểu nguyên lý này, người tu luyện có thể nâng cao tốc độ lĩnh ngộ và tốc độ bẻm phai một cách to lớn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ lĩnh ngộ một cách to lớn.\nTăng tốc độ bẻm phai một cách to lớn.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_24">
+			<DisplayName>Giai điệu phản ánh bản ngã</DisplayName>
+			<Desc>Quan sát và thấu hiểu chu kỳ sinh tử vô tận. Việc tu luyện như vậy sẽ có lợi cho uy lực của pháp thuật, nhưng phải đánh đổi bằng việc tăng lượng chân khí cần thiết để thi triển pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực thuật pháp\nTăng lượng chân khí cần thiết để thi triển pháp thuật.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_25">
+			<DisplayName>Nguyên thủy khởi nguyên</DisplayName>
+			<Desc>Xua đuổi tạp niệm xung quanh và tập trung định tâm cho đến khi tâm hồn tĩnh lặng. Việc tu luyện như vậy sẽ giảm lượng chân khí cần thiết để thi triển pháp thuật, nhưng đồng thời cũng làm giảm uy lực của pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm uy lực của pháp thuật.\nGiảm lượng chân khí cần thiết để thi triển pháp thuật.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_26">
+			<DisplayName>Dung hợp vạn vật</DisplayName>
+			<Desc>Dung luyện thể xác và linh hồn làm một, người tu luyện có thể nâng cao uy lực của pháp thuật một cách to lớn, hơn nữa còn giúp phá vỡ giới hạn tối đa của thần thông pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể uy lực pháp lực\nLĩnh hội tinh túy pháp thuật, giúp nâng cao 3 cấp giới hạn tối đa pháp thuật.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_27">
+			<DisplayName>Lục bộ đạp thiên</DisplayName>
+			<Desc>Tương truyền đây là bộ thân pháp di chuyển được để lại bởi Chiến Thần Đế trước khi phi thăng tiên giới. Ông chỉ dùng sáu bước để phi thăng tiên giới. Khi người tu luyện hiểu thấu bộ pháp này sẽ làm tăng tốc độ di chuyển một cách đáng kể, nhưng với tốc độ tạo ra tiếng động lớn này sẽ khiến kẻ địch dễ dàng phát hiện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ di chuyển một cách đáng kể.\nGiảm khả năng ẩn giấu một cách đáng kể.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_28">
+			<DisplayName>Vân hải ẩn thiên</DisplayName>
+			<Desc>Bí pháp dung hòa bản thân với hư vô, người tu luyện có thể che giấu và che đậy thân phận khỏi những người xung quanh một cách hiệu quả, nhưng sẽ ảnh hưởng đến tốc độ di chuyển của người tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm tốc độ di chuyển một cách đáng kể.\nTăng khả năng ẩn giấu một cách đáng kể.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_29">
+			<DisplayName>Âm dương thần bộ ẩn giấu</DisplayName>
+			<Desc>Bí pháp thân pháp giúp người dùng có thể điều khiển âm dương của trời đất, khiến bước đi từ nơi này sang nơi khác một cách cực kỳ nhanh chóng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tốc độ phi hành thám hiểm.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_30">
+			<DisplayName>Vô cực dương cảnh - Nguyên bản</DisplayName>
+			<Desc>Người tu luyện công pháp Vô cực dương cảnh dòng chính sẽ làm tăng giới hạn chân khí tối đa của bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn chân khí tối đa một cách đáng kể.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Gong13_Esoterica_31">
+			<DisplayName>Vô cực dương cảnh - Biến hóa</DisplayName>
+			<Desc>Người tu luyện công pháp Vô cực dương cảnh biến hóa sẽ làm giảm đạo chủng của bản thân, nhưng sẽ khiến đan điền hỗn loạn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đạo chủng.\nKhiến chân khí bên trong đan điền hỗn loạn.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

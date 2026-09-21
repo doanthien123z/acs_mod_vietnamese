@@ -1,0 +1,137 @@
+ItemName	Descript
+Item_Dan_IncreaseLife3	Trong bình, kéo dài tuổi thọ, màu vàng nhạt
+Item_Dan_IncreaseLife4	Trong hồ lô, kéo dài tuổi thọ, màu xanh lam
+Item_Dan_Ling2	Màu tím, hình tròn, tăng tu vi
+Item_Dan_IncreaseLife5	Màu xanh lam, hình tròn, Thiên Kiếp
+Item_Dan_IncreaseNeckCountdown1	Hồ lô, màu đỏ, Thiên Kiếp
+Item_ParasolWood	Gỗ, cứng, pháp bảo
+Item_Dan_PracticeSpeed	Hỏa, tốc độ, trong bình
+Item_Dan_Defense	Phòng thủ, hình tròn, màu cam
+Item_CopperBlock1	Hình vuông, hỏa, pháp bảo
+Item_Dan_CureHuoDamage	Hình tròn, trị liệu, màu tím
+Item_Dan_CureTuDamage	Hình tròn, trị liệu, màu cam
+Item_Dan_CureShuiDamage	Dạng bột, nước, màu xanh lam
+Item_Dan_CureMuDamage	Hình tròn, màu chàm, trị liệu
+Item_Dan_CureFiveElementDamage	Trong bình, trị liệu, màu cam
+Item_EarthEssence_1	Trong hồ lô, màu xanh lam, trị liệu
+Item_Dan_FiveBaseFromLife	Hình tròn, màu tím, giảm tuổi thọ
+Item_Dan_DredgeQi	Trong bình, trị liệu, thổ tính
+Item_RedGinseng	Rễ cây, màu đỏ, tăng tu vi
+Item_LingWood	Mộc, màu xanh lam, linh bảo
+Item_HardWood	Mộc, màu vàng
+Item_Dan_PracticeRate	Viên nhỏ, kim hệ, hạn định
+Item_Dan_IncreaseLife1	Duyên thọ, trong hồ lô, mộc
+Item_Dan_IncreaseLife2	Duyên thọ, bột, thủy hệ
+Item_BasePracticeDrug	Ngũ hành cơ bản, trong bình, thủy hệ
+Item_LingMuXueJie	Thể phách, bột, màu xanh lam
+Item_Dan_CalmDown	Tâm cảnh, viên nhỏ, màu xanh lam
+Item_Dan_Happiness	Màu nâu, tâm cảnh, viên nhỏ
+Item_Dan_FiveBase2	Ngũ hành cơ bản, thổ hệ, trong bình
+Item_Dan_FiveBase1	Ngũ hành cơ bản, trong bình, màu vàng
+Item_Dan_FiveBase3	Hỏa, ngũ hành cơ bản, trong bình
+Item_Dan_FiveBase4	Mộc, ngũ hành cơ bản, trong bình
+Item_Dan_FiveBase5	Thủy, ngũ hành cơ bản, trong bình
+Item_Dan_IncreaseNeckCountdown2	Bột, thiên kiếp, kim hệ
+Item_Dan_CureJinDamage	Hộp, màu trắng, trị liệu
+Item_ShuiEssence	Màu trắng, hình cầu, linh hồn
+Item_HuoEssence	Hỏa, hình cầu, linh hồn
+Item_JinEssence	Màu nâu, hình cầu, linh hồn
+Item_MuEssence	Màu nâu, linh hồn, mộc
+Item_TuEssence	Màu nâu, thổ hệ, linh hồn
+Item_LifeStream	Chất lỏng, duyên thọ, màu đỏ
+Item_EarthEssence	Chất lỏng, trong suốt, tu vi
+Item_SkyStone	Đá, linh hồn, thổ hệ
+Item_StarEssence	Linh hồn, đá, kim hệ
+Item_SoulPearl	Linh hồn, thủy, hình cầu
+Item_EarthEssence1	Tu vi, chất lỏng, màu đỏ
+Item_Dan_LongDan1	Màu xanh lam, hình cầu, thủy hệ
+Item_Dan_FengDan1	Màu đỏ, hình cầu, hỏa hệ
+Item_YanDaoGuo	Đạo chủng, mộc, màu tím
+Item_QieDaoGuo	Nghiệp chướng, mộc, màu xanh lam
+Item_Dan_TreeEXP	Hình cầu, trong suốt, ý niệm
+Item_Dan_ExtremeLofty	Trong hồ lô, màu vàng, trị liệu
+Item_ExtremeJade	Cứng, màu xanh lam, linh hồn
+Item_XianDaoShenNian	Hình cầu, tiềm năng, màu xanh lá
+Item_XianDaoXieNian	Hình cầu, tiềm năng, màu tím
+Item_Dan_HundredRefine	Màu vàng, hình cầu, tu luyện
+Item_Dan_ZhuLongDan1	Phân hồn, đa sắc, hình cầu
+Item_ThunderAir	Hình cầu, không thể ăn, thiên kiếp
+Item_XianBone	Xương, đạo chủng, vô hệ
+Item_ZaoHuaYuZi	Màu lam, vô thuộc tính, bản nguyên
+Item_Dan_LingYuanZhong	Màu lam, linh hồn, vô thuộc tính
+Item_Dan_ReBorn_4	Hình cầu, màu đỏ, trường thọ
+Item_BenYuan_None	Vô thuộc tính, Đạo chủng, bản nguyên
+Item_BenYuan_Jin	Màu vàng, Đạo chủng, bản nguyên
+Item_BenYuan_Mu	Màu xanh lục, Đạo chủng, bản nguyên
+Item_BenYuan_Shui	Màu xanh lam, Đạo chủng, bản nguyên
+Item_BenYuan_Huo	Màu đỏ, Đạo chủng, bản nguyên
+Item_BenYuan_Tu	Màu nâu, Đạo chủng, bản nguyên
+Item_Yao_RabbitLuck	Nước, xù lông
+Item_Yao_WolfAtk	Kim thuộc tính, cứng
+Item_Yao_SnakeHanLin	Nước, cứng
+Item_Yao_BearPiMao	Hỏa, xù lông
+Item_Yao_TurtleKe	Cứng, Thổ thuộc tính
+Item_BoarMeat	Thổ thuộc tính, màu nâu, thức ăn
+Item_StrangeMush	Mộc, màu nâu, thức ăn
+Item_MillVell	Mộc, xù lông
+Item_SewingDefender	Mộc, cứng
+Item_PerfumeBag	Mộc, trạng thái tâm cảnh
+Item_StoneCutter	Kim thuộc tính, tốc độ
+Item_Handkerchief	Xù lông, vô thuộc tính
+Item_Bracelet	Cứng, vô thuộc tính
+Item_SmallBell	Cứng, vô thuộc tính
+Item_SysAxe	Cứng, vô thuộc tính
+Item_SysPickaxe	Cứng, vô thuộc tính
+Item_SysSickle	Cứng, vô thuộc tính
+[ANIMAL]	Hộp, hình vuông
+Item_BossFeng_TouYu	Hỏa, xù lông, yêu thú
+Item_BossFeng_WeiYu	Xù lông, yêu thú, pháp bảo
+Item_BossFeng_HongYu	Khái niệm, yêu thú, màu đỏ
+Item_BossLong_Jiao	Yêu thú, cứng, kỹ năng pháp bảo
+Item_BossLong_NiLin	Khái niệm, nước, yêu thú
+Item_BossLong_Jing	Cứng, pháp bảo, yêu thú
+Item_BossZhuLong_Eye	Yêu thú, đan dược
+Item_BossZhuLong_LongYu	Hỗn độn, kháng tính, yêu thú
+Item_BossZhuLong_TianLin	Phòng thủ, yêu thú
+Item_Dan_FenShen1	Cổ đại, màu đỏ, phân thân
+Item_Dan_FenShen2	Vận mệnh, màu đỏ, phân thân
+Item_Dan_FenShen3	Trạng thái tâm cảnh, màu đỏ, phân thân
+Item_Yao_CatSoul	Đan dược, màu xanh lam, phân thân
+Item_WhiteHair	Kinh sách, màu xanh lam, màu trắng
+Item_BossFeng_HuoYu	Pháp bảo, màu đỏ, yêu thú
+Item_BossFeng_GangYu	Hỏa, yêu thú
+Item_BossFeng_Gu	Xương, cứng, yêu thú
+Item_DragonScale	Màu lam, linh bảo, yêu thú
+Item_BossLong_Zhua	Sắc bén, yêu thú
+Item_BossLong_Lin	Màu lam, phòng ngự, yêu thú
+Item_BossZhuLong_BaiLin	Màu trắng, yêu thú
+Item_BossZhuLong_HeiLin	Màu đen, yêu thú
+Item_BossFeng_Meat	Thực phẩm, yêu thú, màu đỏ
+Item_BossLong_Meat	Thực phẩm, ngũ sắc, yêu thú
+Item_BossZhuLong_Meat	Đạo chủng, thực phẩm, yêu thú
+Item_Dan_Restore	Hồi phục, màu vàng, bột
+Item_Dan_SwordBall	Đan dược, màu lam
+Item_Dan_Ling3	Bột, màu vàng
+Item_Dan_Thin	Viên nhỏ, màu lam, hình dáng
+Item_Dan_FaceLock	Viên nhỏ, màu đỏ, hình dáng
+Item_Dan_FaceUnLock	Viên nhỏ, thổ hệ, hình dáng
+Item_Dan_Soul1	Viên nhỏ, khái niệm, thọ nguyên
+Item_Dan_Soul2	Viên nhỏ, hỏa, khái niệm
+Item_Dan_Soul3	Viên nhỏ, thổ hệ, khái niệm
+Item_Dan_Soul4	Viên nhỏ, trí tuệ, khái niệm
+Item_QiZhi	Ngộ đạo, bình, thủy hệ
+Item_Fall_LingZhi	Ngộ đạo, bình, kim hệ
+Item_Winter_LingZhi	Ngộ đạo, bình, băng hàn
+Item_Spring_LingZhi	Ngộ đạo, bình, mộc
+Item_Summer_LingZhi	Ngộ đạo, bình, hỏa hệ
+Item_Earth_LingZhi	Ngộ đạo, bình, thổ hệ
+Item_SoulCrystalYou	Linh thạch, vô thuộc tính, thống khổ
+Item_SoulCrystalNing	Linh thạch, vô thuộc tính, bình tĩnh
+Item_SoulCrystalLing	Linh thạch, vô thuộc tính, hoan hỷ
+Item_GodPractice_MiJuan	Sách, vô thuộc tính
+Item_Màu tímGanodermaLucidum	Màu tím, linh hồn, thực phẩm
+Item_HorseFromFei	Bồng bềnh, vô thuộc tính, thủy hệ
+Item_HorseFromLuShu	Bồng bềnh, vô thuộc tính, hỏa hệ
+Item_WuDang_HuangJingFen	Bột, màu trắng, mộc
+Item_Dan_WuQiNoHunger2	Hình cầu, thực phẩm, mộc
+Item_Dan_SanHuaHuangJing	Mộc, linh khí, màu vàng

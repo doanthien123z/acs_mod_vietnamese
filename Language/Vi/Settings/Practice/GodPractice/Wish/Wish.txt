@@ -1,0 +1,56 @@
+ID	Txt
+ID	[Content]
+1	Thần tôn [TITLE] Đại nhân, ta chỉ muốn thử xem ngài có nghe thấy ta không... hi hi
+2	Thần tôn [TITLE] Đại nhân, ta cầu xin cho cơn đau đầu gối của ta biến mất
+3	Thần tôn [TITLE] Đại nhân, xin hãy ban phúc cho ta, ta muốn đi chơi cùng nữ tử mà ta thầm mến
+4	Thần tôn [TITLE] Đại nhân, ta cầu xin ngày mai có đồ ăn ngon để thưởng thức...
+5	Thần tôn [TITLE] Đại nhân, ta muốn nhặt được tiền trên mặt đất
+6	Thần tôn [TITLE] Đại nhân, ta cầu xin ngày mai không ai cướp mất cơ hội của ta với cô nương Lục Trúc ở Lầu Ngọc Phượng
+7	Thần tôn [TITLE] Đại nhân, ta cầu xin quản sự sẽ phát đủ tiền lương cho ta vào ngày mai
+8	Thần tôn [TITLE] Đại nhân, ta hy vọng năm nay có người cùng ta mừng sinh nhật
+9	Thần tôn [TITLE] Đại nhân, ta cầu xin năm nay có thể đỗ trạng nguyên
+10	Thần tôn [TITLE] Đại nhân, ta cầu xin lần này sẽ sinh được con trai
+11	Thần tôn [TITLE] Đại nhân, ta cầu xin gia đình ta bình an mạnh khỏe
+12	Thần tôn [TITLE] Đại nhân, ta cầu xin năm nay được mùa màng bội thu
+13	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho con có thể mua được nhà mới trong thành vào năm nay.
+14	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho làng của chúng con được mùa màng bội thu....
+15	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay không xảy ra bất cứ thiên tai nào.
+16	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho làng của chúng con sớm ngày xây dựng lại.
+17	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho mọi việc đều được suôn sẻ.
+18	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay không có yêu thú tấn công làng.
+19	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay quê hương của con có thời tiết thuận hòa.
+20	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay không có tai ương lạnh giá.
+21	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay mưa ít lại, không có lũ lụt đọng nước.
+22	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay mưa thuận gió hòa, không còn hạn hán nữa.
+23	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho năm nay thành của chúng ta không bị yêu thú tấn công nữa.
+24	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho vương quốc của chúng ta được phúc vận kéo dài hàng ngàn năm.
+25	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho vương quốc này chỉ có thái bình.
+26	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho thế gian này giảm bớt lòng thù hận.!
+27	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tất cả mọi người trên thế gian này đều như rồng, không ngừng phát triển bản thân.!
+28	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho thế giới được bình an và thịnh vượng mãi mãi.
+29	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho chủ nhân của con giẫm phải phân chó.
+30	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho gã hàng xóm của con gặp một ngày tồi tệ.
+31	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho đối thủ của con hôm nay phạm sai lầm.
+32	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tên trộm lấy đồ nhà con hôm qua phải chết một cách thê thảm.
+33	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho kẻ khốn kiếp đã thề thốt với con phải chết không tử tế.
+34	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tai họa ập đến gia tộc đáng ghét sát vách nhà con.
+35	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho kẻ đã bỏ rơi con phải chết thật thê thảm.
+36	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tai họa ập đến cấp trên của con để con có thể thay thế vị trí đó.
+37	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho lợn rừng phá nát vườn tược của hàng xóm con.
+38	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tên khốn đã lấy cắp tiền của con bị sét đánh.
+39	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho cái làng của bọn người xấu bên cạnh bị yêu thú tiêu diệt.
+40	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho chúng ta có thể loại bỏ mọi mối đe dọa xung quanh làng.
+41	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho chúng ta có thể chiến thắng và chiếm lĩnh được các làng lân cận.
+42	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho làng bên cạnh phải chịu sự trừng phạt của thiên đạo.
+43	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho làng lân cận bị lũ lụt trong năm nay.
+44	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tất cả sơn tặc trong khu vực này phải chết một cách tàn khốc.
+45	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tất cả kẻ xấu trong thành này phải chết một cách thê thảm.
+46	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho những loài thú dữ làm hại con người phải tuyệt chủng.
+47	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho tất cả mọi người trong vòng một trăm dặm trở thành nô bộc thấp hèn của con.
+48	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho con có thể săn được tất cả thú dữ trên núi trong năm nay.!
+49	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho thiên đạo hiển linh, tiêu diệt tất cả lũ người tà ác.
+50	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho vương quốc của kẻ thù bị tiêu diệt sớm... để con có thể dừng việc chém giết.
+51	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho kẻ giỏi hơn con phải chết không tử tế.
+52	Thần tôn [TITLE] Đại nhân, con khẩn cầu Người cho thiên đạo trừng phạt tất cả những kẻ tà ác trên thế gian này.
+53	Thần tôn [TITLE] Đại nhân, ta khẩn cầu cho những kẻ dám chống lại ta không được chết một cách yên bình.
+54	Mong cho tâm của ta mãi vĩnh hằng trong thánh địa, hoàn toàn thoát khỏi mọi đau đớn và sầu khổ, và mong cho ta luôn được hạnh phúc trong trạng thái linh hồn thuần khiết....

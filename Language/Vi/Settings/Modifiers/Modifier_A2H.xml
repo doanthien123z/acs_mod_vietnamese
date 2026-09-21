@@ -1,0 +1,60 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Animal2HumanThinkFull">
+			<DisplayName>Trầm tư</DisplayName>
+			<Desc>Tập trung suy nghĩ</Desc>
+		</Text>
+		<Text Name="Animal2HumanFeelLing">
+			<DisplayName>Khai phá tư duy</DisplayName>
+			<Desc>Cảm ngộ linh cảm</Desc>
+		</Text>
+		<Text Name="AnimalToHuman">
+			<DisplayName>Hóa thân Bán Yêu</DisplayName>
+			<Desc>Dạng Bán Yêu</Desc>
+		</Text>
+		<Text Name="LingShou_fanshi">
+			<DisplayName>Tế lễ Linh Thú</DisplayName>
+			<Desc>Linh thú sẽ dùng pháp bảo phản phệ chủ nhân sau một thời gian, khiến linh khí của pháp bảo giảm đi một nửa. Hiệu quả này tăng gấp đôi khi pháp bảo mang thuộc tính Hỏa, nhưng giảm một nửa khi mang thuộc tính Thổ.</Desc>
+		</Text>
+		<Text Name="ToHumanThunderComing">
+			<DisplayName>Hóa Hình Kiếp</DisplayName>
+			<Desc>Hóa Hình Thiên Kiếp sắp giáng xuống</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Heal">
+			<DisplayName>Bạn đồng hành</DisplayName>
+			<Desc>Khi có linh thú làm bạn đồng hành, thương thế sẽ phục hồi nhanh hơn.</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Stay">
+			<DisplayName>Bạn đồng hành</DisplayName>
+			<Desc>Khi có linh thú làm bạn đồng hành lúc tu luyện, tâm cảnh sẽ càng thêm vững vàng.</Desc>
+		</Text>
+		<Text Name="Modifier_GlitterEyes">
+			<DisplayName>Tuệ Nhãn</DisplayName>
+			<Desc>Tuệ Nhãn của Hắc Phượng Hỏa có khả năng nhìn thấu vạn vật, rất hữu ích khi tham gia đấu giá vật phẩm.</Desc>
+		</Text>
+		<Text Name="Modifier_Shelter">
+			<DisplayName>Thần Giáp</DisplayName>
+			<Desc>Tăng mạnh giáp chân khí và giúp Huyền Thân thêm kiên cố trong thời gian ngắn.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealPower">
+			<DisplayName>Bản Nguyên Lực (Tấn công)</DisplayName>
+			<Desc>Thiêu đốt sinh khí nhanh chóng để kích phát chân khí trong cơ thể, giúp nâng cao mạnh mẽ sức tấn công của pháp bảo và Huyền Thân.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealRecover">
+			<DisplayName>Bản Nguyên Lực (Phòng thủ)</DisplayName>
+			<Desc>Thiêu đốt sinh khí nhanh chóng để kích phát chân khí trong cơ thể, giúp nâng cao mạnh mẽ sức phòng thủ, tốc độ hồi linh khí của pháp bảo và tốc độ hồi chân khí của Huyền Thân.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealWisdom">
+			<DisplayName>Bản Nguyên Lực (Trí huệ)</DisplayName>
+			<Desc>Thiêu đốt sinh khí nhanh chóng để kích phát chân khí trong cơ thể, giúp nâng cao mạnh mẽ uy lực pháp thuật, độ chính xác tấn công của Huyền Thân, tỷ lệ đỡ đòn, khả năng xuyên giáp chân khí và cơ hội trấn áp pháp bảo.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealShield">
+			<DisplayName>Bản Nguyên Lực (Nhận thức)</DisplayName>
+			<Desc>Thiêu đốt sinh mệnh chi khí một cách nhanh chóng để kích thích chân khí trong cơ thể, khiến cho sở trường pháp bảo, sở trường hộ thể chân khí, uy lực tấn công và độ bền của bí thể tăng lên cực đại</Desc>
+		</Text>
+		<Text Name="Modifier_YG_NormalPower">
+			<DisplayName>Yêu thú chi thể</DisplayName>
+			<Desc>Yêu thú chi thể có hiệu quả nâng cao chiến lực và tốc độ tôi thể của người sở hữu. Đổi lại sẽ bị bản năng dã thú kích thích khiến cho trí tuệ, tốc độ lĩnh hội và tâm cảnh bị suy giảm nghiêm trọng</Desc>
+		</Text>
+	</List>
+</Texts>

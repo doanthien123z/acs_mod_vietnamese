@@ -1,0 +1,6 @@
+Type	Desc	DisplayName
+JiaGuo	Thúc đẩy, tăng trí tuệ	Trái cây
+ShuShi	Thúc đẩy, tăng phòng thủ	Thức ăn đã nấu chín
+XiangXun	Thúc đẩy, tăng chân khí	Nấm
+DiXian	Thúc đẩy, tăng linh lực	Măng
+ShengRou	Thúc đẩy, tăng căn cơ 	Thịt

@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Story_PracticeSpeed1">
+			<DisplayName>Tăng tốc độ tu luyện 5%</DisplayName>
+			<Desc>Tăng tốc độ tu luyện 5%</Desc>
+		</Text>
+		<Text Name="Story_LingMax1">
+			<DisplayName>Tăng giới hạn chân khí 2%</DisplayName>
+			<Desc>Tăng giới hạn chân khí 2%</Desc>
+		</Text>
+		<Text Name="Story_FabaoPower1">
+			<DisplayName>Tăng uy lực Pháp bảo 5%</DisplayName>
+			<Desc>Tăng uy lực Pháp bảo 5%</Desc>
+		</Text>
+		<Text Name="Story_LingAbsorbSpeed1">
+			<DisplayName>Tăng tốc độ hấp thu linh khí 10%</DisplayName>
+			<Desc>Tăng tốc độ hấp thu linh khí 10%</Desc>
+		</Text>
+		<Text Name="Story_WorldMapFlySpeedAddP1">
+			<DisplayName>Tăng tốc độ phi kiếm 50%</DisplayName>
+			<Desc>Tăng tốc độ phi kiếm 50%</Desc>
+		</Text>
+		<Text Name="Story_ShieldConversionRate1">
+			<DisplayName>Tăng hiệu quả giáp chân khí 10%</DisplayName>
+			<Desc>Tăng hiệu quả giáp chân khí 10%</Desc>
+		</Text>
+		<Text Name="Story_DragonBlood">
+			<DisplayName>Long huyết</DisplayName>
+			<Desc>Long huyết thức tỉnh: Thể lực tăng 20%; Ngộ tính tăng 20%; Căn cơ chân khí tối đa tăng 25%</Desc>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish1">
+			<DisplayName>Tặng quà</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish2">
+			<DisplayName>Tặng quà</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish3">
+			<DisplayName>Tặng quà</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish4">
+			<DisplayName>Tặng quà</DisplayName>
+		</Text>
+		<Text Name="Modifier_GreenBrothel">
+			<DisplayName>Khoan khoái</DisplayName>
+			<Desc>Vui đùa tại lầu xanh, giúp tâm trạng thoải mái liên tục 5 ngày.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,42 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RedWallDownLeftS" sParam="Building">
+			<ThingName>Tường đỏ (góc))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+			<StoryBnts.0.Name>Phân tích</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng lĩnh hội phương pháp xây dựng kiến trúc này.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="RedWallUpLeftS" sParam="Building">
+			<ThingName>Tường đỏ (góc))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallMidUpS" sParam="Building">
+			<ThingName>Tường đỏ (bên))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallMidRightS" sParam="Building">
+			<ThingName>Tường đỏ (bên))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalS" sParam="Building">
+			<ThingName>Tường đỏ (giữa))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallVerticalHalfS" sParam="Building">
+			<ThingName>Tường đỏ (đóng))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallHorizontalS" sParam="Building">
+			<ThingName>Tường đỏ</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS" sParam="Building">
+			<ThingName>Tường đỏ nhỏ (góc))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS" sParam="Building">
+			<ThingName>Tường đỏ nhỏ (góc))</ThingName>
+			<Desc>Loại tường đặc trưng của Võ Đang, được dùng để xây dựng các công trình đa dạng trong tông môn, kích thước lớn nhỏ tùy thuộc vào công trình cần xây.</Desc>
+		</Text>
+	</List>
+</Texts>

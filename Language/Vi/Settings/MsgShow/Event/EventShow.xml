@@ -1,0 +1,56 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="t1">
+			<DisplayName>Thời tiết thường gặp</DisplayName>
+			<Desc>Thời tiết thường gặp</Desc>
+		</Text>
+		<Text Name="t2">
+			<DisplayName>Thời tiết hiếm gặp</DisplayName>
+			<Desc>Thời tiết hiếm gặp</Desc>
+		</Text>
+		<Text Name="t3">
+			<DisplayName>Bảo vật từ trên trời rơi xuống</DisplayName>
+			<Desc>Bảo vật từ trên trời rơi xuống</Desc>
+		</Text>
+		<Text Name="t8">
+			<DisplayName>Giới thiệu đệ tử</DisplayName>
+			<Desc>Giới thiệu đệ tử</Desc>
+		</Text>
+		<Text Name="t_vistor">
+			<DisplayName>Sự kiện khách ghé thăm</DisplayName>
+			<Desc>Sự kiện khách ghé thăm</Desc>
+		</Text>
+		<Text Name="t5">
+			<DisplayName>Dã thú tập kích</DisplayName>
+			<Desc>Dã thú tập kích</Desc>
+		</Text>
+		<Text Name="t6">
+			<DisplayName>Kẻ địch đang đến</DisplayName>
+			<Desc>Kẻ địch đang đến</Desc>
+		</Text>
+		<Text Name="t7">
+			<DisplayName>Yêu thú xâm nhập tấn công</DisplayName>
+			<Desc>Yêu thú xâm nhập tấn công</Desc>
+		</Text>
+		<Text Name="s_fabao">
+			<DisplayName>Bí mật - Phát hiện pháp bảo</DisplayName>
+			<Desc>Bí mật - Phát hiện pháp bảo</Desc>
+		</Text>
+		<Text Name="s_miji">
+			<DisplayName>Bí mật - Phát hiện cổ tịch</DisplayName>
+			<Desc>Bí mật - Phát hiện cổ tịch</Desc>
+		</Text>
+		<Text Name="s_daotong">
+			<DisplayName>Bí mật - Phát hiện công pháp thượng cổ</DisplayName>
+			<Desc>Bí mật - Phát hiện công pháp thượng cổ</Desc>
+		</Text>
+		<Text Name="s_dongfu">
+			<DisplayName>Bí mật - Phát hiện động phủ bí ẩn</DisplayName>
+			<Desc>Bí mật - Phát hiện động phủ bí ẩn</Desc>
+		</Text>
+		<Text Name="s_zhengxie">
+			<DisplayName>Bí mật - Dấu vết đại năng</DisplayName>
+			<Desc>Bí mật - Dấu vết đại năng</Desc>
+		</Text>
+	</List>
+</Texts>

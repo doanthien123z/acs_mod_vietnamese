@@ -1,0 +1,320 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Fight">
+			<Type>Bậc cao</Type>
+			<DisplayName>Chiến đấu cơ bản</DisplayName>
+			<Desc>Học hệ thống chiến đấu và điều khiển cơ bản trong hướng dẫn này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Điều khiển chiến đấu</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Chế độ tru sát và chinh phạt</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Chế độ phòng thủ tự động</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Tránh chiến đấu</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Chiến đấu nhiều người</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Chọn nhiều người để tấn công</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Di chuyển và tấn công</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Chuyển đổi chiến sĩ</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Nhấn chọn đệ tử nội môn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Kiểm tra chế độ chinh phạt ở phía bên trái của bảng phía dưới.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Kiểm tra tính năng tránh chiến đấu ở phía bên trái của bảng phía dưới.</Tasks.5.TaskDesc>
+			<Tasks.7.TipsData.Desc>Đây là chế độ điều khiển phổ biến nhất trong chiến đấu. Tất nhiên vẫn còn nhiều chế độ khác đang chờ người chơi khám phá trong game.</Tasks.7.TipsData.Desc>
+			<Tasks.9.TaskDesc>Sử dụng tính năng hàng đợi để chọn tất cả đệ tử.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Sử dụng tính năng hàng đợi để chọn tất cả đệ tử.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Chạm và chọn đệ tử</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Chạm và chọn đệ tử</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Chạm và chọn đệ tử</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Nhấn "Xác nhận""</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Sử dụng nút tấn công để vào trạng thái tấn công</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Ra lệnh tấn công linh thú</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Xác nhận tấn công</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Sử dụng nút di chuyển để vào trạng thái di chuyển</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Chạm và di chuyển đến vị trí chỉ định</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Đợi họ di chuyển</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>Người có thể kết hợp di chuyển và tấn công cùng lúc để kéo dài trận chiến, đôi khi có thể lật ngược tình thế</Tasks.24.TipsData.Desc>
+			<Tasks.26.TaskDesc>Chạm vào đệ tử bị thương trong trận chiến</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Chạm "Rút lui""</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Sử dụng nút di chuyển để vào trạng thái di chuyển</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Di chuyển đến nơi an toàn hơn trong tông môn</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Người có thể dùng "Rút lui" để đệ tử bị thương rời khỏi chiến trường, lui về nơi an toàn hơn để đảm bảo không ai tử vong</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Chạm và chọn đệ tử không tham gia chiến đấu</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Sử dụng nút tấn công để vào trạng thái tấn công</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Ra lệnh tấn công linh thú</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Xác nhận tấn công</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Người có thể thay đổi đệ tử trong đội hình khi đang chiến đấu để tiếp tục chiến đấu. Dĩ nhiên, Người có thể tổ chức nhiều đội để thay phiên nhau chiến đấu hoặc tiếp tế</Tasks.36.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>Trong chiến đấu, Người có thể thay đổi quyền điều khiển để ứng phó với các tình huống khác nhau, chiếm lợi thế trước kẻ thù và ngăn chặn tông môn bị hủy diệt</Tasks.38.TipsData.Desc>
+		</Text>
+		<Text Name="ZhenFa">
+			<Type>Bậc cao</Type>
+			<DisplayName>Trận pháp</DisplayName>
+			<Desc>Học cách chỉnh sửa trận pháp và thiết lập thành viên cho trận pháp trong hướng dẫn này\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Chỉnh sửa trận pháp</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Tạo trận pháp mới</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Cấu hình trận pháp</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Đánh giá trận pháp và thành viên</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Sử dụng trận pháp</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Thiết lập trận pháp</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Menu trận pháp</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Chạm nút Tông môn</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Khi nhận được trận pháp, phụ kiện hoặc trụ cột bằng bất kỳ cách nào trong game, Người có thể tạo hoặc kiểm tra trận pháp tại đây</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Chạm "Trận pháp""</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Đây là toàn bộ trận pháp Người sở hữu. Nhấp để kiểm tra hoặc chỉnh sửa cấu hình trận pháp bất kỳ</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Nhấp "Tạo""</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Nhấp để chọn vòng bổ trợ</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Chạm vào cấu hình để chọn</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấp vào cấu hình để xác nhận lựa chọn của Người</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Khi chỉnh sửa trận pháp, Người phải thiết lập trụ cột trước, các phụ kiện khác có thể kết nối với nó. Chỉ có thể có duy nhất một trụ cột</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Chạm để chọn phụ kiện "Kiếm""</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Chạm vào cấu hình để chọn</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Nhấp vào cấu hình để xác nhận lựa chọn của Người</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Nếu trận pháp được chỉnh sửa có phụ kiện kết nối không chính xác, nó sẽ hiển thị là không hoàn chỉnh và trận pháp không hoàn chỉnh sẽ không thể thiết lập</Tasks.16.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Khi trận pháp đã chỉnh sửa đáp ứng yêu cầu của "Chân lý trận pháp", nó sẽ nhận được hiệu quả cộng thêm. Các trụ cột khác nhau có chân lý trận pháp khác nhau</Tasks.17.TipsData.Desc>
+			<Tasks.18.TipsData.Desc>Khi Người chỉnh sửa trận pháp xong, hãy chạm "Lưu" để lưu trận pháp vừa tạo</Tasks.18.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>Khi Người chỉnh sửa trận pháp xong, hãy nhấp "Lưu" để lưu trận pháp vừa tạo</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Chạm để xác nhận.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Chạm để xác nhận.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Khi trận pháp hoàn chỉnh đã được chỉnh sửa và lưu lại, Người có thể bổ nhiệm nhân vật vào trận pháp này và chuẩn bị thiết lập nó</Tasks.23.TipsData.Desc>
+			<Tasks.25.TaskDesc>Chạm nút chỉnh sửa</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Chạm nút cấu hình ở phía bên phải</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Chạm để chọn cái đầu tiên: Hướng dẫn</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Nhấp để chọn mục đầu tiên: Hướng dẫn tân thủ</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Người chơi có thể bố trí nội môn đệ tử vào từng chủ phong và các kiến trúc phụ trợ. Theo tuyến đường từ kiến trúc phụ trợ đến chủ phong, mỗi khi ngũ hành tương sinh, liên kết của kiến trúc phụ trợ sẽ nhận được hiệu ứng đặc biệt được khuếch đại, và ngược lại.</Tasks.29.TipsData.Desc>
+			<Tasks.30.TaskDesc>Nhấn vào nút chủ phong</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Chạm và chọn đệ tử</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Chạm và chọn đệ tử</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Nhấp "Xác nhận""</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Trận pháp có chín thuộc tính liên quan, người chơi có thể kiểm tra thông qua đánh giá trận pháp ở bên trái</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Đóng bảng cấu hình</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Đóng bảng trận pháp</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Đóng bảng tông môn</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Khi trận pháp hoàn thành và đã phân bổ thành viên, người chơi có thể vận hành trận pháp để kích hoạt</Tasks.39.TipsData.Desc>
+			<Tasks.41.TaskDesc>Chạm và chọn đệ tử</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Chỉ có đệ tử ở chủ phong mới có thể vận hành trận pháp. Khi tất cả đệ tử ở các kiến trúc phụ trợ khác đều trạng thái tốt và ở cùng một khu vực, trận pháp có thể được vận hành theo cấu hình</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>Nhấn "Vận hành trận pháp""</Tasks.43.TaskDesc>
+			<Tasks.44.TipsData.Desc>Trước khi vận hành trận pháp, người chơi có thể kiểm tra chi tiết để xác nhận hiệu ứng cộng dồn và các chỉ số thực tế sau khi trận pháp được vận hành</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>Nhấn "Vận hành trận pháp""</Tasks.45.TaskDesc>
+			<Tasks.46.TaskDesc>Đợi trận pháp được vận hành</Tasks.46.TaskDesc>
+			<Tasks.48.TipsData.Desc>Đây là toàn bộ các kỹ năng trận pháp của trận pháp hiện tại, mỗi kỹ năng có công dụng khác nhau</Tasks.48.TipsData.Desc>
+			<Tasks.49.TipsData.Desc>Đây là kỹ năng pháp thuật của đệ tử trong trận pháp</Tasks.49.TipsData.Desc>
+			<Tasks.50.TaskDesc>Nhấn để kiểm tra "Tập trung""</Tasks.50.TaskDesc>
+			<Tasks.51.TipsData.Desc>Người chơi có thể kiểm tra "Tập trung" để theo dõi sát sao hoạt động của trận pháp, giúp điều chỉnh trận pháp bất cứ lúc nào trong chiến đấu</Tasks.51.TipsData.Desc>
+			<Tasks.53.TipsData.Desc>Người chơi có thể sắp xếp và kết hợp các tính chất khác nhau để tạo ra trận pháp phù hợp và mạnh mẽ hơn, thậm chí lĩnh hội các trận pháp cổ đại. Các trận pháp khác nhau mang lại hiệu ứng khác nhau, chờ người chơi khám phá, vì vậy hướng dẫn này sẽ không đi sâu hơn G.O.D. Chỉnh sửa các trận pháp khác</Tasks.53.TipsData.Desc>
+		</Text>
+		<Text Name="DragonHole">
+			<Type>Bậc cao</Type>
+			<DisplayName>Sơn động bí ẩn</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu ảnh hưởng của động phủ bí ẩn và cách sử dụng pháp bảo phong thủy để trấn áp chúng\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Thủy Long Động</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Sơn động bí ẩn</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Trấn áp động phủ bí ẩn</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Đặt pháp bảo phong thủy</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>Nhấn "Đồng ý""</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Sau một khoảng thời gian trong game, sẽ xảy ra các sự kiện bí mật đặc biệt với động phủ bí ẩn xuất hiện tại một vị trí ngẫu nhiên trong tông môn của người chơi, bên trong có một con Thủy Long đang ngủ say. Người chơi có thể sử dụng nhiều phương pháp khác nhau để xử lý tình huống, một trong số đó là sử dụng pháp bảo phong thủy để biến căn phòng thành đại cát đại lợi nhằm trấn áp động phủ</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Có nhiều cách để xử lý động phủ bí ẩn, nhưng đối với người chơi ở giai đoạn sau vẫn chưa chắc chắn phải làm gì, hãy chọn pháp bảo phong thủy để trấn áp nó, vì các phương pháp khác đòi hỏi sự thấu hiểu sâu sắc hơn về game, hướng dẫn này sẽ không đi vào chi tiết</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Pháp bảo phong thủy đã được định danh sẽ có phần mô tả chi tiết. Người chơi phải dựa vào mô tả để đặt nó vào đúng vị trí nhằm kích hoạt pháp bảo chính xác. Khi được kích hoạt, nó sẽ lập tức biến căn phòng thành đại cát đại lợi</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Nhấn để chọn pháp bảo phong thủy "Linh Thạch Kết Tinh""</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Nhấn "Đặt""</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Dán</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Nhấn để chọn "Đài trưng bày""</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Chọn phòng bằng cách nhấp vào khu vực trống trong phòng</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Khi đặt pháp bảo phong thủy, người chơi có thể quan sát sự thay đổi phong thủy của căn phòng tại đây</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Đợi chúng được đặt</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Khi pháp bảo phong thủy nằm trong môi trường phù hợp với mô tả, chúng sẽ tương thích hoàn hảo và biến căn phòng thành đại cát đại lợi, có thể trấn áp động phủ bí ẩn</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Khi người chơi trấn áp động phủ bí ẩn thành công, con Thủy Long đang ngủ say sẽ bị khuất phục hiệu quả, và người chơi có thể tận dụng khoảng thời gian này để phát triển năng lực của đệ tử nhằm tiêu diệt nó nhanh hơn</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="DragonFight">
+			<Type>Bậc cao</Type>
+			<DisplayName>Đại chiến Thượng cổ Yêu thú</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu cách kiểm tra thông tin cơ bản về Thượng cổ Yêu thú và sử dụng thông tin đó để chiến đấu với chúng\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Tìm hiểu về Thượng cổ Yêu thú</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Tìm hiểu về Thượng cổ Yêu thú</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Các bộ phận cơ thể của Thủy Long trong chiến đấu</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Kiểm tra từng bộ phận cơ thể</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra chỉ số pháp bảo của đệ tử</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Chạm nút Tông môn</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Mở menu sự kiện ẩn bên phải</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Chạm vào "Thủy Long""</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấp vào "Thủy Long""</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Tại đây hiển thị Thủy Long thuộc hệ Thủy, khắc chế bởi sát thương hệ Thổ</Tasks.6.TipsData.Desc>
+			<Tasks.7.TipsData.Desc>Tại đây hiển thị Thủy Long thuộc hệ Thủy, khắc chế bởi sát thương hệ Thổ</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Đóng bảng tông môn</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Người có thể nhận thông tin về các thượng cổ dị thú khác bằng những cách khác</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Chạm vào "Thủy Long""</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Chạm vào nút Tập trung</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Người có thể theo dõi trạng thái chân khí của từng bộ phận cơ thể Thủy Long bằng cách thiết lập Tập trung và phát triển chiến thuật của mình dựa trên đó</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Chạm để hủy Tập trung</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Đóng bảng thông tin</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Nhấn chọn đệ tử nội môn</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Chạm vào tab Trang bị</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Từ thông tin trên, chúng ta có thể trang bị pháp bảo hệ Thổ để tấn công Thủy Long</Tasks.21.TipsData.Desc>
+			<Tasks.22.TaskDesc>Chạm để đóng menu vật phẩm và trang bị</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Chạm vào nút Tấn công bên phải</Tasks.23.TaskDesc>
+			<Tasks.24.TipsData.Desc>Người chơi có thể tập trung tấn công vào một phần cơ thể cụ thể để phá hủy bộ phận đó của Thủy Long một cách nhanh chóng</Tasks.24.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>Mỗi người chơi sử dụng cách điều khiển và chiến thuật chiến đấu khác nhau, vì vậy hướng dẫn này sẽ không đi sâu vào chi tiết chiến đấu mà người chơi có thể tự mình trải nghiệm trong game. Khi boss bị đánh bại, xác của nó sẽ để lại chiến lợi phẩm. Phá hủy càng nhiều bộ phận cơ thể, phần thưởng nhận được càng nhiều</Tasks.26.TipsData.Desc>
+		</Text>
+		<Text Name="GetFood">
+			<Type>Bậc cao</Type>
+			<DisplayName>Cung cấp lương thực khẩn cấp</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu cách cung cấp lương thực nhanh chóng trong môi trường cực kỳ khó khăn\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Thông báo thiếu hụt lương thực</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra thông báo</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Xử lý khẩn cấp</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Sử dụng tính năng thám hiểm lặp lại để tìm lương thực</Chapters.1.Tasks.0>
+			<Tasks.1.TaskDesc>Chạm vào nút tin nhắn</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Thông báo này sẽ xuất hiện khi kho lương thực của người chơi không đủ</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Đóng bảng tin nhắn</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Nếu kho lương thực không đủ, đệ tử trong tông môn của người chơi có thể chết đói, vì vậy người chơi phải phản ứng với tình huống khẩn cấp này, ví dụ như xuất hành thám hiểm tìm lương thực</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Chạm để mở Bản đồ thế giới</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Nhấp để mở Bản đồ thế giới</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Nhấp vào "Thôn Nam Bình""</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Thôn Nam Bình là nơi gần nhất có tài nguyên lương thực</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Chạm và chọn đệ tử</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Chạm và chọn đệ tử</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Chạm và chọn đệ tử</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Chạm và chọn đệ tử</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Nhấn "Xác nhận""</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấp "Xác nhận""</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Sử dụng thanh trượt để điều chỉnh số lần thám hiểm lặp lại</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>Nhấp vào "Xác nhận""</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Người chơi có thể cử nhiều đệ tử đi thám hiểm cùng lúc và sử dụng tính năng thám hiểm lặp lại để giảm nhu cầu lương thực trong tông môn, đồng thời tăng sản lượng lương thực từ thám hiểm trong một khoảng thời gian. Sau đó người chơi có thể đợi đệ tử mang lương thực trở về</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="CombatWeather">
+			<Type>Bậc cao</Type>
+			<DisplayName>Ứng phó với thời tiết khắc nghiệt</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu về một số kiểu thời tiết khắc nghiệt trong game và cách ứng phó với chúng\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Ảnh hưởng của thời tiết khắc nghiệt</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra thời tiết</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra nhiệt độ</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Cách ứng phó</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Trang bị Thái Dương Phù</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Kiểm tra nguồn nhiệt</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>Khi thời tiết cực đoan xuất hiện trong tông môn của người, người chơi có thể kiểm tra biểu tượng thời tiết ở phía trên để xem thời gian duy trì của nó. Người cần điều chỉnh chiến lược kịp thời để ứng phó với tình hình.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>Khi thời tiết cực đoan xảy ra, nó sẽ làm thay đổi nhiệt độ hiện tại.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Chạm và chọn đệ tử</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Nhấn để mở bảng nhân vật</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Chỉ số nhiệt độ của đệ tử trong tông môn sẽ quyết định xem họ có bị ảnh hưởng bởi thời tiết cực đoan hay không.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Khi đệ tử trong tông môn của người cảm thấy khó chịu do thời tiết cực đoan, điều này có thể gây ra thương势, và đệ tử có thể vẫn mạng nếu thương thế quá nặng.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Chạm vào "Trang bị vật phẩm""</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Trang bị</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>Chạm để trang bị "Thái Dương Phù""</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Chạm để tăng số lượng</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Xác nhận lựa chọn</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Đợi nó được trang bị</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Đệ tử có thể trang bị bùa chú hoặc sử dụng các phương pháp khác để tăng nhiệt độ, đây là cách trực tiếp nhất để đối phó với thời tiết cực đoan.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Chạm để đóng menu chỉ số chung</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Chọn phòng bằng cách nhấp vào khu vực trống trong phòng</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Có rất nhiều công trình hoặc vật phẩm có thể làm tăng nhiệt độ trong khu vực. Người có thể sử dụng chúng một cách khôn ngoan để đối phó với thời tiết cực đoan.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>Có nhiều hơn một loại thời tiết cực đoan. Người cần sử dụng các vật phẩm trong game một cách khôn ngoan để đối phó tốt hơn với các loại thời tiết cực đoan khác.</Tasks.22.TipsData.Desc>
+		</Text>
+		<Text Name="Prestige">
+			<Type>Bậc cao</Type>
+			<DisplayName>Quản lý và kiểm soát danh tiếng</DisplayName>
+			<Desc>Trong hướng dẫn này, hãy tìm hiểu xem "Ẩn Thân Phù" dùng để làm gì và cách sử dụng nó để giảm danh tiếng.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Sử dụng Ẩn Thân Phù</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra danh tiếng của tông môn</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Kiểm tra Ẩn Thân Phù</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Trang bị Ẩn Thân Phù</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Chạm vào nút tông môn ở phía bên trái</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Trong game, danh tiếng càng cao sẽ thu hút kẻ địch mạnh hơn đến tấn công, vì vậy người cần sử dụng các vật phẩm trong game để giảm danh tiếng nhận được.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Chạm để đóng menu tông môn</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Click để đóng menu tông môn</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Người có thể nhận được "Ẩn Thân Phù" thông qua việc bói toán/vẽ bùa. Khi đệ tử ra ngoài历练 (lịch lãm/phiêu lưu) cùng với "Ẩn Thân Phù" đã được kích hoạt, nó có thể giảm hiệu quả danh tiếng nhận được.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Chạm và chọn đệ tử</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Click "Trang bị vật phẩm""</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Trang bị</Tasks.9.UiData.Name>
+			<Tasks.11.TaskDesc>Chạm để tăng số lượng</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Xác nhận lựa chọn</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Đợi nó được trang bị</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Đợi nó được trang bị</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Danh tiếng ảnh hưởng đến tông môn của người ở một mức độ nhất định, vì vậy người có thể sử dụng "Ẩn Thân Phù" để giảm danh tiếng nhận được nhằm quản lý danh tiếng của tông môn.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="ShortcutKey">
+			<Type>Bậc cao</Type>
+			<DisplayName>Phím tắt</DisplayName>
+			<Desc>Tìm hiểu về các phím tắt chung và cách tùy chỉnh phím tắt trong hướng dẫn này.\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Cài đặt phím tắt</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Kiểm tra menu phím tắt</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Sử dụng phím tắt</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Sử dụng phím tắt tương tác</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Sử dụng phím tắt để lập đội</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Sử dụng phím tắt để di chuyển và tấn công</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>Người có thể chạm vào "Hệ thống" rồi chạm vào "Phím tắt" để kiểm tra menu phím tắt, nơi có thể tùy chỉnh và thiết lập lại các phím tắt.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Chạm để đóng menu phím tắt</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Người có thể điều chỉnh phím tắt cho phù hợp với thói quen của mình và sử dụng theo đó.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Chạm và chọn đệ tử</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Sử dụng phím tắt F1 Đối với "Ăn""</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Chạm để chọn</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Sử dụng phím tắt F2 Đối với "Trang bị vật phẩm""</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Chạm để chọn</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Nhấn giữ nút chuột trái và kéo để chọn tất cả đệ tử trong phòng</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Sử dụng Ctrl Trái và phím 1 để sắp xếp họ thành một đội 1</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Chuột phải để hủy bỏ</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Sử dụng phím 1 để chọn đội 1</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Sử dụng phím tắt {0} Đối với "Tấn công""</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Ra lệnh tấn công linh thú</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Sử dụng phím tắt {0} Đối với "Di chuyển""</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Ra lệnh di chuyển đến vị trí chỉ định</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Có rất nhiều thao tác có thể thực hiện bằng phím tắt, người chơi có thể tùy chỉnh theo thói quen. Người chơi có thể di con trỏ chuột lên các nút để kiểm tra thêm các phím tắt khác, vì vậy bài hướng dẫn này sẽ không đi sâu vào chi tiết</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="Batch">
+			<Type>Bậc cao</Type>
+			<DisplayName>Lệnh hàng loạt</DisplayName>
+			<Desc>Trong bài hướng dẫn này, hãy tìm hiểu về một số lệnh hàng loạt phổ biến trong game và cách thực hiện lệnh\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Lệnh hàng loạt cơ bản</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Sử dụng đan dược hàng loạt</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Ra lệnh cấm và hủy cấm hàng loạt</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Tái thiết hàng loạt</Chapters.0.Tasks.2>
+			<Tasks.4.TipsData.Desc>Người chơi có thể sử dụng "Cấm hàng loạt" để cấm các vật phẩm không mong muốn tạm thời</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh cấm hàng loạt</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Nhấn nút xác nhận</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh tháo dỡ hàng loạt</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Người chơi có thể sử dụng "Hủy cấm hàng loạt" để cho phép lại các vật phẩm đã bị cấm</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Nhấn nút xác nhận</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh hủy cấm hàng loạt</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh tháo dỡ hàng loạt</Tasks.13.TaskDesc>
+			<Tasks.16.TipsData.Desc>Người chơi có thể sử dụng "Tái thiết hàng loạt" để xây dựng lại các công trình đã bị hư hại</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Nhấp nút Tái thiết</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Nhấn "Tháo dỡ" trong menu phía dưới</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh tháo dỡ hàng loạt</Tasks.20.TaskDesc>
+			<Tasks.21.TipsData.Desc>Khi người chơi sử dụng "Tái thiết hàng loạt", đệ tử ngoại môn được phân công công việc xây dựng sẽ tự động đến các công trình bị hư hại và tiến hành xây dựng lại</Tasks.21.TipsData.Desc>
+			<Tasks.23.TaskDesc>Nhấp "Tháo dỡ" trong menu phía dưới</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh tháo dỡ hàng loạt</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Kéo trong phạm vi mục tiêu để thực hiện lệnh tháo dỡ hàng loạt</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Người chơi có thể tháo dỡ công trình hàng loạt bằng cách sử dụng chức năng tháo dỡ hàng loạt</Tasks.26.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>Vẫn còn nhiều hình thức lệnh hàng loạt khác trong game, chờ người chơi khám phá</Tasks.28.TipsData.Desc>
+		</Text>
+		<Text Name="AreaExpand">
+			<Type>Bậc cao</Type>
+			<DisplayName>Mở rộng khu vực</DisplayName>
+			<Desc>Trong bài hướng dẫn này, hãy tìm hiểu cách mở rộng nhanh các khu vực trong công trình và sử dụng việc mở rộng để kế thừa thuộc tính khu vực\n[color=#BC1717](Trong lúc hướng dẫn, người chơi có thể nhấn Esc hai lần để bỏ qua nhiệm vụ và tiếp tục)[/color]</Desc>
+			<Chapters.0.DisplayName>Mở rộng khu vực</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Mở rộng khu vực lưu trữ</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Mở rộng ruộng linh điền</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>Khi khu vực lưu trữ đầy, người chơi có thể mở rộng để tăng sức chứa</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Nhấn nút "Xây dựng" ở góc dưới bên trái để mở bảng xây dựng</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Nhấn vào cửa sổ "Khu vực""</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Kéo để mở rộng khu vực lưu trữ</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Khu vực</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Thoát chế độ xây dựng</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Kéo để điều chỉnh kích thước kho chứa</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Đóng bảng xây dựng</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Chọn khu vực lưu trữ</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Chọn khu vực lưu trữ</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Đóng menu khu vực lưu trữ</Tasks.13.TaskDesc>
+			<Tasks.13.UiData.Name>Bộ lọc</Tasks.13.UiData.Name>
+			<Tasks.14.TipsData.Desc>Khu vực lưu trữ sau khi mở rộng sẽ giữ nguyên thiết lập bộ lọc của khu vực ban đầu</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Đóng menu khu vực lưu trữ</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>Khi diện tích ruộng linh điền không còn đáp ứng đủ nhu cầu của đệ tử nội môn, người chơi có thể mở rộng ruộng để tăng diện tích trồng trọt</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Nhấn "Ruộng linh điền" để bắt đầu quy hoạch ruộng</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Kéo để mở rộng ruộng linh điền</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Thoát chế độ xây dựng</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Khu vực</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Nhấp vào "Linh điền" để bắt đầu quy hoạch ruộng linh điền</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Đóng bảng xây dựng</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Nhấn lư hương</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Chọn bàn làm việc để hiển thị trạng thái bên dưới</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Chọn ruộng linh điền</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Linh điền sau khi mở rộng sẽ giữ nguyên thiết lập linh thực của linh điền ban đầu</Tasks.28.TipsData.Desc>
+			<Tasks.28.TipsData.Name>Gieo trồng</Tasks.28.TipsData.Name>
+			<Tasks.30.TipsData.Desc>Trong game còn có các khu vực tương tự có thể mở rộng bằng cách này, do đó hướng dẫn này sẽ không đi sâu vào chi tiết</Tasks.30.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

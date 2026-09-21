@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>Ruộng đồng</DisplayName>
+			<Desc>Nơi canh tác đất đai để sản xuất lúa mì.</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>Mỏ</DisplayName>
+			<Desc>[color=#0000FF]Đào khoáng[/color]([keycode]Mine[/keycode])\nKhai thác mỏ để nhận đá và quặng. \nLoại công việc: Khai khoáng</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>Xưởng mộc</DisplayName>
+			<Desc>Nơi cung cấp gỗ.</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>Mỏ linh thạch</DisplayName>
+			<Desc>Nơi khai thác mỏ để tìm kiếm linh thạch.</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>Tượng Thần</DisplayName>
+			<Desc>Tượng của thần linh. Sau khi xây dựng xong, nếu đệ tử tu luyện theo Thần đạo hoàn thành xây dựng Diệu Pháp Viện trong Thần giới, Người có thể cử đệ tử đến cai quản nơi này.</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>Luyện võ đường</DisplayName>
+			<Desc>Sau khi xây xong Võ đường, có thể dùng nơi này để rèn luyện đệ tử.</Desc>
+		</Text>
+	</List>
+</Texts>

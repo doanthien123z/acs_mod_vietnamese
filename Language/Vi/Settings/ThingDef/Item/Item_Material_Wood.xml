@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="WoodBase" sParam="Item">
+			<Item.FabaoSuffix>Gỗ, cành, hàng, cọc gỗ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Wood" sParam="Item">
+			<ThingName>Gỗ</ThingName>
+			<Desc>Gỗ chất lượng tốt, là nguyên liệu dùng để chế tác thủ công thông thường.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWood" sParam="Item">
+			<ThingName>Hoàng kim mộc</ThingName>
+			<Desc>Hoàng kim mộc trân quý trăm năm tuổi, là vật liệu vô cùng nặng và kiên cố.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng kim mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWood" sParam="Item">
+			<ThingName>Phượng hoàng mộc</ThingName>
+			<Desc>Thần mộc thường được phượng hoàng dùng làm nơi cư ngụ. Nó có bề mặt nhẵn nhụi, chất liệu cực kỳ cứng cáp và ẩn chứa linh khí vô cùng nồng đậm. Đây là một loại trân tài vô cùng hiếm có.</Desc>
+			<Item.BeMaterial.NamePrefix>Phượng mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWood" sParam="Item">
+			<ThingName>Linh mộc</ThingName>
+			<Desc>Gỗ được rèn luyện bằng linh khí để trở nên tinh khiết, là vật liệu có chất cứng và khả năng chịu lửa cực tốt.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

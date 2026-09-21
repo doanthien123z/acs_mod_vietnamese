@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>Quỳ Hoa Luyện Thần Công</DisplayName>
+			<Desc>Một trong ngũ đại công pháp quy luật chân chính của Thái Ất Tông, người thích hợp để tu luyện công pháp này chỉ có nữ nhân. Sử dụng sức mạnh thuần khiết nhất của âm khí từ địa cầu để ngưng tụ thuần âm nguyên thần. Nếu nam nhân tu luyện, họ sẽ phải mất đi bộ phận quan trọng nhất của nam nhân.</Desc>
+			<SelectDesc>Công pháp này rất thích hợp cho nữ nhân tu luyện, nếu nam nhân tu luyện, họ sẽ phải mất đi bộ phận quan trọng nhất của nam nhân. Người tu luyện sẽ có kỹ năng sử dụng pháp bảo uy lực mạnh mẽ, thế nhưng sẽ phải đối mặt với lôi kiếp đầu tiên cực kỳ nhanh chóng ngay khi ở cảnh giới Kết Đan. Ngươi có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Nhân Âm</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Thuần Khiết</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Từ Bi</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Nhạy Cảm</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Địa Âm</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Bao Dung</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Quy Tụ</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Ngưng Đan</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Thiên Âm</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nhân Từ</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Chân Thành</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Mơ Hồ</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Phá Toái Hư Không</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Viên mãn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Dung hợp linh châu của yêu thú trưởng thành với thuần âm nguyên thần, khiến cho âm khí bên trong nguyên thần trở nên viên mãn.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Biến hóa</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Thay đổi hình dạng và dòng chảy của âm khí bên trong nguyên thần hàng ngàn hàng vạn lần, suy ngẫm về sinh tử để phi thăng cửu tiêu.[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Hài Hòa</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

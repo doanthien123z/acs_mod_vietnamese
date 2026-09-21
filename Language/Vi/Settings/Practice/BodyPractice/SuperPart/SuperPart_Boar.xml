@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Boar_1">
+			<Prefix>Huyết Mạch</Prefix>
+			<Suffix>Cổ thú</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Dã Trư Tộc, dùng bí thuật luyện lông quanh cổ trở nên cứng cỏi và sắc nhọn. Khi tu luyện thành công có thể dùng nó đâm thủng mọi sự phòng thủ của đối thủ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Boar_2">
+			<Prefix>Nanh Nhọn</Prefix>
+			<Suffix>Phá toái vạn vật</Suffix>
+			<Desc>Bí Thể được truyền thừa trong huyết mạch của tộc Lợn Rừng Cổ Đại, hợp nhất sức mạnh hủy diệt vào nanh vuốt khiến chúng trở nên mạnh mẽ và sắc bén hơn. Chỉ một đòn tấn công cũng có thể hủy diệt vạn vật</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh cơ hội tấn công xuyên phá hộ giáp của huyền thể.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

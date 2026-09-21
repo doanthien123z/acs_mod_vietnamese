@@ -1,0 +1,72 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="PenetrateGong_1_Shui">
+			<Title>Lĩnh hội - Công Pháp Mười Sáu Bước Thành Tiên</Title>
+			<Desc>Bí mật của Công Pháp Mười Sáu Bước Thành Tiên sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_2_Mu">
+			<Title>Lĩnh hội - Công Pháp Vạn Binh Khởi Nguyên</Title>
+			<Desc>Bí mật của Công Pháp Vạn Đạo Sinh Binh sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_3_Jin">
+			<Title>Lĩnh hội - Công Pháp Thất Đạo Trảm Kiếm</Title>
+			<Desc>Bí mật của Công Pháp Thất Đạo Trảm Kiếm sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_4_None">
+			<Title>Lĩnh hội - Công Pháp Vô Cấu Tiên Ngọc</Title>
+			<Desc>Bí mật của Công Pháp Vô Cấu Tiên Ngọc sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_5_Tu">
+			<Title>Lĩnh hội - Công Pháp Dẫn Thiên Khí</Title>
+			<Desc>Bí mật của Công Pháp Đạo Thiên Quyết sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_6_Huo">
+			<Title>Lĩnh hội - Công Pháp Thái Cổ Dược Thần</Title>
+			<Desc>Bí mật của Công Pháp Thái Cổ Luyện Đan sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_7_Huo">
+			<Title>Lĩnh hội - Công Pháp Trảm Tâm Quyết</Title>
+			<Desc>Bí mật của Công Pháp Trảm Tình Quyết sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_8_Jin">
+			<Title>Lĩnh hội - Công Pháp Kim Kiếm Trảm Tinh</Title>
+			<Desc>Bí mật của Công Pháp Hỗn Loạn Trảm sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_9_Mu">
+			<Title>Lĩnh hội - Công Pháp Lục Đạo Trùng Sinh</Title>
+			<Desc>Bí mật của Công Pháp Lục Đạo Trùng Sinh sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_10_Huo">
+			<Title>Lĩnh hội - Công Pháp Chí Dương</Title>
+			<Desc>Bí mật của Công Pháp Chí Dương sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_11_Tu">
+			<Title>Lĩnh hội - Công Pháp Quỳ Hoa Luyện Khí</Title>
+			<Desc>Bí mật của Công Pháp Quỳ Hoa Luyện Khí sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_12_None">
+			<Title>Lĩnh hội - Công Pháp Thượng Cổ Phù Văn</Title>
+			<Desc>Bí mật của Công Pháp Thượng Cổ Phù Văn sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateGong_13_None">
+			<Title>Lĩnh hội - Công Pháp Âm Dương Biến Hóa</Title>
+			<Desc>Bí mật của Công Pháp Âm Dương Biến Hóa</Desc>
+		</Text>
+		<Text Name="PenetrateDengXian">
+			<Title>Lĩnh hội - Thiên Cấp Công Pháp</Title>
+			<Desc>Một phần bí mật của công pháp thượng cổ lưu truyền từ tán tu sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateYuanShen">
+			<Title>Lĩnh hội - Nguyên Thần Cấp Công Pháp</Title>
+			<Desc>Một phần bí mật của công pháp Nguyên Thần lưu truyền từ tán tu sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateJinDan">
+			<Title>Lĩnh Hội - Công Pháp Cấp Kim Đan</Title>
+			<Desc>Một phần bí mật của công pháp tu luyện cấp Kim Đan truyền lại từ tản tu sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+		<Text Name="PenetrateFanSu">
+			<Title>Lĩnh Hội - Công Pháp Cấp Địa</Title>
+			<Desc>Một phần bí mật của công pháp tu luyện cấp Địa truyền lại từ tản tu sẽ được hiển thị tại trang này.</Desc>
+		</Text>
+	</List>
+</Texts>

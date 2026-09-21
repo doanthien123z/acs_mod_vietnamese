@@ -1,0 +1,9 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_BambooLeftover" sParam="Item">
+			<ThingName>Thẻ tre cắt</ThingName>
+			<Desc>Thẻ tre được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Trúc</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

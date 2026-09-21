@@ -1,0 +1,28 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>Thượng cổ phù văn tu luyện pháp</DisplayName>
+			<Desc>Tu sĩ tên là Vân Trung Tử đã từ bỏ phương pháp ngưng kết kim đan truyền thống và phát minh ra một phương pháp ngưng kết kim đan hoàn toàn mới. Thay vì tu sĩ vận chuyển chân khí trong cơ thể và cô đọng nó để hình thành kim đan, công pháp này lại sử dụng phù chú và văn tự làm cốt lõi để ngưng kết kim đan. Người tu luyện sẽ sử dụng năm loại phù chú để khắc phù văn lên kim đan và nguyên thần của chính mình.</Desc>
+			<SelectDesc>Người tu luyện môn này sẽ sử dụng năm loại phù chú để khắc phù văn lên kim đan và nguyên thần của mình để vĩnh viễn nhận được sức mạnh của phù văn. Tuy nhiên, công pháp này cực kỳ yếu về mặt sử dụng chân khí và pháp bảo, vì vậy nó hoàn toàn không phù hợp cho chiến đấu.</SelectDesc>
+			<Stages.0.DisplayName>Biến hóa cảnh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Điểm giao nhau</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có tư chất thấp.</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Biển Phạn Tự</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Khởi Nguyên Cảnh</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tích Lũy</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Khởi Nguyên Phù</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thủy Hỏa Cảnh</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Hỏa Phù</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Thủy Phù</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Ngưng Tụ Bản Nguyên</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Bản Nguyên Cảnh</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Hỗn Hợp</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Bản Nguyên Phù</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Hư Vô Cảnh</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Vạn Biến</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Thần Phù</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Vô ngã</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

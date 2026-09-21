@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>Tiên sứ</DisplayName>
+			<Desc>Gửi nó đến tông môn mục tiêu để cải thiện quan hệ giữa các tông môn</Desc>
+			<sParam2>Gấu trúc</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>Bằng hữu tự nhiên</DisplayName>
+			<Desc>Thuần hóa dã thú</Desc>
+			<TargetDesc>Chọn dã thú không phải đồng minh</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>Bản nguyên chi lực (Hỗn nguyên)</DisplayName>
+			<Desc>Thiêu đốt nhanh chóng nguồn gốc sinh mệnh để kích thích nguyên lực của yêu tộc, tăng mạnh kỹ năng pháp bảo, tăng mạnh kỹ năng khiên khí, tăng mạnh thể năng bí ẩn, tăng mạnh độ bền thể năng bí ẩn. RNếu muốn hủy bỏ pháp chú, hãy nhấn sử dụng pháp chú một lần nữa.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,10 @@
+Sát thương đạn 1, Thần chú, Pháp chú, Thần châu, Lôi
+Sát thương trực tiếp 2, Vũ trụ, Luyện vũ trụ
+Cường hóa pháp bảo 3 (đơn), Kiếm thuật, Kiếm pháp né tránh, Phi kiếm
+Cường hóa pháp bảo 4 (nhóm), Kiếm thuẫn, Kiếm thuật, Kiếm pháp né tránh, Phi kiếm
+Cường hóa phép thuật 5 (đơn), Thần chú, Pháp chú, Thần châu, Quy tắc, Pháp thuật, Thần tích
+Cường hóa phép thuật 6 (nhóm), Trận pháp, Giáp, Vùng cấm, Trận đồ phù
+Hồi phục 7 (đơn), Thần chú, Pháp chú, Thần châu, Quy tắc, Pháp thuật, Thần tích
+Hồi phục 8 (nhóm), Trận pháp, Giáp, Vùng cấm, Trận đồ phù
+Tăng giáp chân khí 9 (đơn), Thần chú, Pháp chú, Thần châu, Quy tắc, Pháp thuật, Thần tích
+Tăng giáp chân khí 10 (nhóm), Trận pháp, Giáp, Vùng cấm, Trận đồ phù

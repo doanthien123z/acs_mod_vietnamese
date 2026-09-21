@@ -1,0 +1,48 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BodyPractice_Attitude_Atk">
+			<DisplayName>Công Kích Thân Pháp</DisplayName>
+			<Desc>Tập trung tâm trí vào việc tấn công là chính, ở chiêu thức này người dùng có thể tăng 25% sức tấn công, tuy nhiên cũng phải đánh đổi bằng việc giảm sức phòng thủ. 50%</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_Normal">
+			<DisplayName>Cơ Bản Thân Pháp</DisplayName>
+			<Desc>Chiêu thức cơ bản có sự cân bằng giữa tấn công và phòng thủ.</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_ManJi">
+			<DisplayName>Chiến Hồn</DisplayName>
+			<Desc>Sử dụng ý chí kiên định để điều khiển cơ thể tấn công trực diện kẻ thù, có hiệu quả tăng sức tàn phá khủng khiếp nhưng cũng ảnh hưởng đến sức phòng thủ của bản thân. Bí kíp này tăng 30% sức tấn công và giảm sức phòng thủ của người dùng. 25%</Desc>
+		</Text>
+		<Text Name="BodyPractice_Attitude_WangZhe">
+			<DisplayName>Vương Giả Chi Nhã</DisplayName>
+			<Desc>Ý chí và tâm trí tĩnh lặng như vương giả khi đối mặt với đối thủ mạnh, bí kíp này tăng 15% sức tấn công, tăng 25% sức phòng thủ và giảm năng lượng. 20%</Desc>
+		</Text>
+		<Text Name="BodyPractice_DefenseDebuff">
+			<DisplayName>Trạng thái suy yếu</DisplayName>
+			<Desc>Khi rơi vào tình trạng chân khí khô cạn, người tu luyện sẽ rơi vào trạng thái suy yếu, khiến tất cả chỉ số bị giảm. 90%</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_AngerFire">
+			<DisplayName>Cuồng nộ</DisplayName>
+			<Desc>Khơi dậy ký ức đau thương bị phong ấn và kích hoạt toàn bộ chức năng cơ thể trong một khoảng thời gian.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_JingXi">
+			<DisplayName>Tạng phủ hoạt động quá tải</DisplayName>
+			<Desc>Tim và phổi hoạt động quá tải sau khi vận hành linh khí mạnh mẽ, dẫn đến hiệu suất vận khí giảm sút nghiêm trọng.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_TunJin">
+			<DisplayName>Thôn Phệ Sinh Mệnh</DisplayName>
+			<Desc>Đốt cháy thọ nguyên để rút ra sinh mệnh linh khí sử dụng trong lúc chân khí khô cạn.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_XiuFu">
+			<DisplayName>Chuyển Hóa Năng Lượng</DisplayName>
+			<Desc>Truyền năng lượng khắp cơ thể để đẩy nhanh tốc độ phục hồi vết thương.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi1">
+			<DisplayName>Thiêu đốt sinh mệnh</DisplayName>
+			<Desc>Sử dụng chân khí được tạo ra bằng cách đốt cháy sinh mệnh linh khí của bản thân. Hành động này sẽ đẩy nhanh tốc độ tiêu hao thọ nguyên và tốc độ luyện thể của người dùng lên mức cực hạn.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Magic_ChiYi2">
+			<DisplayName>Thiêu Mệnh</DisplayName>
+			<Desc>Sử dụng chân khí được tạo ra bằng cách đốt cháy sinh mệnh linh khí của bản thân. Hành động này sẽ đẩy nhanh tốc độ tiêu hao thọ nguyên của người dùng và tăng tỷ lệ thành công khi đột phá cảnh giới trong quá trình luyện thể.</Desc>
+		</Text>
+	</List>
+</Texts>

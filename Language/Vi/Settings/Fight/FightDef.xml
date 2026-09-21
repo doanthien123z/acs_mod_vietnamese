@@ -1,0 +1,96 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="FaBao">
+			<Packs.0.DescTags>Pháp bảo giao tranh</Packs.0.DescTags>
+			<Packs.1.DescTags>Pháp bảo giao tranh</Packs.1.DescTags>
+			<Packs.2.DescTags>Pháp bảo giao tranh</Packs.2.DescTags>
+			<Packs.3.DescTags>Pháp bảo giao tranh</Packs.3.DescTags>
+		</Text>
+		<Text Name="GongBroken">
+			<Packs.0.DescTags>Pháp bảo giao tranh</Packs.0.DescTags>
+			<Packs.1.DescTags>Pháp bảo giao tranh</Packs.1.DescTags>
+			<Packs.2.DescTags>Pháp bảo giao tranh</Packs.2.DescTags>
+			<Packs.3.DescTags>Pháp bảo giao tranh</Packs.3.DescTags>
+		</Text>
+		<Text Name="Skill">
+			<Packs.0.DescTags>Linh lực bạo phát</Packs.0.DescTags>
+			<Packs.1.DescTags>Linh lực bạo phát</Packs.1.DescTags>
+			<Packs.2.DescTags>Linh lực bạo phát</Packs.2.DescTags>
+			<Packs.3.DescTags>Linh lực bạo phát</Packs.3.DescTags>
+		</Text>
+		<Text Name="Jin">
+			<Packs.1.DescTags>Sát thương Kim hệ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương Kim hệ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương Kim hệ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương Kim hệ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương Kim hệ</Packs.5.DescTags>
+		</Text>
+		<Text Name="Mu">
+			<Packs.1.DescTags>Sát thương Mộc hệ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương Mộc hệ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương Mộc hệ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương Mộc hệ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương Mộc hệ</Packs.5.DescTags>
+			<Packs.6.DescTags>Sát thương Mộc hệ</Packs.6.DescTags>
+		</Text>
+		<Text Name="Shui">
+			<Packs.1.DescTags>Sát thương Thủy hệ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương Thủy hệ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương Thủy hệ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương Thủy hệ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương Thủy hệ</Packs.5.DescTags>
+		</Text>
+		<Text Name="Huo">
+			<Packs.1.DescTags>Sát thương Hỏa hệ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương Hỏa hệ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương Hỏa hệ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương Hỏa hệ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương Hỏa hệ</Packs.5.DescTags>
+		</Text>
+		<Text Name="Tu">
+			<Packs.1.DescTags>Sát thương Thổ hệ</Packs.1.DescTags>
+			<Packs.2.DescTags>Sát thương Thổ hệ</Packs.2.DescTags>
+			<Packs.3.DescTags>Sát thương Thổ hệ</Packs.3.DescTags>
+			<Packs.4.DescTags>Sát thương Thổ hệ</Packs.4.DescTags>
+			<Packs.5.DescTags>Sát thương Thổ hệ</Packs.5.DescTags>
+			<Packs.6.DescTags>Sát thương Thổ hệ</Packs.6.DescTags>
+		</Text>
+		<Text Name="BodyAttackNormal">
+			<Packs.0.DescTags>Tấn công mãnh liệt</Packs.0.DescTags>
+			<Packs.1.DescTags>Tấn công mãnh liệt</Packs.1.DescTags>
+			<Packs.2.DescTags>Tấn công mãnh liệt</Packs.2.DescTags>
+			<Packs.3.DescTags>Tấn công mãnh liệt</Packs.3.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Normal">
+			<Packs.0.DescTags>Trầy xước</Packs.0.DescTags>
+			<Packs.1.DescTags>Trầy xước</Packs.1.DescTags>
+			<Packs.2.DescTags>Trầy xước</Packs.2.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Skill">
+			<Packs.0.DescTags>Bạo kích linh lực</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Fabao">
+			<Packs.0.DescTags>Pháp bảo giao tranh</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Jin">
+			<Packs.0.DescTags>Sát thương Kim hệ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương Kim hệ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Mu">
+			<Packs.0.DescTags>Sát thương Mộc hệ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương Mộc hệ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Shui">
+			<Packs.0.DescTags>Sát thương Thủy hệ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương Thủy hệ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Huo">
+			<Packs.0.DescTags>Sát thương Hỏa hệ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương Hỏa hệ</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Tu">
+			<Packs.0.DescTags>Sát thương Thổ hệ</Packs.0.DescTags>
+			<Packs.1.DescTags>Sát thương Thổ hệ</Packs.1.DescTags>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,13 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_ShuShan">
+			<Hate.0>Ngươi tới đây làm gì??</Hate.0>
+			<Normal.0>Chào ngươi, ngươi muốn giao dịch sao??</Normal.0>
+			<Normal.1>Ngươi muốn mua gì nào??</Normal.1>
+			<Like.0>Cứ đưa ra giá đi, ta đang nghe đây.</Like.0>
+			<Submiss.0>Có món nào lọt vào mắt xanh của người không? Những thứ này đều là kỳ trân dị bảo mà chúng ta đã tích lũy.</Submiss.0>
+			<GiftLike.0>Vật này không phải vật tầm thường, ta cực kỳ thích nó.</GiftLike.0>
+			<LowValueGift.0>Đây là lễ vật tốt nhất mà ngươi tìm được sao? Hừ, thật đáng thương.</LowValueGift.0>
+		</Text>
+	</List>
+</Texts>

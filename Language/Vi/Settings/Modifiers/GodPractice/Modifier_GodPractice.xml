@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>Thần Niệm</DisplayName>
+			<Desc>Khi nguyên thần tăng lên, nhân vật có thể thuần thục ngự trị thần lực và trở nên mạnh mẽ hơn. Đồng thời, các yếu tố điều hòa cảm xúc cũng sẽ tăng lên.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>Thần Niệm</DisplayName>
+			<Desc>Hiệu quả xảy ra khi nguyên thần đạt đến cấp độ 0-30</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>Thần Niệm</DisplayName>
+			<Desc>Hiệu quả xảy ra khi nguyên thần đạt đến cấp độ 30-100</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>Đoạn Ý</DisplayName>
+			<Desc>Giảm bớt ảnh hưởng của cảm xúc tạm thời thông qua trảm tâm. Thời gian trảm tâm càng lâu, hiệu quả duy trì càng lâu. Tâm trạng của tu sĩ sẽ không thay đổi trong quá trình trảm tâm.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>Thần hóa</DisplayName>
+			<Desc>Tạm thời nâng nguyên thần lên cảnh giới 99.99% trong vòng 300 giây, và sẽ vĩnh viễn tăng 1% nguyên thần sau khi kết thúc phép thuật.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>Khắc kỷ</DisplayName>
+			<Desc>Tu luyện lực tín ngưỡng - Khắc chế bản thân</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>Phóng túng</DisplayName>
+			<Desc>Tu luyện lực tín ngưỡng - Phóng thích bản thân</Desc>
+		</Text>
+	</List>
+</Texts>

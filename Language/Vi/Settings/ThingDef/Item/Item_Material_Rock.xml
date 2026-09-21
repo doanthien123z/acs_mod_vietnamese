@@ -1,0 +1,57 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBase" sParam="Item">
+			<Item.FabaoSuffix>Đá, ấn, bia đá, ngọc bội, phiến, tháp, đá tảng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BrownRock" sParam="Item">
+			<ThingName>Đá nâu</ThingName>
+			<Desc>Viên đá có màu nâu. Đây là loại nguyên liệu thông thường.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRock" sParam="Item">
+			<ThingName>Đá xám</ThingName>
+			<Desc>Viên đá có màu xám. Đây là loại nguyên liệu thông thường.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Marble" sParam="Item">
+			<ThingName>Đá cẩm thạch</ThingName>
+			<Desc>Đá cẩm thạch là một loại đá phổ biến. Bề mặt của nó khá đẹp và bắt mắt.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_Jade" sParam="Item">
+			<ThingName>Ngọc</ThingName>
+			<Desc>Loại đá mịn vừa cứng vừa sáng bóng. Nó có độ trong suốt nhẹ, bề mặt vô cùng quyến rũ, hơn nữa còn chứa đựng đặc tính linh lực dồi dào.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeEssence" sParam="Item">
+			<ThingName>Ngọc Hạch</ThingName>
+			<Desc>Nhân của ngọc. Nó có trọng lượng nhẹ, bề mặt nhẵn mịn và vô cùng đẹp mắt. Thường được dùng để trang trí trên pháp bảo hoặc công trình cao cấp, đôi khi còn có thể dùng làm nguyên liệu luyện đan.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StoneEssence" sParam="Item">
+			<ThingName>Thạch Hạch</ThingName>
+			<Desc>Nhân của đá. Nó có trọng lượng nhẹ, bề mặt nhẵn mịn và vô cùng đẹp mắt. Thường được dùng để trang trí trên pháp bảo hoặc công trình cao cấp, đôi khi còn có thể dùng làm nguyên liệu luyện đan.</Desc>
+			<Item.BeMaterial.NamePrefix>Thạch Hạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStone" sParam="Item">
+			<ThingName>Đá thánh</ThingName>
+			<Desc>Một loại đá hiếm được tương truyền là khai thác từ trụ trời rơi xuống. Bên trong nó chứa đựng linh khí hệ Thổ vô cùng tinh khiết.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá thánh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ExtremeJade" sParam="Item">
+			<ThingName>Thần Ngọc</ThingName>
+			<Desc>Bảo vật quý giá được các tu sĩ săn đón. Thông thường nó xuất hiện dưới dạng tinh thể màu xanh lục lam, bên trong chứa đựng linh khí hệ Thổ vô cùng tinh khiết.</Desc>
+			<Item.BeMaterial.NamePrefix>Thần Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStone" sParam="Item">
+			<ThingName>Linh thạch</ThingName>
+			<Desc>Đá hình thành từ sự ngưng tụ của linh khí độ đậm đặc cao, người tu luyện có thể dùng nó để hồi phục 500 điểm chân khí, đồng thời còn giúp nâng cao tốc độ hấp thụ linh khí trong một khoảng thời gian ngắn.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystal" sParam="Item">
+			<ThingName>Linh tinh</ThingName>
+			<Desc>Tinh thể hình thành từ sự ngưng tụ của linh khí độ đậm đặc cao, người tu luyện có thể dùng nó để hồi phục 20.000 điểm chân khí, đồng thời còn giúp nâng cao mạnh mẽ tốc độ hấp thụ linh khí trong một khoảng thời gian ngắn.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh tinh</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

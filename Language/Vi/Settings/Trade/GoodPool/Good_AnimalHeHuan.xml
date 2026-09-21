@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="HeHuanA">
+			<IVNUMBER.0.Animal.DisplayName>Lồng rắn</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Việc tu luyện tại tông môn đã truyền cho nó ký ức liên quan đến cảm ứng linh khí.</IVNUMBER.0.Animal.Tip>
+		</Text>
+		<Text Name="HeHuanAL">
+			<IVNUMBER.0.Animal.DisplayName>Lồng rắn thường</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Nó đã đạt được linh trí của sự sợ hãi.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Lồng rắn thường</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Nó đã đạt được linh trí của sự suy tư.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Lồng rắn thường</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Nó đã đạt được linh trí của sự vui vẻ.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Lồng rắn thường</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Nó đã đạt được linh trí của sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Lồng rắn thường</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong là rắn đang ở trạng thái thức tỉnh. Nó đã đạt được linh trí của sự lo âu.</IVNUMBER.4.Animal.Tip>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Building_Geothermy" sParam="Building">
+			<ThingName>Yêu giới liệt ngân</ThingName>
+			<Desc>Khe nứt vỡ kéo dài đến tận tâm địa cầu. Gió nóng rực vẫn thổi ra từ lòng đất.</Desc>
+		</Text>
+		<Text Name="Building_ColdHole" sParam="Building">
+			<ThingName>Hàn Băng Lô</ThingName>
+			<Desc>Cổ đại hiền giả từng cố gắng luyện chế đan dược nghịch thiên ở nơi này, nhưng quá trình luyện đan lại bị thiên kiếp phá hủy. Ngọn lửa trong lò luyện đan hóa thành băng giá vĩnh cửu không bao giờ tan dù trải qua hàng trăm thế kỷ.</Desc>
+		</Text>
+		<Text Name="Building_OuterWorld" sParam="Building">
+			<ThingName>Khe nứt không gian</ThingName>
+			<Desc>Không gian bí cảnh sụp đổ do đại chiến giữa các tiên nhân cường đại. Trận chiến ấy đã biến nơi này thành một vết nứt không gian tương đối ổn định, cho phép vật phẩm hoặc tu sĩ từ hai thế giới có thể qua lại nhiều lần.</Desc>
+		</Text>
+		<Text Name="Building_YinYang" sParam="Building">
+			<ThingName>Âm Dương Thạch</ThingName>
+			<Desc>Hòn đá kỳ lạ được tạo ra giữa sự giao hòa của âm và dương, chứa đựng thiên cơ của trời đất. Căn cơ tu luyện của đệ tử càng cao, ngộ tính về đại đạo càng sâu sắc. Tuy nhiên, việc tĩnh tu trên hòn đá này thường gây ra những dị tượng thiên văn bất thường.</Desc>
+		</Text>
+		<Text Name="Building_DiMu" sParam="Building">
+			<ThingName>Thổ Địa Miếu</ThingName>
+			<Desc>Thần điện thờ cúng Thổ Địa công công bị bỏ lại bởi các tu sĩ thời cổ đại. Người ta có thể cầu xin linh hồn còn sót lại của Thổ Địa bằng cách dâng hiến linh thạch, mặc dù việc này có khả năng mang lại thiên tai.</Desc>
+		</Text>
+		<Text Name="LingShu" sParam="Building">
+			<ThingName>Minh Đăng Thụ</ThingName>
+			<Desc>Một loại cổ thụ kỳ lạ mang tên Minh Đăng Thụ đã sinh trưởng ở đây, nó có thể biến vùng đất xung quanh thành linh nhưỡng. Tuy nhiên, phấn hoa do nó phát tán có thể khiến kinh mạch bế tắc dẫn đến tẩu hỏa nhập ma.</Desc>
+			<StoryBnts.0.Name>Cảm nhận</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cảm thụ linh khí xung quanh Thụ Quang Đăng.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

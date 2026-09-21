@@ -1,0 +1,95 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level1Base">
+			<Desc>Lv.1 Location Templates</Desc>
+		</Text>
+		<Text Name="Place_DanXia">
+			<DisplayName>Màn Thiên Sơn</DisplayName>
+			<Desc>Một trong những ngọn núi nổi tiếng nhất thế giới, nơi tọa lạc của Màn Thiên Tông - đại môn phái xếp thứ ba trong giới tu chân. Ngọn núi này sừng sững uy nghiêm, vô cùng tráng lệ, đặc biệt là vào lúc hoàng hôn. Màn Thiên Sơn chứa đựng lượng lớn nhân sâm cổ, và người ta đồn rằng ở đây có một địa điểm kỳ diệu gọi là Ngũ Long Hồ, nơi Màn Thiên Tông dùng để trồng Ngũ Sắc Kim Liên.</Desc>
+		</Text>
+		<Text Name="Place_KunLun">
+			<DisplayName>Côn Lôn Sơn</DisplayName>
+			<Desc>Ngọn núi linh thiêng và cổ xưa nhất thế giới, nơi sở hữu mạch rồng vô cùng trù phú. Côn Lôn Điện, tông môn Đạo gia mạnh nhất, chính là tọa lạc tại đây. Côn Lôn Sơn là một mỏ khoáng thạch đặc biệt chứa nhiều đá quý như Thánh Thạch, hơn nữa bên trong núi còn có đường dẫn đến hang mạch rồng, nơi Côn Lôn Điện dùng để trồng Hoàng Thổ Nguyên Tâm.</Desc>
+		</Text>
+		<Text Name="Place_TianJi">
+			<DisplayName>Đỉnh Thiên Phong</DisplayName>
+			<Desc>Đỉnh Thiên Phong là ngọn núi cao vạn trượng, sừng sững cô độc chọc trời. Đây là nơi đặt tổng bộ của một thế lực bí ẩn mang tên Thượng Thiên Cung. Thượng Thiên Cung được coi là thế lực trung lập, không thuộc phe Chính hay Tà. Đệ tử trong tông môn, dù nam hay nữ, đều có mị lực vô cùng cuốn hút. Đỉnh Thiên Phong chứa nhiều Minh Tâm Thảo, và trên đỉnh núi còn có một thung lũng tuyệt mỹ tên là Vân Tiêu Cốc, tương truyền Thượng Thiên Cung đã trồng cây Kim Tinh tại hang động đó.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua">
+			<DisplayName>Cửu Hoa Sơn</DisplayName>
+			<Desc>Cửu Hoa Sơn có chín đỉnh núi chồng lên nhau, ẩn sâu bên trong là địa điểm tọa lạc của Tử Vân Tự - một trong mười đại tông môn lớn nhất thế giới. Theo truyền thuyết, từng có một vị tiên nhân cưỡi rồng phượng bay lên tiên giới từ ngọn núi này. Cửu Hoa Sơn giàu khoáng sản quý giá, khiến nhiều kẻ lén lút thường xuyên đổ xô đến đào trộm các loại đá quý như ngọc thạch.</Desc>
+		</Text>
+		<Text Name="Place_LongHu">
+			<DisplayName>Hổ Long Sơn</DisplayName>
+			<Desc>Ngọn núi của Đạo giáo nằm ở vùng bình nguyên trung tâm, nơi nhiều thi nhân và học giả thường xuyên ghé thăm để nghiên cứu. Đây cũng là nơi tọa lạc của một tông môn ẩn thế được người dân vô cùng kính trọng. Có tin đồn rằng sâu trong ngọn núi này ẩn giấu một khu rừng linh giới, nơi có rất nhiều giống cây quý hiếm, thậm chí cả loài cây thuộc hệ linh căn thiên địa như Đằng Vân Liễu.</Desc>
+		</Text>
+		<Text Name="Place_Shu">
+			<DisplayName>Tu Sơn</DisplayName>
+			<Desc>Ngọn núi vô cùng bí ẩn với những con đường khúc khuỷu đến mức ngay cả loài linh hoạt như khỉ cũng khó lòng leo qua. Nơi đây là tọa lạc của Thanh Liên Tự, một trong mười đại tông môn của thế giới. Tu Sơn vô cùng nguy hiểm, tương truyền có rất nhiều quái thú ẩn náu như xà tinh bảy màu hay thậm chí là rồng. Mặc dù vậy, vẫn có người thường xuyên lui tới đây, bởi ngọn núi này là nguồn khoáng sản và có suối nước linh thiêng mà các thợ rèn thường dùng để đúc tạo binh khí thượng phẩm. Người ta đồn rằng sâu trong núi, các tiên nhân của Thanh Liên Tự đã bí mật trồng linh thực của trời đất là quả Liệt Diễm tại vách đá ngọc.</Desc>
+		</Text>
+		<Text Name="Place_WuLian">
+			<DisplayName>Ngũ Sắc Liên Sơn</DisplayName>
+			<Desc>Ngọn núi này nằm ở biên giới phía Tây, điểm đặc trưng độc đáo là có năm đỉnh núi có hình dáng tựa như đóa sen đang nở rộ, vì vậy người ta gọi nơi đây là Ngũ Sắc Liên Sơn. Đây là nơi tọa lạc của Dạ Quang Tông - một trong mười đại tông môn của thế giới. Ngũ Sắc Liên Sơn nổi tiếng khắp thế giới nhờ có Thiên Hồ chứa đựng linh khí trời đất vô cùng trù phú, khiến cho muôn loài thực vật quý hiếm đều sinh trưởng tại đây. Dạ Quang Tông nhờ lợi thế này mà vô cùng nổi tiếng trong lĩnh vực luyện đan.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan">
+			<DisplayName>Bách Trùng Sơn</DisplayName>
+			<Desc>Ngọn núi ở phía Tây là nơi tọa lạc của Ma Tông, bên trong núi chứa đầy các loại yêu thú hung dữ. Hơn nữa, khắp ngọn núi còn được bao phủ bởi một loại thực vật tiết ra chất độc cực mạnh, mùi hôi đặc trưng của nó có thể tỏa ra xa hàng trăm dặm. Một điều đáng sợ khác của ngọn núi này là nơi trú ngụ của vô số loài côn trùng độc hại, vì vậy đây được coi là thiên đường của các tông môn chuyên tu luyện độc thuật.</Desc>
+		</Text>
+		<Text Name="Place_XianKong">
+			<DisplayName>U Minh Sơn</DisplayName>
+			<Desc>Ngọn núi kỳ lạ nằm ở rìa biên giới. Bên trong núi có một cái hố sâu không đáy, tương truyền nó thông với địa ngục, nơi cư ngụ của Địa Mẫu. Khu vực bằng phẳng của ngọn núi này có lực từ trường rất mạnh, thường xuyên thu hút các thiên thạch rơi xuống đây.</Desc>
+		</Text>
+		<Text Name="Place_Hei">
+			<DisplayName>Hắc Thạch Sơn</DisplayName>
+			<Desc>Ngọn núi nơi tọa lạc của Thất Sát Ma Cung ở phía Bắc đại lục. Nơi đây có tông môn ma đạo nổi tiếng là Thất Sát Tông, một trong những tông môn ma đạo mạnh nhất thế giới. Họ sở hữu bộ kiếm quyết Thất Sát vừa mạnh mẽ vừa tàn độc. Ngọn núi này có ba đỉnh đại diện cho Thiên, Địa, Nhân. Thất Sát Tông đã dùng ba đỉnh núi này để bày ra một trận pháp mạnh mẽ, tương truyền từ xưa đến nay chưa ai có thể phá giải. Đã bao năm trôi qua, phe chính và phe tà chém giết lẫn nhau, vô số hài cốt và đầu lâu đã bị chôn vùi dưới trận pháp Thất Sát này.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan">
+			<DisplayName>Tiêu Dao Đảo</DisplayName>
+			<Desc>Nơi tọa lạc của một ma tông nằm ở phía Đông. Hòn đảo này nổi tiếng là vô cùng xinh đẹp và giàu linh khí tự nhiên. Tiêu Dao Tông đã cố gắng suốt hơn trăm năm để tạo ra Đào Hoa Lục Dục Trận, trận pháp này có phạm vi bao phủ hơn 167 dặm khắp toàn bộ hòn đảo. Những ngư dân vô tình lạc vào sẽ bị trận pháp luyện hóa thành đan dược để tăng cường sinh lực. Đệ tử của Tiêu Dao Tông hầu hết đều có dung mạo trẻ mãi không già, có lẽ là nhờ vào dòng suối linh thiêng luôn ban tặng nước thánh cho họ.</Desc>
+		</Text>
+		<Text Name="Place_Desert">
+			<DisplayName>Vô Tận Sa Mạc</DisplayName>
+			<Desc>Sa mạc rộng lớn vô tận, ẩn giấu nhiều vật phẩm bí ẩn và tàn tích dưới lớp cát vàng rộng lớn. Truyền thuyết kể rằng sâu trong phía Tây của sa mạc này là nơi tọa lạc của Vạn Thú Điện.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest">
+			<DisplayName>Nam Cương Lâm</DisplayName>
+			<Desc>Vùng hoang dã hẻo lánh ở phía Nam đại lục, nơi đầy rẫy các loài thú có độc và sương mù độc hại lan tỏa quanh năm. Theo truyền thuyết, sâu trong khu rừng này là một thung lũng bí ẩn tên là Trùng Cốc, nơi chứa đựng những nguy hiểm không thể lường trước do sương độc và côn trùng độc ở khu vực này có độc tính cực mạnh. Tuy nhiên, nhờ độ ẩm và không khí ấm áp, nơi đây lại cực kỳ thích hợp cho sự phát triển của linh căn thiên địa là Đằng Vân Liễu. Ngoài ra, tương truyền mộ phần của Ma Đế - người sáng lập Ma Tông 1000 năm trước cũng được chôn giấu sâu trong khu rừng này.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield">
+			<DisplayName>Vĩnh Hằng Tuyết Vực</DisplayName>
+			<Desc>Vùng đất phương Bắc phủ đầy tuyết trắng trải dài tới tận chân trời. Nơi đây có những vùng băng tuyết xen lẫn rừng thông cổ thụ lớn mà người bình thường không thể đặt chân tới. Nơi đây giàu nhân sâm và ngọc quý khó lòng khai thác. Người ta nói rằng sâu trong cánh đồng tuyết này có một hồ Ngọc Thạch, dù thời tiết giá lạnh đến đâu nó cũng không bao giờ đóng băng. Hơn nữa, hồ nước này còn là nơi sinh trưởng của một loại linh căn thiên địa mang tên Ngũ Sắc Kim Liên.</Desc>
+		</Text>
+		<Text Name="Place_FertileField">
+			<DisplayName>Hồi Thủy Bình Nguyên</DisplayName>
+			<Desc>Đồng bằng trù phú ven bờ sông lớn, dân cư đông đúc và giàu sản lượng lương thực. Phía Đông của cánh đồng này có ngọn núi tên là Lộ Sơn, nơi có tin đồn rằng loài linh căn thiên địa mang tên Kim Tinh Quả đang sinh trưởng trên vách đá cheo leo.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains">
+			<DisplayName>Trung Nguyên</DisplayName>
+			<Desc>Cao nguyên khu vực trung tâm có mật độ dân cư đông đúc và trù phú nhiều loại nông sản. Đây là nơi tọa lạc của nhiều ngọn núi và địa điểm linh thiêng nổi tiếng. Một trong số đó là Dược Đỉnh Phong, nơi tương truyền có một vị Dược Tiên đã trồng loài linh thực trời đất mang tên Hoàng Thổ Nguyên Tâm tại đó.</Desc>
+		</Text>
+		<Text Name="Place_SouthMount">
+			<DisplayName>Nam Cương Sơn</DisplayName>
+			<Desc>Một ngọn núi nằm ở phía Nam đại lục. Nơi đây dân cư vô cùng thưa thớt, dẫn đến việc có nhiều tài nguyên chưa được khám phá hoặc khai thác. Đây là nơi cư ngụ cũ của tông môn tên là Thái Ất Tông, người dân vùng lân cận có niềm tin rất lớn đối với tông môn này.</Desc>
+		</Text>
+		<Text Name="Place_HeYinCity">
+			<DisplayName>Hồi Thủy Thành</DisplayName>
+			<Desc>Thành phố lớn này được xây dựng ven bờ sông. Nhờ có nhiều sản vật tự nhiên, cư dân ở đây không phải lo lắng về cơm ăn áo mặc, từ đó thúc đẩy nền văn minh và văn hóa phát triển mạnh mẽ. Kết quả là những người sống ở đây thường rất thông minh và tài giỏi.</Desc>
+		</Text>
+		<Text Name="Place_HuCity">
+			<DisplayName>Hải Cảnh Thành</DisplayName>
+			<Desc>Thành phố xây dựng trên bờ biển phía Đông đại lục. Vì là thành phố cảng nên giao thông vô cùng thuận tiện, thu hút vô số thương nhân đến giao thương và lấy nơi đây làm điểm dừng chân. Do đó, người dân trong thành phố có kinh nghiệm kinh doanh và khả năng quan sát ngôn từ, cử chỉ vô cùng xuất sắc.</Desc>
+		</Text>
+		<Text Name="Place_PanSheCity">
+			<DisplayName>Xà Vĩ Thôn</DisplayName>
+			<Desc>Ngôi làng này giống như cánh cửa dẫn vào Nam Cương Lâm, đồng thời cũng là ngôi làng lớn nhất ở phía Nam đại lục. Nơi đây coi trọng truyền thống kính trọng quy luật thiên nhiên và thiên đạo. Có lẽ đây là lý do khiến người dân sống ở đây được cho là có vận may tốt hơn người bình thường.</Desc>
+		</Text>
+		<Text Name="Place_ShanCity">
+			<DisplayName>Đại Phú Thành</DisplayName>
+			<Desc>Đại thành phía Nam Trung Bộ. Đây là một đại thành được xây dựng tại giao lộ quan trọng cho việc giao thương đi lại giữa các thành phố, khiến nơi đây vô cùng phồn thịnh. Người dân ở thành này rất thẳng thắn và cởi mở, họ có sức hút riêng dễ dàng chiếm được thiện cảm từ người khác.</Desc>
+		</Text>
+		<Text Name="Place_DaLiangCity">
+			<DisplayName>Đại Lương Thành</DisplayName>
+			<Desc>Đại thành vùng biên giới phía Tây. Nó được xây dựng trên vùng đất hoang vu giữa Trung Nguyên và sa mạc vô tận. Nơi đây dồi dào khoáng sản và linh thạch quý giá, do địa thế đặc thù nên người dân nơi đây có thể chất cường tráng hơn người thường.</Desc>
+		</Text>
+	</List>
+</Texts>

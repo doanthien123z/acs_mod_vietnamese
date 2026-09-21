@@ -1,0 +1,27 @@
+ID	Unlock	TXT
+10000及以上不参与随机 必须连续	该内容在几级解锁	[Content]
+1	1	Để đạt sự ổn định tối đa, ngươi nên quy hoạch khu vực trồng trọt của mình càng sớm càng tốt.
+2	4	Ta không biết những kẻ đánh lén Thái Ất Môn là ai và đến từ đâu, xem ra giới tu tiên lại sắp xảy ra sóng gió rồi....
+3	3	[color=#D06508]Thịt Khô[/color]Và[color=#D06508]Bánh Mì[/color]Có thể bảo quản lâu hơn thực phẩm tươi.
+4	3	Ngươi có thể sử dụng[color=#D06508]Tụ Khí Đan[/color]để củng cố nền tảng của Người một cách nhanh chóng
+5	4	Tu luyện không nên để tâm trí xao lãng, vọng động. Vì Người là nội môn đệ tử, cho nên không cần phải bận tâm về những tạp vụ trong tông môn, bởi vì điều đó sẽ làm chậm trễ việc tu luyện của Người.
+6	4	Người có thể mở rộng[color=#D06508]Khí hải[/color]của mình khi tiến hành bế quan tu luyện, và nó có thể giúp gia tăng[color=#D06508]Chân khí tối đa[/color]của Người. Điều này được gọi là mở rộng đan điền.
+7	1	Nếu Người có ít lương thực, Người có thể[color=#D06508]Thu thập[/color]thu thập tài nguyên từ thực vật xung quanh hoặc[color=#D06508]Săn[/color]động vật trong khu vực. Ta sẽ ra tay giúp đỡ Người khi đến lúc nguy cấp.
+8	1	Công việc của ngoại môn đệ tử đôi khi khiến họ quá mức căng thẳng. Người có thể xây dựng[color=#D06508]khu giải trí[/color]để họ sử dụng nhằm thư giãn tâm trí.
+9	1	[color=#D06508]Thám hiểm[/color]Điều đó cực kỳ[color=#D06508]Năng lượng[/color]lãng phí. Khi mới bắt đầu, Người nên thăm dò một cách vừa phải.
+10	3	[color=#D06508]Thái Huyễn Kinh (F1)[/color]đứa đầy thông tin quan trọng. Nếu Người gặp vướng mắc không hiểu ở đâu, đừng ngần ngại lật ra xem.
+11	1	Người nên đào[color=#D06508]giếng nước[/color]càng sớm càng tốt để tạo ra nguồn nước sạch cho các đệ tử.
+12	1	Hãy cẩn thận đừng ra lệnh quá nhiều việc cùng một lúc, nếu không các đệ tử của Người sẽ gặp vô số khó khăn để hoàn thành công việc.
+13	4	Đây là một trong Ngũ Hành Chân Kinh còn sót lại của Thái Huyễn Tông....
+14	4	Sắp đến giờ rồi....
+15	4	Đời ta đã gặp qua rất nhiều người, và rất nhiều trong số đó là những cường giả vô cùng mạnh mẽ....
+16	4	Ánh mắt của Người trông có vẻ không thân thiện cho lắm.
+17	4	Trong thế giới tu tiên, vạn vật vốn dĩ vô thường. Ta đã chứng kiến biết bao màn phản bội. Sái tiểu hữu à, đây là lời khuyên từ ta, chính Người cũng phải thật cẩn trọng vào đấy.
+18	4	Ta sẽ rời đi khi chắc chắn rằng Người đã có thể tự lập ở một mức độ nhất định.
+10000	-1	Nơi này khá là an toàn. Hiện tại ta đề nghị Người nên đi[color=#D06508]Chặt gỗ[/color]để thu thập nó nhằm chế tạo[color=#D06508]Đống lửa[/color]thì hơn.
+10001	-1	Hừm... Tại sao Người không thử xây dựng[color=#D06508]trạm chế tác[/color]rồi tiến hành tinh luyện[color=#D06508]Gỗ[/color]thành[color=#D06508]Gỗ xẻ[/color]xem sao.
+10002	-1	Vào đầu mùa xuân, thời tiết khá là lạnh giá. Người có thể xây dựng[color=#D06508]Bức tường[/color]để tạo thành[color=#D06508]Phòng[/color]rồi sau đó Người có thể dùng nó làm nơi che mưa tránh gió.
+10003	-1	Tông chủ của các người và ta là cố nhân. Ngay khi ta nhận được tin Thái Huyễn Tông của các người xảy ra chuyện, ta đã vội vã chạy đến ngay tức khắc. Chỉ tiếc là ta đã đến muộn một bước. Nhưng dù sao đi nữa, ta vẫn phải tạ ơn trời đất vì vẫn lưu giữ lại hạt giống hy vọng của Thái Huyễn Tông, và hạt giống hy vọng đó chính là các người.!\nVà đừng quá lo lắng, ta sẽ ở lại đây một thời gian để bảo vệ các người. Nếu các người gặp phải phiền phức hoặc không hiểu điều gì trên con đường tu tiên, các người có thể đến thỉnh giáo ta bất cứ lúc nào.
+10004	-1	Đã đến lúc ta phải rời đi. Ta cầu xin trời đất ban phước cho các người, những hạt giống hy vọng của Thái Huyễn Tông... Ta hy vọng con đường tu hành của các người sẽ diễn ra thật suôn sẻ. Tạm biệt.
+10005	-1	Ta cảm thấy nhẹ nhõm khi thấy các ngươi bắt đầu có thể tự giúp bản thân mình rồi. Ta sẽ bảo hộ thêm một khoảng thời gian nữa vậy. Nếu các ngươi có câu hỏi hay nghi vấn gì, có thể đến tìm ta bất cứ lúc nào.
+10006	-1	*Haizz*...

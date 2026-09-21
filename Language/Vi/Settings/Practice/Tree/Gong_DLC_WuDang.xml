@@ -1,0 +1,184 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_13_Yang_a0">
+			<DisplayName>Nhẫn Thần Tâm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a3">
+			<DisplayName>Thanh Tịnh Tâm Nhãn</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a6">
+			<DisplayName>Thiên Đạo khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_a8">
+			<DisplayName>Bí tịch Ngũ Hành</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b0">
+			<DisplayName>Tạo Thủy Thuật</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b3">
+			<DisplayName>Thái Dương Quang Chú</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b4">
+			<DisplayName>Khai tâm kiến tính</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b8">
+			<DisplayName>Chân Dương chi quang</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_b8_1">
+			<DisplayName>Quy tắc vận hành chân khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c0">
+			<DisplayName>Tập Trung Luyện Khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c1">
+			<DisplayName>Suy toán Thiên Mệnh Luân Hồi</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c3">
+			<DisplayName>Lục Dương Thuần Dương Thể</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c4">
+			<DisplayName>Vô Cực Lục</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c8">
+			<DisplayName>Thiên phú tinh túy</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c10">
+			<DisplayName>Lục bộ đạp thiên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_c10_1">
+			<DisplayName>Âm dương thần bộ ẩn giấu</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d0">
+			<DisplayName>Ngưng luyện Đạo tinh</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d1">
+			<DisplayName>Linh hồn bí ẩn Âm Dương</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d4">
+			<DisplayName>Lục Dương Cửu Âm Nhị Tiên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d4_1">
+			<DisplayName>Tử Vụ Đạo Kinh</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7">
+			<DisplayName>Vong Tình Kiếm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7_1">
+			<DisplayName>Luân hồi kiếm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d7_2">
+			<DisplayName>Kiếm phổ Chinh Phục</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d8">
+			<DisplayName>Chân lý kiếm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d8_1">
+			<DisplayName>Đạo chân lý</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9">
+			<DisplayName>Giai điệu phản ánh bản ngã</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9_1">
+			<DisplayName>Dung hợp vạn vật</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_d9_2">
+			<DisplayName>Đông Phương Bản Nguyên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a0">
+			<DisplayName>Khí Trị Thương</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a5">
+			<DisplayName>Tạp chất linh khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a8">
+			<DisplayName>Bí tịch Ngũ Hành</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_a10">
+			<DisplayName>Thái cổ khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b0">
+			<DisplayName>Kiến tạo đại lục</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b4">
+			<DisplayName>Khai tâm kiến tính</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b5">
+			<DisplayName>Nguyệt Minh Phù</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b8">
+			<DisplayName>Thuần Nguyệt Quang</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_b8_1">
+			<DisplayName>Quy tắc vận hành chân khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c0">
+			<DisplayName>Tập Trung Luyện Khí</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c1">
+			<DisplayName>Thần Toán</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c4">
+			<DisplayName>Vô Cực Lục</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c5">
+			<DisplayName>Cửu Âm Kinh Mạch</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c8">
+			<DisplayName>Thiên phú tinh túy</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c10">
+			<DisplayName>Vân hải ẩn thiên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_c10_1">
+			<DisplayName>Âm dương thần bộ ẩn giấu</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d0">
+			<DisplayName>Ngưng luyện Đạo tinh</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d1">
+			<DisplayName>Linh hồn bí ẩn Âm Dương</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d4">
+			<DisplayName>Lục Dương Cửu Âm Nhị Tiên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d4_1">
+			<DisplayName>Tử Vụ Đạo Kinh</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7">
+			<DisplayName>Đế vương kiếm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7_1">
+			<DisplayName>Luân hồi kiếm</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d7_2">
+			<DisplayName>Kiếm phổ Chinh Phục</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d8">
+			<DisplayName>Chân lý pháp</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d8_1">
+			<DisplayName>Đạo chân lý</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9">
+			<DisplayName>Nguyên thủy khởi nguyên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9_1">
+			<DisplayName>Dung hợp vạn vật</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_d9_2">
+			<DisplayName>Đông Phương Bản Nguyên</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_e4">
+			<DisplayName>Thiên Đạo Đan Thuật</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yang_e8">
+			<DisplayName>Thiên Đạo Luyện Khí Quyết</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_e4">
+			<DisplayName>Thiên Đạo Đan Thuật</DisplayName>
+		</Text>
+		<Text Name="Gong_13_Yin_e8">
+			<DisplayName>Thiên Đạo Luyện Khí Quyết</DisplayName>
+		</Text>
+	</List>
+</Texts>

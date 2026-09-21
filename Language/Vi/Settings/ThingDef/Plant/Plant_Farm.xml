@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wheat" sParam="Plant">
+			<ThingName>Lúa mì</ThingName>
+			<Desc>Nguồn lương thực chính. Tuy thời gian sinh trưởng dài nhưng đây là loại thực vật rất kiên cường, có thể phát triển tốt trong nhiệt độ từ [temperature]0[/temperature] Đến [temperature]40[/temperature] Hơn nữa, mỗi lần thu hoạch đều cho sản lượng rất cao.</Desc>
+		</Text>
+		<Text Name="Healroot" sParam="Plant">
+			<ThingName>Thảo dược hoang</ThingName>
+			<Desc>Thảo dược thông thường được sử dụng rộng rãi, thường xuyên dùng để luyện đan. Nó có thể sinh trưởng trong nhiệt độ từ [temperature]10[/temperature] Đến [temperature]40[/temperature] mà thôi</Desc>
+		</Text>
+		<Text Name="Cotton" sParam="Plant">
+			<ThingName>Bông</ThingName>
+			<Desc>Nguồn nguyên liệu chính để sản xuất vải, nó có thể phát triển tốt ở nhiệt độ từ [temperature]5[/temperature] Đến [temperature]35[/temperature] Có thể tìm thấy nó trong quá trình thám hiểm tại Lương Sơn</Desc>
+		</Text>
+		<Text Name="Mushroom" sParam="Plant">
+			<ThingName>Nấm</ThingName>
+			<Desc>Nấm thông thường, chúng thường phát triển ở nhiệt độ từ [temperature]18[/temperature] Đến [temperature]23[/temperature] và chỉ có thể phát triển trong môi trường tối tăm</Desc>
+		</Text>
+	</List>
+</Texts>

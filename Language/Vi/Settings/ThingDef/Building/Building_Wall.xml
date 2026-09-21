@@ -1,0 +1,40 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Wall" sParam="Building">
+			<ThingName>Bức tường</ThingName>
+			<Desc>Kết cấu cơ bản dùng để tạo phòng kín, kích thước phòng phải nằm trong khoảng 3-400 ô.</Desc>
+		</Text>
+		<Text Name="Barrier2" sParam="Building">
+			<ThingName>Hàng rào</ThingName>
+			<Desc>Lan can đá hoặc lan can kim loại thông thường dùng để phân chia các khu vực, không thể dùng để tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="Barrier" sParam="Building">
+			<ThingName>Hàng rào</ThingName>
+			<Desc>Lan can gỗ thông thường dùng để phân chia các khu vực, không thể dùng để tạo thành phòng.</Desc>
+		</Text>
+		<Text Name="Door" sParam="Building">
+			<ThingName>Cánh cửa</ThingName>
+			<Desc>Kết cấu cơ bản dùng để đi vào hoặc đi ra khỏi phòng.\n(Các cửa đặt cạnh nhau và cùng hướng sẽ được tính là cùng một cửa.)</Desc>
+		</Text>
+		<Text Name="Door_SpringFestival" sParam="Building">
+			<ThingName>Cánh cửa</ThingName>
+			<Desc>Kết cấu cơ bản dùng để đi vào hoặc đi ra khỏi phòng, trên cửa có viết bùa chú phúc lộc để cầu may mắn.\n(Các cửa đặt cạnh nhau và cùng hướng sẽ được tính là cùng một cửa.)</Desc>
+		</Text>
+		<Text Name="Door_WanYao" sParam="Building">
+			<ThingName>Cánh cửa</ThingName>
+			<Desc>Kết cấu cơ bản dùng để đi vào hoặc đi ra khỏi phòng, được chạm khắc và trang trí bằng đầu thú.\n(Các cửa đặt cạnh nhau và cùng hướng sẽ được tính là cùng một cửa.)</Desc>
+		</Text>
+		<Text Name="Firecracker" sParam="Building">
+			<ThingName>Pháo hoa (Rồng))</ThingName>
+			<Desc>Có thể mang lại niềm vui cho mọi người. Khi châm lửa, tất cả pháo hoa khác trong phạm vi ba ô sẽ cùng cháy theo. Tương truyền rằng điều kỳ diệu sẽ xảy ra khi đốt 9 quả pháo hoa cùng lúc dưới bầu trời đầy sao.</Desc>
+		</Text>
+		<Text Name="HideDoor" sParam="Building">
+			<ThingName>Lối vào</ThingName>
+			<Desc>Chỉ có thể nhìn thấy khi chỉnh sửa.</Desc>
+		</Text>
+		<Text Name="AirWall" sParam="Building">
+			<ThingName>Tường khí</ThingName>
+			<Desc>Chỉ có thể nhìn thấy khi chỉnh sửa.</Desc>
+		</Text>
+	</List>
+</Texts>

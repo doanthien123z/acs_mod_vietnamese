@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Bear_1">
+			<Prefix>Tâm</Prefix>
+			<Suffix>Thượng Cổ Hùng</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Hùng, tôi luyện tim và phổi bằng năng lượng tai ương. Sau khi tu luyện có thể liên tục sản sinh ra Chân Khí</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng vừa tốc độ hồi phục chân nguyên của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tốc độ hồi phục chân khí của ẩn thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh tốc độ hồi phục chân khí của ẩn thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Bear_2">
+			<Prefix>Vuốt</Prefix>
+			<Suffix>Lôi Phạt</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Hùng, tôi luyện móng vuốt bằng sức mạnh sót lại từ Thiên Lôi, có uy lực hủy diệt vạn vật</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

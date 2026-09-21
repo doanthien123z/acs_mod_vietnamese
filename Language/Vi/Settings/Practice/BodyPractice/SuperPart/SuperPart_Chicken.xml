@@ -1,0 +1,25 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Chicken_1">
+			<Prefix>Châm</Prefix>
+			<Suffix>Quang Mang</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Thần Kê. Kết hợp năng lượng Dương vào mỏ, tạo ra sức mạnh hủy diệt vượt ngoài tưởng tượng, có khả năng xuyên thấu hộ thể chân khí cực mạnh</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\n Tăng mạnh cơ hội tấn công xuyên phá hộ giáp của huyền thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_2">
+			<Prefix>Mão</Prefix>
+			<Suffix>Thiên hỏa</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Thần Kê. Tôi luyện mào bằng năng lượng mặt trời, khi tu luyện thành công sẽ tăng mạnh hiệu quả tôi luyện nhục thân</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ tôi luyện nhục thân cho người tu luyện Bất Diệt Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Chicken_3">
+			<Prefix>Điểu Vũ</Prefix>
+			<Suffix>Thất Sắc</Suffix>
+			<Desc>Thần thể bí ẩn kế thừa từ huyết mạch Thượng Cổ Thần Kê, vốn có nguồn gốc từ lông đuôi được tôi luyện bởi Thất Sắc Thần Điểu - loài sinh vật thông hiểu ngũ hành từ khi sinh ra. Khi tu luyện thành công, không pháp bảo nào có thể gây thương tổn cho thân thể này</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,133 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Boss_Jiaowangci" sParam="Item">
+			<ThingName>Long Vương Giác</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+			<ThingName>Hỏa Phượng Tinh</ThingName>
+		</Text>
+		<Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+			<ThingName>Lông phượng hoàng lửa</ThingName>
+		</Text>
+		<Text Name="Item_BossFeng_HuoYu" sParam="Item">
+			<ThingName>Nghiệp Hỏa Vũ</ThingName>
+			<Desc>Chiếc lông vũ kỳ lạ. Mặc dù khi chạm vào không thấy quá nóng, nhưng nó có thể liên tục tỏa ra nhiệt lượng, làm tăng đáng kể nhiệt độ trong phòng hoặc không gian giới hạn khác. Dường như nó không có công dụng nào khác ngoài linh hồn mạnh mẽ bao trùm lấy nó.</Desc>
+			<Item.FabaoSuffix>Lông vũ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_GangYu" sParam="Item">
+			<ThingName>Hỏa Phượng Thiết Giáp Vũ</ThingName>
+			<Desc>Lông vũ phượng hoàng nguyên vẹn. Bên trong chứa đựng nhiệt độ khổng lồ, vô cùng sắc bén và kiên cố. Mặc trang bị này giúp chống chọi với thời tiết lạnh giá, đồng thời thúc đẩy tuần hoàn linh khí và khí huyết, cũng như gia tăng tỷ lệ trao đổi chất rất tốt.</Desc>
+			<Item.FabaoSuffix>Lông vũ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_TouYu" sParam="Item">
+			<ThingName>Vĩnh Hỏa Phượng Vũ</ThingName>
+			<Desc>Chiếc lông vũ lộng lẫy mang ngọn lửa vĩnh cửu từ đỉnh đầu hỏa phượng. Bên trong phong ấn tinh túy của hỏa phượng. Hỏa phượng là yêu thú tinh thông pháp thuật, vì vậy người mặc bộ lông hỏa phượng này có thể nâng cao giới hạn tối đa của pháp thuật thêm 3 cấp.</Desc>
+			<Item.FabaoSuffix>Lông vũ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_WeiYu" sParam="Item">
+			<ThingName>Phượng Hoàng Vĩ Vũ</ThingName>
+			<Desc>Lông đuôi lớn của hỏa phượng. Dù có ngọn lửa lập lòe ở đầu mút, nhưng thay vì cực nóng khi chạm vào, nó lại mang lại cảm giác ấm áp vừa phải, điều này có thể coi là vô cùng kỳ diệu. Nó có thể có một số khả năng đặc biệt nếu được luyện chế qua phương pháp đặc biệt.</Desc>
+			<Item.FabaoSuffix>Lông vũ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_Gu" sParam="Item">
+			<ThingName>Phượng Hoàng Cốt</ThingName>
+			<Desc>Xương đôi cánh của hỏa phượng. Chúng có mật độ cao nhưng trọng lượng lại vô cùng nhẹ. Nó có thể có khả năng đặc biệt nếu được luyện chế qua phương pháp đặc biệt.</Desc>
+			<Item.FabaoSuffix>Lông vũ</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_HongYu" sParam="Item">
+			<ThingName>Thiên Hỏa Phượng Ngọc</ThingName>
+			<Desc>Nguồn gốc sức mạnh của hỏa phượng, nơi chứa đựng nguyên thần của nó. Nếu ai đó dùng nguyên thần để giao tiếp với nó, kẻ đó có thể tiếp cận một số bí ẩn của nó. Khi mang nó theo, người đó sẽ nhận được sức mạnh của hỏa phượng, giúp giảm sát thương từ hệ hỏa. 10%</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Nhập định</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tìm kiếm bí ẩn từ nó</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossFeng_Meat" sParam="Item">
+			<ThingName>Hỏa Phượng Nhục</ThingName>
+			<Desc>Thịt và máu của hỏa phượng. Ăn vào sẽ tăng tối đa chân khí bản thân thêm 25 điểm và kéo dài thọ nguyên 10 năm. Hiệu quả sẽ giảm dần nếu ăn nhiều lần.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_DragonScale" sParam="Item">
+			<ThingName>Long lân</ThingName>
+			<Desc>Chiếc vảy rơi ra từ thân rồng, nó đã mất đi hầu hết các thuộc tính linh khí, nhưng lại có linh hồn mạnh mẽ bao trùm.</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Jiao" sParam="Item">
+			<ThingName>Thủy Long Giác</ThingName>
+			<Desc>Sừng phần trên của thủy long, nơi cất giữ yêu đan của nó. Thủy long là yêu thú tinh thông binh khí pháp bảo. Mang nó sẽ giúp người đó nhận được sức mạnh của thủy long, giúp nâng cao giới hạn tối đa của kỹ năng pháp bảo thêm 3 cấp.</Desc>
+			<Item.FabaoSuffix>Hắn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Zhua" sParam="Item">
+			<ThingName>Thủy Long Trảo</ThingName>
+			<Desc>Móng vuốt sắc bén của thủy long, vô cùng sắc bén và ẩn chứa sức mạnh hủy diệt khó tin. Nó có thể có một số khả năng đặc biệt nếu được luyện chế qua phương pháp đặc biệt.</Desc>
+			<Item.FabaoSuffix>Hắn</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Lin" sParam="Item">
+			<ThingName>Thủy Long Lân</ThingName>
+			<Desc>Vảy hoàn chỉnh từ thân thủy long, rất khó bị phá hủy. Người mang nó sẽ có khả năng kháng sát thương pháp thuật.</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_NiLin" sParam="Item">
+			<ThingName>Thủy Long Nghịch Lân</ThingName>
+			<Desc>Nguồn gốc sức mạnh của thủy long, nơi chứa đựng nguyên thần của nó. Nếu ai đó dùng nguyên thần để giao tiếp với nó, kẻ đó có thể tiếp cận một số bí ẩn của nó. Mang nó sẽ giúp người đó nhận được sức mạnh của thủy long, giúp giảm sát thương hệ thủy. 10%</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Nhập định</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tìm kiếm bí ẩn từ nó</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossLong_Jing" sParam="Item">
+			<ThingName>Thủy Long Mạch</ThingName>
+			<Desc>Tuyến mạch linh khí phần đuôi của thủy long, bên trong chứa đựng linh khí dày đặc đến kinh ngạc. Nó có thể có một số khả năng đặc biệt nếu được luyện chế qua phương pháp đặc biệt.</Desc>
+			<Item.FabaoSuffix>Long cân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossLong_Meat" sParam="Item">
+			<ThingName>Thủy Long Nhục</ThingName>
+			<Desc>Máu và thịt của thủy long. Ăn vào sẽ tăng tối đa chân khí bản thân thêm 25 điểm và kéo dài thọ nguyên 10 năm. Hiệu quả sẽ giảm dần nếu ăn nhiều lần.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+			<ThingName>Bạch lân</ThingName>
+			<Desc>Chiếc vảy trắng như tuyết rơi ra từ thân Chúc Long.</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+			<ThingName>Hắc lân</ThingName>
+			<Desc>Chiếc vảy đen nhánh rơi ra từ thân Chúc Long.</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_Eye" sParam="Item">
+			<ThingName>Âm Dương Tinh Tinh</ThingName>
+			<Desc>Tinh thể trong suốt chứa đựng sự cân bằng hoàn hảo giữa hai sắc đen và trắng bên trong nhãn cầu của Chúc Long. Dường như nó có thể giải mã những bí ẩn của Âm và Dương. Sau khi luyện hóa bằng phương pháp đặc biệt, nó có thể sở hữu năng lực thần bí nào đó.</Desc>
+			<Item.FabaoSuffix>Tinh thể</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+			<ThingName>Chúc Long Lân</ThingName>
+			<Desc>Chiếc vảy kỳ lạ nằm phía trên lông mày của Chúc Long, nơi lưu giữ tinh túy yêu thú của nó. Ngũ hành được Chúc Long chuyển hóa thành Âm Dương. Đeo nó lên sẽ khiến người dùng nhận được sức mạnh của Chúc Long, giúp nâng cao giới hạn tối đa của Hộ Thể Cương Khí lên 3 tầng.</Desc>
+			<Item.FabaoSuffix>Lân</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+			<ThingName>Hỗn Độn Ngọc</ThingName>
+			<Desc>Cội nguồn sức mạnh của Chúc Long, nơi chứa đựng Nguyên Thần của nó. Nếu người nào có thể giao cảm với nó bằng Nguyên Thần, có lẽ sẽ lĩnh ngộ được những bí ẩn của nó. Đeo nó lên sẽ khiến người dùng nhận được sức mạnh của Chúc Long, giúp giảm sát thương từ Ngũ Hành. 5%</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Nhập định</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Cố gắng tìm kiếm bí ẩn từ nó</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_Meat" sParam="Item">
+			<ThingName>Thịt Thái Cổ</ThingName>
+			<Desc>Máu và thịt của Chúc Long, bên trong ẩn chứa năng lượng Âm Dương hỗn loạn nên rất khó sử dụng. Ăn nó sẽ làm giảm 2 Đạo Hạt nhưng tăng 10 năm tuổi thọ. Hiệu quả sẽ giảm dần nếu ăn nhiều lần.</Desc>
+			<Item.FabaoSuffix>Thịt</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_BossFeng_FengYin" sParam="Item">
+			<ThingName>Cổ Ngọc Hỏa Phượng</ThingName>
+			<Desc>Cổ ngọc là một phần trong kho báu từ Long Đàn. Dường như đây là một trong những món đồ thuộc cùng một bộ.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra Cổ Ngọc Hỏa Phượng</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+			<ThingName>Cổ Ngọc</ThingName>
+			<Desc>Một mảnh ngọc nhặt được trên chiến trường Tiên giới. Bên trong nó tỏa ra tinh hoa Âm Dương rực rỡ, như thể đang nuôi dưỡng một vật gì đó.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Kiểm tra Cổ Ngọc</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

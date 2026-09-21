@@ -1,0 +1,240 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>Trống rỗng</DisplayName>
+			<Desc>Bị lãng quên không ai biết kiến trúc\n(Trống rỗng)</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>Thần Hành Phù</DisplayName>
+			<Desc>Tăng tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>Kháng hàn phù</DisplayName>
+			<Desc>Tăng khả năng chống lạnh</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>Kháng nhiệt phù</DisplayName>
+			<Desc>Tăng khả năng chống nóng</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>Bùa Kể Chuyện</DisplayName>
+			<Desc>Một loại bùa chú kỳ lạ từ nơi nào đó. Nó rất dễ vẽ và mang lại kết quả khá kỳ dị nên được lan truyền rộng rãi trong giới tu tiên. Sau khi trang bị, người dùng có thể tập trung vào lá bùa này để xem đủ loại tiểu thuyết trên mạng và lan truyền chúng. Tuy nhiên, nó rất dễ thu hút sự chú ý, khiến người đó làm việc chậm chạp, đồng thời còn ảnh hưởng khiến tốc độ tu luyện trở nên chậm hơn.\n[color=#D06508]cảm ơn Webnovel APP Những người ủng hộ trò chơi của chúng ta[/color]</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>Đằng Vân Phù</DisplayName>
+			<Desc>Tăng tốc độ di chuyển và tốc độ phi hành khi thám hiểm</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>Hồi Dược Phù</DisplayName>
+			<Desc>Tăng tốc độ hồi phục tự nhiên</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>Thiên Lý Phù</DisplayName>
+			<Desc>Mở rộng phạm vi tầm nhìn và giảm thời gian thám hiểm địa điểm mới trong quá trình phiêu lưu</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>Bùa Ngủ Ngon</DisplayName>
+			<Desc>Cải thiện chất lượng giấc ngủ và giảm cảm giác mệt mỏi</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>Tụ Linh Phù</DisplayName>
+			<Desc>Tăng hiệu suất và tốc độ hấp thụ linh khí</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>Tịch Cốc Phù</DisplayName>
+			<Desc>Giảm tỷ lệ tiêu hao lương thực</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>Bùa Ẩn Thân</DisplayName>
+			<Desc>Che giấu thân phận người dùng ở một mức độ nhất định, khiến người khác khó nhận ra người dùng hơn trong quá trình phiêu lưu, từ đó giảm cơ hội nhận được danh tiếng tông môn</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>Thư Thái Phù</DisplayName>
+			<Desc>Cải thiện tâm trạng và giảm nhu cầu giải trí</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>Hộ thân phù</DisplayName>
+			<Desc>Lá bùa được tạo ra từ lời cầu nguyện của người khác. Nó có khả năng cải thiện tâm trạng và giữ cho tâm trí ổn định</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>Đại Nhật Phù</DisplayName>
+			<Desc>Tăng mạnh khả năng kháng lạnh</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>Đại Nguyệt Phù</DisplayName>
+			<Desc>Tăng mạnh khả năng kháng nhiệt</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>Thanh Minh Phù</DisplayName>
+			<Desc>Giúp tâm trí minh mẫn và tăng hiệu quả học tập</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>Binh Gia Phù</DisplayName>
+			<Desc>Tăng khả năng chiến đấu và khả năng chịu đựng đau đớn</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>Cần Tâm Phù</DisplayName>
+			<Desc>Tăng hiệu quả công việc</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>Luyện Khí Phù</DisplayName>
+			<Desc>Nâng cao chất lượng pháp bảo được tạo ra</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>Nông Tác Phù</DisplayName>
+			<Desc>Tăng sản lượng khi đi săn, làm ruộng và thu hoạch</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>Y Dược Phù</DisplayName>
+			<Desc>Tăng tỷ lệ thành công trong trị liệu và hiệu quả trị liệu</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>Tĩnh Tâm Phù</DisplayName>
+			<Desc>Nâng cao tâm cảnh nhẹ</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>Thiên Tâm Phù</DisplayName>
+			<Desc>Tăng nhẹ tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>Ngộ Tâm Phù</DisplayName>
+			<Desc>Nâng cao tâm cảnh trung bình</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>Bùa Tâm Thần</DisplayName>
+			<Desc>Lá bùa quý hiếm đã thất truyền từ hàng nghìn năm trước. Nó được tạo ra bởi Nguyên Cổ Tiên\n[color=#D06508]Đây là lời cảm ơn dành cho người chơi đầu tiên vẽ thành công lá bùa có phẩm chất 100%, và tất nhiên người đó không phải ta[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Phá Thiên Phù</DisplayName>
+			<Desc>Tăng cơ hội đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>Bồi Nguyên Phù</DisplayName>
+			<Desc>Tăng tốc độ tu luyện trung bình</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>Ảnh Thuấn Phù</DisplayName>
+			<Desc>Tăng tốc độ bay đường dài bằng pháp bảo</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>Đại tài phù</DisplayName>
+			<Desc>Tăng tỷ lệ thành công khi luyện chế pháp bảo</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>Huyễn Ảnh Phù</DisplayName>
+			<Desc>Nâng cao chất lượng pháp bảo được chế tạo nhẹ</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>Mộc Sương Phù</DisplayName>
+			<Desc>Tăng cơ hội thành công khi luyện đan</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>Vạn Mộc Phù</DisplayName>
+			<Desc>Tăng nhẹ sản lượng khi luyện đan</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>Vĩnh Hưng Đồ</DisplayName>
+			<Desc>Cải thiện tâm trạng và tâm cảnh, đồng thời ban tặng vận may cho người đeo. Chúc mừng Lễ hội Mùa xuân!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>Trường Sinh Đồ</DisplayName>
+			<Desc>Cải thiện sức khỏe và tăng thu hoạch nguyên liệu cho người đeo. Chúc mừng Lễ hội Mùa xuân!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>Vô Sát Sinh Hoạt Đồ</DisplayName>
+			<Desc>Tăng tuổi thọ và khả năng miễn dịch bệnh tật cho người đeo. Chúc mừng Lễ hội Mùa xuân!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>Hắc Giáp Phù</DisplayName>
+			<Desc>Tăng hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>Thiên Giáp Phù</DisplayName>
+			<Desc>Tăng kỹ năng hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>Kim Giáp Phù</DisplayName>
+			<Desc>Tăng kháng sát thương thuộc tính Kim</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>Mộc Giáp Phù</DisplayName>
+			<Desc>Tăng kháng sát thương mộc</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>Thủy Giáp Phù</DisplayName>
+			<Desc>Tăng kháng sát thương thủy</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>Hỏa Giáp Phù</DisplayName>
+			<Desc>Tăng kháng sát thương hỏa</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>Thổ Giáp Phù</DisplayName>
+			<Desc>Tăng kháng sát thương thổ</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>Kiếm Nhận Phù</DisplayName>
+			<Desc>Tăng uy lực pháp bảo</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>Thần Kiếm Phù</DisplayName>
+			<Desc>Tăng kỹ năng pháp bảo</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>Linh Kiếm Phù</DisplayName>
+			<Desc>Tăng tốc độ hồi phục chân khí</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>Thánh Kiếm Phù</DisplayName>
+			<Desc>Tăng uy lực pháp bảo và nâng cao toàn diện năng lực của pháp bảo</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>Pháp Chú Phù</DisplayName>
+			<Desc>Tăng uy lực thuật pháp</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>Thần Pháp Phù</DisplayName>
+			<Desc>Tăng kỹ năng thần thông</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>Linh Pháp Phù</DisplayName>
+			<Desc>Giảm lượng linh khí tiêu hao khi thi triển pháp thuật</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>Thánh Pháp Phù</DisplayName>
+			<Desc>Tăng nền tảng thần thông và tăng lượng chân khí tiêu hao khi thi triển thần thông</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>Thông Thiên Phù</DisplayName>
+			<Desc>Tăng 5 chỉ số cơ bản của người mặc</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>Tàng Thiên Phù</DisplayName>
+			<Desc>Giảm số hạt đạo của người mặc</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>Trợ Lực Phù</DisplayName>
+			<Desc>Tăng tiềm năng của người mặc</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>Đạo Chủng Phù</DisplayName>
+			<Desc>Tăng số hạt đạo cho người mặc</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>Thần Điện Phù</DisplayName>
+			<Desc>Tăng giới hạn số lượng cư dân Thần giới</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>Thần Tín Phù</DisplayName>
+			<Desc>Tăng lượng tín lực nhận được</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>Thần Quang Phù</DisplayName>
+			<Desc>Tăng thần thức của người mặc</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>Thần Phong Phù</DisplayName>
+			<Desc>Giảm thần thức của người mặc</Desc>
+		</Text>
+	</List>
+</Texts>

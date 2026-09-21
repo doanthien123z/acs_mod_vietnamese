@@ -1,0 +1,27 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="CaveRoof" sParam="Building">
+			<ThingName>Trần động</ThingName>
+		</Text>
+		<Text Name="YaoRoof" sParam="Building">
+			<Desc>Mái nhà chỉ để trang trí, không ảnh hưởng đến phong thủy.</Desc>
+			<ThingName>Mái nhà</ThingName>
+		</Text>
+		<Text Name="WoodRoof" sParam="Building">
+			<ThingName>Mái nhà</ThingName>
+			<Desc>Mái nhà chỉ để trang trí, không ảnh hưởng đến phong thủy.</Desc>
+		</Text>
+		<Text Name="StoneRoof" sParam="Building">
+			<ThingName>Mái nhà</ThingName>
+			<Desc>Mái nhà chỉ để trang trí, không ảnh hưởng đến phong thủy.</Desc>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival" sParam="Building">
+			<ThingName>Mái nhà (Xuân))</ThingName>
+			<Desc>Mái nhà đặc biệt dành cho mùa xuân, chỉ là vật trang trí không ảnh hưởng đến phong thủy.</Desc>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival" sParam="Building">
+			<ThingName>Mái nhà (Lễ hội))</ThingName>
+			<Desc>Mái nhà đặc biệt dành cho lễ hội mùa, chỉ là vật trang trí không ảnh hưởng đến phong thủy.</Desc>
+		</Text>
+	</List>
+</Texts>

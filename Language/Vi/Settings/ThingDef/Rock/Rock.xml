@@ -1,0 +1,24 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>Nham thạch nâu</ThingName>
+			<Desc>Dãy núi đầy rẫy nham thạch nâu, chất đá rất giòn khiến việc đào lấy nham thạch có thể sử dụng trở nên vô cùng khó khăn.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>Nham thạch xám</ThingName>
+			<Desc>Dãy núi đầy rẫy nham thạch xám, chất đá khá cứng, có thể đào lấy làm vật liệu xây dựng.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Đá cẩm thạch</ThingName>
+			<Desc>Dãy núi đầy rẫy đá cẩm thạch, có thể khai thác đá cẩm thạch ở nơi này.</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>Ngọc thạch</ThingName>
+			<Desc>Dãy núi đầy rẫy ngọc thạch, có thể khai thác ngọc ở nơi này.</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>Xích Thủy Ngân</ThingName>
+			<Desc>Dãy núi đầy rẫy Xích Thủy Ngân, có thể khai thác Xích Thủy Ngân ở nơi này.</Desc>
+		</Text>
+	</List>
+</Texts>

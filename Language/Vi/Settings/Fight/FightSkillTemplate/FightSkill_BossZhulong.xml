@@ -1,0 +1,31 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Zhulong_fennu">
+			<DisplayName>Nộ</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shennian">
+			<DisplayName>Thần lôi</DisplayName>
+		</Text>
+		<Text Name="Zhulong_zuinie">
+			<DisplayName>Nghiệp lôi</DisplayName>
+		</Text>
+		<Text Name="Zhulong_yehuotuxi">
+			<DisplayName>Nghiệp khí</DisplayName>
+		</Text>
+		<Text Name="Zhulong_xinmotuxi">
+			<DisplayName>Ma khí</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan">
+			<DisplayName>Thẩm phán quang</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan">
+			<DisplayName>U minh nhãn</DisplayName>
+		</Text>
+		<Text Name="Zhulong_shenanzhiyuan_bomb">
+			<DisplayName>U minh nhãn</DisplayName>
+		</Text>
+		<Text Name="Zhulong_guangzhishenpan_bomb">
+			<DisplayName>Thẩm phán quang</DisplayName>
+		</Text>
+	</List>
+</Texts>

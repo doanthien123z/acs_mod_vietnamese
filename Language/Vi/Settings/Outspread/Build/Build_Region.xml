@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="MainHall_Base">
+			<DisplayName>Sảnh chính cấp sơ cấp</DisplayName>
+		</Text>
+		<Text Name="MainHall1">
+			<Desc>Sảnh chính là nơi phản ánh uy quyền của tông môn, đồng thời mọi người sẽ ghi nhớ và biết đến tông môn của Người nhiều hơn từ nơi này. Khi mở khóa sảnh chính sẽ mở khóa lệnh tạo công đức, dùng để thể hiện lòng từ bi với những mảnh đời khó khăn bằng cách quyên góp những vật phẩm thiết yếu.</Desc>
+		</Text>
+		<Text Name="MainHall2">
+			<DisplayName>Sảnh chính cấp trung</DisplayName>
+			<Desc>Sảnh chính là nơi phản ánh uy quyền của tông môn, đồng thời mọi người sẽ ghi nhớ và biết đến tông môn của Người nhiều hơn từ nơi này. Khi mở khóa sảnh chính sẽ mở khóa lệnh tạo công đức, dùng để thể hiện lòng từ bi với những mảnh đời khó khăn bằng cách quyên góp những vật phẩm thiết yếu. Sảnh chính cấp trung có quy mô lớn hơn trước, đồng thời cho phép xây dựng thêm nhiều công trình hơn nữa. Tượng thần có thể đặt trong sảnh chính để truyền tải tín ngưỡng đến các tu sĩ Thần đạo.</Desc>
+		</Text>
+		<Text Name="MainHall3">
+			<DisplayName>Sảnh chính cấp cao</DisplayName>
+			<Desc>Chính điện là biểu tượng cho quyền uy của tông môn, nơi giúp danh tiếng tông môn của Người được thế gian ghi nhớ. Mở khóa Chính điện sẽ mở lệnh Làm phúc, dùng để thể hiện lòng từ bi bằng cách cứu giúp những người gặp khó khăn. Chính điện cấp cao sẽ giúp mở rộng lãnh địa, đồng thời có thể xây dựng các kỳ quan trong thành trì này.</Desc>
+		</Text>
+		<Text Name="MainHall4">
+			<DisplayName>Sảnh chính cấp cao</DisplayName>
+			<Desc>Chính điện là biểu tượng cho quyền uy của tông môn, nơi giúp danh tiếng tông môn của Người được thế gian ghi nhớ. Mở khóa Chính điện sẽ mở lệnh Làm phúc, dùng để thể hiện lòng từ bi bằng cách cứu giúp những người gặp khó khăn. Chính điện cấp cao sẽ giúp mở rộng lãnh địa, đồng thời có thể xây dựng các kỳ quan trong thành trì này.</Desc>
+		</Text>
+	</List>
+</Texts>

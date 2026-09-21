@@ -1,0 +1,202 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="zhuxian_0">
+			<DisplayName>Sát Tiên hạch</DisplayName>
+		</Text>
+		<Text Name="zhuxian_1">
+			<DisplayName>Sát Tiên</DisplayName>
+		</Text>
+		<Text Name="zhuxian_2">
+			<DisplayName>Tử Vong</DisplayName>
+		</Text>
+		<Text Name="zhuxian_3">
+			<DisplayName>Vô Tận</DisplayName>
+		</Text>
+		<Text Name="zhuxian_4">
+			<DisplayName>Bất tử</DisplayName>
+		</Text>
+		<Text Name="qixing_0">
+			<DisplayName>Thiên Huy</DisplayName>
+		</Text>
+		<Text Name="qixing_1">
+			<DisplayName>Thiên Hạch</DisplayName>
+		</Text>
+		<Text Name="qixing_2">
+			<DisplayName>Thiên Ngọc</DisplayName>
+		</Text>
+		<Text Name="qixing_3">
+			<DisplayName>Thiên Châu</DisplayName>
+		</Text>
+		<Text Name="qixing_4">
+			<DisplayName>Thiên Xứng</DisplayName>
+		</Text>
+		<Text Name="qixing_5">
+			<DisplayName>Thiên Minh</DisplayName>
+		</Text>
+		<Text Name="qixing_6">
+			<DisplayName>Thiên Quang</DisplayName>
+		</Text>
+		<Text Name="wufang_0">
+			<DisplayName>Thiên Địa Trận Kim Đan</DisplayName>
+		</Text>
+		<Text Name="wufang_1">
+			<DisplayName>Bạch Vân</DisplayName>
+		</Text>
+		<Text Name="wufang_2">
+			<DisplayName>Thanh Liên</DisplayName>
+		</Text>
+		<Text Name="wufang_3">
+			<DisplayName>Hắc Nha</DisplayName>
+		</Text>
+		<Text Name="wufang_4">
+			<DisplayName>Phần Thế Viêm</DisplayName>
+		</Text>
+		<Text Name="wufang_5">
+			<DisplayName>Hoàng Đào Quả</DisplayName>
+		</Text>
+		<Text Name="liuyu_0">
+			<DisplayName>Ngọc Hoàng Trận</DisplayName>
+		</Text>
+		<Text Name="liuyu_1">
+			<DisplayName>Cực Địa Hoàng Trận</DisplayName>
+		</Text>
+		<Text Name="liuyu_2">
+			<DisplayName>Bắc Đẩu Đại Đế Trận</DisplayName>
+		</Text>
+		<Text Name="liuyu_3">
+			<DisplayName>Hỗn Nguyên Trận</DisplayName>
+		</Text>
+		<Text Name="liuyu_4">
+			<DisplayName>Vĩnh Hằng Thần Trận</DisplayName>
+		</Text>
+		<Text Name="liuyu_5">
+			<DisplayName>Giới Hoàng Trận</DisplayName>
+		</Text>
+		<Text Name="longxing_0">
+			<DisplayName>Long Lân Cấm Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_1">
+			<DisplayName>Long Giác Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_2">
+			<DisplayName>Long Giác Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_3">
+			<DisplayName>Long Trảo Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_4">
+			<DisplayName>Long Trảo Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_5">
+			<DisplayName>Long Lân Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_6">
+			<DisplayName>Long Trảo Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_7">
+			<DisplayName>Long Trảo Chú</DisplayName>
+		</Text>
+		<Text Name="longxing_8">
+			<DisplayName>Long Vĩ Chú</DisplayName>
+		</Text>
+		<Text Name="fengjian_0">
+			<DisplayName>Chân Hỏa Cương Giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_1">
+			<DisplayName>Vong Ngã Cương Giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_2">
+			<DisplayName>Hộ thể linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_3">
+			<DisplayName>Hắc Cốt linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_4">
+			<DisplayName>Hỏa Vũ linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_5">
+			<DisplayName>Hỏa Vũ linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_6">
+			<DisplayName>Hắc Cốt linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_7">
+			<DisplayName>Hỏa Vũ linh giáp</DisplayName>
+		</Text>
+		<Text Name="fengjian_8">
+			<DisplayName>Hỏa Vũ linh giáp</DisplayName>
+		</Text>
+		<Text Name="yinyang_0">
+			<DisplayName>Hắc Thiên Quyển</DisplayName>
+		</Text>
+		<Text Name="yinyang_1">
+			<DisplayName>Âm Chi Pháp Tắc</DisplayName>
+		</Text>
+		<Text Name="yinyang_2">
+			<DisplayName>Dương Chi Pháp Tắc</DisplayName>
+		</Text>
+		<Text Name="sanyin_0">
+			<DisplayName>Thiên Âm Khí</DisplayName>
+		</Text>
+		<Text Name="sanyin_1">
+			<DisplayName>Địa Âm Khí</DisplayName>
+		</Text>
+		<Text Name="sanyin_2">
+			<DisplayName>Nhân Âm Khí</DisplayName>
+		</Text>
+		<Text Name="bamen_0">
+			<DisplayName>Vô Tận Chi Môn</DisplayName>
+		</Text>
+		<Text Name="bamen_1">
+			<DisplayName>Tịch Tĩnh Chi Môn</DisplayName>
+		</Text>
+		<Text Name="bamen_2">
+			<DisplayName>Sinh mệnh chi môn</DisplayName>
+		</Text>
+		<Text Name="bamen_3">
+			<DisplayName>Tử vong chi môn</DisplayName>
+		</Text>
+		<Text Name="bamen_4">
+			<DisplayName>Tai Ương Chi Môn</DisplayName>
+		</Text>
+		<Text Name="bamen_5">
+			<DisplayName>Hủy Diệt Chi Môn</DisplayName>
+		</Text>
+		<Text Name="bamen_6">
+			<DisplayName>Độc Lập Chi Môn</DisplayName>
+		</Text>
+		<Text Name="bamen_7">
+			<DisplayName>Mỹ Lệ Chi Môn</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_0">
+			<DisplayName>Linh thụ can</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_1">
+			<DisplayName>Linh thụ sao</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_2">
+			<DisplayName>Linh thụ chi</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_3">
+			<DisplayName>Linh thụ diệp</DisplayName>
+		</Text>
+		<Text Name="jiayimuzhen_4">
+			<DisplayName>Linh thụ căn</DisplayName>
+		</Text>
+		<Text Name="wushan_0">
+			<DisplayName>Ngọc Phong hình thái</DisplayName>
+		</Text>
+		<Text Name="wushan_1">
+			<DisplayName>Thủy Trích hình thái</DisplayName>
+		</Text>
+		<Text Name="wushan_2">
+			<DisplayName>Hoang Đảo hình thái</DisplayName>
+		</Text>
+		<Text Name="wushan_3">
+			<DisplayName>Thánh Điện hình thái</DisplayName>
+		</Text>
+		<Text Name="wushan_4">
+			<DisplayName>Thiên Đường hình thái</DisplayName>
+		</Text>
+	</List>
+</Texts>

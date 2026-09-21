@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu">
+			<PossibleMagic.0.DisplayName>Luyện hóa</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Huyền Vũ hấp thụ dưỡng chất hiệu quả, chuyển hóa tạp chất thành linh thạch</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Tĩnh tâm tức</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Sử dụng lên đồng đội để giúp họ không cần ăn uống hay ngủ nghỉ trong 3 ngày. Đổi lại, tốc độ di chuyển của họ sẽ chậm đi\n[color=#FF0000]Cần phải trưởng thành hoàn toàn trước[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Ẩn Thiên</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Trì hoãn thiên kiếp thay đổi hình dạng của đồng đội, đổi lại bằng tuổi thọ của họ\n[color=#FF0000]Cần 50 điểm linh hồn để sử dụng[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Thổ Nhưỡng Tự Nhiên</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Chuyển hóa khu vực thành linh điền bằng cách sử dụng sự tăng trưởng và dinh dưỡng của bản thân. Tuy nhiên, nguồn nước gần đó sẽ trở thành nước thường\n[color=#FF0000]Cần 100 chân khí để sử dụng[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Yêu cầu Chúc phúc cấp thấp[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Yêu cầu Chú ngữ cấp thấp[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Yêu cầu Chúc phúc cấp trung[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Yêu cầu Chú ngữ cấp trung[/color]</PossibleSkill.3.Desc>
+			<PossibleSkill.4.Desc>[color=#FF0000]Yêu cầu Chúc phúc cấp cao[/color]</PossibleSkill.4.Desc>
+			<PossibleSkill.5.Desc>[color=#FF0000]Yêu cầu Chú ngữ cấp cao[/color]</PossibleSkill.5.Desc>
+		</Text>
+	</List>
+</Texts>

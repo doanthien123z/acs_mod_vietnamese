@@ -1,0 +1,43 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcDiscipleOfJinDan">
+			<Notes>Nhận định về tu sĩ Tiên đạo</Notes>
+			<Title>Tu sĩ Tiên đạo</Title>
+			<Desc>Những tu sĩ tu luyện theo quy tắc Kim Đan để mưu cầu con đường trường sinh bất tử. Mặc dù con đường tiên đạo chọn những quy tắc khó khăn, nhưng đó lại là quy tắc vĩ đại giúp Người thấu hiểu thấu đáo thiên địa, từ đó dẫn đến sự tự do tự tại tối cao. Mặc dù sức mạnh cá nhân của họ bị hạn chế, nhưng họ lại có thể lập trận pháp để hợp sức đối phó với kẻ thù. Hơn thế nữa, họ còn rất thành thạo việc luyện đan và vẽ bùa, thay đổi thiên quy bằng các loại thần thông phép thuật kỳ diệu. Không còn nghi ngờ gì nữa, họ chính là trụ cột trong thế giới tu luyện.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfGod">
+			<Notes>Nhận định về tu sĩ Thần đạo</Notes>
+			<Title>Người tu luyện Thần Đạo</Title>
+			<Desc>Những tu sĩ thu thập lực lượng tín ngưỡng từ chúng sinh để mưu cầu con đường thần linh. Mặc dù họ vô cùng mạnh mẽ nhờ có thể nhận được nguồn sức mạnh vô tận từ lòng tin không dứt, nhưng cái giá phải trả là họ sẽ vĩnh viễn đánh mất bản ngã của mình do bị tín ngưỡng đồng hóa, cuối cùng biến thành một vị thần linh thuần túy.</Desc>
+		</Text>
+		<Text Name="NpcDiscipleOfBody">
+			<Notes>Nhận định về tu sĩ Thể tu</Notes>
+			<Title>Tu sĩ Thể tu</Title>
+			<Desc>Phương pháp tu luyện từ thời hồng hoang, điều khiển tinh khí giữa trời đất để tôi luyện thân xác phàm trần thành một thể phách bất tử. Tu sĩ Thể tu rất giỏi trong việc chiến đấu vì họ tập trung vào việc rèn luyện thể lực. Ngay cả những người mới bước chân vào tu luyện, lúc luyện tập các chiêu thức cơ bản cũng có thể nhanh chóng sở hữu sức mạnh chiến đấu cường đại. Tuy nhiên, phương pháp luyện thể chỉ tập trung vào bản thân thể xác, điều này dẫn đến việc dù họ hấp thụ năng lượng giữa trời đất nhưng lại thu về lượng hồi báo rất ít. Hậu quả là việc tiếp tục tu luyện của họ trở nên vô cùng gian nan, và qua thời gian, cuối cùng nó đã chứng minh rằng họ rất khó để cạnh tranh với các tu sĩ tiên đạo, thế nên họ dần suy tàn theo dòng chảy thời gian.</Desc>
+		</Text>
+		<Text Name="NpcWaiMen">
+			<Notes>Nhận định về đệ tử ngoại môn</Notes>
+			<Title>Phàm nhân</Title>
+			<Desc>Những kẻ chưa từng đặt chân vào thế giới tu luyện cũng giống như những chiếc lá bị thổi bay qua lại trong thời loạn thế.</Desc>
+		</Text>
+		<Text Name="NpcDaNeng">
+			<Notes>Nhận định về Đại Tông Sư</Notes>
+			<Title>Cổ tu</Title>
+			<Desc>Những tu sĩ rơi vào trạng thái ngủ say do linh khí tự nhiên cạn kiệt từ thời cổ đại, nay đã tỉnh giấc và xuất thế. Những kẻ này vô cùng cường đại.</Desc>
+		</Text>
+		<Text Name="NpcPuppet">
+			<Notes>Nhận định về Khôi Lỗi</Notes>
+			<Title>Khôi lỗi</Title>
+			<Desc>Hình nhân được điều khiển bằng linh lực, chúng có thể hỗ trợ các công việc cơ bản.</Desc>
+		</Text>
+		<Text Name="NpcZombie">
+			<Notes>Nhận định về Cương Thi</Notes>
+			<Title>Cương thi</Title>
+			<Desc>Do phong thủy xấu, một vài thứ đã biến dị thành những thực thể không có tư duy và khát máu.</Desc>
+		</Text>
+		<Text Name="NpcTeacher">
+			<Notes>Ý kiến về người tu hành bí ẩn</Notes>
+			<Title>Tu giả bí ẩn</Title>
+		</Text>
+	</List>
+</Texts>

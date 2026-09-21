@@ -1,0 +1,18 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Tổn Thất Nhất Định</DisplayName>
+		</Text>
+		<Text Name="SYS_DamageMethod">
+			<DisplayName>Luyện Thể Trị Liệu Thuật</DisplayName>
+		</Text>
+		<Text Name="SYS_RebuildMethod">
+			<DisplayName>Luyện Thể Tạo Hình Thuật</DisplayName>
+			<Desc>Tái tạo các bộ phận cơ thể đã mất</Desc>
+		</Text>
+		<Text Name="SYS_yishan">
+			<DisplayName>Điểm Sáng Khái Niệm</DisplayName>
+			<Desc>Khơi gợi ý niệm</Desc>
+		</Text>
+	</List>
+</Texts>

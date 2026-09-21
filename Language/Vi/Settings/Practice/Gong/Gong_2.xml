@@ -1,0 +1,49 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_2_Mu">
+			<DisplayName>Vạn Vật Hóa Vũ Quyết</DisplayName>
+			<Desc>Công pháp được truyền thừa từ Vạn Vũ Tiên Nhân thời cổ đại, là môn tu luyện chuyên về rèn đúc pháp bảo mạnh mẽ của Mạn Thiên Sơn. Chỉ những người có thiên phú và trí tuệ thông minh mới có thể luyện thành. Khi đạt đến đỉnh cao, người luyện có thể biến vạn vật thành pháp bảo. Quá trình tu luyện chia làm 5 tầng Thiên lộ và 15 tòa cung điện, khi đạt đến cảnh giới đại thành, người đó có thể phi thăng tiên giới.</Desc>
+			<SelectDesc>Công pháp này rất xuất sắc trong việc rèn đúc pháp bảo nhưng khá yếu về chiến đấu. Người có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Tĩnh Tâm Thiên</Stages.0.DisplayName>
+			<Stages.0.Desc>Tầng trời thứ nhất, tìm kiếm sự thấu hiểu tự nhiên trong trạng thái tâm hồn tĩnh lặng. Đây là bước đầu tiên trên con đường tìm kiếm sự bất tử, do đó có tên là "Tĩnh Tâm Thiên"."</Stages.0.Desc>
+			<Stages.0.Necks.0.DisplayName>Ngũ Tâm Cung</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Tu luyện khí trong tư thế ngồi, đầu giữ thẳng, lòng bàn chân và lòng bàn tay hướng lên trên, để khí huyết lưu thông qua ngũ tâm.[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có trí tuệ cao.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Ngũ Hành Cung</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Điều khiển luồng khí huyết trong trạng thái tĩnh lặng, tập trung tâm trí vào ngũ hành khí trong huyết mạch và dẫn dắt chúng lưu chuyển khắp cơ thể.[color=#D06508]\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.\nNếu đột phá thất bại có thể dẫn đến bị thương.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Linh Cảm Cung</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>Dùng linh cảm dẫn dắt ngũ hành khí trở về đan điền, lặp lại nhiều lần để mở rộng kinh mạch dần dần.[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Trường Sinh Thiên</Stages.1.DisplayName>
+			<Stages.1.Desc>Đệ nhị tầng thiên, tôi luyện linh khí trong cơ thể, giúp tu sĩ tăng thêm tuổi thọ, đây chính là nguồn gốc của cái tên "Trường Sinh Thiên"."</Stages.1.Desc>
+			<Stages.1.Necks.0.DisplayName>Nhận Thức Cung</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Sử dụng chân khí để mở cửa tâm trí, kết nối nó với thiên địa, vứt bỏ thế sự hồng trần lại phía sau.[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Nhất Thể Cung</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>Sử dụng chân khí trong cơ thể để dẫn dắt linh khí tự nhiên, dùng linh khí tinh thuần đó để tu luyện.[color=#D06508]\n\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.\nNếu đột phá thất bại có thể dẫn đến bị thương.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Kim Đan Cung</Stages.1.Necks.2.DisplayName>
+			<Stages.1.Necks.2.Desc> dung hợp toàn bộ chân khí và nguyên thần trong cơ thể để ngưng tụ Kim Đan, Kim Đan chính là nền tảng quan trọng của người tu tiên.</Stages.1.Necks.2.Desc>
+			<Stages.2.DisplayName>Cơ Duyên Thiên</Stages.2.DisplayName>
+			<Stages.2.Desc>Đệ tam tầng thiên, thấu hiểu bản chất vạn vật dưới trời đất, học hỏi kinh nghiệm từ người khác để khắc phục khuyết điểm của bản thân, đặt nền móng cho việc sinh ra Nguyên Th***</Stages.2.Desc>
+			<Stages.2.Necks.0.DisplayName>Chân Hỏa Cung</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Sử dụng Kim Đan để kích thích tam đại chân hỏa, tạo ra ngọn lửa có thể luyện hóa mọi vật.[color=#D06508]\n\nĐột phá cảnh giới giai đoạn này sẽ rất khó khăn đối với những người có độ bền thấp.\nNếu đột phá thất bại có thể dẫn đến bị thương.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Tạo Hóa Cung</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.1.Desc>Bước vào cõi phàm, cảm nhận ý niệm sáng tạo vạn vật bằng tam đại chân hỏa, tôi luyện ý chí của bản thân thêm vững vàng, kiên định.</Stages.2.Necks.1.Desc>
+			<Stages.2.Necks.2.DisplayName>Tuệ Quang Cung</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>Bế quan khổ tu quên ngày tháng để dung hợp vạn vật thành một thể, giúp cho kỹ năng luyện khí và tâm tính của tu sĩ tiến bộ vượt bậc.</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Thuần Dương Thiên</Stages.3.DisplayName>
+			<Stages.3.Desc>Đệ tứ tầng thiên, dùng chân hỏa tôi luyện Kim Đan của chính mình, bài trừ tạp chất khỏi thể xác và linh hồn, sinh ra thuần dương chi khí trong cơ thể, nên mới có tên là "Thuần Dương Thiên"."</Stages.3.Desc>
+			<Stages.3.Necks.0.DisplayName>Ngộ Đạo Cung</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Cảm nhận bản ngã, dung hợp trạng thái đó với Kim Đan để mở ra cánh cửa ngộ đạo.[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Bản Ngã Cung</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Luyện hóa Kim Đan, củng cố bản ngã chân thật của bản thân.[color=#D06508]\nĐột phá cảnh giới giai đoạn này có thể đạt được bằng cách kiên trì nỗ lực lặp đi lặp lại.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Sơ Khởi Cung</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.2.Desc>Phân giải Kim Đan trong cơ thể để sinh ra Nguyên Thần.</Stages.3.Necks.2.Desc>
+			<Stages.4.DisplayName>Vạn Vật Thiên</Stages.4.DisplayName>
+			<Stages.4.Desc>Đệ ngũ tầng thiên, đối mặt với Thiên kiếp lôi uy, ngưng tụ thuần dương nguyên thần, vượt lên trên Vạn Vật Thiên.</Stages.4.Desc>
+			<Stages.4.Necks.0.DisplayName>Vô Ngại Cung</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>Dung hợp linh hồn của bản thân với Nguyên Thần, giúp tu sĩ có thể xuất hồn du ngoạn khắp nơi.[color=#D06508]\nViệc đột phá cảnh giới ở bước này sẽ tiêu tốn rất nhiều tuổi thọ.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Đạm Bạc Cung</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.1.Desc>Bước vào trạng thái đại thừa để thấu triệt đại đạo, tu sĩ sẽ phải đối mặt với thiên phạt cuồng nộ khi muốn đột phá cảnh giới này.[color=#D06508]\nViệc đột phá cảnh giới lúc này chính là nghịch thiên hành sự và sẽ không nhận được bất kỳ điểm cộng nào từ bước này.[/color]</Stages.4.Necks.1.Desc>
+			<Stages.4.Necks.2.DisplayName>Đế Quân Cung</Stages.4.Necks.2.DisplayName>
+			<Stages.4.Necks.2.Desc>Vứt bỏ thể xác, phi thăng tiên giới.</Stages.4.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

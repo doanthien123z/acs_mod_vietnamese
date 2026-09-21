@@ -1,0 +1,16 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>Nhân tộc</DisplayName>
+			<Desc>Phàm vật: Phàm nhân</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>Linh vật</DisplayName>
+			<Desc>Định nghĩa cho vật thể/kiến trúc/thực vật vô tình giác ngộ linh hồn và hóa thành hình người</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
+		</Text>
+	</List>
+</Texts>

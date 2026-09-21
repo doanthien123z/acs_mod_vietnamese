@@ -1,0 +1,42 @@
+Có một số phím tắt có thể được sử dụng để thuận tiện trong quá trình chơi game, chẳng hạn như để tấn công hoặc nhấn CTRL + number (ví dụ. 1~0) để gán đội cho nhân vật, nhấn F11 để hiển thị chi tiết
+Bí quyết phong thủy tốt là ngũ hành của gạch lát sàn phải tương sinh với ngũ hành của công trình tọa lạc. Người có thể kiểm tra thuộc tính của gạch lát sau khi xây dựng Tinh Đồ.
+Khi ngoại môn đệ tử bị thương, nhân vật được phân công làm y sư sẽ tự động chữa trị cho họ. Đan dược sẽ được tự động cấp phát khi có người bị thương.
+Có thể tăng tốc độ thám hiểm bằng cách sử dụng Phi Thiên Phù hoặc Thần Hành Phù.
+Trong giai đoạn đầu, Người có thể thu thập bông vải tại Tiểu Lăng Ca Sơn để giải quyết nhu cầu trang phục.
+Phong thủy và độ mỹ quan của phòng ảnh hưởng trực tiếp đến tâm trạng của đệ tử.
+Lót sàn giúp tăng độ mỹ quan cho căn phòng.
+Danh tiếng của tông môn sẽ ảnh hưởng đến thực lực của kẻ địch tấn công Người.
+Người có thể điều chỉnh yếu tố phong thủy ngũ hành trong khu vực bằng cách sử dụng các loại gạch lát sàn thuộc tính khác nhau.
+Xác chết và huyết nhục cũng có công dụng riêng của chúng, chẳng hạn như dùng làm khôi lỗi hoặc bón phân cho linh điền....
+Vật phẩm hoặc công trình thuộc tính Hỏa sẽ làm tăng nhiệt độ của phòng và khu vực lân cận.
+Vật phẩm hoặc công trình thuộc tính Thủy sẽ làm giảm nhiệt độ của phòng và khu vực lân cận.
+Đặt Long Chung ở vị trí thích hợp có thể đảm bảo sự an toàn cho các ngoại môn đệ tử.
+Độ phì nhiêu của đất và linh khí sẽ ảnh hưởng đến tốc độ sinh trưởng của linh thực.
+Kích thước phòng có thể xây dựng dao động trong khoảng 4-400
+Nhiệt độ bên trong phòng sẽ đồng đều ở mọi ngóc ngách.
+Đừng quên chôn cất cho các đệ tử sau khi họ vẫn mệnh.
+Trồng lúa mì là nguồn lương thực vô cùng quan trọng.
+Đi vào thành thị giúp Người có thể chiêu mộ đệ tử và mua sắm các loại nguyên vật liệu khác nhau.
+Khám phá lặp đi lặp lại các địa điểm quan trọng trên bản đồ có thể giúp mở khóa những vị trí trọng yếu mới.
+Cổ thụ Bạch Quả là một loại linh mộc vô cùng hiếm có.
+Đặt thùng chứa nước ở vị trí thích hợp sẽ giúp sinh hoạt và công việc của đệ tử thuận tiện hơn.
+Tham gia đại hội Luận Đạo hàng năm để thu nhận một số lượng lớn ngoại môn đệ tử về núi của Người.
+Chỉ đệ tử đạt cảnh giới Kim Đan trở lên mới được phép tham gia tranh tài trong đại hội Côn Lôn hàng năm. Đệ tử cấp thấp chỉ có thể tham quan mà thôi.
+Nhấn nút Ctrl Và sử dụng chức năng tháo dỡ để xây mới công trình theo loạt.
+Nhấn nút Ctrl Và sử dụng chức năng hủy cấm hoặc sử dụng để sửa chữa công trình theo loạt.
+Nhân vật có thể bị hội đồng đến chết vì trộm cắp từ các tông môn khác.
+Thế giới tu tiên là một nơi ấm áp, và đương nhiên sự ấm áp đó không chỉ đến từ linh thạch hỏa đồng.
+Nếu tông môn quá yếu ớt, thì chỉ có thể chờ đợi bị tàn sát mà thôi.
+Trận pháp cổ đại quả nhiên vô cùng mạnh mẽ, nhưng trận pháp do Người tự thiết kế cũng có thể mạnh đến khó tin.
+Có thể sử dụng kéo hoặc nhấp đúp chuột để chọn nhiều mục cùng lúc.
+Nhấn nút Shift Để chọn nhiều mục cùng lúc.
+Tin đồn về tiên nhân: Có vị tông chủ ăn bánh bao chứa đầy linh khí đến mức cơ thể bùng nổ mà chết.
+Tin đồn về tiên nhân: Có người tìm thấy công pháp tu luyện cổ xưa trong hộp đá.
+Tin đồn về tiên nhân: Ngay cả tiên nhân cũng có thể nảy sinh lòng tham, thật khó để cưỡng lại sự hấp dẫn của mỹ vị nhân gian.
+Tin đồn về tiên nhân: Đau răng là căn bệnh khó chữa nhất.
+Tin đồn về tiên nhân: Thanh Liên Tự tọa lạc trên núi Tu có... tất cả mọi thứ.
+Tin đồn về tiên nhân: Nếu phong thủy của mộ phần không đủ tốt, một vài điều đáng sợ có thể xảy ra vào ban đêm....
+Tin đồn về tiên nhân: Có một vài phương pháp có thể khiến bầu trời luôn trong xanh và nắng ấm, đồn rằng có liên quan đến cổ thú....
+Tin đồn về tiên nhân: Có thể lát sàn trên các vùng nước nông....
+Tin đồn về tiên nhân: Đệ tử thuộc kiểu ưa sạch sẽ quá mức là những kẻ rất khó đối phó....
+Tin đồn về tiên nhân: Đã từng có người tu tiên có thể đoạt được bảo vật từ thiên kiếp.

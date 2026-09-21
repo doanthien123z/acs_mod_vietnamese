@@ -1,0 +1,30 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_SpellPaper" sParam="Item">
+			<ThingName>Phù chỉ</ThingName>
+			<Desc>Giấy đặc chế có thể biến thành linh phù bằng cách vẽ các ký tự độc nhất vô nhị bằng mực máu yêu thú sắc đỏ</Desc>
+			<Item.FabaoSuffix>Phù lục, chú thuật, cấm chế</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellPaperLv2" sParam="Item">
+			<ThingName>Huyết phù chỉ</ThingName>
+			<Desc>Giấy làm từ máu yêu thú, có thể biến thành linh phù bằng cách vẽ các ký tự độc nhất vô nhị bằng mực máu yêu thú sắc đỏ</Desc>
+		</Text>
+		<Text Name="Item_SpellPaperLv3" sParam="Item">
+			<ThingName>Thần phù chỉ</ThingName>
+			<Desc>Giấy làm từ ngọc tâm vô ưu, có thể biến thành linh phù bằng cách vẽ các ký tự độc nhất vô nhị bằng mực máu yêu thú sắc đỏ</Desc>
+		</Text>
+		<Text Name="Item_Spell" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Linh phù đã luyện thành, có thể đeo lên người để nhận được một số buff năng lực</Desc>
+			<Item.FabaoSuffix>Phù lục, chú thuật, cấm chế</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SpellLv2" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Linh phù đã luyện thành, có thể đeo lên người để nhận được một số buff năng lực</Desc>
+		</Text>
+		<Text Name="Item_SpellLv3" sParam="Item">
+			<ThingName>Phù chú</ThingName>
+			<Desc>Linh phù đã luyện thành, có thể đeo lên người để nhận được một số buff năng lực</Desc>
+		</Text>
+	</List>
+</Texts>

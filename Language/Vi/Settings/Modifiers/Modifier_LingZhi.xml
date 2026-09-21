@@ -1,0 +1,81 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_LingZhi_DiaoXie">
+			<DisplayName>Đồng cảm</DisplayName>
+			<Desc>Đồng cảm với căn nguyên linh hồn, cảm nhận được hơi thở bi thương từ những linh thảo héo tàn, khiến tâm trí người bị nhiễu loạn nhẹ</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Jin">
+			<DisplayName>Đồng cảm với căn nguyên linh hồn hệ Kim</DisplayName>
+			<Desc>Đang tu luyện gần Kim linh căn và rơi vào cõi mộng thấu cảm với nó. Ngộ tính tăng, tâm cảnh tăng, tốc độ tu luyện tăng, tiềm năng tăng</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Jin">
+			<DisplayName>Thấu cảm với Kim linh căn bị nguyền rủa</DisplayName>
+			<Desc>Đang tu luyện gần Kim linh căn và rơi vào cõi mộng thấu cảm với nó. Ngộ tính tăng, tâm cảnh giảm, tốc độ tu luyện giảm, tiềm năng giảm</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Mu">
+			<DisplayName>Thấu cảm với Mộc linh căn</DisplayName>
+			<Desc>Đang tu luyện gần Mộc linh căn và rơi vào cõi mộng thấu cảm với nó. Thể lực tăng, tâm cảnh tăng, tốc độ tu luyện tăng, tiềm năng tăng</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Mu">
+			<DisplayName>Thấu cảm với Mộc linh căn bị nguyền rủa</DisplayName>
+			<Desc>Đang tu luyện gần Mộc linh căn và rơi vào cõi mộng thấu cảm với nó. Thể lực tăng, tâm cảnh giảm, tốc độ tu luyện giảm, tiềm năng giảm</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Shui">
+			<DisplayName>Thấu cảm với Thủy linh căn</DisplayName>
+			<Desc>Đang tu luyện gần Thủy linh căn và rơi vào cõi mộng thấu cảm với nó. Mị lực tăng, tâm cảnh tăng, tốc độ tu luyện tăng, tiềm năng tăng</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Shui">
+			<DisplayName>Thấu cảm với Thủy linh căn bị nguyền rủa</DisplayName>
+			<Desc>Đang tu luyện gần Thủy linh căn và rơi vào cõi mộng thấu cảm với nó. Mị lực tăng, tâm cảnh giảm, tốc độ tu luyện giảm, tiềm năng giảm</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Huo">
+			<DisplayName>Thấu cảm với Hỏa linh căn</DisplayName>
+			<Desc>Đang tu luyện gần Hỏa linh căn và rơi vào cõi mộng thấu cảm với nó. Trí tuệ tăng, tâm cảnh tăng, tốc độ tu luyện tăng, tiềm năng tăng</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Huo">
+			<DisplayName>Thấu cảm với Hỏa linh căn bị nguyền rủa</DisplayName>
+			<Desc>Đang tu luyện gần Hỏa linh căn và rơi vào cõi mộng thấu cảm với nó. Trí tuệ tăng, tâm cảnh giảm, tốc độ tu luyện giảm, tiềm năng giảm</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_GT0_Tu">
+			<DisplayName>Thấu cảm với Thổ linh căn</DisplayName>
+			<Desc>Đang tu luyện gần Thổ linh căn và rơi vào cõi mộng thấu cảm với nó. Vận may tăng, tâm cảnh tăng, tốc độ tu luyện tăng, tiềm năng tăng</Desc>
+		</Text>
+		<Text Name="Modifier_LingZhi_LT0_Tu">
+			<DisplayName>Thấu cảm với Thổ linh căn bị nguyền rủa</DisplayName>
+			<Desc>Đang tu luyện gần Thổ linh căn và rơi vào cõi mộng thấu cảm với nó. Vận may tăng, tâm cảnh giảm, tốc độ tu luyện giảm, tiềm năng giảm</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing1">
+			<DisplayName>Tâm cảnh thông suốt</DisplayName>
+			<Desc>Tâm cảnh tăng trong một khoảng thời gian ngắn</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_XinJing2">
+			<DisplayName>Tâm ma</DisplayName>
+			<Desc>Tâm cảnh giảm trong một khoảng thời gian ngắn</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_MaxLing1">
+			<DisplayName>Dẫn linh</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing1">
+			<DisplayName>Chúc phúc từ linh thực đã trưởng thành 1</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing2">
+			<DisplayName>Chúc phúc từ linh thực đã trưởng thành 2</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing3">
+			<DisplayName>Chúc phúc từ linh thực đã trưởng thành 3</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing4">
+			<DisplayName>Chúc phúc từ linh thực đã trưởng thành 4</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing5">
+			<DisplayName>Chúc phúc từ linh thực đã trưởng thành 5</DisplayName>
+		</Text>
+		<Text Name="Story_LingZhi_RipeLing_A">
+			<DisplayName>Tẩy luyện linh hồn</DisplayName>
+			<Desc>Được nuôi dưỡng bởi hào quang từ linh thực, toàn bộ nội thương trên cơ thể sẽ được chữa lành</Desc>
+		</Text>
+		<Text Name="Story_LingZhi_RipeSha">
+			<DisplayName>Lời nguyền từ linh thực đã trưởng thành</DisplayName>
+		</Text>
+	</List>
+</Texts>

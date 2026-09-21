@@ -1,0 +1,10 @@
+Tag	TargetType	Q	MA	SA	FA	fParam	sParam
+类型标签	0是目标不论仙凡1是目标为凡人2是目标为仙人3是目标为仙人且我比其境界高4是目标为仙人且我比其境界低4是目标为仙人且我与其境界一样	Report Bug	无成功失败/中性回答	Success!	Fail	数值参数	文本参数
+AboutClue_KnowClue	0	[NAME] Đi khắp nơi để thăm dò tung tích về[TXT]	Phải, ngươi đã nói với ta về chuyện đó rồi.	Ngươi cũng biết chuyện này ư? Đó là chuyện từ rất lâu rồi....	Ta không biết ngươi đang nói về chuyện gì.		
+AboutClue_KnowSecrect	0	[NAME] Đi khắp nơi để thăm dò tung tích về[TXT]	Phải, ngươi đã nói với ta về chuyện đó rồi.	Ta... Ta chẳng biết gì cả.!	Ta không biết ngươi đang nói về chuyện gì.		
+AboutClue_KnowOther	0	[NAME] Đi khắp nơi để thăm dò tung tích về[TXT]	Phải, ngươi đã nói với ta về chuyện đó rồi.	Ồ? Ta chưa từng nghe qua chuyện này trước đây, thế nhưng ai mà chẳng có bí mật của riêng mình??	Ồ? Chuyện này nghe có vẻ lạ thật, nhưng cứ theo lời ngươi nói vậy.		
+AboutClue_KnowNothing	0	[NAME] Đi khắp nơi để thăm dò tung tích về[TXT]	Ồ, ta biết chuyện đó rồi.	Bản thân ta cũng gần như không thể tin nổi về chuyện đó! Đa tạ ngươi đã giúp ta khai mở.	Sao có thể như vậy được? Ta không tin là sẽ có chuyện đó xảy ra, ngươi suy nghĩ nhiều quá rồi đấy.		
+							
+AboutSecret_KnowClue	0	Ngươi biết gì về[TXT]không??	Phải, ngươi đã nói với ta về chuyện đó rồi.	Ta... Ta chẳng biết gì cả.!	Ta không biết ngươi đang nói về chuyện gì.		
+AboutSecret_KnowOther	0	Ngươi biết gì về[TXT]hay không??	Phải, ngươi đã nói với ta về chuyện đó rồi.	Ồ? Ta chưa từng nghe nói về chuyện này trước đây, thế nhưng ai mà chẳng có bí mật của riêng mình??	Ồ? Chuyện này nghe có vẻ lạ thật, nhưng cứ theo lời ngươi nói vậy.		
+AboutSecret_KnowNothing	0	Đó là một bí mật quan trọng về[TXT]!	Ồ, ta biết chuyện đó rồi.	Bản thân ta cũng gần như không thể tin nổi về chuyện đó! Đa tạ ngươi đã giúp ta khai mở.	Sao có thể như vậy được? Ta không tin là sẽ có chuyện đó xảy ra, ngươi suy nghĩ nhiều quá rồi đấy.		

@@ -1,0 +1,77 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="All">
+			<PeferEnvironment.Desc>Thích</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Snake">
+			<NaiveTalk>Khè khè...!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Cần ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Cần ở gần tiểu thú</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần tiểu thú\nCần phòng ở.\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Bear">
+			<NaiveTalk>Hừ hừ...!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Cần ở gần động vật ăn cỏ</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần động vật ăn cỏ ở gần\nThích ở bên ngoài\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Rabbit">
+			<NaiveTalk>U u u...!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần cỏ ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích ở cùng đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần cỏ ở gần, thích ở bên ngoài\nThích ở cùng đồng loại</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Chicken">
+			<NaiveTalk>Cục cục!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần cây lúa</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần cây lúa, thích ở bên ngoài\nKhông thích động vật ăn thịt</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Wolf">
+			<NaiveTalk>U u u...!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Thích ở cùng đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở cùng đồng loại\nThích ở bên ngoài</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Boar">
+			<NaiveTalk>Ủn ủn ủn!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích ở gần nấm</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Thích ở gần nấm\nThích ở bên ngoài\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Frog">
+			<NaiveTalk>ộp ộp ộp!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần hoa sen</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Cần ở gần hoa sen, thích ở bên ngoài\nKhông thích động vật ăn thịt\n</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Turtle">
+			<NaiveTalk>Hào hào!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Cần ở gần cây lau</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.Desc>Cần ở gần cây lau, thích ở trong phòng</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cat">
+			<NaiveTalk>Meo meo!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở trong phòng</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích ở gần động vật khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở trong phòng, không thích ở gần động vật khác</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Tiger">
+			<NaiveTalk>Hống hống...!</NaiveTalk>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích ở gần động vật khác</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích ở bên ngoài, không thích ở gần động vật khác</PeferEnvironment.Desc>
+		</Text>
+		<Text Name="Cattle">
+			<NaiveTalk>Mò mò... mò...!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích cỏ cao</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở bên ngoài</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Không thích động vật ăn thịt</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích cỏ cao, thích ở bên ngoài\nKhông thích động vật ăn thịt\n</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>

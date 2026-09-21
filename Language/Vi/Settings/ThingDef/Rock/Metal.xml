@@ -1,0 +1,20 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="IronOre" sParam="Plant">
+			<ThingName>Quặng sắt địa mạch</ThingName>
+			<Desc>Ngọn núi giàu quặng sắt, nơi có thể khai thác quặng sắt ở đây.</Desc>
+		</Text>
+		<Text Name="CopperOre" sParam="Plant">
+			<ThingName>Mạch khoáng Xích Đồng.</ThingName>
+			<Desc>Ngọn núi giàu quặng Xích Đồng, nơi có thể khai thác quặng Xích Đồng ở đây.</Desc>
+		</Text>
+		<Text Name="SilverOre" sParam="Plant">
+			<ThingName>Mạch khoáng Băng Tinh.</ThingName>
+			<Desc>Ngọn núi giàu quặng Băng Tinh, nơi có thể khai thác quặng Băng Tinh ở đây.</Desc>
+		</Text>
+		<Text Name="RockLing" sParam="Plant">
+			<ThingName>Mạch Linh Thạch.</ThingName>
+			<Desc>Ngọn núi giàu Linh Thạch, nơi có thể khai thác Linh Thạch ở đây.</Desc>
+		</Text>
+	</List>
+</Texts>

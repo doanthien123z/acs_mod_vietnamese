@@ -1,0 +1,180 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Trống rỗng</DisplayName>
+			<Desc>Kiến trúc thất truyền không ai biết đến \n(Trống)</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences1">
+			<DisplayName>Cuồng chiến sĩ</DisplayName>
+			<Desc>Việc chuyển thế lần này khiến[IT]phải tiêu hao toàn bộ cảnh giới tu luyện của[IT]Tuy nhiên, kinh nghiệm trong quá khứ của[IT]thì vẫn chưa bị lãng quên \n\n\n[size=10]Kinh thư công pháp sơ cấp: [color=#D06508]Wild Punch[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences2">
+			<DisplayName>Thế giới tươi đẹp</DisplayName>
+			<Desc>Hợp đồng kỳ lạ chứa đựng hy vọng của bao người vì một thế giới tốt đẹp hơn \n\n\n[size=10]Pháp bảo hồng hoang sơ cấp: [color=#D06508]Thế giới tươi đẹp[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences3">
+			<DisplayName>Kẻ đến từ dị giới</DisplayName>
+			<Desc>[IT]là người xuyên không đến từ thế giới khác [IT]Xuyên không đến cùng với một thanh kiếm có hình thù kỳ lạ \n\n\n[size=10]Pháp bảo sơ cấp: [color=#D06508]Bùm Bùm Tinh[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences4">
+			<DisplayName>Quang Kiếm Tương Lai</DisplayName>
+			<Desc>Thanh kiếm được mang đến từ thế giới tương lai \n\n\n[size=10]Pháp bảo sơ cấp: [color=#D06508]Quang Kiếm Tương Lai[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences5">
+			<DisplayName>Tâm Tĩnh</DisplayName>
+			<Desc>Công pháp tập trung tâm thần để thu thập linh khí lên đỉnh đầu nhằm nâng cao trí tuệ của bản thân\n\n\n[size=10]Kinh thư công pháp sơ cấp: [color=#D06508]Tâm Tĩnh[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences6">
+			<DisplayName>Tinh Quang</DisplayName>
+			<Desc>Ký ức bị phong ấn của một lãng khách vô tình kết hôn với con gái của chính mình ở một chiều không gian khác\n\n\n[size=10]Bảo vật sơ cấp: Ký ức phong ấn: Tinh Quang[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences7">
+			<DisplayName>Đại đạo tặc</DisplayName>
+			<Desc>Kẻ này sinh ra đã mang vận khí phi phàm [IT]Sinh ra đã mang theo công pháp tu luyện nghịch thiên \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Dẫn Thiên Công[/color]\nĐiều kiện thuộc tính: Thể chất cấp cao[/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences8">
+			<DisplayName>Hắc Quang Kiếm Quy Lai</DisplayName>
+			<Desc>[IT]là một kiếm tu chuyển thế. Ở kiếp trước,[IT]đã bị kẻ tin tưởng nhất phản bội và sát hại[IT]một cách tàn nhẫn \n\n\n[size=10]Pháp bảo sơ cấp: [color=#D06508]Song Long Ảnh Kiếm[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences9">
+			<DisplayName>Phá Thiên Chân Khí</DisplayName>
+			<Desc>Kẻ này sở hữu kỹ năng đặc biệt có thể phá vỡ giới hạn, nâng cao thực lực bản thân trong thời điểm nguy cấp. Tất nhiên, phải đánh đổi bằng tuổi thọ của[IT] \n\n\n[size=10]Kinh thư công pháp sơ cấp: [color=#D06508]Thần Thông[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences10">
+			<DisplayName>Mê Thần Phù</DisplayName>
+			<Desc>Kẻ này mang theo một hộp bùa chú chứa ba đạo phù lục bí ẩn \n\n\n[size=10]Bảo vật sơ cấp: [color=#D06508]Hộp Mê Thần Phù[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences11">
+			<DisplayName>Thần Phù</DisplayName>
+			<Desc>Kẻ này mang theo một hộp bùa chú chứa những đạo phù lục cực kỳ trân hiếm bên trong \n\n\n[size=10]Bảo vật sơ cấp: [color=#D06508]Hộp linh phù[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences12">
+			<DisplayName>Công pháp tu luyện tiên đạo núi Côn Luân</DisplayName>
+			<Desc>Người này đã dành cả đời để tìm kiếm sự tồn tại của người tu tiên[IT] Và cuối cùng[IT]đã tìm thấy bộ công pháp do tiên nhân cổ xưa để lại ẩn giấu tại núi Côn Luân \n\n\n[size=10]Kinh thư công pháp sơ cấp: [color=#D06508]Công pháp tu luyện tiên đạo núi Côn Luân[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences13">
+			<DisplayName>Chuyển thế đầu thai</DisplayName>
+			<Desc>Người này là hóa thân sinh ra từ lời cầu nguyện của bách tính, chính vì thế[IT]mà sinh ra đã mang theo năng lực thần bí siêu phàm \n\n\n[size=10]Kinh thư công pháp sơ cấp: [color=#D06508]Hộ thân phù[/color] \nBảo vật sơ cấp: [color=#D06508]Tâm tĩnh lặng[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences14">
+			<DisplayName>Kiếm tiên chuyển thế</DisplayName>
+			<Desc>Trong quá khứ, người này từng là một Kiếm tiên nổi danh, vì vậy[IT]mà sinh ra đã mang theo pháp bảo mạnh mẽ. Dù đã mất đi phần lớn uy năng ban đầu, song pháp bảo này vẫn có năng lực mạnh hơn các loại pháp bảo thông thường khác \n\n\n[size=10]Bảo vật sơ cấp: [color=#D06508]Đông Phương Thần Châm[/color][/size]</Desc>
+		</Text>
+		<Text Name="LunHui_Experiences15">
+			<DisplayName>Người kế thừa vạn hóa vạn vật</DisplayName>
+			<Desc>Người này là người kế thừa đạo tâm thiên địa. Sau một thời gian dài, cuối cùng ký ức của[IT]đột nhiên quay trở lại [IT]nên nhận được ký ức về công pháp Vạn Hóa Thiên Cơ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Vạn Vật Hóa Vũ Quyết[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1">
+			<DisplayName>Tu sĩ Thập Lục Bộ Đăng Tiên</DisplayName>
+			<Desc>Người muốn trở thành đệ tử nội môn để tu luyện công pháp Thập Lục Bộ Đăng Tiên, một trong sáu môn công pháp chính của phái Thái Ất. Vì điều đó, người đã khổ luyện vô cùng vất vả. Thế nhưng vào đêm phái Thái Ất bị tiêu diệt, một vị trưởng lão tu luyện Thập Lục Bộ Đăng Tiên đã trao lại bí kíp cho người trước khi nhắm mắt xuôi tay \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Thập Lục Bộ Nhập Tiên Công[/color]\nYêu cầu thuộc tính: Căn cốt cao, Mị lực trung bình, Ngộ tính trung bình[/size]</Desc>
+		</Text>
+		<Text Name="Experiences2">
+			<DisplayName>Tu sĩ Kiếm Đạo Tinh Thần</DisplayName>
+			<Desc>Người muốn trở thành đệ tử nội môn để tu luyện Kim Quang Trảm Tinh Kiếm, một trong sáu môn công pháp chính của phái Thái Ất. Vì điều đó, người đã khổ luyện vô cùng vất vả. Thế nhưng vào đêm phái Thái Ất bị tiêu diệt, một vị trưởng lão tu luyện Kim Quang Trảm Tinh Kiếm đã trao lại bí kíp cho người trước khi nhắm mắt xuôi tay \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Đại Nhật Kim Kiếm Trảm Tinh Công[/color]\nYêu cầu thuộc tính: Thần thức cao, Căn cốt trung bình, Ngộ tính trung bình[/size]</Desc>
+		</Text>
+		<Text Name="Experiences3">
+			<DisplayName>Tu sĩ Luân Hồi Chi Đạo</DisplayName>
+			<Desc>Người muốn trở thành đệ tử nội môn để tu luyện Lục Đạo Luân Hồi Quyết, một trong sáu môn công pháp chính của phái Thái Ất. Vì điều đó, người đã khổ luyện vô cùng vất vả. Thế nhưng vào đêm phái Thái Ất bị tiêu diệt, một vị trưởng lão tu luyện Lục Đạo Luân Hồi Quyết đã trao lại bí kíp cho người trước khi nhắm mắt xuôi tay \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Lục Đạo Luân Hồi Quyết[/color]\nYêu cầu thuộc tính: Căn cốt trung bình, Thần thức cao, Ngộ tính cao[/size]</Desc>
+		</Text>
+		<Text Name="Experiences4">
+			<DisplayName>Tu sĩ Nhật Quang Chân Pháp</DisplayName>
+			<Desc>Người muốn trở thành đệ tử nội môn để tu luyện Nhật Tinh Chân Kinh, một trong sáu môn công pháp chính của phái Thái Ất. Vì điều đó, người đã khổ luyện vô cùng vất vả. Thế nhưng vào đêm phái Thái Ất bị tiêu diệt, một vị trưởng lão tu luyện Nhật Tinh Chân Kinh đã trao lại bí kíp cho người trước khi nhắm mắt xuôi tay \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Thái Ất Chân Dương Công[/color]\nYêu cầu thuộc tính: Thần thức trung bình, Căn cốt trung bình, Mị lực trung bình, Ngộ tính trung bình, Cơ duyên trung bình[/size]</Desc>
+		</Text>
+		<Text Name="Experiences5">
+			<DisplayName>Tu sĩ Hướng Dương Công</DisplayName>
+			<Desc>Người muốn trở thành đệ tử nội môn để tu luyện Quỳ Hoa Luyện Khí Pháp, một trong sáu môn công pháp chính của phái Thái Ất. Vì điều đó, người đã khổ luyện vô cùng vất vả. Thế nhưng vào đêm phái Thái Ất bị tiêu diệt, một vị trưởng lão tu luyện Quỳ Hoa Luyện Khí Pháp đã trao lại bí kíp cho người trước khi nhắm mắt xuôi tay \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Quỳ Hoa Luyện Thần Công[/color]\nYêu cầu thuộc tính: Thần thức cao, Mị lực cao, Ngộ tính cao[/size]</Desc>
+		</Text>
+		<Text Name="Experiences6">
+			<DisplayName>Tu sĩ phổ thông</DisplayName>
+			<Desc>Kể từ khi gia nhập phái Thái Ất, người chỉ chuyên tâm tu luyện căn bản chân khí mà chưa quyết định chọn lựa công pháp tu luyện nào cho tương lai. Điều người quan tâm lúc này là xây dựng một căn cơ linh khí vững chắc cho bản thân \n\n\n[size=10][color=#D06508]Ngũ giác linh mẫn[/color]tăng lên[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_1">
+			<DisplayName>Di sản Thần Đan</DisplayName>
+			<Desc>Người vô tình nhận được di sản tu luyện Nguyên Thủy Thần Đan từ trước khi gia nhập phái Thái Ất. Nhưng vì sợ tai họa ập đến như câu 'có ngọc quý trong túi là cái tội', nên người đã phải che giấu chuyện này cho đến tận bây giờ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Thái Sơ Đan Thần Quyết[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_2">
+			<DisplayName>Di sản Thần Khí</DisplayName>
+			<Desc>Người vô tình nhận được di sản tu luyện Vạn Hóa Thiên Cơ từ trước khi gia nhập phái Thái Ất. Nhưng vì sợ tai họa ập đến như câu 'có ngọc quý trong túi là cái tội', nên người đã phải che giấu chuyện này cho đến tận bây giờ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Vạn Vật Hóa Vũ Quyết[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_3">
+			<DisplayName>Di sản Thất Sát</DisplayName>
+			<Desc>Người vô tình nhận được di sản tu luyện Thất Sát Kiếm Quyết từ trước khi gia nhập phái Thái Ất. Nhưng vì sợ tai họa ập đến như câu 'có ngọc quý trong túi là cái tội', nên người đã phải che giấu chuyện này cho đến tận bây giờ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Thất Sát Kiếm Quyết[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_4">
+			<DisplayName>Di sản Đạo Thuận Thiên</DisplayName>
+			<Desc>Người vô tình nhận được di sản tu luyện Thôn Thiên Khí Pháp từ trước khi gia nhập phái Thái Ất. Nhưng vì sợ tai họa ập đến như câu 'có ngọc quý trong túi là cái tội', nên người đã phải che giấu chuyện này cho đến tận bây giờ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Dẫn Thiên Công[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences1G1_5">
+			<DisplayName>Di sản Đoạn Tình</DisplayName>
+			<Desc>Người vô tình nhận được di sản tu luyện Tâm Đoạn Tuyệt từ trước khi gia nhập phái Thái Ất. Nhưng vì sợ tai họa ập đến như câu 'có ngọc quý trong túi là cái tội', nên người đã phải che giấu chuyện này cho đến tận bây giờ \n\n\n[size=10]Nhận được công pháp tu luyện: [color=#D06508]Đoạn Tình Quyết[/color]\nBắt đầu với công pháp tu luyện này khá gian nan, không khuyến khích cho người mới.[/size]</Desc>
+		</Text>
+		<Text Name="Experiences23">
+			<DisplayName>Phòng chứa pháp bảo</DisplayName>
+			<Desc>Vào đêm phái Thái Ất bị tấn công, người tình cờ được giao nhiệm vụ ngoại môn là đến kho tàng pháp bảo. Khi biết tông môn không thể kháng cự kẻ thù và người không muốn để bảo vật rơi vào tay địch, người đã liều mình lẻn vào kho tàng để lấy đi một phần trong đó \n\n\n[size=10]Tăng tài nguyên ban đầu: [color=#D06508]Pháp bảo cao cấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences24">
+			<DisplayName>Tàng bảo các đan dược</DisplayName>
+			<Desc>Trong đêm Thái Ất Môn bị tập kích, Người vô tình nhận được nhiệm vụ của ngoại môn đệ tử là đến tàng bảo các đan dược. Khi Người biết tông môn không thể chống đỡ nổi kẻ địch và không muốn nhìn thấy bảo vật của tông môn rơi vào tay giặc, vì vậy Người đã liều chết lẻn vào tàng bảo các đan dược để mang một phần chúng rời đi. \n\n\n[size=10]Tăng tài nguyên ban đầu: [color=#D06508]Đan dược cao cấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences25">
+			<DisplayName>Tàng Kinh Lược</DisplayName>
+			<Desc>Trong đêm Thái Ất Môn bị tập kích, Người vô tình nhận được nhiệm vụ của ngoại môn đệ tử là đến Tàng Kinh Lược. Khi Người biết tông môn không thể chống đỡ nổi kẻ địch và không muốn nhìn thấy bảo vật của tông môn rơi vào tay giặc, vì vậy Người đã liều chết lẻn vào Tàng Kinh Lược để mang một phần chúng rời đi. \n\n\n[size=10]Tăng tài nguyên ban đầu: [color=#D06508]Công pháp cao cấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences26">
+			<DisplayName>Tàng bảo các linh phù</DisplayName>
+			<Desc>Trong đêm Thái Ất Môn bị tập kích, Người vô tình nhận được nhiệm vụ của ngoại môn đệ tử là đến tàng bảo các linh phù. Khi Người biết tông môn không thể chống đỡ nổi kẻ địch và không muốn nhìn thấy bảo vật của tông môn rơi vào tay giặc, vì vậy Người đã liều chết lẻn vào tàng bảo các linh phù để mang một phần chúng rời đi. \n\n\n[size=10]Tăng tài nguyên ban đầu: [color=#D06508]Linh phù cao cấp[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences31">
+			<DisplayName>Cô độc</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người đã dành toàn bộ thời gian để tu luyện và chưa từng giao du với bất kỳ ai trong tông môn. Vào đêm Thái Ất Môn bị tập kích, không một ai quan tâm đi theo và trốn chạy cùng Người. \n\n\n[size=10]Số lượng[color=#D06508]Đệ tử khởi đầu[/color] Giảm xuống 2[/size]</Desc>
+		</Text>
+		<Text Name="Experiences27">
+			<DisplayName>Trầm mặc</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người chỉ trò chuyện rất ít với các đệ tử khác trong tông. Đối với Người, tu luyện quan trọng hơn việc lãng phí thời gian trò chuyện nhảm nhí với kẻ khác. Vào đêm Thái Ất Môn bị tập kích, Người chỉ trốn chạy cùng một người bạn. \n\n\n[size=10]Số lượng[color=#D06508]Đệ tử khởi đầu[/color] Giảm xuống 1[/size]</Desc>
+		</Text>
+		<Text Name="Experiences29">
+			<DisplayName>Thân thiện</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người luôn chủ động làm quen với các ngoại môn đệ tử khác. Vì lý do này, vào đêm Thái Ất Môn bị tập kích, có rất nhiều đệ tử đã cùng trốn chạy với Người. \n\n\n[size=10]Số lượng[color=#D06508]Đệ tử khởi đầu[/color] Tăng lên 1[/size]</Desc>
+		</Text>
+		<Text Name="Experiences30">
+			<DisplayName>Người dẫn đầu</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người dành phần lớn thời gian vui đùa cùng các bằng hữu ngoại môn đệ tử, và bọn họ đều công nhận Người làm đại thủ lĩnh. Vì lý do này, vào đêm Thái Ất Môn bị tập kích, có rất nhiều đệ tử đã cùng trốn chạy với Người. \n\n\n[size=10]Số lượng[color=#D06508]Đệ tử khởi đầu[/color] Tăng lên 2[/size]</Desc>
+		</Text>
+		<Text Name="Experiences7">
+			<DisplayName>Kẻ tìm kiếm kích thích</DisplayName>
+			<Desc>Người cho rằng con đường tu bồng mang lại sự kích thích cho cuộc đời. Kể từ khi gia nhập Thái Ất Môn, Người đã lợi dụng thân phận đệ tử để mưu cầu trò vui, luôn miệng mượn thế lực tông môn để chống lưng.\n\n\n[size=10][color=#D06508]Điểm mị lực[/color]tăng lên\n[color=#D06508]Kỹ năng giao tiếp[/color]tăng lên\nNhận trang bị khởi đầu: [color=#D06508]Y phục và trang sức[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences8">
+			<DisplayName>Lương thực dự trữ</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, có lần Người bị kẹt trong trận pháp suốt một tháng khi đang hành tẩu khám phá. Trải qua cảm giác đói khát cực độ trong quá khứ, Người đã học được thói quen luôn mang theo lương thực bên mình.\n\n\n[size=10][color=#D06508]Chỉ số thể lực[/color]tăng lên\nĐã nhận[color=#D06508]Thức ăn và nước uống[/color]Tăng lên lúc bắt đầu\nTăng tài nguyên ban đầu: [color=#D06508]Ẩm Thực Đan[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences9">
+			<DisplayName>Thợ xây dựng</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người được giao nhiệm vụ phụ trách xây dựng kiến trúc trong khu vực ngoại môn đệ tử. Công việc yêu cầu Người phải mang theo mọi loại tài nguyên bên mình và luôn làm việc ở khắp nơi trong tông môn.\n\n\n[size=10][color=#D06508]Chỉ số ngộ tính[/color]tăng lên\nĐã nhận[color=#D06508]Tài nguyên xây dựng[/color]Tăng lên lúc bắt đầu\nTăng tài nguyên ban đầu: [color=#D06508]Vật liệu hiếm[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences10">
+			<DisplayName>Kẻ gác cổng Tàng Kinh Các</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người được giao trọng trách đảm bảo an ninh cho Tàng Kinh Các. Người đã nhân cơ hội này sao chép và ghi chép lại một số kinh thư dành cho người mới để nghiên cứu trong tương lai.\n\n\n[size=10][color=#D06508]Chỉ số trí tuệ[/color]tăng lên\nTăng tài nguyên ban đầu: [color=#D06508]Kinh thư: Sơ cấp phù chú và Nhập môn đan dược[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences11">
+			<DisplayName>Kiếm khách</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, có lần Người có được một thanh bảo kiếm tuyệt mỹ trong chuyến hành tẩu. Người luôn giữ nó bên mình với hy vọng một ngày nào đó có thể luyện hóa nó thành pháp bảo, vì thế Người thường hỏi các vị trưởng lão về các kỹ năng luyện chế pháp bảo.\n\n\n[size=10][color=#D06508]Kỹ năng pháp bảo[/color]tăng lên\nTăng tài nguyên ban đầu: [color=#D06508]Kiếm[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences12">
+			<DisplayName>Pháp Sư</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người thường xuyên mượn các cổ tịch về pháp chú từ Tàng Kinh Các. Có lần khi đang đọc sách, một tia sáng từ trang sách đột nhiên lóe lên và bay thẳng vào tâm thức của Người. Kể từ ngày đó, Người đã thể hiện thiên phú đặc biệt về pháp lực.\n\n\n[size=10][color=#D06508]Kỹ năng chân khí[/color]tăng lên\nChỉ số sức mạnh[color=#D06508]Pháp lực[/color]tăng lên[/size]</Desc>
+		</Text>
+		<Text Name="Experiences13">
+			<DisplayName>Kim cương bất phàm</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, có lần khi đang hành tẩu, Người đã ăn nhầm một loại kỳ quả. Trưởng lão sau khi kiểm tra đã kết luận rằng loại quả đó giúp cải thiện chân khí và kinh mạch của Người, khiến cho hộ thân cương khí của Người dày dặn hơn người thường.\n\n\n[size=10][color=#D06508]Kỹ năng hộ thể chân khí[/color]tăng lên\nChỉ số sức mạnh[color=#D06508]Hộ Thể Chân Khí[/color]tăng lên[/size]</Desc>
+		</Text>
+		<Text Name="Experiences14">
+			<DisplayName>Đệ tử tạp dịch Luyện Đan</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử Thái Ất Môn, Người được phân công làm việc trong đan phòng, nhận nhiệm vụ vận chuyển các loại dược liệu đến cho các vị trưởng lão luyện đan.\n\n\n[size=10][color=#D06508]Hồi phục[/color]tăng lên\n[color=#D06508]Kỹ năng tạo vật[/color]tăng lên\nĐã nhận[color=#D06508]Nguyên liệu thảo dược[/color]Tăng lên lúc bắt đầu\nTăng tài nguyên ban đầu: [color=#D06508]Đan dược hiếm[/color][/size]</Desc>
+		</Text>
+		<Text Name="Experiences15">
+			<DisplayName>Đệ tử tạp dịch Luyện Khí</DisplayName>
+			<Desc>Khi Người gia nhập và trở thành đệ tử của Thái Ất Tông, Người được phân công làm việc tại Luyện Khí Phòng. Người có nhiệm vụ vận chuyển tài nguyên cần thiết cho các đệ tử bậc cao đang rèn luyện chế tạo pháp bảo.\n\n\n[size=10][color=#D06508]Kỹ năng chế tác[/color]tăng lên\n[color=#D06508]Kỹ năng tạo vật[/color]tăng lên\nĐã nhận[color=#D06508]Tài nguyên nguyên liệu[/color]Tăng lên lúc bắt đầu\nTăng tài nguyên ban đầu: [color=#D06508]Nguyên liệu hiếm[/color][/size]</Desc>
+		</Text>
+	</List>
+</Texts>

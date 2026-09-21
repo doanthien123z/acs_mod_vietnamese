@@ -1,0 +1,17 @@
+ <Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_1">
+			<DisplayName>Hợp Nhất Nguyên Thủy Thể</DisplayName>
+			<Desc>Một môn công pháp luyện thể được truyền lại từ thời cổ đại, mô phỏng theo hình dáng của vạn vật sinh linh, thuận theo thiên mệnh của vũ trụ và đi theo con đường lục đạo. Môn công pháp này nổi bật ở khả năng hòa hợp bản thân với tự nhiên. Sau khi tôi luyện và mài giũa cơ thể hàng vạn lần, có thể ngưng tụ ra một loại thần thể có sự đồng bộ cao với sáu cõi. Máu thịt và da dẻ trên toàn thân sẽ được thanh tẩy đến mức có thể phá hủy cả hư không.</Desc>
+			<SelectDesc>Bước chân vào con đường luyện thể bất tử nghĩa là ngươi phải dung hợp thân thể, chân khí và nguyên thần làm một. Điều này khiến ngươi không thể triển khai pháp thuật hay thậm chí sử dụng pháp bảo. Thứ duy nhất ngươi có thể dựa vào chính là thân thể của mình. Biết được điều này, ngươi có còn muốn bước chân vào con đường luyện thể bất tử nữa không??</SelectDesc>
+			<Stages.0.DisplayName>Giai đoạn Luyện Thể</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Tạo Thể</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Giai đoạn Tẩy Tủy</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Phạt Tủy</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Giai đoạn Ngưng Tụ Linh Thể</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Dung Hợp Thân Tâm</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Thần Biến Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Kiếp Thể</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

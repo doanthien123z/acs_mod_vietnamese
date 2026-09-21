@@ -1,0 +1,219 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_Level2Base">
+			<Desc>Lv.2 Location Templates</Desc>
+		</Text>
+		<Text Name="Place_DanXia1">
+			<DisplayName>Động Minh Quang</DisplayName>
+			<Desc>Một động đá tự nhiên nằm ở sườn núi Màn Thiên, có lối đi ngoằn ngoèo và phong cảnh tuyệt mỹ. Sâu bên trong động có pho tượng đá của Linh Bảo Thiên Tôn, là một nơi hoàn hảo để bế quan tu luyện.</Desc>
+		</Text>
+		<Text Name="Place_DanXia2">
+			<DisplayName>Thiên Mạc Nhai</DisplayName>
+			<Desc>Vách đá nằm trên đỉnh núi Màn Thiên. Dưới ánh nắng mờ ảo lúc hoàng hôn, phong cảnh của vách đá này đẹp đến mức không gì sánh bằng.</Desc>
+		</Text>
+		<Text Name="Place_DanXia3">
+			<DisplayName>Hồ Ngũ Long</DisplayName>
+			<Desc>Hồ nước thánh nằm sâu trong núi Màn Thiên, hoa sen nở rộ trong hồ trông giống như không có đáy, liên kết với mạch nước ngầm của đại địa. Tương truyền rằng rễ linh căn Thủy - Sen vàng năm màu đã được Tông môn Màn Thiên trồng ở nơi này.</Desc>
+		</Text>
+		<Text Name="Place_KunLun1">
+			<DisplayName>Sân Hội Tiên</DisplayName>
+			<Desc>Bệ đá ở chân núi phía nam dãy núi Côn Lôn, được khắc rất nhiều cổ văn không rõ ý nghĩa. Tương truyền rằng trong quá khứ, Đông Vương đã để lại trí tuệ về đại đạo dẫn đến sự trường sinh ở đây cho thế hệ sau trước khi phi thăng tiên giới.</Desc>
+		</Text>
+		<Text Name="Place_KunLun2">
+			<DisplayName>Động Long Mạch</DisplayName>
+			<Desc>Động phủ thần bí nằm sâu trong núi Côn Lôn, bên trong có hàng ngàn vực sâu vô cùng phức tạp. Truyền thuyết kể rằng động phủ này kết nối trực tiếp với long mạch của thế giới, và Côn Lôn Điện đã dựa vào long mạch này để trồng linh căn thiên địa như Hoàng Kim Thạch Cốt ở nơi này.</Desc>
+		</Text>
+		<Text Name="Place_KunLun2_1">
+			<DisplayName>Hư Không Động</DisplayName>
+			<Desc>Đây là hốc đá có thể bắt gặp ở khắp nơi trong Động Long Mạch. Bề ngoài trông nó giống hệt một hốc đá bình thường, nhưng lại tỏa ra một luồng khí tức kỳ lạ. Nếu không phải người cực kỳ quen thuộc với Động Long Mạch thì tuyệt đối không thể phát hiện ra luồng khí tức mong manh này. Và nếu quan sát kỹ, dường như còn có những văn tự tự nhiên kỳ lạ ẩn giấu ở miệng hang.</Desc>
+		</Text>
+		<Text Name="Place_TianJi1">
+			<DisplayName>Hốc Mây</DisplayName>
+			<Desc>Thung lũng sâu giữa các vách đá hiểm trở tại đỉnh Chạm Trời. Bên trong thung lũng có dòng linh khí cuồn cuộn tựa như dòng xoáy vô tận lưu chuyển không ngừng. Chính vì thế, dòng khí bên trong thung lũng này biến động vô cùng dữ dội, khiến cho ngay cả yêu thú loài chim cũng không thể bay ra nếu vô tình lạc vào. Tương truyền rằng nơi này là địa điểm mà Cung Phù Quang dùng để trồng linh căn Kim - Quả Hoàng Đào.</Desc>
+		</Text>
+		<Text Name="Place_TianJi2">
+			<DisplayName>Ải Phục Thiên</DisplayName>
+			<Desc>Lối đi nhỏ hẹp dẫn lên đỉnh của đỉnh Chạm Trời. Dọc theo lối đi có cỏ Minh Tâm mọc dày đặc, giúp cho những ai đi qua con đường này có một tâm trí thông suốt, cảm thấy bình yên và rời xa các tạp niệm trần tục. Vì thế nơi này mới có tên là Ải Phục Thiên. Khi đi lên đến tận cùng, người sẽ gặp Cung Phù Quang tọa lạc trên đỉnh núi.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua1">
+			<DisplayName>Làng Cửu Hoa</DisplayName>
+			<Desc>Ngôi làng nằm dưới chân núi Cửu Hoa. Nhờ sự che chở của Tử Vân Am, ngôi làng này ngày càng hưng thịnh và bách tính sống một đời bình an, hạnh phúc. Xung quanh ngôi làng này có các mỏ ngọc, nơi dân làng sinh kế bằng cách khai thác, thu thập ngọc thạch rồi mang bán cho Tử Vân Am.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua2">
+			<DisplayName>Hồ Long Tiềm</DisplayName>
+			<Desc>Hồ Long Tiềm là một trong những điểm ngắm cảnh nổi tiếng nhất trên núi Cửu Hoa. Người ta có thể nhìn thấy biển mây và phong cảnh tuyệt đẹp từ nơi này. Truyền thuyết kể rằng thời cổ đại, một vị chân nhân cường đại đã nuôi rồng ở đây.</Desc>
+		</Text>
+		<Text Name="Place_JiuHua3">
+			<DisplayName>Vách Phượng Hoàng</DisplayName>
+			<Desc>Vách Phượng Hoàng là một trong những điểm ngắm cảnh nổi tiếng nhất trên núi Cửu Hoa. Nơi này có hai thân cây khô của cây Phượng Hoàng khổng lồ đứng sừng sững. Theo truyền thuyết, thời viễn cổ, Phượng Hoàng Lửa thiên giới từng chọn nơi này làm nơi cư ngụ.</Desc>
+		</Text>
+		<Text Name="Place_LongHu1">
+			<DisplayName>Thác Thiên Thông</DisplayName>
+			<Desc>Nơi có phong cảnh tuyệt mỹ của núi Long Hổ. Nơi này có dòng nước đổ từ đỉnh núi xuống chân núi, tiếng thác nước vang dội tựa như tiếng rồng gầm bay lên bầu trời.</Desc>
+		</Text>
+		<Text Name="Place_LongHu2">
+			<DisplayName>Rừng Sương Mù</DisplayName>
+			<Desc>Rừng rậm dưới chân núi Long Hổ với nhiều cây cổ thụ có tuổi đời hàng trăm năm. Có tin đồn rằng cây Phượng Hoàng cũng mọc ở đây. Nhờ năng lượng mộc khí dồi dào, khu rừng này là nơi cực kỳ thích hợp để trồng linh căn Mộc của thiên địa.</Desc>
+		</Text>
+		<Text Name="Place_Shu1">
+			<DisplayName>Vách Bích Ngọc</DisplayName>
+			<Desc>Nơi này nằm trên đỉnh núi phía tây núi Thục. Vách đá này có phong cảnh đẹp tuyệt vời, tràn ngập các yêu thú linh tính và linh khí dồi dào. Do nơi này có địa mạch cực kỳ hoàn thiện, nên nó chứa đầy các khoáng sản quý giá như đồng hỏa tinh, v.v. Ngoài ra, với hỏa khí dày đặc, nơi này cực kỳ thích hợp cho sự sinh trưởng của linh căn Hỏa.</Desc>
+		</Text>
+		<Text Name="Place_Shu2">
+			<DisplayName>Động Oanh Lôi</DisplayName>
+			<Desc>Một trong mười hai động phủ nổi tiếng của núi Thục. Tương truyền rằng nơi này là nơi người sáng lập Thanh Liên Am từng bế quan để ngộ đạo. Hơn nữa, truyền thuyết còn kể rằng vị tổ sư đó đã để lại một số bí mật vĩ đại tại nơi này trước khi phi thăng tiên giới. Tuy nhiên, dù ngàn năm đã trôi qua, vẫn chưa có ai khám phá ra bí mật đó.</Desc>
+		</Text>
+		<Text Name="Place_Shu3">
+			<DisplayName>Động Lưu Ly</DisplayName>
+			<Desc>Một trong mười hai động phủ nổi tiếng của núi Thục, nằm sâu về phía bắc ngọn núi. Nơi này có các mạch hỏa nguyên lưu chuyển bên trong. Sau hàng ngàn năm, những mạch hỏa nguyên đó đã ngưng kết thành các tinh thể phát ra ánh sáng rực rỡ. Vì lý do này, động phủ mang tên Động Lưu Ly, là một nơi cực kỳ tuyệt vời cho người tu luyện các công pháp hệ Hỏa.</Desc>
+		</Text>
+		<Text Name="Place_Shu4">
+			<DisplayName> Động Ngọc Xuân</DisplayName>
+			<Desc>Một trong mười hai hang động nổi tiếng của núi Thục. Truyền thuyết kể rằng nơi đây ẩn giấu một con mắt suối của Địa Mạch, chỉ những người có cơ duyên mới có thể tìm thấy.</Desc>
+		</Text>
+		<Text Name="Place_Shu5">
+			<DisplayName>Kiếm Mộ</DisplayName>
+			<Desc>Hang động tối tăm quanh co trong núi Thục, nơi chứa đầy bảo kiếm của các vị tiên từ nhiều đời của am Bồ Đề Xanh.</Desc>
+		</Text>
+		<Text Name="Place_WuLian1">
+			<DisplayName>Thiên Trì</DisplayName>
+			<Desc>Hồ nước thánh nằm sâu trong núi Sen Ngũ Sắc. Tương truyền, đây là nơi vị tiên Sen Ngũ Sắc dùng để trộm đạo trời nhằm phong ấn vào núi Sen Ngũ Sắc, sau đó lập tông môn tại đây. Truyền thuyết cũng kể rằng nơi này ẩn giấu suối nguồn sự sống, chỉ người có cơ duyên mới tìm được.</Desc>
+		</Text>
+		<Text Name="Place_WuLian2">
+			<DisplayName>Rừng Mưa Bạch Mộc</DisplayName>
+			<Desc>Khu rừng bí ẩn nằm sâu trong núi Sen Ngũ Sắc. Khi mưa rơi, nơi đây biến thành biển sương mù với cảnh sắc như chốn bồng lai tiên cảnh. Người ta đồn rằng từng có một vị hiền triết mắc bệnh nan y vào rừng với ý định tự sát, nhưng khi trở ra, ông kể lại đã gặp một vị tiên cầm kiếm gỗ gọi mưa gọi gió bằng tay trái và viên ngọc trắng trong tay phải có thể chữa bách bệnh. Người đời gọi vị tiên bí ẩn này là Tiên Rừng Trắng, cũng chính là tên của khu rừng "Rừng Mưa Gỗ Trắng".</Desc>
+		</Text>
+		<Text Name="Place_BaiMan1">
+			<DisplayName>Động Tử Vong</DisplayName>
+			<Desc>Mỗi khi đệ tử núi Trăm Côn trùng giết yêu thú, họ đều mang xác đến Động Tử Vong này để phong ấn, dùng tử khí nồng đậm nơi đây luyện thành yêu khôi. Nếu xác vừa được đưa vào và chưa bị chuyển hóa, có khả năng lấy được linh châu của chúng.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan2">
+			<DisplayName>Hố Vạn Xà</DisplayName>
+			<Desc>Cái hố mà đệ tử núi Trăm Côn dùng để nuôi dưỡng các loại rắn và côn trùng độc. Khi chúng trưởng thành, đệ tử núi Trăm Côn sẽ thu thập tinh huyết của chúng để bồi dưỡng chân khí.</Desc>
+		</Text>
+		<Text Name="Place_BaiMan3">
+			<DisplayName>Động Yêu Thú</DisplayName>
+			<Desc>Hang động mà đệ tử núi Trăm Côn dùng để nuôi các loại yêu thú. Tuy nhiên, một tai nạn nghiêm trọng từng xảy ra tại đây, từ đó hang bị bỏ hoang và trở thành khu vực cấm của núi Trăm Côn.</Desc>
+		</Text>
+		<Text Name="Place_XianKong1">
+			<DisplayName>Vực Diêm Vương</DisplayName>
+			<Desc>Vực không đáy nằm trong núi Hố Địa Ngục. Nơi này giải phóng năng lượng từ trường cực mạnh, thu hút vô số thiên thạch rơi xuống. Nhờ đó, nơi đây có khoáng sản quý giá mà tu sĩ khao khát như Tinh Thạch, nhưng không dễ tìm thấy, hầu hết người đến đây tìm quặng đều trở về tay không.</Desc>
+		</Text>
+		<Text Name="Place_Hei4">
+			<DisplayName>Rừng Ngàn Gai</DisplayName>
+			<Desc>Khu rừng rậm rạp dưới chân núi Đá Đen, bao phủ bởi vô số dây leo gai. Vì nơi đây hầu như không có người hay thú qua lại, rừng đầy rẫy những cổ thụ ngàn năm. Nhờ những cổ thụ này, linh khí hệ mộc vô cùng dồi dào, là nơi hoàn hảo để tu luyện công pháp hệ mộc.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan1">
+			<DisplayName>Huyễn Hải Nguyền Rủa</DisplayName>
+			<Desc>Một hòn đảo lớn nằm gần Đảo Khoái Lạc. Trung tâm hòn đảo tràn ngập biển sương mù gọi là Biển Ảo Ảnh Nguyền Rủa. Bất cứ ai lạc vào đó sẽ chìm đắm trong thất tình lục dục, bị quá khứ đau thương ám ảnh. Nếu bất cẩn, họ có thể mắc kẹt mãi mãi trong ảo ảnh kinh hoàng đó.</Desc>
+		</Text>
+		<Text Name="Place_HeHuan2">
+			<DisplayName>Hồ Rồng Độc</DisplayName>
+			<Desc>Hồ nước sâu trên Đảo Khoái Lạc. Tương truyền, sâu dưới đáy hồ có hang Rồng Độc, chúng canh giữ con mắt suối của Địa Mạch và thường phục kích tu sĩ đi ngang qua. Cũng có lời đồn rằng hang Rồng Độc và con mắt suối chỉ là tin đồn nhảm do tông môn Khoái Lạc tung ra để đánh lạc hướng tu sĩ.</Desc>
+		</Text>
+		<Text Name="Place_Desert1">
+			<DisplayName>Vạn Thú Quán</DisplayName>
+			<Desc>Một môn phái yêu thú lớn ẩn sâu trong đại sa mạc, tách biệt với giới tu tiên hàng ngàn năm qua. Họ thường tránh sự chú ý và ẩn náu trong bóng tối. Mãi đến gần đây, khi tấm bia Long Nhai xuất hiện trên thế gian, am Vạn Yêu mới lộ diện trở lại trong giới tu tiên.</Desc>
+		</Text>
+		<Text Name="Place_Desert2">
+			<DisplayName>Sa Mạc Gương</DisplayName>
+			<Desc>Vùng đất hoang vu sâu trong đại sa mạc. Nơi này bão cát thổi quanh năm và không khí chứa đầy linh khí hệ thổ dồi dào, là nơi tuyệt vời cho tu sĩ tu luyện công pháp hệ thổ nếu họ chịu được môi trường khắc nghiệt này.</Desc>
+		</Text>
+		<Text Name="Place_Desert3">
+			<DisplayName>Động Hỏa Diệm</DisplayName>
+			<Desc>Hang động kỳ lạ ẩn sâu trong đại sa mạc, nhiệt độ bên trong cực kỳ nóng bức. Tương truyền có bảo vật thiên địa hệ hỏa ẩn giấu nơi đây.</Desc>
+		</Text>
+		<Text Name="Place_Desert4">
+			<DisplayName>Thôn Đồi Cát Than</DisplayName>
+			<Desc>Ngôi làng nhỏ nằm ở rìa đại sa mạc phía Tây. Dân làng đa số mang dòng máu yêu tộc nên tính cách cương trực, chiến đấu điên cuồng không sợ cái chết. Họ mưu sinh bằng cách săn yêu thú trong sa mạc.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest1">
+			<DisplayName>Rừng Đào Bất Tàn</DisplayName>
+			<Desc>Vốn dĩ khu rừng này có lãnh thổ vô cùng rộng lớn. Chính vì diện tích quá lớn nên trái đào không được thu hoạch, tích tụ hàng ngàn năm thối rữa tạo thành biển độc lan rộng.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest2">
+			<DisplayName>Lăng mộ Ma Đế</DisplayName>
+			<Desc>Mộ của Ma Đế, người sáng lập Ma Tông phương Nam. Lăng mộ được xây từ sắt thiên thạch khổng lồ chôn sâu dưới lòng đất, bao quanh bởi Cửu Thiên Thập Địa Diệt Thần Trận. Nếu không có mật pháp mở mộ đặc biệt, dù tu vi cao cường đến đâu, kẻ xâm nhập cũng bị giết chết ngay lập tức.</Desc>
+		</Text>
+		<Text Name="Place_SouthForest3">
+			<DisplayName>Trùng Cốc</DisplayName>
+			<Desc>Thung lũng nằm sâu trong rừng phía Nam, chủ yếu là rừng nhiệt đới dày đặc với nhiều rắn rết và côn trùng. Tuy nhiên, môi trường nóng ẩm ở đây cực kỳ thích hợp cho sự phát triển của Rễ Linh Thảo - Dây Leo Rừng. Do đó, tu sĩ thường đến đây để tìm kiếm loại rễ linh hồn thiên địa này.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield1">
+			<DisplayName>Thung lũng Băng</DisplayName>
+			<Desc>Thung lũng nằm trong vùng đất băng tuyết vĩnh cửu, hầu như không ai đặt chân đến vì thời tiết cực lạnh. Nơi này lại chứa đầy linh khí thiên nhiên dồi dào, có sâm cổ ngàn năm mọc trong thung lũng.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield2">
+			<DisplayName>Hồ Ngọc Thạch</DisplayName>
+			<Desc>Hồ nước sâu trong vùng đất băng tuyết vĩnh cửu, tương truyền dù lạnh đến đâu cũng không bao giờ đóng băng. Người ta nói rằng giữa hồ có hoa sen vàng năm màu mọc, chỉ người có cơ duyên mới tìm thấy. Mạch nước của hồ kết nối với lõi địa cầu, tạo ra năng lượng từ trường cực mạnh khiến bất kỳ ai rơi xuống hồ đều không thể thoát ra được. Tương truyền, khi Ma Đế Phó Tỳ Khổng thống trị giới tu tiên bị các vị tiên vây đánh, ông đã đến hồ này, giấu các loại bảo vật vào hộp vàng và ném xuống vùng từ trường dưới đáy hồ.</Desc>
+		</Text>
+		<Text Name="Place_Snowfield3">
+			<DisplayName>Cánh đồng Bão Tuyết</DisplayName>
+			<Desc>Vùng bình nguyên phủ đầy tuyết trải dài bất tận, nơi bão tuyết không bao giờ ngừng nghỉ. Nơi này chứa nhiều mạch quặng tinh thể băng.</Desc>
+		</Text>
+		<Text Name="Place_FertileField1">
+			<DisplayName>Thành Hàn Sơn</DisplayName>
+			<Desc>Thành nhỏ nằm phía Bắc con sông lớn.</Desc>
+		</Text>
+		<Text Name="Place_FertileField2">
+			<DisplayName>Thành Nhật Lạc</DisplayName>
+			<Desc>Thành nhỏ trên bình nguyên phía Bắc con sông. Người dân nơi đây trung thực và yêu hòa bình, đa số mưu sinh bằng nghề khai thác đá ngọc gần làng.</Desc>
+		</Text>
+		<Text Name="Place_FertileField3">
+			<DisplayName>Thôn Đại Tương</DisplayName>
+			<Desc>Ngôi làng xây dựng ven hồ. Dân làng chủ yếu làm nghề nông và đánh cá.</Desc>
+		</Text>
+		<Text Name="Place_FertileField4">
+			<DisplayName>Quế Sơn</DisplayName>
+			<Desc>Ngọn núi nổi tiếng ở phía nam con sông với phong cảnh hữu tình, khí hậu dễ chịu, và quan trọng nhất là có sản lượng linh chi vô cùng dồi dào.</Desc>
+		</Text>
+		<Text Name="Place_FertileField5">
+			<DisplayName>Lư Sơn</DisplayName>
+			<Desc>Ngọn núi nổi tiếng ở phía nam con sông có địa thế khúc khuỷu quanh co đến mức khỉ đi qua cũng phải lạc đường. Trên núi có rải rác một vài mạch khoáng linh thạch, tuy không đáng để khai thác quy mô lớn, nhưng nơi đây vẫn là địa điểm quen thuộc để các tán修 đến tìm kiếm một ít linh thạch phục vụ sinh hoạt hàng ngày. Có tin đồn rằng từng có tu sĩ cảm nhận được luồng kim khí nồng đậm tỏa ra từ sâu trong lòng núi, có lẽ nơi đây đang ẩn giấu Kim linh căn - Kim Tinh Quả.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains1">
+			<DisplayName>Xúc Thiên Sơn</DisplayName>
+			<Desc>Ngọn núi nổi tiếng được bao bọc bởi những tầng mây dày đặc nằm ở nơi thâm sơn cùng cốc thuộc Trung Nguyên, cũng vì thế mà có tên gọi là Xúc Thiên Sơn. Ngọn núi này rất giàu chu sa, nên các luyện đan sư thường xuyên lui tới đây để thu thập.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains2">
+			<DisplayName>Dược Phong</DisplayName>
+			<Desc>Nơi đây từng là địa điểm mà các Dược Tiên sử dụng để nghiên cứu việc luyện chế các loại tiên đan diệu dược khác nhau. Nhưng giờ đây, nó đã trở thành một vùng đất hoang vu chẳng còn lại mấy thứ, phần lớn linh dược trong vườn đã khô héo, chỉ còn lại linh thảo dẻo dai là có thể sinh tồn và lan rộng khắp ngọn núi. Tương truyền có một vị Dược Tiên đã bí mật trồng Thổ linh căn - Hoàng Tê Cốt ở đây, chỉ có những người có duyên mới tìm thấy được.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains3">
+			<DisplayName>Bình Đinh Sơn</DisplayName>
+			<Desc>Một ngọn núi kỳ lạ vùng ngoại ô Trung Nguyên, đỉnh núi phẳng lì như một bãi đất trống được tạo nên bởi bàn tay của chư thần. Trên đỉnh núi có khắc tên của những thiên tài kiệt xuất từ khắp nơi. Nơi đây có linh khí hệ kim cực kỳ nồng đậm, là địa điểm tuyệt vời cho các tu sĩ tu luyện công pháp hệ kim.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains4">
+			<DisplayName>Lạc Hoa Nguyên</DisplayName>
+			<Desc>Ngôi làng được xây dựng tựa lưng vào núi ở vùng thâm sơn cùng cốc Trung Nguyên. Người dân nơi đây qua nhiều thế hệ đều luyện nghề luyện đan và trồng các vườn thảo dược trên ngọn núi gần đó.</Desc>
+		</Text>
+		<Text Name="Place_CentralPlains5">
+			<DisplayName>Oa Thôn</DisplayName>
+			<Desc>Ngôi làng ở vùng nông thôn Trung Nguyên, nổi tiếng với nghề dệt may.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace11">
+			<DisplayName>Nam Bình Thôn</DisplayName>
+			<Desc>Một ngôi làng nhỏ mà người dân chủ yếu sinh sống bằng nghề nông và săn bắn.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace12">
+			<DisplayName>Vọng Nguyệt Sơn</DisplayName>
+			<Desc>Ngọn núi nhỏ nằm ở biên giới phía nam, nơi đây bao phủ bởi vô số loài cây cối thực vật, các luyện đan sư thường lên núi để thu hái các loại thảo dược cần thiết cho việc luyện đan.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace13">
+			<DisplayName>Lương Sơn</DisplayName>
+			<Desc>Ngọn núi đá màu nâu từng là mỏ đá của triều đình, nhưng sau đó đã bị bỏ hoang do chiến tranh giữa các vương quốc. Hiện tại, phần lớn dân làng sử dụng chân núi để trồng cây bông mưu sinh.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace14">
+			<DisplayName>Thông Lăng Sơn</DisplayName>
+			<Desc>Ngọn núi đá giàu tài nguyên khoáng sản kim loại, nhưng lại rất ít người đặt chân đến.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace15">
+			<DisplayName>Thái Ất Di Tích</DisplayName>
+			<Desc>Di tích tàn tích của Thái Ất Môn.</Desc>
+		</Text>
+		<Text Name="Place_BirthPlace16">
+			<DisplayName>Mặc Sắc Sa Than</DisplayName>
+			<Desc>Bãi biển với lớp cát đen như mực. Trên bờ có một lối đi bí ẩn dẫn đến hồ nước ngầm dưới lòng đất, chỉ những ai có cơ duyên may mắn mới có thể tìm thấy lối vào đó.</Desc>
+		</Text>
+	</List>
+</Texts>

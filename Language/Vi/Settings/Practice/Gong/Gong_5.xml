@@ -1,0 +1,26 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Gong_5_Tu">
+			<DisplayName>Dẫn Thiên Công</DisplayName>
+			<Desc>Thời thượng cổ, thế giới bị ép tách khỏi thiên giới. Sự kiện này khiến linh khí thiên địa trên thế gian từng dồi dào nay trở nên khô cạn, tu sĩ cũng không thể phi thăng tiên giới được nữa. Trong tuyệt vọng, có một tu sĩ có tài năng vô song không cam chịu thiên đạo đã sáng tạo ra một môn công pháp. Môn công pháp này không dựa vào linh khí của trời đất để tu luyện mà dùng sinh mệnh lực trong cơ thể để phá vỡ các cảnh giới. Do đó, công pháp này chỉ phù hợp với những người có thể chất cường tráng, hơn nữa còn phải dựa vào lượng lớn đan dược để bồi dưỡng sinh mệnh lực và kéo dài tuổi thọ nhằm đạt đến đỉnh cao của công pháp.</Desc>
+			<SelectDesc>Công pháp này cực kỳ nổi bật về mặt phòng thủ, chỉ cần người tu luyện đạt đến mức độ nhất định thì có thể dễ dàng đạt tới cảnh giới Kim Đan. Tuy nhiên, việc tu luyện công pháp này đòi hỏi rất nhiều sinh mệnh lực và tuổi thọ. Ngươi có chắc chắn muốn tu luyện công pháp này không??</SelectDesc>
+			<Stages.0.DisplayName>Thôn Huyết</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Thôn Huyết</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Ngưng khí</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Hi sinh sinh mệnh lực</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Hi sinh sinh mệnh lực</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Cường hóa</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Luyện đan</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Đoán Cốt</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Đoán Cốt</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Hợp nhất</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Ngưng Thai</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Phần Hồn</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiêu Đốt</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Thiêu đốt</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Chấp Niệm Cuối Cùng</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Chấp Niệm Cuối Cùng</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Chuyển sinh thiên giới</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

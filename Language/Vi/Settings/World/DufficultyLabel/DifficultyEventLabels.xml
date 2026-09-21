@@ -1,0 +1,280 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Lv4_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện kỳ ngộ trong thám hiểm sẽ không xuất hiện trong khoảng thời gian an toàn</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Không có thời gian an toàn</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 75 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 150 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 300 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Sau khi sự kiện kỳ ngộ trong thám hiểm xảy ra, nó sẽ không tái diễn trong khoảng thời gian tối thiểu này</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 10 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 20 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 30 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Khi không có sự kiện kỳ ngộ nào trong thám hiểm xảy ra trong khoảng thời gian định mức, sự kiện tiếp theo chắc chắn sẽ là kỳ ngộ</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 35 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 50 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 75 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Cường địch sẽ không xuất hiện trong khoảng thời gian an toàn</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 30 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 60 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 120 ngày</Values.3.Desc>
+			<Values.4.Name>Cực kỳ dài</Values.4.Name>
+			<Values.4.Desc>Thời gian an toàn: 240 ngày</Values.4.Desc>
+			<Values.5.Name>Vĩnh viễn</Values.5.Name>
+			<Values.5.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.5.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Sau khi sự kiện cường địch xuất hiện, nó sẽ không tái diễn trong khoảng thời gian tối thiểu này</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 12 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 20 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 28 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Nếu không có sự kiện cường địch nào xảy ra trong khoảng thời gian quy định, sự kiện tiếp theo chắc chắn sẽ là cường địch xuất hiện.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 30 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 40 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 50 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện hiếm sẽ không xảy ra trong thời gian an toàn.</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 25 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 50 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 100 ngày</Values.3.Desc>
+			<Values.4.Name>Cực kỳ dài</Values.4.Name>
+			<Values.4.Desc>Thời gian an toàn: 200 ngày</Values.4.Desc>
+			<Values.5.Name>Vĩnh viễn</Values.5.Name>
+			<Values.5.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.5.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi sự kiện hiếm xảy ra, nó sẽ không xuất hiện lại trong khoảng thời gian tối thiểu này.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 5 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 20 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 35 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Nếu không có sự kiện hiếm nào xảy ra trong khoảng thời gian quy định, sự kiện tiếp theo chắc chắn sẽ là sự kiện hiếm.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 40 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 55 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 70 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện bí ẩn sẽ không xảy ra trong thời gian an toàn.</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 15 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 45 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 75 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi sự kiện bí ẩn xảy ra, nó sẽ không xuất hiện lại trong khoảng thời gian tối thiểu này.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 1 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 3 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 5 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Nếu không có sự kiện bí ẩn nào xảy ra trong khoảng thời gian quy định, sự kiện tiếp theo chắc chắn sẽ là sự kiện bí ẩn.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 7 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 9 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 15 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Join_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện khách viếng thăm sẽ không xảy ra trong thời gian an toàn.</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 5 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 25 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 75 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Join_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi sự kiện khách viếng thăm xảy ra, nó sẽ không xuất hiện lại trong khoảng thời gian tối thiểu này.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 1 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 3 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 5 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Join_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Nếu không có sự kiện khách viếng thăm nào xảy ra trong khoảng thời gian quy định, sự kiện tiếp theo chắc chắn sẽ là khách viếng thăm.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 7 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 9 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 15 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện kẻ địch sẽ không xảy ra trong thời gian an toàn.</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 6 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 12 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 24 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi sự kiện kẻ địch xảy ra, nó sẽ không xuất hiện lại trong khoảng thời gian tối thiểu này.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 2 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 5 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 8 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Nếu không có sự kiện kẻ địch nào xảy ra trong khoảng thời gian quy định, sự kiện tiếp theo chắc chắn sẽ là sự kiện kẻ địch.</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 10 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 17 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 24 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện thông thường sẽ không xảy ra trong thời gian an toàn</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 5 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 15 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 60 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi một sự kiện thông thường xảy ra, nó sẽ không xảy ra lại trong khoảng thời gian tối thiểu này</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 1 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 3 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 5 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Khi không có sự kiện thông thường nào xảy ra trong khoảng thời gian định sẵn, sự kiện tiếp theo chắc chắn sẽ là sự kiện thông thường</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 6 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 8 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 10 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_ProtectTime">
+			<DisplayName>Thời gian bảo hộ</DisplayName>
+			<Desc>Sự kiện cấp cao sẽ không xảy ra trong thời gian an toàn</Desc>
+			<Values.0.Name>Không</Values.0.Name>
+			<Values.0.Desc>Sẽ không có thời gian bảo hộ</Values.0.Desc>
+			<Values.1.Name>Ngắn</Values.1.Name>
+			<Values.1.Desc>Thời gian an toàn: 5 ngày</Values.1.Desc>
+			<Values.2.Name>Trung bình</Values.2.Name>
+			<Values.2.Desc>Thời gian an toàn: 15 ngày</Values.2.Desc>
+			<Values.3.Name>Kéo dài</Values.3.Name>
+			<Values.3.Desc>Thời gian an toàn: 60 ngày</Values.3.Desc>
+			<Values.4.Name>Vĩnh viễn</Values.4.Name>
+			<Values.4.Desc>Sự kiện sẽ không bao giờ xuất hiện trong suốt trò chơi</Values.4.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMin">
+			<DisplayName>Khoảng cách tối thiểu</DisplayName>
+			<Desc>Khi một sự kiện cấp cao xảy ra, nó sẽ không xảy ra lại trong khoảng thời gian tối thiểu này</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối thiểu: 3 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối thiểu: 7 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối thiểu: 11 ngày</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMax">
+			<DisplayName>Khoảng cách tối đa</DisplayName>
+			<Desc>Khi không có sự kiện cấp cao nào xảy ra trong khoảng thời gian định sẵn, sự kiện tiếp theo chắc chắn sẽ là sự kiện cấp cao</Desc>
+			<Values.0.Name>Ngắn</Values.0.Name>
+			<Values.0.Desc>Khoảng cách tối đa: 15 ngày</Values.0.Desc>
+			<Values.1.Name>Trung bình</Values.1.Name>
+			<Values.1.Desc>Khoảng cách tối đa: 20 ngày</Values.1.Desc>
+			<Values.2.Name>Kéo dài</Values.2.Name>
+			<Values.2.Desc>Khoảng cách tối đa: 25 ngày</Values.2.Desc>
+		</Text>
+	</List>
+</Texts>

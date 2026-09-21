@@ -1,0 +1,113 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="Item_Dice" sParam="Item">
+			<ThingName>Xúc xắc</ThingName>
+			<Desc>Một đôi xúc xắc dùng để giải trí và cải thiện tâm trạng lúc rảnh rỗi, nhưng sẽ làm giảm hiệu suất làm việc.</Desc>
+			<Item.FabaoSuffix>Xúc xắc</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_SmallBell" sParam="Item">
+			<ThingName>Chuông</ThingName>
+			<Desc>Một chiếc chuông nhỏ mang theo bên mình giúp nâng cao tâm trạng và thu hút sự chú ý của người khác, khiến họ hứng thú trò chuyện với Người hơn.</Desc>
+			<Item.FabaoSuffix>Chuông</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Bracelet" sParam="Item">
+			<ThingName>Vòng tay</ThingName>
+			<Desc>Đeo đôi vòng tay giúp Người trông quyến rũ hơn.</Desc>
+			<Item.FabaoSuffix>Vòng tay, chạm khắc</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Handkerchief" sParam="Item">
+			<ThingName>Khăn tay</ThingName>
+			<Desc>Khăn tay, mang theo bên mình sẽ giúp Người trông như một quân tử trong mắt người khác.</Desc>
+			<Item.FabaoSuffix>Khăn tay, tơ lụa, dệt may</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_PerfumeBag" sParam="Item">
+			<ThingName>Túi thơm</ThingName>
+			<Desc>Túi nhỏ đựng thảo dược và hương liệu, giúp cải thiện tâm trạng khi đệ tử nội môn mang theo.</Desc>
+			<Item.FabaoSuffix>Túi</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WhiteHair" sParam="Item">
+			<ThingName>Bi thương khúc</ThingName>
+			<Desc>Tập thơ về nỗi buồn được sưu tập thành sách. Nỗi buồn bi thiết sẽ khiến người mang nó bị nhuốm màu tang thương đến mức tóc chuyển thành màu trắng, điều này lại vô tình tăng thêm vẻ cuốn hút cho người đeo.</Desc>
+			<Item.FabaoSuffix>Quyển, sách, thẻ tre, cuộn sách</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+			<ThingName>Thế giới tươi đẹp</ThingName>
+			<Desc>Chiếc hộp từ thế giới khác, đắm chìm vào trò chơi vui nhộn và đầy ấn tượng.</Desc>
+			<Item.FabaoSuffix>Hòm Đựng</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+			<ThingName>Tâm tĩnh lặng</ThingName>
+			<Desc>Bảo vật được luyện thành từ lời cầu nguyện của phàm nhân với ước nguyện một đời bình an hạnh phúc.</Desc>
+			<Item.FabaoSuffix>Tim</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+			<ThingName>Đông Phương Thần Châm</ThingName>
+			<Desc>Vật này vốn là phi kiếm thần thông của một vị tiên nhân. Dù nó đã mất đi toàn bộ linh lực trong quá trình luân hồi cùng chủ nhân, nhưng bản chất phi phàm của nó vẫn còn lưu lại.</Desc>
+			<Item.FabaoSuffix>Châm</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+			<ThingName>Bạch ngọc</ThingName>
+			<Desc>Mảnh thạch bích trắng do Bạch Mộc Tiên nhân để lại. Dù thoạt nhìn vô cùng bình thường, nhưng nó có thể gia tăng đáng kể độ bền bỉ tự nhiên của người mặc.</Desc>
+			<Item.FabaoSuffix>Đá</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+			<ThingName>Bức tranh Tứ Mùa</ThingName>
+			<Desc>Một bức đồ hình thần bí ẩn chứa sức mạnh to lớn, được để lại bởi Thanh Liên Tiên nhân. Người mang nó có thể sử dụng linh khí tự nhiên để xoay chuyển bốn mùa trong vũ trụ vô tận nhằm che giấu thiên cơ, qua đó trốn tránh thiên kiếp trong vòng 9 năm. Nếu trong khoảng thời gian này không mang theo bức tranh Tứ Mùa bên người, thiên kiếp sẽ lập tức giáng xuống kẻ đó.</Desc>
+			<Item.FabaoSuffix>Hình ảnh</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Other_PuppetTest" sParam="Item">
+			<ThingName>Khôi lỗi</ThingName>
+			<Desc>Khôi lỗi đồn đại là được tạo ra bằng cách sử dụng bí pháp truyền chân khí vào con rối để điều khiển theo ý muốn, dựa trên phương pháp có trong công pháp Thập Lục Bộ Sơ Tiên.</Desc>
+			<Item.FabaoSuffix>Khôi lỗi</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Yao_RabbitLuck" sParam="Item">
+			<ThingName>Chân thỏ yêu</ThingName>
+			<Desc>Tương truyền rằng nó sẽ mang lại may mắn cho người mang theo.</Desc>
+		</Text>
+		<Text Name="Item_Yao_WolfAtk" sParam="Item">
+			<ThingName>Nanh sói yêu</ThingName>
+			<Desc>Nanh yêu lang còn nguyên vẹn, chứa đầy tà khí. Đeo nó sẽ gia tăng mạnh mẽ uy lực của pháp bảo.</Desc>
+		</Text>
+		<Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+			<ThingName>Vảy rắn yêu</ThingName>
+			<Desc>Vảy yêu xà bên trong ngưng tụ nồng đậm âm khí, giúp người mang theo có khả năng chịu nhiệt tốt hơn, đồng thời còn giúp nâng cao tâm cảnh.</Desc>
+		</Text>
+		<Text Name="Item_Yao_BearPiMao" sParam="Item">
+			<ThingName>Lông gấu rừng yêu</ThingName>
+			<Desc>Lông cứng vùng cổ yêu trư bên trong mang theo nồng đậm dương khí, giúp người mang theo chống chọi với cái lạnh tốt hơn, đồng thời còn giúp gia tăng tốc độ tu luyện.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TurtleKe" sParam="Item">
+			<ThingName>Mai rùa khổng lồ</ThingName>
+			<Desc>Mai cự quy vô cùng cứng cáp. Đeo nó sẽ gia tăng mạnh mẽ khả năng kháng sát thương chân khí.</Desc>
+		</Text>
+		<Text Name="Item_Yao_TigerZhui" sParam="Item">
+			<ThingName>Xương hổ yêu</ThingName>
+			<Desc>Xương của mãnh thú mang theo uy lực bá đạo. Đeo nó sẽ gia tăng mị lực và đạo chủng cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_Yao_CattleJiao" sParam="Item">
+			<ThingName>Sừng bò yêu</ThingName>
+			<Desc>Sừng kiên cố của yêu ngưu. Đeo nó sẽ gia tăng thể chất cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_Yao_ChickenGuan" sParam="Item">
+			<ThingName>Kim mão</ThingName>
+			<Desc>Mào gà trân quý mà yêu kê đã hấp thụ tinh hoa thái dương vào trong. Đeo nó sẽ gia tăng sự minh mẫn cho người mặc.</Desc>
+		</Text>
+		<Text Name="Item_StoneCutter" sParam="Item">
+			<ThingName>Dao cắt đá</ThingName>
+			<Desc>Cây dao vô cùng cùn, vốn là dao dùng để khai khoáng. Nó có thể gia tăng tốc độ xây dựng cho ngoại môn đệ tử.</Desc>
+		</Text>
+		<Text Name="Item_SewingDefender" sParam="Item">
+			<ThingName>Bao tay may vá</ThingName>
+			<Desc>Tuy trông như bao tay bình thường, nhưng nó có thể tăng tốc công việc may vá nhờ hỗ trợ lực ở khuỷu tay.</Desc>
+		</Text>
+		<Text Name="Item_MillVell" sParam="Item">
+			<ThingName>Mặt nạ</ThingName>
+			<Desc>Chiếc mặt nạ khiến không ai nhận ra Người khi che mặt, nhờ đó Người có thể nhào bột hoặc tăng tốc các công việc thủ công khác mà không ai biết Người làm tốt hay không.</Desc>
+		</Text>
+		<Text Name="Item_Sys_RanSeYu" sParam="Item">
+			<ThingName>Nhiễm ngọc</ThingName>
+			<Desc>Một loại ngọc đặc biệt. Khi kích hoạt bằng cách niệm chú, nó sẽ biến thành khói bám vào mục tiêu khiến việc phát hiện trở nên cực kỳ khó khăn. Tuy nhiên, người thi triển vẫn có thể cảm nhận được tung tích của nó.</Desc>
+			<Item.FabaoSuffix>Ngọc</Item.FabaoSuffix>
+		</Text>
+	</List>
+</Texts>

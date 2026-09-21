@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Texts Type="Other">
+	<List>
+		<Text Name="Wall">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="Barrier">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="Barrier2">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="Door">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="WoodRoof">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="StoneRoof">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="Door_WanYao">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="YaoRoof">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival">
+			<Type>Kiến trúc</Type>
+		</Text>
+		<Text Name="Bed">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="Table">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="SmallTable">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="DoubleBed">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="WaterTank">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="Building_Tomb">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="Building_BigTomb">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="Building_ShuZhuangTai">
+			<Type>Vật dụng</Type>
+		</Text>
+		<Text Name="MaterialWorkPlace">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="WorkPlace">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="PuppetPlace">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="Bonfire">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="Well">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="Kitchen">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="HandWorkTable">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="WoodShed">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="StoneMaker">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="MedicineTable">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="WeaponMaker">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="Furnace">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="MillStone">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="TailorTable">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="TextileTable">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="CalligraphyTable">
+			<Type>Công việc</Type>
+		</Text>
+		<Text Name="BasePracticePlace">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="ExploreBackPlace">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="TrainingDummy">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="FengShui">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="RefiningCushion">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="DanStove">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu2">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Cushion">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="TheGate">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_SacrificialTable">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_Zhong">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Build_KunLunFang">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Build_BaiManFang">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Build_WanYaoMen">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_Spring2021_1">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="SmallPool">
+			<Type>Tông môn</Type>
+		</Text>
+		<Text Name="Candlestick">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern1">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern3">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern4">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern5">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern6">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="StreetLight">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="StreetLight1">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="StreetLight2">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Lantern_S1">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_DiMuJiDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_QingShaDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_HuangLongDengTai">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_LianHuaDengTai">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_XieXiDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_KuLouDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_XiongKuiDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_YaoHuoPen">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_ChangMingDeng">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_2">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_3">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_4">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_5">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_6">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_7">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_8">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_9">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_Spring2021_10">
+			<Type>Vật trang trí</Type>
+			<Label>Đèn trang trí</Label>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_SmallTripod">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_SmallCenser">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_BigVase">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_SmallVase">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_MoWenHuaPing">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_Screen1">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_XiePingFeng">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_BookShelf">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_ShaZhang1">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_ShaZhang2">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_JuXingXiangLu">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_HuoDing">
+			<Type>Vật trang trí</Type>
+			<Label>Nội thất</Label>
+		</Text>
+		<Text Name="Building_JiaShan1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_PenZai1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_PenZai2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_KuLouHuaPing">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi3">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi4">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi5">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_QiShi6">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5">
+			<Type>Vật trang trí</Type>
+			<Label>Đồ trang trí vườn</Label>
+		</Text>
+		<Text Name="Building_LingShu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LingShu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LingShu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LingShu4">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LingShu5">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LingShu6">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu4">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_TaoShu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_TaoShu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_TaoShu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu4">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu5">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_YuShu6">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu4">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu5">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_GuMu6">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu3">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_LuoTuoCao">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_CongRong1">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_CongRong2">
+			<Type>Vật trang trí</Type>
+			<Label>Cây hiếm</Label>
+		</Text>
+		<Text Name="Building_Flag1">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_Flag2">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_Flag3">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_Gu">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_ShiBei">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_Tower2">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_Tower">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_LingDiShuiChi">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_LianFaTan">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YanDiTai">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_TengLongZhu">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_JianYiFuDiao">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_ShuiLianTai">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_DiMuMiXue">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_QiShaJianZhu">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_QingTongFanQi">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_DiMuJiQi">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi1">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian1">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian2">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian3">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_TianSheQi">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_JuXingShouGu">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_LongXingYuanPan">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YaoShouDing">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_YaoZuXingJia">
+			<Type>Vật trang trí</Type>
+			<Label>Phong cảnh</Label>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_StoneLion">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_StoneLion2">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_StoneLion3">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_Statue1">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_Statue2">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_Statue3">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_DiMuKuiShou">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang">
+			<Type>Vật trang trí</Type>
+			<Label>Pho tượng</Label>
+		</Text>
+		<Text Name="Building_SleeveSpace">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_SleeveSpace1">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our">
+			<Type>Pháp bảo thần kỳ</Type>
+		</Text>
+		<Text Name="TicTacToe">
+			<Type>Trò chơi giải trí</Type>
+		</Text>
+		<Text Name="CageShelf">
+			<Type>Trò chơi giải trí</Type>
+		</Text>
+		<Text Name="GoTable">
+			<Type>Trò chơi giải trí</Type>
+		</Text>
+		<Text Name="GuzhengTable">
+			<Type>Trò chơi giải trí</Type>
+		</Text>
+		<Text Name="Firecracker">
+			<Type>Trò chơi giải trí</Type>
+		</Text>
+		<Text Name="RemoveFloor">
+			<Type>Lót nền</Type>
+			<Display>Tháo dỡ sàn</Display>
+			<Desc>[color=#0000FF]Phá dỡ sàn[/color]([keycode]RemoveFloor[/keycode])\nPhá hủy toàn bộ khu vực đã bố trí \nLoại công việc: Xây dựng</Desc>
+		</Text>
+		<Text Name="Carpet1">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor30">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor31">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor32">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor33">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor1">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor2">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor3">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor4">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor5">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor6">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor7">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor8">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor9">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor10">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor11">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor12">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor13">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor14">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor15">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor16">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor17">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor18">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor19">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor20">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor21">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor22">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor23">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor24">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor25">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor26">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor27">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor28">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="Floor29">
+			<Type>Lót nền</Type>
+		</Text>
+		<Text Name="LsDogHouse">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LsDog_Carve">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LsFox_Carve">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LsDragon_Carve">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LsPhoenix_Carve">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LingShouShitPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSEnemyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSVistorCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="LSMortalCarryPlace">
+			<Type>Linh thú</Type>
+		</Text>
+		<Text Name="AreaStorage">
+			<Type>Khu vực</Type>
+			<Display>Túi trữ vật</Display>
+			<Desc>Kéo thả để tạo khu vực kho chứa, nhân vật sẽ mang vật phẩm đến cất giữ tại khu vực được chỉ định \nLoại công việc: Lao động</Desc>
+		</Text>
+		<Text Name="AreaPlant">
+			<Type>Khu vực</Type>
+			<Display>Linh điền</Display>
+			<Desc>Kéo thả để tạo khu vực canh tác, nhân vật sẽ tiến hành trồng trọt linh dược, linh thực tại đây \nLoại công việc: Nông nghiệp</Desc>
+		</Text>
+		<Text Name="DiscipleAreaPlant">
+			<Type>Khu vực</Type>
+			<Display>Dược viên</Display>
+			<Desc>Kéo thả để tạo dược viên, nhân vật sẽ tiến hành gieo trồng dược liệu tại đây \nLoại công việc: Nông nghiệp</Desc>
+		</Text>
+		<Text Name="AreaBreeding">
+			<Type>Khu vực</Type>
+			<Display>Bãi chăn thả</Display>
+			<Desc>Kéo thả để tạo bãi chăn nuôi, yêu thú và linh thú hoang dã sẽ được đưa về đây nuôi dưỡng</Desc>
+		</Text>
+		<Text Name="AreaTrade">
+			<Type>Khu vực</Type>
+			<Display>Khu vực giao dịch</Display>
+			<Desc>Kéo thả để tạo khu vực giao thương</Desc>
+		</Text>
+		<Text Name="RemoveStorageArea">
+			<Type>Khu vực</Type>
+			<Display>Hủy khu vực kho chứa</Display>
+			<Desc>Tiến hành hủy khu vực kho chứa</Desc>
+		</Text>
+		<Text Name="RemovePlantArea">
+			<Type>Khu vực</Type>
+			<Display>Hủy khu vực canh tác</Display>
+			<Desc>Tiến hành hủy khu vực canh tác</Desc>
+		</Text>
+		<Text Name="RemoveDiscipleAreaPlant">
+			<Type>Khu vực</Type>
+			<Display>Hủy dược viên</Display>
+			<Desc>Tiến hành hủy dược viên</Desc>
+		</Text>
+		<Text Name="RemoveAreaBreeding">
+			<Type>Khu vực</Type>
+			<Display>Hủy bãi chăn nuôi</Display>
+			<Desc>Tiến hành hủy bãi chăn nuôi</Desc>
+		</Text>
+		<Text Name="RemoveAreaTrade">
+			<Type>Khu vực</Type>
+			<Display>Hủy khu vực giao thương</Display>
+			<Desc>Tiến hành hủy khu vực giao thương</Desc>
+		</Text>
+		<Text Name="AreaTang">
+			<Type>Khu vực</Type>
+			<Display>Khu vực chi nhánh</Display>
+			<Desc>Kéo thả để tạo khu vực phân đà, nhân vật sẽ nhận được bonus effect tại phân đà của bản thân</Desc>
+		</Text>
+		<Text Name="RemoveTangArea">
+			<Type>Khu vực</Type>
+			<Display>Hủy khu vực phân đà</Display>
+			<Desc>Tiến hành hủy khu vực phân đà</Desc>
+		</Text>
+		<Text Name="FillSoil">
+			<Type>Khu vực</Type>
+		</Text>
+		<Text Name="FillShallowWater">
+			<Type>Khu vực</Type>
+		</Text>
+		<Text Name="FillFertileSoil">
+			<Type>Khu vực</Type>
+		</Text>
+		<Text Name="BlueprintCreat">
+			<Type>Bản vẽ</Type>
+			<Label>Tất cả</Label>
+			<Display>Tạo bản thiết kế</Display>
+			<Desc>Tạo bản thiết kế kiến trúc</Desc>
+		</Text>
+		<Text Name="_BlueprintCreat">
+			<Type>Blueprint</Type>
+			<Label>Default Blueprint</Label>
+			<Display>Create Blueprint</Display>
+			<Desc>Create Building Blueprint</Desc>
+		</Text>
+		<Text Name="MyBlueprintCreat">
+			<Type>Bản vẽ</Type>
+			<Label>Bản thiết kế của ta</Label>
+			<Display>Tạo bản thiết kế</Display>
+			<Desc>Tạo bản thiết kế kiến trúc</Desc>
+		</Text>
+		<Text Name="Harvest">
+			<Display>Thu hoạch</Display>
+			<Desc>[color=#0000FF]Thu hoạch linh thực[/color]([keycode]Harvest[/keycode])\nThu hoạch linh thực, rau củ, quả \nLoại công việc: Nông nghiệp</Desc>
+		</Text>
+		<Text Name="Log">
+			<Display>Chặt gỗ</Display>
+			<Desc>[color=#0000FF]Chặt gỗ[/color]([keycode]Log[/keycode])\nĐốn củi để thu thập gỗ \nLoại công việc: Thợ mộc</Desc>
+		</Text>
+		<Text Name="Mine">
+			<Display>Đào khoáng</Display>
+			<Desc>[color=#0000FF]Đào khoáng[/color]([keycode]Mine[/keycode])\nKhai thác mỏ để nhận đá và quặng. \nLoại công việc: Khai khoáng</Desc>
+		</Text>
+		<Text Name="Cutoff">
+			<Display>Loại bỏ</Display>
+			<Desc>[color=#0000FF]Dọn dẹp khu vực[/color]([keycode]Cutoff[/keycode])\nLàm sạch khu vực \nLoại công việc: Thợ mộc</Desc>
+		</Text>
+		<Text Name="Dismantle">
+			<Display>Phá hủy</Display>
+			<Desc>[color=#0000FF]Phá hủy kiến trúc[/color]([keycode]Dismantle[/keycode])\nPhá hủy công trình đã chọn \nLoại công việc: Xây dựng</Desc>
+		</Text>
+		<Text Name="Explore">
+			<Display>Khám phá</Display>
+			<Desc>[color=#0000FF]Thám hiểm khu vực[/color]([keycode]Explore[/keycode])\nTiến hành thám hiểm khu vực bị hắc vụ bao phủ, nhân vật sẽ tiêu hao chân khí nhiều hơn bình thường khi thám hiểm \nLoại công việc: Săn bắn</Desc>
+		</Text>
+		<Text Name="Hunting">
+			<Display>Săn</Display>
+			<Desc>[color=#0000FF]Săn bắt dã thú[/color]([keycode]Hunting[/keycode])\nSăn bắt và mổ xẻ yêu thú, dã thú \nLoại công việc: Săn bắn</Desc>
+		</Text>
+		<Text Name="Melting">
+			<Display>Luyện</Display>
+			<Desc>[color=#0000FF]Luyện hóa vật phẩm[/color] ([keycode]Melting[/keycode])\nĐệ tử nội môn sẽ luyện hóa vật phẩm chỉ định thành linh thạch \nMỗi 5,000 linh khí ẩn chứa trong vật phẩm sẽ chuyển hóa thành 1 linh thạch\nNếu vật phẩm đó là pháp bảo, cấp bậc của nó càng cao thì lượng linh thạch nhận được càng nhiều</Desc>
+		</Text>
+		<Text Name="CancelCMD">
+			<Display>Hủy</Display>
+			<Desc>[color=#0000FF]Hủy lệnh[/color] ([keycode]CancelCMD[/keycode])\nHủy lệnh trong khu vực đã định</Desc>
+		</Text>
+		<Text Name="ClearPlant">
+			<Display>Trồng trọt</Display>
+			<Desc>[color=#0000FF]Remove Plant[/color]\nThu hoạch toàn bộ linh thảo về khu vực đã định</Desc>
+		</Text>
+		<Text Name="ClearMine ">
+			<Display>Đào khoáng</Display>
+			<Desc>[color=#0000FF]Remove Ore[/color]\nHủy khai thác khoáng sản trong khu vực đã định</Desc>
+		</Text>
+		<Text Name="ClearBuilding">
+			<Display>Phá hủy</Display>
+			<Desc>[color=#0000FF]Demolish Building[/color]\nPhá hủy kiến trúc đã chọn</Desc>
+		</Text>
+		<Text Name="ClearFloor">
+			<Display>Lót nền</Display>
+			<Desc>[color=#0000FF]Remove Floorboards[/color]\nPhá hủy nền móng trong khu vực đã chọn</Desc>
+		</Text>
+		<Text Name="ClearItem">
+			<Display>Xóa</Display>
+			<Desc>[color=#0000FF]Remove Item[/color]\nHủy chọn vật phẩm trong khu vực đã định</Desc>
+		</Text>
+		<Text Name="ReBuilding">  
+			<Display>Tái tạo</Display>  
+			<Desc>[color=#0000FF]Xây dựng lại kiến trúc[/color]\nXây dựng lại toàn bộ kiến trúc trong khu vực\nLoại công việc: Xây dựng</Desc>  
+		</Text>  
+		<Text Name="ItemBan">  
+			<Display>Cấm</Display>  
+			<Desc>[color=#0000FF]Cấm sử dụng vật phẩm[/color]\nHủy/Bật cấm vật phẩm, tùy thuộc vào việc vật phẩm đầu tiên trong khu vực được chọn có đang bị cấm hay không</Desc>  
+		</Text>  
+		<Text Name="Dismantle2">  
+			<Display>Tái tạo</Display>  
+			<Desc>[color=#0000FF]Sửa chữa kiến trúc[/color] ([keycode]Dismantle[/keycode])\nSửa chữa kiến trúc trong khu vực đã định \nLoại công việc: Xây dựng</Desc>  
+		</Text>  
+		<Text Name="CancelCMD2">  
+			<Display>Cấm</Display>  
+			<Desc>[color=#0000FF]Cấm[/color] ([keycode]CancelCMD[/keycode])\nHủy hoặc chọn lệnh cấm chạm vào vật thể, tùy thuộc vào việc vật thể đó có đang bị cấm hay không</Desc>  
+		</Text>  
+	</List>  
+</Texts>

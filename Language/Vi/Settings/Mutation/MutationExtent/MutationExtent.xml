@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Mutation_Extent_Shallow">
+			<DisplayName>Hỗn loạn</DisplayName>
+			<Desc>Hiệu quả của Hỗn Độn sẽ biến mất sau khi số lần kích hoạt kết thúc</Desc>
+			<ExpireDesc>{0} Lần</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Middle">
+			<DisplayName>Âm Dương</DisplayName>
+			<Desc>Hiệu quả của Hỗn Độn sẽ tan biến sau 112 ngày</Desc>
+			<ExpireDesc>{0} Ngày</ExpireDesc>
+		</Text>
+		<Text Name="Mutation_Extent_Deep">
+			<DisplayName>Cố định</DisplayName>
+			<Desc>Hiệu quả của Hỗn Độn sẽ tồn tại vĩnh viễn trong thế giới này</Desc>
+			<ExpireDesc>Vĩnh viễn</ExpireDesc>
+		</Text>
+	</List>
+</Texts>

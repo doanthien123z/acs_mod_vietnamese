@@ -1,0 +1,187 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GodCity_Housing">
+			<DisplayName>Thần điện</DisplayName>
+			<Desc>Kiến trúc được xây dựng để làm nơi cư ngụ cho cư dân trong thần giới, tăng số lượng tối đa cư dân thần giới</Desc>
+		</Text>
+		<Text Name="GodCity_Guard">
+			<DisplayName>Hộ vệ thần điện</DisplayName>
+			<Desc>Cơ sở được xây dựng để thờ phụng hộ vệ. Người tu luyện thần đạo có thể nhận được ban phước từ hộ vệ để nâng cao năng lực bản thân</Desc>
+		</Text>
+		<Text Name="GodCity_FaithWay">
+			<DisplayName>Đền Kỳ Tích</DisplayName>
+			<Desc>Mỗi thần điện có thể liên lạc với thần tượng tại thành trì do người đại diện tông môn cai quản. Nhờ năng lực này, thần tu có thể thu thập tín ngưỡng từ tín đồ thông qua thần tượng bất cứ lúc nào, đồng thời còn có thể dùng chúng làm vật trung gian thi pháp.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoRateUp">
+			<DisplayName>Thánh Bảo Các</DisplayName>
+			<Desc>Lâu các được dựng nên từ sức mạnh tín ngưỡng, có thể cụ thể hóa sức mạnh thánh bảo của thần tu trong thần giới. Nâng cấp Thánh Bảo Các sẽ đồng thời gia tăng uy lực của thánh bảo.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd1">
+			<DisplayName>TBC: Phong Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng phong vân chi lực cho thánh bảo, giúp nó trở nên linh hoạt và nhã nhặn hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd2">
+			<DisplayName>TBC: Trọng Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng trọng lượng của thánh bảo lên gấp ngàn lần, giúp uy lực của nó càng thêm mãnh liệt.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd3">
+			<DisplayName>TBC: Ý Chí Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng sức mạnh ý chí cho thánh bảo, giúp nó càng thêm kiên cố bền bỉ.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd4">
+			<DisplayName>TBC: Nhu Hòa Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng nhu hòa chi lực cho thánh bảo, giúp nó dẻo dai và bền bỉ hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd5">
+			<DisplayName>TBC: Đao Nhẫn Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng đao nhẫn chi lực cho thánh bảo, giúp nó càng thêm sắc bén.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd6">
+			<DisplayName>TBC: Đế Vương Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Điện, có thể tăng sức mạnh đế vương cho thánh bảo, khiến nó có sức mạnh hủy diệt lớn hơn</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd7">
+			<DisplayName>TBC: Khiêm Nhượng Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng khiêm nhượng chi lực cho thánh bảo, giúp nó thu nhỏ kích thước và khó bị phát hiện hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd8">
+			<DisplayName>TBC: Lôi Đình Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Điện, có thể tăng sức mạnh Thiên Lôi cho thánh bảo, khiến nó ẩn chứa sức mạnh vô biên của sấm sét trên trời</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd9">
+			<DisplayName>TBC: Vạn Linh Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng vạn linh chi lực cho thánh bảo, giúp nó có uy lực thâm hậu và nền tảng vững chắc.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd10">
+			<DisplayName>TBC: Phong Bạo Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng phong bạo chi lực cho thánh bảo, giúp tăng tốc độ cực đại, cho phép người dùng di chuyển vạn dặm chỉ trong chớp mắt.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd11">
+			<DisplayName>TBC: Thần Lực Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng thần lực cho thánh bảo, khiến nó sở hữu uy năng không ai có thể cản phá.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd1">
+			<DisplayName>TBC: Ngũ Độc Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng ngũ độc chi lực cho thánh bảo. Mỗi 36 lần tấn công, nó sẽ tự động tấn công kẻ thù, có khả năng xuyên giáp chân khí và gây thêm sát thương.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Sau mỗi 36 lần tấn công, nó sẽ tự động tấn công kẻ địch, có khả năng xuyên giáp chân khí và gây thêm sát thương</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd2">
+			<DisplayName>TBC: Thánh Linh Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Điện, có thể tăng sức mạnh tâm linh thần thánh cho thánh bảo. Sau mỗi 18 lần tấn công, nó sẽ tự động niệm chú vào kẻ địch</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 18 lần tấn công, nó sẽ tự động thi triển thuật pháp lên kẻ thù.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd3">
+			<DisplayName>TBC: Thánh Giáp Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Điện, có thể tăng sức mạnh giáp thần thánh cho thánh bảo, nâng giáp chân khí lên 3 cấp</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Nâng cấp giáp chân khí lên 3 cấp.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd4">
+			<DisplayName>TBC: Thánh Pháp Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Điện, có thể tăng sức mạnh pháp thuật thần thánh cho thánh bảo, nâng pháp lực lên 3 cấp</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Nâng cấp pháp lực chân khí lên 3 cấp.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd5">
+			<DisplayName>TBC: Thánh Kỹ Các</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng thánh kỹ chi lực cho thánh bảo, nâng kỹ năng pháp bảo lên 3 cấp.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Tăng kỹ năng pháp bảo lên 3 cấp</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd6">
+			<DisplayName>TBC: Các Quy Hồn</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng khả năng Quy Hồn cho Thánh Bảo, 3% sát thương gây ra sẽ được dùng để hồi phục chân khí cho pháp bảo.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>3% Sát thương gây ra sẽ được dùng để hồi phục chân khí cho pháp bảo</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd7">
+			<DisplayName>TBC: Các Thánh Linh</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng sức mạnh Thánh Linh cho Thánh Bảo, mỗi 18 lần tấn công sẽ triệu hồi Thánh Linh Kiếm tồn tại trong 15 giây.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 18 lần tấn công sẽ triệu hồi Thánh Linh Kiếm tồn tại trong 15 giây.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd8">
+			<DisplayName>TBC: Các Thánh Khí</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng sức mạnh Thánh Khí cho Thánh Bảo, mỗi 7 lần tấn công sẽ giảm thời gian hồi chiêu của các kỹ năng đi 1 giây.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Mỗi 7 lần tấn công sẽ giảm thời gian hồi chiêu của các kỹ năng đi 1 giây.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd9">
+			<DisplayName>TBC: Các Cửu Thiên</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng sức mạnh Cửu Thiên cho Thánh Bảo, khi gây sát thương có 4% tỷ lệ gây sát thương gấp 9 lần lên kẻ địch.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Khi gây sát thương có 4% tỷ lệ gây sát thương gấp 9 lần lên kẻ địch.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd10">
+			<DisplayName>TBC: Các Vô Biên</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng sức mạnh Vô Biên cho Thánh Bảo, uy lực đòn đánh đầu tiên tăng gấp 3 lần và sẽ làm mới khi nạp đầy chân khí cho pháp bảo.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Uy lực đòn đánh đầu tiên tăng gấp 3 lần và sẽ làm mới khi nạp đầy chân khí cho pháp bảo.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd11">
+			<DisplayName>TBC: Các Phong Phá Thiên</DisplayName>
+			<Desc>Một phần của Thánh Bảo Các, có thể gia tăng khả năng Phong Phá Thiên cho Thánh Bảo, gây sát thương bằng 1.25 lần khi tấn công vào cơ thể kẻ địch.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Gây sát thương bằng 1.25 lần khi tấn công vào cơ thể kẻ địch.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_WishTree">
+			<DisplayName>Kỳ Nguyện Thụ</DisplayName>
+			<Desc>Cây ngưng tụ nguyện vọng của phàm nhân, có thể dùng chân khí khấn nguyện để giảm nhẹ "Thần Trí".</Desc>
+		</Text>
+		<Text Name="GodCity_XinyangShendian">
+			<DisplayName>Tín Ngưỡng Điện</DisplayName>
+			<Desc>Điện thờ thu thập tín ngưỡng của chúng sinh khắp cõi, có thể tăng hiệu suất tạo ra sức mạnh tín ngưỡng của Thần Địa.</Desc>
+		</Text>
+		<Text Name="GodCity_LiuLiShenDian">
+			<DisplayName>Hộ Thiên Điện</DisplayName>
+			<Desc>Điện thờ không ngừng truyền lực lượng cho Hộ Pháp Thần Địa, giúp tăng thêm năng lực của người tu Thần Đạo thông qua Hộ Pháp Thần Địa.</Desc>
+		</Text>
+		<Text Name="GodCity_ThunderDefend">
+			<DisplayName>Thiên Cung</DisplayName>
+			<Desc>Ngưng tụ sức mạnh tín ngưỡng để xoa dịu cơn giận của thiên đạo, giúp giảm uy lực của Thiên Phạt ở mức độ nhất định.</Desc>
+		</Text>
+		<Text Name="GodCity_FengShenTai">
+			<DisplayName>Hộ Pháp Tế Đàn</DisplayName>
+			<Desc>Nơi chư thần ban phân thần lực, biến những cuồng tín đồ đạt 100% độ tín ngưỡng thành Hộ Pháp Thần Địa.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_A">
+			<DisplayName>Kim Điện</DisplayName>
+			<Desc>Tăng số lượng tối đa cuồng tín đồ</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_B">
+			<DisplayName>Mộc Điện</DisplayName>
+			<Desc>Tăng số lượng tối đa cuồng tín đồ</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_C">
+			<DisplayName>Thủy Điện</DisplayName>
+			<Desc>Tăng số lượng tối đa cuồng tín đồ</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_D">
+			<DisplayName>Hỏa Điện</DisplayName>
+			<Desc>Tăng số lượng tối đa cuồng tín đồ</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_E">
+			<DisplayName>Địa Điện</DisplayName>
+			<Desc>Tăng số lượng tối đa cuồng tín đồ</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2">
+			<DisplayName>Thần Tiên Điện</DisplayName>
+			<Desc>Thần điện cấp cao, có thể dung nạp nhiều cư dân Thần Địa hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2_2">
+			<DisplayName>Thánh Thần Điện</DisplayName>
+			<Desc>Thần điện cấp cao, có thể dung nạp nhiều cư dân Thần Địa hơn.</Desc>
+		</Text>
+		<Text Name="GodCity_HongChenKuHai">
+			<DisplayName>Khổ Hải</DisplayName>
+			<Desc>Dẫn dắt nỗi khổ đau của vạn vật thế gian vào Thần Địa, khiến "Thần Trí" giảm đáng kể.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_1">
+			<DisplayName>Hợp Tâm Các</DisplayName>
+			<Desc>Ban tặng thần chú theo các cảnh giới sau: Cảnh giới 1, Cảnh giới 2, Cảnh giới 3 : Thần chú Triệu Hồi Thần, Thần chú Thiên Ban Phúc, Thần chú Nhất Tâm Tín Cường. Trong một khoảng thời gian, gia tăng sản lượng vật liệu cơ bản tại khu vực mà người đang chiếm giữ.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_2">
+			<DisplayName>Tâm Linh Các</DisplayName>
+			<Desc>Ban tặng thần chú Cảnh giới 1 - Thần chú Xua Đuổi: Thi triển lên những kẻ không tu luyện thần đạo, khiến tốc độ gia tăng tâm trạng giảm 25% trong thời gian 7 ngày. \nBan tặng thần chú Cảnh giới 2 - Thần Tịnh Tâm: Tiêu giải tạp niệm của nhân vật để hóa thành Ma Ni Tạp Niệm.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_3">
+			<DisplayName>Thần Lực Các</DisplayName>
+			<Desc>Ban tặng thần chú Cảnh giới 1 - Thần Giáng Thế: Thi triển thần chú để đẩy tinh thần thần linh của bản thân lên cực hạn trong thời gian ngắn, khiến năng lực chiến đấu tăng mạnh.\n Ban tặng thần chú Cảnh giới 2 - Thiên Giáng Phúc: Sử dụng tâm trí phàm trần để mưu cầu ban phát sự đốn ngộ cho linh thực. Cần một khoảng thời gian nhất định trước khi hiệu quả của thần chú phát huy, và không thể thi triển lặp lại lên cùng một gốc linh thực trong thời gian nó đang chịu ảnh hưởng của thần chú.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_4">
+			<DisplayName>Hiến Tế Các</DisplayName>
+			<Desc>Ban tặng thần chú Cảnh giới 1 - Thánh Mệnh Triệu Tập: Lôi kéo nhân vật có quan hệ hữu hảo hoặc đệ tử nội môn có thái độ trung lập, mời gọi họ trở thành cốt cán tín đồ của người.\nBan tặng thần chú Cảnh giới 2 - Thần Nhãn Vạn Lý: Chọn một nhân vật để kiểm tra vị trí của họ. Người càng có nhiều cư dân cõi thần và thông tin về nhân vật bao nhiêu, tỷ lệ thành công khi kiểm tra vị trí của mục tiêu càng cao bấy nhiêu.</Desc>
+		</Text>
+	</List>
+</Texts>

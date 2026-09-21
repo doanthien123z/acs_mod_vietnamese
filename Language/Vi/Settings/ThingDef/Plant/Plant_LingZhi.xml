@@ -1,0 +1,54 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LingZhi_Huo" sParam="Plant">
+			<ThingName>Hỏa Linh Căn: Hỏa Tinh Quả Thụ</ThingName>
+			<Desc>Cây cho ra Hỏa Tinh Quả, là một trong Ngũ Hành Linh Thực. Có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ. Đặc điểm là cần sinh trưởng trong môi trường có nhiệt độ lớn hơn [temperature]200[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Jin" sParam="Plant">
+			<ThingName>Kim Linh Căn: Kim Tinh Quả Thụ</ThingName>
+			<Desc>Cây cho ra Kim Tinh Quả, là một trong Ngũ Hành Linh Thực. Có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ. Nó rất yếu ớt trước nhiệt độ cao, nhưng khá chịu lạnh tốt, cần sinh trưởng trong môi trường có nhiệt độ thấp hơn [temperature]20[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Mu" sParam="Plant">
+			<ThingName>Mộc Linh Căn: Uẩn Lâm Đằng</ThingName>
+			<Desc>Thực vật này tên là Uẩn Lâm Đằng, là một trong Ngũ Hành Linh Thực. Có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ. Nó có yêu cầu khắt khe về nhiệt độ, đó là nhiệt độ trong khoảng [temperature]15[/temperature] Đến [temperature]35[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Shui" sParam="Plant">
+			<ThingName>Thủy Linh Căn: Ngũ Sắc Kim Liên</ThingName>
+			<Desc>Thực vật này tên là Ngũ Sắc Kim Liên, là một trong Ngũ Hành Linh Thực. Có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ. Nó ưa nhiệt độ thấp và sẽ sinh trưởng tốt ở nhiệt độ thấp hơn [temperature]-120[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Tu" sParam="Plant">
+			<ThingName>Thổ Linh Căn: Hoàng Thổ Tâm Thụ</ThingName>
+			<Desc>Cây cho ra Hoàng Thổ Tâm, là một trong Ngũ Hành Linh Thực. Có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ. Nó ghét khí lạnh và sẽ sinh trưởng tốt ở nhiệt độ lớn hơn [temperature]30[/temperature]</Desc>
+		</Text>
+		<Text Name="LingZhi_Huo_ZF" sParam="Plant">
+			<ThingName>Hỏa Linh Căn: Hỏa Tinh Quả Thụ</ThingName>
+			<Desc>Cây cho ra Hỏa Tinh Quả, là một trong Ngũ Hành Linh Thực. Tương truyền nó có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm tòi cẩn thận bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Jin_ZF" sParam="Plant">
+			<ThingName>Kim Linh Căn: Thần Phẩm Quả Thụ</ThingName>
+			<Desc>Cây cho ra Thần Phẩm Quả, là một trong Ngũ Hành Linh Thực. Tương truyền nó có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm tòi cẩn thận bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Mu_ZF" sParam="Plant">
+			<ThingName>Mộc Linh Căn: Uẩn Lâm Đằng</ThingName>
+			<Desc>Thực vật này tên là Uẩn Lâm Đằng, là một trong Ngũ Hành Linh Thực. Tương truyền nó có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm tòi cẩn thận bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Shui_ZF" sParam="Plant">
+			<ThingName>Thủy Linh Căn: Ngũ Sắc Kim Liên</ThingName>
+			<Desc>Thực vật này tên là Ngũ Sắc Kim Liên, là một trong Ngũ Hành Linh Thực. Tương truyền nó có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm tòi cẩn thận bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="LingZhi_Tu_ZF" sParam="Plant">
+			<ThingName>Thổ Linh Căn: Hoàng Thổ Tâm</ThingName>
+			<Desc>Cây cho ra Hoàng Thổ Tâm, là một trong Ngũ Hành Linh Thực. Tương truyền nó có thể sinh trưởng tốt ở nơi linh khí đậm đặc, có thuộc tính tương thích và đất đai màu mỡ.</Desc>
+			<StoryBnts.0.Name>Kiểm tra</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm tòi cẩn thận bằng thần thức</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

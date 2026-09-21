@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Place_WuDang_Taizipo">
+			<DisplayName>Ngộ Đạo Điện</DisplayName>
+			<Desc>Hay còn gọi là Hoàng Tử Điện, nơi đây từng là địa điểm mà Võ Thần Hoàng Đế sử dụng để ngộ đạo.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_ZiXiaoGong">
+			<DisplayName>Tử Tiêu Điện</DisplayName>
+			<Desc>Tử Tiêu Điện tọa lạc trên đỉnh núi phía đông bắc núi Võ Đang. Đỉnh núi này được coi là chủ phong của núi Võ Đang, mặt tiền hướng ra sông, lưng tựa vào núi, là một nơi có phong thủy tuyệt mỹ và là nơi sinh sống, bế quan tu luyện của đông đảo đệ tử Võ Đang.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_NanYanGong">
+			<DisplayName>Nam Nhai Điện</DisplayName>
+			<Desc>Được xây dựng trên vách đá phía nam, hướng mặt ra khe núi sâu thẳm nguy hiểm nhưng lại sở hữu cảnh quan tuyệt mỹ nhất trong số 36 ngọn vách đá đẹp của Võ Đang. Lư hương đầu rồng có thể được tìm thấy tại ngôi điện này.</Desc>
+		</Text>
+		<Text Name="Place_WuDang_JinDing">
+			<DisplayName>Kim Điện</DisplayName>
+			<Desc>Kim Điện là công trình tọa lạc trên đỉnh cao nhất của Thiên Trúc Sơn thuộc núi Võ Đang. Đây là nơi Võ Thần Hoàng Đế từng tịnh tu, đồng thời cũng là nơi khởi nguồn của giáo lý đạo gia làm nền tảng cho núi Võ Đang.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,114 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Gong_5_1">
+			<Prefix>Tả Thủ</Prefix>
+			<Suffix>Vô Tướng</Suffix>
+			<Desc>Huyền thể bí truyền được rèn luyện lấy Vô Hình Tinh Hoa làm trung tâm. Tu luyện nó giúp người tu hành điều khiển chân khí theo ý muốn, bóp méo ánh sáng và sự nhận thức của đối thủ, dễ dàng đánh vào yếu huyệt của kẻ địch.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.\n Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể\n Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.\n Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_1_1">
+			<Prefix>Hữu Thủ</Prefix>
+			<Suffix>Vô Tướng</Suffix>
+			<Desc>Huyền thể bí truyền được rèn luyện lấy Vô Hình Tinh Hoa làm trung tâm. Tuy các mặt đều bình thường, nhưng lại có tiềm năng tăng trưởng vô cùng lớn.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể\n Tăng trung bình nền tảng độ bền của Huyền Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.\n Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_2">
+			<Prefix>Tả Thủ</Prefix>
+			<Suffix>Phán Thiên</Suffix>
+			<Desc>Huyền thể bí truyền rút năng lượng từ hỏa tâm ngưng tụ thành chân khí cực nóng, khiến đối thủ gần như không thể phòng ngự đòn tấn công của chiêu này.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\n Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_3">
+			<Prefix>Hữu Thủ</Prefix>
+			<Suffix>Băng Phong</Suffix>
+			<Desc>Thần thể bí ẩn hấp thụ năng lượng từ băng thận để ngưng tụ thành chân nguyên cực hàn, có khả năng áp chế pháp bảo của kẻ địch cực kỳ mạnh mẽ.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng sức mạnh của Huyền Thể</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh căn cơ cho thần thể bí ẩn\n Tăng vừa sức tấn công xuyên giáp chân khí của Huyền Thể</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_4">
+			<Prefix>Chưởng</Prefix>
+			<Suffix>Nguyệt Ảnh</Suffix>
+			<Desc>Rèn luyện chưởng pháp bằng nguyệt tinh để ban cho chưởng pháp tốc độ nhanh nhẹn như quỷ mị vô hình.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể\n Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể\n Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.\n Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_5">
+			<Prefix>Bàn Chân</Prefix>
+			<Suffix>Du Nhật</Suffix>
+			<Desc>Thần thể truyền thuyết được sáng tạo bởi Cổ Yêu tộc. Tương truyền Cổ Yêu tộc nhanh như chớp sau khi luyện thành thần thể này và từng dùng nó để đuổi theo mặt trời.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.\n Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh né tránh cơ bản cho người tu luyện Thể Tu</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_6">
+			<Prefix>Huyễn Thân</Prefix>
+			<Suffix>Huyễn Ảnh</Suffix>
+			<Desc>Rèn luyện thể phách bằng vô hình chi tinh để gia tăng đáng kể tốc độ và độ bền cho thần thể bí ẩn.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh né tránh cơ bản cho người tu luyện Thể Tu</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_7">
+			<Prefix>Cánh tay</Prefix>
+			<Suffix>Thiên Ma</Suffix>
+			<Desc>Rèn luyện cơ bắp cánh tay để sinh ra biến hóa kỳ lạ, khiến nó có độ dẻo dai và sức mạnh vượt ngoài tưởng tượng. Thần thể bí ẩn này vô cùng tà ác và hiểm độc.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.\n Giảm mạnh điểm mị lực.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_8">
+			<Prefix>Thể</Prefix>
+			<Suffix>Bách Xúc</Suffix>
+			<Desc>Rèn luyện cơ bắp cánh tay tạo ra biến hóa kỳ lạ như thể có hàng trăm con mắt mọc khắp cơ thể, giúp người tu luyện có thể cảm nhận toàn bộ đòn tấn công của kẻ địch.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng độ chính xác tấn công của ẩn thể trung cấp.\n Tăng vừa phải cơ hội thành công khi phòng thủ của huyền thể.\n Tăng vừa phải cơ hội trấn áp pháp bảo của huyền thể.\n Giảm mạnh điểm mị lực.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh độ chính xác tấn công của ẩn thể.\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.\n Tăng mạnh cơ hội trấn áp pháp bảo của huyền thể.\n Giảm mạnh điểm mị lực.</Levels.1.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_9">
+			<Prefix>Giáp</Prefix>
+			<Suffix>Cốt cách</Suffix>
+			<Desc>Rèn luyện toàn thân xương cốt để tạo ra biến hóa khiến chúng đâm xuyên qua da thịt, giúp người tu luyện có thể dùng xương cốt tạo thành giáp trụ xung quanh để chống đỡ sát thương khi cần thiết.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình nền tảng độ bền của Huyền Thể\n Tăng mạnh tỉ lệ thành công phòng thủ của ẩn thể.</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_10">
+			<Prefix>Tim</Prefix>
+			<Suffix>Đỉnh Thiên</Suffix>
+			<Desc>Sử dụng thần lực kỳ diệu để luyện hóa tim và sinh ra chân nguyên huyền bí. Nếu dùng phương pháp này để luyện tim, sẽ có cơ hội sinh ra biến hóa kỳ lạ và phát triển tiềm năng tiến hóa của toàn bộ da thịt.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Học thần thông luyện thể: Phản Kháng Thần Thể</Levels.0.Desc>
+		</Text>
+		<Text Name="SuperPart_Gong_5_11">
+			<Prefix>Thể</Prefix>
+			<Suffix>Thiêu đốt sinh mệnh</Suffix>
+			<Desc>Sử dụng thần lực kỳ diệu để luyện hóa xương sống và sinh ra chân nguyên huyền bí. Chân nguyên huyền bí này có thể kích thích tỷ lệ trao đổi chất của cơ thể rất tốt, nhưng bù lại phải đánh đổi một phần thọ nguyên của người sử dụng.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Học pháp thuật: Phần Mệnh</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Học pháp thuật: Thiêu Đốt Thọ Nguyên</Levels.1.Desc>
+		</Text>
+	</List>
+</Texts>

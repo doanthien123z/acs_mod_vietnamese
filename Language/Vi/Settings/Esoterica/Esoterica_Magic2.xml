@@ -1,0 +1,24 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Magic_MakeHorse_1">
+			<DisplayName>Khế ước linh hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được pháp thuật: Linh Hồn Khế Ước\nThi triển pháp thuật lên yêu thú có chỉ số thấp hơn và phong ấn vào Linh Hồn Khế Ước.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing1">
+			<DisplayName>Hắc Hồn Khai Sinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được pháp thuật: Hắc Hồn Khai Sinh\nSử dụng 7 viên Oán Hồn Châu, 3 viên Linh Châu và 1 viên Nguyên Hồn Châu để giao tiếp và thức tỉnh linh hồn cho vật phẩm. Việc thức tỉnh linh hồn có thể mất một khoảng thời gian mới thấy hiệu quả. Vật phẩm không thể bị thức tỉnh linh hồn lần nữa khi đang trong quá trình thức tỉnh. Người thi triển càng có nhiều Đạo Chủng và vật phẩm mất càng nhiều thời gian thức tỉnh thì tỷ lệ thành công càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_WanWuTongLing2">
+			<DisplayName>Sinh Mệnh Chi Lưu</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được pháp thuật: Sinh Mệnh Chi Lưu\nTốn 10 năm thọ nguyên và 1 viên Nguyên Hồn Châu để giao tiếp và thức tỉnh linh hồn cho kiến trúc. Việc thức tỉnh linh hồn có thể mất một khoảng thời gian mới thấy hiệu quả. Kiến trúc không thể bị thức tỉnh linh hồn lần nữa khi đang trong quá trình thức tỉnh. Người thi triển càng có nhiều Đạo Chủng và kiến trúc mất càng nhiều thời gian thức tỉnh thì tỷ lệ thành công càng cao.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_ZaoHuaSuTi">
+			<DisplayName>Thái Sơ Chi Thể</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được pháp thuật: Thái Sơ Chi Thể\nSử dụng 1 Hạt Giống Phúc Duyên để tẩy tủy cho mục tiêu trở về trạng thái lúc 14 tuổi, đồng thời phục hồi toàn bộ các bộ phận cơ thể đã bị mất.[/color][/size]</EffectDesc>
+		</Text>
+		<Text Name="Magic_YuanLing">
+			<DisplayName>Bổ Thiên Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được pháp thuật: Bổ Thiên Pháp\nSử dụng 1 viên Nguyên Hồn Châu thi triển pháp thuật lên pháp bảo thượng cổ đang trong quá trình ôn dưỡng để thức tỉnh nó ngay lập tức.[/color][/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

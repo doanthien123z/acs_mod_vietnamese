@@ -1,0 +1,17 @@
+ID	MapStoryID	DisplayName	Desc	Hide
+1	Secrets_Baozang_EX1	Trùng Cốc	Mở khóa bí mật Cốc Trùng	
+2	Secrets_Baozang_EX2	Báu vật độc dược	Mở khóa bí mật báu vật độc dược	
+3	Secrets_Baozang_EX3	Thiên Cung	Mở khóa bí mật Thiên Cung	
+4	Secrets_Baozang_EX4	Hỏa Cốc	Mở khóa bí mật Hỏa Động	
+5	Secrets_Baozang_EX5	Báu vật thần thánh	Mở khóa bí mật báu vật thần thánh	
+6	Secrets_Baozang_EX6	Yêu Tàn	Mở khóa bí mật Di tích Ác thú	
+7	Secrets_KunLunFaHui	Lễ hội núi Côn Lôn	Tham gia đại hội núi Côn Lôn	
+8	Secrets_GuangShouMenTu	Lễ hội Tiên Duyên	Tham gia đại hội Vận mệnh	
+9	Secrets_XieDiLing	Mở mộ Hoàng đế Ác thú, chứng kiến cảnh tượng mộ Hoàng đế Ác thú mở ra
+10	Secrets_DuGuiXingZong	Diệp Tuyết Tiên Phược	Đánh cược với Diệp Huyên Tiên Thủ	
+11	Secrets_TianJi	Thiên Cổ Phù Lục.	Mở khóa bí mật Cổ Thiên Phù	
+12	BaoZang_QingLianShan	Núi Thanh Liên bất tử	Mở khóa bí mật núi Thanh Liên bất tử	
+13	BaoZang_XuanKong	Ngọc phủ bất tử	Mở khóa bí mật Ngọc phủ bất tử	
+14	BaoZang_ChiLianYuan	Lục điện bất tử	Mở khóa bí mật Lục điện bất tử	
+15	BaoZang_DengXian	Báu vật Đông Hoa	Mở khóa báu vật Đông Hoa	
+16	LingWu_JiuHua1	Rồng ẩn Phượng khuất	Mở khóa bí mật ẩn giấu đằng sau Rồng ẩn Phượng khuất	

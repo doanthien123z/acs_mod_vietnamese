@@ -1,0 +1,114 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SlotSuit_School_1">
+			<DisplayName>Tâm cảnh thiên màn</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_2">
+			<DisplayName>Tâm cảnh Côn Luân</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_3">
+			<DisplayName>Tâm cảnh siêu phàm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_4">
+			<DisplayName>Vân Mây Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_5">
+			<DisplayName>U Minh Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_6">
+			<DisplayName>Thanh Liên Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_7">
+			<DisplayName>Dạ Quang Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_8">
+			<DisplayName>Bách Trùng Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_9">
+			<DisplayName>A Lại Tôn Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_10">
+			<DisplayName>Thất Sát Đạo Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+		<Text Name="SlotSuit_School_11">
+			<DisplayName>Tiêu Dao Tâm</DisplayName>
+			<SuitEffect.0.Description>Tăng kỹ năng pháp bảo</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Tăng kỹ năng thần thông</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Tăng kỹ năng hộ thể chân khí</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Tăng ổn định</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Tăng hiệu suất trận pháp</SuitEffect.4.Description>
+			<SuitEffect.5.Description>Nâng cấp vận hành trận pháp</SuitEffect.5.Description>
+			<SuitEffect.6.Description>Tăng năng lượng tối đa trận pháp</SuitEffect.6.Description>
+		</Text>
+	</List>
+</Texts>

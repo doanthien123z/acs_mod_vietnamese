@@ -1,0 +1,9 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_TreeEXP">
+			<DisplayName>Cầu đạo</DisplayName>
+			<Desc>Người đã lĩnh ngộ Thiên đạo đến một mức độ nhất định và có thể áp dụng nó vào việc luyện đan.</Desc>
+			<Selections.0.Display>Kiểm tra kết quả</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

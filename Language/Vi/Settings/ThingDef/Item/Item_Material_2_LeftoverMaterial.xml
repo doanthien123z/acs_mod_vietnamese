@@ -1,0 +1,88 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeftoverMaterialBase" sParam="Item">
+			<Desc>Vật liệu vụn được cắt gọt tinh xảo để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.FabaoSuffix>Đinh, phi tiêu, phế liệu kim loại</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WoodLeftover" sParam="Item">
+			<ThingName>Tấm gỗ cắt</ThingName>
+			<Desc>Tấm gỗ được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_HardWoodLeftover" sParam="Item">
+			<ThingName>Tấm gỗ vàng cắt</ThingName>
+			<Desc>Tấm gỗ vàng được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng kim mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
+			<ThingName>Tấm gỗ Phượng Hoàng lửa cắt</ThingName>
+			<Desc>Tấm gỗ Phượng Hoàng lửa được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Phượng mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingWoodLeftover" sParam="Item">
+			<ThingName>Tấm gỗ linh khí cắt</ThingName>
+			<Desc>Tấm gỗ linh khí được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh mộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BrownRockLeftover" sParam="Item">
+			<ThingName>Tấm đá nâu cắt</ThingName>
+			<Desc>Tấm đá nâu được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_GrayRockLeftover" sParam="Item">
+			<ThingName>Tấm đá xám cắt</ThingName>
+			<Desc>Tấm đá xám được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_MarbleLeftover" sParam="Item">
+			<ThingName>Tấm cẩm thạch cắt</ThingName>
+			<Desc>Tấm cẩm thạch được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_JadeLeftover" sParam="Item">
+			<ThingName>Tấm ngọc cắt</ThingName>
+			<Desc>Tấm ngọc được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Ngọc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SkyStoneLeftover" sParam="Item">
+			<ThingName>Tấm đá thần thánh cắt</ThingName>
+			<Desc>Tấm đá thần thánh được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá thánh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingStoneLeftover" sParam="Item">
+			<ThingName>Tấm linh thạch cắt</ThingName>
+			<Desc>Tấm linh thạch được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LingCrystalLeftover" sParam="Item">
+			<ThingName>Tấm linh tinh thể cắt</ThingName>
+			<Desc>Tấm linh tinh thể được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh tinh</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_IronRockLeftover" sParam="Item">
+			<ThingName>Tấm sắt cắt</ThingName>
+			<Desc>Tấm sắt được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Sắt.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CopperRockLeftover" sParam="Item">
+			<ThingName>Tấm xích đồng hỏa cắt</ThingName>
+			<Desc>Tấm xích đồng hỏa được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Xích Đồng.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_SilverRockLeftover" sParam="Item">
+			<ThingName>Tấm băng tinh cắt</ThingName>
+			<Desc>Tấm băng tinh được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Băng Tinh.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
+			<ThingName>Tấm hắc thiết cắt</ThingName>
+			<Desc>Tấm hắc thiết được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Hắc Thiết.</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_StarEssenceLeftover" sParam="Item">
+			<ThingName>Tấm quặng tinh quang cắt</ThingName>
+			<Desc>Tấm quặng tinh quang được cắt gọt tinh xảo, có thể dùng để lát sàn hoặc dựng hiên nhà.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh Quang Thạch.</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

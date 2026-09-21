@@ -1,0 +1,22 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Rabbit_1">
+			<Prefix>Đôi Mắt</Prefix>
+			<Suffix>Huyết Ngọc</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Thố Yêu Tộc, dùng Chân Hỏa tôi luyện đôi mắt và kích hoạt Mộc khí ở gan, lấy mộc sinh hỏa. Khi tu luyện đạt đến đỉnh phong, có thể cảm nhận sự biến hóa của dòng chân khí đến mức vô cùng tinh tế.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ độ chính xác tấn công của Bí Thể\n Tăng nhẹ xác suất phòng thủ thành công của Bí Thể.</Levels.0.Desc>
+			<Levels.1.Title>Tầng hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ tỷ lệ áp chế pháp bảo của Bí Thể\n Tăng nhẹ tỉ lệ công kích xuyên thấu hộ thể chân khí cho người tu luyện Bất Diệt Thể</Levels.1.Desc>
+			<Levels.2.Title>Tầng ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ hiệu suất vận hành chân khí của người tu luyện Bất Tử Thể</Levels.2.Desc>
+		</Text>
+		<Text Name="SuperPart_Rabbit_2">
+			<Prefix>Bàn Chân</Prefix>
+			<Suffix>Đạp Vân</Suffix>
+			<Desc>Huyền thể bí truyền lưu truyền trong huyết mạch Thái Cổ Thố Yêu Tộc, dùng bí thuật rèn luyện tai và chân phối hợp nhịp nhàng, mang lại tốc độ vượt ngoài tưởng tượng cùng giác quan nhạy bén hoàn hảo.</Desc>
+			<Levels.0.Title>Tầng một</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh né tránh cơ bản cho người tu luyện Thể Tu</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,73 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="kind_1">
+			<Desc>Nhân vật đã phi thăng: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_2">
+			<Desc>Lịch luyện: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_3">
+			<Desc>Luyện đan/Giả kim thuật: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_4">
+			<Desc>Pháp bảo đã chế tạo: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_5">
+			<Desc>Bùa chú đã vẽ: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_6">
+			<Desc>Yêu thú đã tiêu diệt: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_7">
+			<Desc>Tu sĩ đã tiêu diệt: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_8">
+			<Desc>Ẩm thực đã tạo: {0:F0} Loại</Desc>
+		</Text>
+		<Text Name="kind_9">
+			<Desc>Nghệ thuật hiếm: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_10">
+			<Desc>Thuyết phục thành công: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_11">
+			<Desc>Đạo thư đã học: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_12">
+			<Desc>Đệ tử đã tử trận: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_13">
+			<Desc>Đệ tử nội môn đã tử vong: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_14">
+			<Desc>Chiếm hữu: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_15">
+			<Desc>Thiền định: {0:F0} giây</Desc>
+		</Text>
+		<Text Name="kind_16">
+			<Desc>Tầm hồn: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_17">
+			<Desc>Thọ nguyên bị cướp đoạt: {0:F0} giây</Desc>
+		</Text>
+		<Text Name="kind_18">
+			<Desc>Nguyên thần đã luyện hóa: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_19">
+			<Desc>Nguyên thần đã đoạt xá: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_20">
+			<Desc>Thi thể đã luyện hóa: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_21">
+			<Desc>Tế hiến: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_22">
+			<Desc>Nguyên thần ký sinh: {0:F0}</Desc>
+		</Text>
+		<Text Name="kind_23">
+			<Desc>Pháp bảo cao cấp: {0:F0}</Desc>
+		</Text>
+	</List>
+</Texts>

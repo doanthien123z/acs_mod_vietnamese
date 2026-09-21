@@ -1,0 +1,58 @@
+<Texts Type="Thing">
+	<List>
+		<Text Name="LeatherBase" sParam="Item">
+			<Item.FabaoSuffix>Da thuộc, bao phủ, giáp</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Da thuộc</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BoarLeather" sParam="Item">
+			<ThingName>Da lợn rừng</ThingName>
+			<Desc>Da của lợn rừng, bề mặt hơi thô ráp nhưng cảm giác rất chắc chắn</Desc>
+			<Item.BeMaterial.NamePrefix>Da lợn rừng</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_RabbitLeather" sParam="Item">
+			<ThingName>Da thỏ</ThingName>
+			<Desc>Lông thỏ, vô cùng mềm mại và ấm áp</Desc>
+			<Item.BeMaterial.NamePrefix>Da thỏ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_BearLeather" sParam="Item">
+			<ThingName>Da gấu</ThingName>
+			<Desc>Lông gấu, vô cùng mềm mại và ấm áp</Desc>
+			<Item.BeMaterial.NamePrefix>Da gấu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_WolfLeather" sParam="Item">
+			<ThingName>Da sói</ThingName>
+			<Desc>Da của sói, vừa chắc chắn vừa bền bỉ</Desc>
+			<Item.BeMaterial.NamePrefix>Da sói</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_FeiLeather" sParam="Item">
+			<ThingName>Da Phi</ThingName>
+			<Desc>Da của linh thú Phi, bên trong ẩn chứa linh khí, mùa đông giữ ấm mùa hè giữ mát, hơn nữa còn có thể chống lại sát thương từ linh khí</Desc>
+			<Item.BeMaterial.NamePrefix>Da Phi</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_LuShuLeather" sParam="Item">
+			<ThingName>Da Lộc Thục</ThingName>
+			<Desc>Da của linh thú Lộc Thục, bên trong ẩn chứa linh khí, mùa đông giữ ấm mùa hè giữ mát, hơn nữa còn có thể chống lại sát thương từ linh khí</Desc>
+			<Item.BeMaterial.NamePrefix>Da Lộc Thục</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_CattleLeather" sParam="Item">
+			<ThingName>Da trâu</ThingName>
+			<Desc>Da của trâu, vừa chắc chắn vừa bền bỉ</Desc>
+			<Item.BeMaterial.NamePrefix>Da trâu</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_TigerLeather" sParam="Item">
+			<ThingName>Da hổ</ThingName>
+			<Desc>Da hổ vừa cứng cáp lại bền bỉ.</Desc>
+			<Item.BeMaterial.NamePrefix>Da hổ</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather" sParam="Item">
+			<ThingName>Yêu thú bì</ThingName>
+			<Desc>Da của yêu thú thông thường có ẩn chứa yêu khí bên trong, có thể giữ ấm vào mùa đông và mang lại cảm giác mát mẻ vào mùa hè, đồng thời còn có thể phòng thủ sát thương từ chân khí.</Desc>
+			<Item.BeMaterial.NamePrefix>Yêu thú bì</Item.BeMaterial.NamePrefix>
+		</Text>
+		<Text Name="Item_YaoLeather1" sParam="Item">
+			<ThingName>Cao cấp yêu thú bì</ThingName>
+			<Desc>Da của yêu thú cấp cao có ẩn chứa yêu khí bên trong, có thể giữ ấm vào mùa đông và mang lại cảm giác mát mẻ vào mùa hè, đồng thời còn có thể phòng thủ sát thương từ chân khí.</Desc>
+			<Item.BeMaterial.NamePrefix>Cao cấp yêu thú bì</Item.BeMaterial.NamePrefix>
+		</Text>
+	</List>
+</Texts>

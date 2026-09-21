@@ -1,0 +1,164 @@
+ID	Content	WholeContent	TipDesc	Desc	TipsContent
+
+1	Lương thực dự trữ không đủ	Lương thực dự trữ trong kho không đủ			
+2	Đan dược dự trữ không đủ	Đan dược dự trữ trong kho không đủ			
+3	Hậu thiên chi thể không đủ	Hậu thiên chi thể không đủ			
+4	Mùa hè sắp đến	Mùa hè sắp đến	Xin hãy chuẩn bị đối phó với thời tiết oi bức		
+5	Mùa đông sắp đến	Mùa đông sắp đến	Xin hãy chuẩn bị đối phó với cái lạnh thấu xương		
+6	Kẻ địch xuất hiện	Kẻ địch của Người đã xuất hiện			
+7	{0}{1} Đang bị tấn công	Tông môn đang bị tấn công			
+8	Đang bốc cháy	Đang bốc cháy			
+9	Phàm nhân cần sự giúp đỡ	Có phàm nhân đang cần sự giúp đỡ			
+10	{0} Đang chuẩn bị lấy{1}	Kẻ địch đang cố gắng lấy vật phẩm			
+11	Kẻ địch {0} Đã thu thập{1}đi	Kẻ địch đã lấy đi một số vật phẩm			
+12	Linh thú{0}Đã xuất hiện	Linh thú{0}Đã xuất hiện			
+13	Bảo vật từ trên trời rơi xuống	Bảo vật từ trên trời rơi xuống			
+14	Tu sĩ {0}_Đã đến/Rời đi	Tu sĩ đã đến nơi này			
+15	{0} Đã nảy sinh tình cảm {1}	Chuyện tình cảm nam nữ			
+16	{0} Không có cảm tình {1} Không còn nữa	Tình cảm đã phai nhạt			
+17	{0} Đã thổ lộ tình cảm với {1} _Và họ đã trở thành người yêu của nhau/Song lại thất bại	Có người đã thổ lộ tâm tư trong lòng			
+18	{0} đã mời {1} _Và thành công/Song lại thất bại	Có người đang cố gắng thuyết phục đối phương			
+19	Bị bỏ rơi	Bị bỏ rơi			
+20	{0} Đang cảm thấy khó chịu	Có người đang cảm thấy khó chịu			
+21	Tâm trạng của {0} Trở nên tệ đi vì{1}	Tâm trạng của một người trở nên tệ đi			
+22	Tâm cảnh của {0} Bất ổn	Có người có tâm cảnh không ổn định			
+23	{0}:  _Ngã xuống đất/Hôn mê/Đang hấp hối	Có người không thể di chuyển			
+24	Bị bỏ rơi	Bị bỏ rơi			
+25	{0} Tử vong	Có người đã tử vong			
+26	{0} Trốn việc	Có người đang trốn việc			
+27	{0} Ngừng trốn việc	Có người đã trở lại chăm chỉ làm việc			
+28	{0} Cần vũ khí để đi săn	Có người cần vũ khí để đi săn			
+29	{0} Cần rìu để đốn gỗ	Có người cần rìu để đốn gỗ			
+30	{0} Cần cuốc để khai khoáng	Có người cần cuốc để khai khoáng			
+31	{0} Cần cuốc làm nông để canh tác	Có người cần cuốc làm nông để canh tác			
+32	Kỹ năng{1}của {0} Đã được nâng cấp	Kỹ năng đã được nâng cấp			
+33	{0} Rơi vào tâm ma/tà niệm	Có người rơi vào tâm ma/tà niệm			
+34	{0} Đã thành công Trúc Cơ	Có người đã thành công Trúc Cơ			
+35	{0} Gặp phải bình cảnh	Có người gặp phải bình cảnh			
+36	{0} Sắp chạm tới bình cảnh rồi	Có người sắp chạm đến điểm bỷ bình cảnh			
+37	{0} Đã đến điểm bình cảnh	Có người đã đến điểm bình cảnh			
+38	{0} Luyện chế pháp bảo{1} _Thành công/Thất bại	Có người đang luyện chế pháp bảo			
+39	{0} Luyện đan _Thành công/Thất bại	Có người đang luyện đan			
+40	{0} Đã bái {1} Làm sư phụ	Có người cầu bái làm thân truyền đệ tử			
+41	{0} Khiếu nại về sự việc bên trong tông môn	Có người đang khiếu nại về sự việc bên trong tông môn			
+42	{0} Trở về từ chuyến phiêu lưu	Có người đã trở về từ chuyến phiêu lưu			
+43	{0} Đang tiến hành đột phá cảnh giới _Thành công/Thất bại	Có người đang tiến hành đột phá cảnh giới			
+44	Suy toán Thiên Mệnh Luân Hồi: {0}	Suy toán Thiên Mệnh Luân Hồi			
+45	{0} Cần phân bộ trưởng	Phân bộ này cần phân bộ trưởng đến quản lý			
+46	{0} Cảm thấy đói	Có người đang đói khát, cần bổ sung thêm lương thực	More food is needed.		
+47	{0} Cảm thấy khát	Có người đang cảm thấy khát nước	Cần bổ sung thêm nguồn nước		
+48	{0} Cảm thấy chán nản	Có người đang cảm thấy chán nản	Cần thêm vật phẩm giải trí		
+49	{0} Cảm thấy mệt mỏi	Có người đang cảm thấy mệt mỏi	Cần được nghỉ ngơi và ngủ nhiều hơn		
+50	{0} Bị thương	Có người đã bị thương			
+51	{0} Vết thương trở nên tồi tệ hơn	Vết thương của ai đó đang ngày càng nghiêm trọng			
+52	{0} Tàn phế	Có người đã trở thành phế nhân			
+53	Ghi chép đã hoàn tất				
+54	{0} Có trạng thái sinh trưởng không thích hợp	Môi trường sinh trưởng của linh thực không thích hợp			
+55	{0} Cảm thấy lâm vào nguy hiểm	Có cảm giác nguy hiểm kì lạ không thể giải thích			
+56	{1} Cảm thụ được thiên địa linh khí và đã hóa hình thành yêu thú				
+57	Yêu thú {0} Xuất hiện	Yue thú đã xuất hiện			
+58	Yêu thú {0} Hấp thụ linh khí của trời đất và đã đột phá cảnh giới	Yêu thú hấp thụ linh khí của trời đất và đã đột phá cảnh giới			
+59	Thượng cổ hung thú {0} Đang tấn công!	Thượng cổ hung thú đang tiến hành tấn công!			
+60	{0} Đã kích hoạt pháp bảo {1}				
+61	{0} Đã đối mặt với thiên kiếp _Và vượt qua nó/Tuy nhiên thất bại	Sống sót sau thiên kiếp			
+62	Pháp bảo xuất hiện!	Pháp bảo xuất hiện			
+63	{0} Đã bị thu thập bởi {1}				
+64	Phiên bản mới đã ra mắt		Phiên bản mới đã ra mắt: {0}		
+65	{0} Đang cố gắng sao chép{1} _Thành công/Thất bại	Cất giữ vào Tàng Kinh Các			
+66	Tâm cảnh của {0} Đã thăng cấp thành[{1}] Và nguyên thần cũng đã thăng cấp theo				
+67	{0} Mất kiểm soát bản thân vì tâm ma và sẽ phải đối mặt với tâm kiếp	Cuồng loạn			
+68	{0} Đã luyện thành pháp bảo thần thánh {1} _Thành công/Thất bại	Luyện chế pháp bảo thần thánh			
+69	Tâm ma tiếp tục{1}của {0} Đã xuất hiện	Tâm ma đã xuất hiện			
+70	{0} Đã đạt đến Đại viên mãn cảnh giới và sắp phi thăng tiên giới	Chuyển sinh thiên giới			
+71	{0} Đã đoạn tuyệt tâm ma [{1}] Của chính mình				
+72	Danh hiệu thần thánh của {0} Đã bị thay đổi	Danh hiệu thần thánh đã bị thay đổi			
+73	{0} Đang cố gắng lĩnh ngộ{1} _Thành công/Thất bại	Lĩnh hội			
+74	{1} Tình cờ phát hiện{0}Nằm bên trong chiếc bánh bao đang ăn				
+75	{0} Đã tiến vào trạng thái đốn ngộ	Trạng thái đốn ngộ			
+76	{0} Đã đánh thức linh trí của chính mình và trở thành vật phẩm có linh tính	Vật phẩm có linh tính thức tỉnh			
+77	{0} Đánh thức linh trí thất bại	Đánh thức linh trí thất bại			
+78	{0} Tình cờ đi ngang qua	Vật phẩm có linh tính tình cờ đi ngang qua			
+79	{1}của {0} Đã hoàn thành luyện thể				
+80	Âm Dương Thạch đã khôi phục lại sức mạnh của nó	Âm Dương Thạch đã khôi phục lại sức mạnh của nó			
+81	Thổ Địa miếu đã khôi phục lại lực lượng của nó	Thổ Địa miếu đã khôi phục lại lực lượng của nó			
+82	Có vật phẩm nào đó bay ra từ vết nứt dị giới	Có vật phẩm nào đó bay ra từ vết nứt dị giới			
+83	{0}： Cá đã cắn câu!	Câu cá			
+84	{0} Đã lĩnh hội{1}	Tu luyện			
+85	Phần thưởng Chân Đạo Kinh Thư {0} Đã nhận	Đã nhận phần thưởng
+86	Phần thưởng Chân Đạo Kinh Thư {0} Đã được cất vào khu vực nhận thưởng	Đã nhận phần thưởng
+87	Ngọc không gian: {0} Nhận thành công	Đã nhận phần thưởng
+88	Ngọc không gian: {0} Đã được cất vào khu vực nhận thưởng	Đã nhận phần thưởng
+89	Bạn có thư mới	Thư mới
+90	Túi trữ vật: {0} Nhận thành công	Đã nhận phần thưởng
+91	Túi trữ vật: {0} Đã được cất vào khu vực nhận thưởng	Đã nhận phần thưởng
+10001	Sơn động bí ẩn			Đột nhiên, trận động đất thường xuyên xảy ra trong tông môn của Người đã dừng lại, đồng thời xuất hiện một hang động bí ẩn trên mặt đất. Người có thể cảm nhận được ý chí mạnh mẽ nhưng mơ hồ của một sinh vật từ bên trong hang động. Người không thể xác định được đó chính xác là loại sinh vật nào. \n Các bậc tu giả cổ xưa bắt đầu xuất hiện thường xuyên hơn ở vùng đất này, có lẽ Người có thể hỏi thăm thông tin từ họ.	
+10002	Uy hiếp			Đột nhiên, hang động bí ẩn giải phóng ra linh khí đáng sợ và mạnh mẽ, nó muốn Người[TXT]	
+10003	Uy hiếp			Đột nhiên, hang động bí ẩn giải phóng ra linh khí đáng sợ và mạnh mẽ, nó muốn Người[TXT]	
+10004	Uy hiếp			Đột nhiên, hang động bí ẩn giải phóng ra linh khí đáng sợ và mạnh mẽ, nó muốn Người[TXT]	
+10005	Tế bái			Người đã thực hiện nghi thức tế lễ trước hang động bí ẩn và sinh vật bí ẩn bên trong vô cùng hài lòng.	
+10006	Thiên tai			Sinh linh thần bí bên trong hang động vô cùng phẫn nộ. Nó đã dẫn dụ thiên tai[TXT]giáng xuống vùng đất này	
+10007	Thảm họa yêu thú			Sinh vật bí ẩn bên trong hang động vô cùng tức giận, và nó đã thu hút vô số yêu thú đến tấn công tông môn của Người.	
+10008	Thủy tai			Sinh vật bí ẩn trong động cực kỳ tức giận, nó tạo ra sóng lớn uy lực vô song càn quét mọi thứ trong khu vực này.	
+10009	Long vương thức tỉnh			Sinh vật bí ẩn trong động không thể kìm nén cơn giận thêm nữa, tiếng gầm chấn động vang dội vạn dặm. Sau đó, một yêu thú khổng lồ phá động mà ra.	
+10010	Trảm Long			Sau trận chiến gian khổ và dài đằng đẵng, cuối cùng con rồng cũng đã bị Người tiêu diệt	
+10011	Nóng bức cực hạn			Không rõ nguyên nhân, nhiệt độ trung bình tại vùng đất này đột ngột tăng vọt. Sự gia tăng nhiệt độ này vượt xa biến đổi tự nhiên thông thường, đây có thể là điềm báo cho thấy vùng đất này đang xảy ra dị biến.	
+10012	Yêu thú bạo động			Hạn hán khốc liệt khiến đám yêu thú hoảng loạn cuồng nộ, một số yêu thú đã lao thẳng về phía tông môn.	
+10013	Hỏa vũ rơi rụng			Sóng nhiệt lan tràn khắp bầu trời, có thứ kỳ lạ đang rơi xuống.	
+10014	Hạn hán kéo dài			Nhiệt độ không ngừng tăng cao gây ra đại hạn, hơn nữa nhiệt độ có vẻ vẫn tiếp tục dâng lên. Nếu Người không làm gì đó, tình hình có thể trở nên tồi tệ hơn.	
+10015	Thú triều hoảng loạn			Dường như đám linh thú bị thứ gì đó làm cho kinh hãi đến mức cuồng loạn. Lúc này, một số hung thú cuồng nộ đang lao thẳng về phía tông môn của Người.!	
+10016	Hỏa vũ rơi rụng			Sóng nhiệt lan tràn khắp bầu trời, có thứ kỳ lạ đang rơi xuống.	
+10017	Tiếng gầm đáng sợ			Sau khi thi pháp giải trừ đợt hạn hán kéo dài, mọi thứ dường như đã trở lại quỹ đạo. Nhưng chỉ một nén nhang sau, đột nhiên vô số loài chim bay ra từ dãy núi, tiếp theo là tiếng gầm thét của một sinh vật phá vỡ sự tĩnh lặng này.	
+10018	Hỏa Phượng giáng thế			Hỏa Phượng xuất hiện mang theo chân hỏa nóng bỏng.	
+10019	Phượng Hoàng vẫn lạc			Sau trận chiến gian khổ và dài đằng đẵng, cuối cùng Phượng Hoàng cũng đã bị Người tiêu diệt	
+10020	Vĩnh dạ giáng lâm			Vì nguyên nhân nào đó, thiên địa Âm Dương nhị khí đột ngột hỗn loạn, khiến màn đêm tăm tối bao trùm toàn bộ tông môn của Người.	
+10021	Âm noãn			Vào lúc nửa đêm, một quả trứng kỳ lạ đột ngột xuất hiện gần tông môn của Người, bên trong dường như đang ẩn giấu thứ gì đó....	
+10022	Vĩnh trú ban ngày			Vì nguyên nhân nào đó, thiên địa Âm Dương nhị khí đột ngột hỗn loạn, khiến mọi thời khắc trong tông môn của Người đều biến thành ban ngày. Người không biết sự hỗn loạn này sẽ kéo dài bao lâu nữa.	
+10023	Dương noãn			Vào chính ngọ, một quả trứng kỳ lạ đột ngột xuất hiện gần tông môn của Người, bên trong dường như đang ẩn giấu thứ gì đó....	
+10024	Thiên Long thức tỉnh			Cuối cùng, sự mất cân bằng của Âm Dương đã đạt đến cực hạn. Sau đó, một tiếng thở dài vang dội cùng với thân hình khổng lồ của một sinh vật xuất hiện từ hư không.!	
+10025	Quái noãn ấp nở			Khi quả trứng kỳ lạ nở ra, linh khí Âm Dương của trời đất bắt đầu rơi vào hỗn loạn.!	
+10026	Quái noãn vỡ vụn			Khi quả trứng kỳ lạ bị phá hủy, linh khí Âm Dương của trời đất bắt đầu rơi vào hỗn loạn.!	
+10027	Đại biến cục			Gần đây, linh khí đất trời đột ngột bùng nổ ở một khu vực xa xôi thuộc Trung Nguyên. Ban đầu không ai quan tâm đến nó, họ nghĩ đó chỉ là một hiện tượng kỳ lạ bình thường. Tuy nhiên, theo thời gian, mọi người phát hiện ra tần suất và cường độ bùng nổ của linh khí ngày càng dày đặc và dữ dội hơn, chứng minh rằng hiện tượng lần này thực chất là một đại biến cục ảnh hưởng đến tất cả tu sĩ.\n Lúc này, dư chấn từ đợt bùng nổ linh khí đã lan đến tông môn của Người. Trong lúc các đệ tử đang tận hưởng thiên địa linh khí nồng đậm này, trong lòng mỗi người không khỏi hoài nghi đại biến cục này mang ý nghĩa gì....	
+10028	Thiên niên linh triều			Đã nhiều ngày trôi qua kể từ khi sự kiện bùng nổ linh khí lan rộng khắp thế giới. Sau khi tra cứu cổ tịch, các đại tông môn danh tiếng đã thảo luận và cuối cùng đi đến kết luận rằng đây là dòng chảy thiên địa linh khí cứ 3.000 năm lại tăng lên một lần. Ảnh hưởng từ thiên niên linh triều này đã đánh thức một số tiền bối tu sĩ cổ đại từng chìm vào giấc ngủ vì những lý do nào đó.\n Thời thượng cổ không có nhiều quy củ như hiện tại. Quá khứ chỉ có đạo lý cá lớn nuốt cá bé, sự xuất hiện của những tu sĩ cổ đại này đã gây ra không ít sóng gió trong tu chân giới....	
+10029	Thiên tai Nam Cương			Khi các tu sĩ ở khu vực lân cận đến nơi, họ phát hiện toàn bộ núi non sông nước trong phạm vi hàng trăm dặm đã chìm trong biển nước, đồng thời họ còn cảm nhận được yêu khí dày đặc lan tỏa.\nDường như một số hung thú thượng cổ ẩn náu trong núi sâu hồ lớn đã bị ảnh hưởng bởi thiên niên linh triều và bắt đầu hoạt động trở lại.	
+10030	Tiếng vọng từ lòng đất			Sự kiện linh khí ngàn năm đã trôi qua hơn một tháng. Trong khoảng thời gian đó, các tu sĩ thượng cổ và linh thú viễn cổ lại bắt đầu hoạt động trở lại... Điều này khiến thế giới tu chân thay đổi rất lớn. Tuy nhiên, theo thời gian, thế giới tu chân dần khôi phục ổn định và mọi thứ dường như đã trở lại bình thường.\nMặc dù vậy, dường như tại tông môn của Người thường xuyên xảy ra các cơn chấn động. Có lẽ đây là một điềm báo gì đó....	
+10031	Thiên phạt diệt rồng			Sức mạnh của Thiên phạt đã phá hủy sinh mệnh lực của con rồng chưa kịp ấp nở....	
+10032	Uy hiếp			Đột nhiên, hang động bí ẩn giải phóng ra linh khí đáng sợ và mạnh mẽ, nó muốn Người[TXT]	
+10033	Thành tựu ({0}) Thất bại	Thành tựu		Đột phá thất bại	
+20001	Thế giới truyền ngôn			    [TXT]	
+20002	Đại loạn dị giới			Có tin đồn rằng giữa đại dương bao la, một khe nứt không gian dẫn đến thế giới khác đột nhiên mở ra, khiến nhiều bảo vật quý giá từ khe nứt đó bắn ra và phân tán khắp nơi trên thế giới. Người cảm nhận được điều gì đó kỳ lạ, dường như Người có mối liên kết tâm linh với những bảo vật này. Tuy nhiên, việc tìm kiếm chúng cần phải hết sức cẩn trọng.	
+30001	Đại diện tông môn {0} Đã đến{1}Đã xong	Đại diện tông môn đã đến nơi		Hành trình thành công	
+30002	Sắc phong {0} Thành công	Sắc phong thành công		Sắc phong thành công	
+30003	Xây dựng {0} Thành công	Xây dựng thành công		Xây dựng thành công	
+30004	Nâng cấp chủ điện của{0}Thành công	Nâng cấp chủ điện		Nâng cấp thành công	
+30005	{0}	Đã xảy ra một sự kiện nào đó		Đã xảy ra một sự kiện nào đó	
+30006	{0}	Thiên tai đã giáng lâm		Thiên tai đã giáng lâm	
+30007	Thương nhân {0} Đã xuất hiện	Thương nhân đã xuất hiện		Du thương đã đến nơi	
+30008	Chúng ta đã xây dựng{0}Thành công!	Xây dựng hoàn tất		Xây dựng kỳ quan thành công	
+40000	Thương hội cấm vận!	Trừng phạt từ Thương Hội	Do thái độ thiếu tôn trọng của Người, Thương hội đã quyết định đưa Người vào danh sách đen, cấm giao dịch vĩnh viễn.		
+30009	Tín ngưỡng của{0}Đã đầy	Tín ngưỡng đã đầy	{0}Tín ngưỡng đã tích lũy đến cực hạn, Người có thể phái đệ tử đi thu thập nó về		
+30010	Kho lưu trữ của{0}Đã đầy	Kho lưu trữ đã đầy	Kho lưu trữ của{0}Đã đầy, vui lòng thu thập để giải phóng không gian		
+30011	{0}	Chọn chính sách			
+31001	Tiểu yêu tinh kỳ lạ	Tiểu yêu tinh kỳ lạ	Linh thú kỳ lạ xuất hiện		Strange Little Elf has arrived.
+31002	Chúc Long biến dị	Chúc Long biến dị	Chúc Long biến dị xuất hiện		Mutated Torch Dragon has appeared.
+32001	Một chú cún con xuất hiện gần đó !	Một chú cún con xuất hiện gần đó !	Một chú cún con xuất hiện gần đó !		
+32002	Một chú hồ ly nhỏ xuất hiện gần đó!	Một chú hồ ly nhỏ xuất hiện gần đó!	Một chú hồ ly nhỏ xuất hiện gần đó!		
+32003	{0}Đang được dùng để mài nanh vuốt	Bị tấn công	Bị tấn công		
+32004	Huyền Vũ xuất hiện gần đó!	Huyền Vũ xuất hiện gần đó!	Huyền Vũ xuất hiện gần đó!		
+33001	{0} Không thể vượt qua Thiên Kiếp Hóa Hình	Đã thất bại dưới Thiên Kiếp Hóa Hình	{0} Không thể vượt qua Thiên Kiếp Hóa Hình và đã trở về với cát bụi		
+33002	{0} Không thể vượt qua Thiên Kiếp Hóa Hình	Đã thất bại dưới Thiên Kiếp Hóa Hình	{0} Không thể vượt qua Thiên Kiếp Hóa Hình và đã bị biến thành yêu thú		
+34001	{0} Đang rất cần suy ngẫm	Cần suy ngẫm khẩn cấp	Đã thu thập đủ ý niệm và đang bước vào trạng thái suy ngẫm		
+34002	{0} Tiến vào trạng thái ngộ đạo	Trạng thái ngộ đạo			
+34003	{0} Đang học tập	Thời kỳ học hỏi			
+34004	{0} Đang trưởng thành	Giai đoạn trưởng thành			
+34005	{0} Đang do dự	Do dự			
+34006	Trình độ trí tuệ của {0} Đã đầy	Luyện tập			
+34007	Cảnh giới linh khí của {0} Đã đầy	Luyện tập			
+34008	Cảnh giới linh lực của {0} Đã đầy	Luyện tập			
+34009	Cảnh giới yêu đan của {0} Đã đầy	Luyện tập			
+34010	Cảnh giới linh giáp của {0} Đã đầy	Luyện tập			
+34011	Thần thú Gấu Trúc đã xuất hiện gần đó!	Thần thú Gấu Trúc đã xuất hiện gần đó!	Thần thú Gấu Trúc đã xuất hiện gần đó!		
+34101	Linh thạch từ Thiên Đàn đã đến nơi	Linh thạch từ Thiên Đàn đã đến nơi			
+34102	Linh thạch trong Thiên Đàn đang chờ Người tới thu nhận	Linh thạch trong Thiên Đàn đang chờ Người tới thu nhận			
+34103	Linh thạch đã ngưng kết hoàn tất!	Linh thạch đã ngưng kết hoàn tất!			
+34200	Đã mở khóa áo choàng: {0}	Đã mở khóa áo choàng	Có thể chế tạo nó tại bàn may		
+41001	Thiên Đạo Hỗn Loạn	Thiên Đạo Hỗn Loạn			

@@ -1,0 +1,15 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>Không biết xảy ra chuyện gì nhưng đột nhiên [name] lại rơi vào trạng thái ngơ ngác vô cớ</Events.0.Story>
+			<Events.1.Story>[name] [rand_string=Đột nhiên hắt hơi,Đột nhiên nấc cục,Đột nhiên cát bay vào mắt,Ngáp,Bắt đầu lẩm bẩm một mình,Xoa bụng mình,Gãi ngứa,Đột nhiên cảm thấy nhàm chán,Dùng ngón tay chải tóc,Đột nhiên có gì đó trong giày,Dẫm phải cái gì đó,Chỉnh sửa trang phục,Thở dài,Há hốc miệng,Liếm môi,Tặc lưỡi,Phủi bụi trên người,Ngân nga bài hát,Muốn trò chuyện với ai đó,Muốn thử làm thơ,Cảm thấy ngứa cổ,Hắng giọng]</Events.1.Story>
+			<Events.2.Story>[name] [rand_string=Vận hành chân khí,Tụng chú nhiều lần,Ngộ đạo Thiên Đạo]</Events.2.Story>
+			<Events.3.Story>[name] Đột nhiên cảm thấy[rand_string=Mắt phải,Mắt trái]giật nhẹ một cái</Events.3.Story>
+			<Events.4.Story>[name] Hình như nghe thấy ai đó gọi tên của[IT]</Events.4.Story>
+			<Events.5.Story>[name] Muốn trò chuyện với ai đó về[rand_lable=obj_friend,obj_nearthing,other=obj,obj_action].</Events.5.Story>
+			<Events.6.Story>[name] Thích[rand_lable=obj_weather,obj_action]rất nhiều</Events.6.Story>
+			<Events.7.Story>[name] Nhìn chằm chằm vào[rand_lable=obj_friend,obj_nearthing]ở gần đó [rand_string=một cách thẫn thờ,rồi cười nhẹ,một cách suy tư]</Events.7.Story>
+			<Events.8.Story>[name] Cần sử dụng[obj_equip][rand_string=Điều chỉnh,Dọn dẹp,Sắp xếp]</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

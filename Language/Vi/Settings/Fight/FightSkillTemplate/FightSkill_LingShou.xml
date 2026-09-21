@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Ls_SheildSkill">
+			<DisplayName>Linh Giáp</DisplayName>
+		</Text>
+		<Text Name="Ls_TransferQi">
+			<DisplayName>Phạn Ngữ </DisplayName>
+		</Text>
+		<Text Name="Ls_FabaoSkill">
+			<DisplayName>Thần Kiếm</DisplayName>
+		</Text>
+		<Text Name="Ls_FoxSkillAmp">
+			<DisplayName>Luyện Ngục</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater">
+			<DisplayName>Lôi Lưu</DisplayName>
+		</Text>
+		<Text Name="Ls_SkillWater5">
+			<DisplayName>Đại Lôi Lưu</DisplayName>
+		</Text>
+		<Text Name="Ls_Fanshi">
+			<DisplayName>Phản Công</DisplayName>
+			<Desc>Gây một lượng sát thương dựa trên lượng linh lực tối đa của pháp bảo kẻ địch, đồng thời phong ấn khả năng sử dụng pháp bảo trong một khoảng thời gian</Desc>
+		</Text>
+		<Text Name="Ls_Penhuo">
+			<DisplayName>Hỏa Diệm Sơn</DisplayName>
+		</Text>
+		<Text Name="Ls_Ci">
+			<DisplayName>Hào Quang Hấp Dẫn</DisplayName>
+		</Text>
+		<Text Name="Ls_JinThunder">
+			<DisplayName>Thần Lôi</DisplayName>
+		</Text>
+		<Text Name="Ls_AddModifier">
+			<DisplayName>Thần Thuẫn</DisplayName>
+			<Desc>Tăng cường hộ giáp linh lực cho đồng minh và độ cứng cáp của thân thể bí ẩn</Desc>
+		</Text>
+		<Text Name="Ls_Confuse">
+			<DisplayName>Mê mang</DisplayName>
+			<Desc>Khiến kẻ địch rơi vào trạng thái hỗn loạn, không thể tấn công hoặc di chuyển, tuy nhiên kẻ địch sẽ thoát khỏi trạng thái này khi bị tấn công</Desc>
+		</Text>
+		<Text Name="Ls_Rongduan">
+			<DisplayName>Ngòi Nổ</DisplayName>
+			<Desc>Sử dụng sức mạnh núi lửa để gây sát thương cho kẻ địch, đồng thời trấn áp khả năng thi triển linh pháp của chúng trong một khoảng thời gian</Desc>
+		</Text>
+	</List>
+</Texts>

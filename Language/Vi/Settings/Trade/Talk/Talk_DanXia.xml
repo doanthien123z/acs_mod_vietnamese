@@ -1,0 +1,41 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Talk_DanXia">
+			<Hate.1>Ngươi không được hoan nghênh ở đây.</Hate.1>
+			<Hate.2>Có gì thì cứ nói.</Hate.2>
+			<Hate.3>Ngươi to gan thật! Ta cho phép ngươi nhìn mặt ta từ bao giờ??</Hate.3>
+			<Normal.0>Ngươi cần ta giúp gì sao??</Normal.0>
+			<Normal.1>Ngươi muốn gì??</Normal.1>
+			<Like.0>Dạo này ngươi thế nào? Ta nghĩ chúng ta nên dành thời gian trò chuyện đôi câu.</Like.0>
+			<Submiss.0>Ngài muốn trân bảo nào chứ? Xin cứ tự nhiên lựa chọn.</Submiss.0>
+			<ValueableTrade.0>Giá ngươi đưa ra tuy rất cao, nhưng ta vẫn không thay đổi suy nghĩ của mình về ngươi đâu.</ValueableTrade.0>
+			<ValueableTrade.1>Ngươi đã chịu tổn thất lớn với cái giá này, nhưng vì chúng ta đã thỏa thuận từ trước, thế nên ngươi không thể thay đổi gì được nữa.</ValueableTrade.1>
+			<TryOkTrade.0>Được, ta đồng ý với giao dịch này.</TryOkTrade.0>
+			<TryOkTrade.1>Tốt, ta chấp nhận đề nghị của ngươi.</TryOkTrade.1>
+			<NoTrade.0>Không</NoTrade.0>
+			<NoTrade.1>Không đời nào.</NoTrade.1>
+			<NoTrade.2>Xin lỗi, ta không thể chấp nhận đề nghị này.</NoTrade.2>
+			<OkTrade.0>Hy vọng chúng ta sẽ còn cơ hội hợp tác kinh doanh.</OkTrade.0>
+			<OkTrade.1>Đây là một giao dịch vô cùng tốt đẹp.</OkTrade.1>
+			<OkTrade.2>Xác nhận</OkTrade.2>
+			<GiftLike.0>Ngươi thực sự muốn giao thứ này cho ta ư? Nhiều năm qua, ta vẫn luôn khao khát vật này.</GiftLike.0>
+			<Task.0>Đa tạ nhiều, đây chính là thứ mà bọn ta đang cần.</Task.0>
+			<Task.1>Ta được cứu rồi, vô cùng đa tạ ngươi.</Task.1>
+			<TaskNeed.0>Đa tạ ngươi rất nhiều, nhưng bọn ta vẫn cần thêm vật này nữa.</TaskNeed.0>
+			<TaskNeed.1>Vật này có ích rất lớn, tuy nhiên bọn ta cần nhiều hơn thế.</TaskNeed.1>
+			<Task.0>Đến thật đúng lúc, đa tạ ngươi nhiều.</Task.0>
+			<Task.1>Tuyệt vời, vật này vừa vặn giải quyết được rắc rối của bọn ta.</Task.1>
+			<Task.2>Đỡ quá, bọn ta đang rất cần thứ này.</Task.2>
+			<LowValueGift.0>Thứ này vô dụng quá, ta không cần nó.</LowValueGift.0>
+			<LowValueGift.1>Ngươi không nghĩ việc mang thứ này đến cho bọn ta là sự sỉ nhục cực lớn sao??</LowValueGift.1>
+			<MidValueGift.0>Vật này rất hợp với tiểu bối mới bước chân vào con đường bốc thuốc (bồi dưỡng), nhưng hiện tại nó chẳng còn chút tác dụng nào với ta nữa.</MidValueGift.0>
+			<MidValueGift.1>Đa tạ, nhưng tông môn của chúng ta không cần vật này.</MidValueGift.1>
+			<HighValueGift.0>Ta không thể từ chối trân bảo quý giá nhường này, nhưng sự nhiệt tình của ngươi cũng chẳng khiến ta ấn tượng thêm chút nào đâu.</HighValueGift.0>
+			<NoEnoughFriendPoint.0>Ta không nghĩ mình nợ ngươi điều gì, thế nên ta không thể giao thứ này cho ngươi được.</NoEnoughFriendPoint.0>
+			<NoEnoughFriendPoint.1>Trân bảo của tông môn ta, đâu phải có linh thạch là mua được.</NoEnoughFriendPoint.1>
+			<NoEnoughFriendPoint.2>Ngươi không thể dễ dàng mua được loại trân bảo này đâu.</NoEnoughFriendPoint.2>
+			<Invalid.0>Ta thấy quan hệ giữa chúng ta chưa thân thiết đến mức đó.</Invalid.0>
+			<Invalid.1>Không, bọn ta đời nào bán thứ này cho ngươi.</Invalid.1>
+		</Text>
+	</List>
+</Texts>

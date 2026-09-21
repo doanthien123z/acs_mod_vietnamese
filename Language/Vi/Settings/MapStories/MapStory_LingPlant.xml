@@ -1,0 +1,39 @@
+<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhi_YunYangBegin">
+			<DisplayName>Trông nom</DisplayName>
+			<Desc>Trong lúc [NAME] Trông nom [HENAME] Có chuyện gì đó đặc biệt đã xảy ra</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_YunYangEnd">
+			<DisplayName>Chăm sóc hoàn tất</DisplayName>
+			<Desc>Khi [NAME] Trông nom [HENAME] Hoàn tất, có chuyện gì đó đặc biệt đã xảy ra</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Chance">
+			<DisplayName>Tiên duyên</DisplayName>
+			<Desc>Có sự thay đổi nhỏ về linh trí trong khi [NAME] Đang trưởng thành</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Grow">
+			<DisplayName>Linh thảo đã trưởng thành</DisplayName>
+			<Desc>Khi linh căn trưởng thành, linh khí trời đất đột ngột biến đổi, dường như có chuyện gì đó đặc biệt đã xảy ra</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Ripe">
+			<DisplayName>Linh quả đã chín muồi</DisplayName>
+			<Desc>Có phản ứng lạ xảy ra trên trời đất khi linh thảo chín muồi, dường như có chuyện gì đó đặc biệt đã xảy ra</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_LingSha">
+			<DisplayName>Tà linh</DisplayName>
+			<Desc>Tâm ma của [NAME] Đã đạt tới cảnh giới cuối cùng, dường như có chuyện gì đó sắp xảy ra</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Attack">
+			<DisplayName>Kẻ địch xâm phạm</DisplayName>
+			<Desc>Linh quả đã chín, nhưng dường như có điềm báo chẳng lành, hãy chuẩn bị sẵn sàng</Desc>
+			<Selections.0.Display>Kiểm tra</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,1099 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Mutation_UnstableBase">
+			<DisplayName>Thiên Đạo Hỗn Loạn</DisplayName>
+			<Desc>Dưới ảnh hưởng của thiên địa hỗn loạn cuồng nộ, toàn bộ chỉ số bị thay đổi</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_YinYangBase">
+			<DisplayName>Thiên Đạo Hỗn Loạn</DisplayName>
+			<Desc>Do quy luật Âm-Dương hỗn loạn của thiên địa, toàn bộ chỉ số tạm thời bị thay đổi</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_ConstantBase">
+			<DisplayName>Thiên Đạo Hỗn Loạn</DisplayName>
+			<Desc>Chịu ảnh hưởng của thiên địa hỗn loạn tĩnh lặng, toàn bộ chỉ số đã được điều chỉnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_1">
+			<Desc>Giảm mị lực 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_2">
+			<Desc>Giảm mị lực 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_3">
+			<Desc>Giảm mị lực 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_4">
+			<Desc>Giảm thần thức 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_5">
+			<Desc>Giảm thần thức 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_6">
+			<Desc>Giảm thần thức 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_7">
+			<Desc>Giảm cơ duyên 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_8">
+			<Desc>Giảm cơ duyên 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_9">
+			<Desc>Giảm cơ duyên 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_10">
+			<Desc>Giảm ngộ tính 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_11">
+			<Desc>Giảm ngộ tính 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_12">
+			<Desc>Giảm ngộ tính 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_13">
+			<Desc>Giảm thể魄 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_14">
+			<Desc>Giảm thể魄 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_15">
+			<Desc>Giảm thể魄 50</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_16">
+			<Desc>Giảm ngũ duy 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BaseFive_17">
+			<Desc>Giảm ngũ duy 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_1">
+			<Desc>Tăng mị lực 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_2">
+			<Desc>Tăng mị lực 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_3">
+			<Desc>Tăng mị lực 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_4">
+			<Desc>Tăng thần thức 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_5">
+			<Desc>Tăng thần thức 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_6">
+			<Desc>Tăng thần thức 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_7">
+			<Desc>Tăng cơ duyên 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_8">
+			<Desc>Tăng cơ duyên 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_9">
+			<Desc>Tăng cơ duyên 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_10">
+			<Desc>Tăng ngộ tính 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_11">
+			<Desc>Tăng ngộ tính 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_12">
+			<Desc>Tăng ngộ tính 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_13">
+			<Desc>Tăng thể魄 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_14">
+			<Desc>Tăng thể魄 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_15">
+			<Desc>Tăng thể魄 50%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_16">
+			<Desc>Tăng ngũ duy 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BaseFive_17">
+			<Desc>Tăng ngũ duy 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_1">
+			<Desc>Tăng tốc độ hồi phục chân khí 75%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_2">
+			<Desc>Tăng tốc độ hồi phục chân khí 200%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_3">
+			<Desc>Tăng tốc độ hồi phục chân khí 500%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_1">
+			<Desc>Tốc độ hồi phục chân khí giảm 75%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_2">
+			<Desc>Tốc độ hồi phục chân khí giảm 200%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_3">
+			<Desc>Tốc độ hồi phục chân khí giảm 500%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_1">
+			<Desc>Tăng nhẹ giới hạn chân khí tối đa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_2">
+			<Desc>Tăng vừa giới hạn chân khí tối đa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_3">
+			<Desc>Tăng mạnh giới hạn chân khí tối đa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_1">
+			<Desc>Tăng nhẹ hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_2">
+			<Desc>Tăng vừa hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_1">
+			<Desc>Giảm nhẹ hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_2">
+			<Desc>Giảm vừa hộ thể chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_1">
+			<Desc>Tăng nhẹ giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_2">
+			<Desc>Tăng vừa giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MaxAge_3">
+			<Desc>Tăng mạnh giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_1">
+			<Desc>Giảm nhẹ giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_2">
+			<Desc>Giảm vừa giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MaxAge_3">
+			<Desc>Giảm mạnh giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_1">
+			<Desc>Tăng nhẹ tỉ lệ đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_2">
+			<Desc>Tăng vừa tỉ lệ đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_3">
+			<Desc>Tăng mạnh tỉ lệ đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_1">
+			<Desc>Giảm nhẹ tỉ lệ đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_2">
+			<Desc>Giảm vừa tỉ lệ đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>Tăng nhẹ tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>Tăng mạnh tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>Giảm nhẹ tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>Giảm mạnh tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_1">
+			<Desc>Tăng nhẹ căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_2">
+			<Desc>Tăng vừa căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_3">
+			<Desc>Tăng mạnh căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_1">
+			<Desc>Giảm nhẹ căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_2">
+			<Desc>Giảm vừa căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_3">
+			<Desc>Giảm mạnh căn cơ tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NutritionWaterAutoRecover_1">
+			<Desc>Tự động hồi phục độ no</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_NutritionConsumeConstant_1">
+			<Desc>Giảm độ đói</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_NutritionConsumeConstant_1">
+			<Desc>Dễ đói hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_FatigueConsumeConstant_1">
+			<Desc>Khó mệt hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_FatigueConsumeConstant_1">
+			<Desc>Dễ mệt hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_WaterConsumeConstant_1">
+			<Desc>Khó khát hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_WaterConsumeConstant_1">
+			<Desc>Dễ khát hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_1">
+			<Desc>Tăng nhẹ tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_2">
+			<Desc>Tăng vừa tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_MoveSpeed_3">
+			<Desc>Tăng mạnh tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_1">
+			<Desc>Giảm nhẹ tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_2">
+			<Desc>Giảm tốc độ di chuyển vừa phải</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_MoveSpeed_3">
+			<Desc>Giảm mạnh tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_1">
+			<Desc>Tăng nhẹ hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_2">
+			<Desc>Tăng vừa hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_3">
+			<Desc>Tăng mạnh hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_1">
+			<Desc>Giảm nhẹ hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_2">
+			<Desc>Giảm vừa hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_3">
+			<Desc>Giảm mạnh hiệu suất hoạt động tổng thể</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_1">
+			<Desc>Tăng tốc độ lĩnh ngộ vừa phải</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_2">
+			<Desc>Tăng mạnh tốc độ lĩnh ngộ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_1">
+			<Desc>Giảm tốc độ lĩnh ngộ vừa phải</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_2">
+			<Desc>Giảm mạnh tốc độ lĩnh ngộ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_1">
+			<Desc>Giảm nhẹ điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_2">
+			<Desc>Giảm vừa điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_3">
+			<Desc>Giảm mạnh điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_1">
+			<Desc>Tăng nhẹ điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_2">
+			<Desc>Tăng vừa điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_3">
+			<Desc>Tăng mạnh điểm cộng dồn đạo chủng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ComfyTMax_1">
+			<Desc>Tăng khả năng thích ứng với thời tiết nóng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ComfyTMax_1">
+			<Desc>Giảm khả năng thích ứng với thời tiết nóng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ComfyTMin_1">
+			<Desc>Tăng khả năng thích ứng với thời tiết lạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ComfyTMin_1">
+			<Desc>Giảm khả năng thích ứng với thời tiết lạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_DanMake_1">
+			<Desc>Tốc độ, tỉ lệ thành công và sản lượng luyện đan của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_DanMake_1">
+			<Desc>Tốc độ, tỉ lệ thành công và sản lượng luyện đan của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_FabaoMake_1">
+			<Desc>Tăng mạnh tốc độ, tỉ lệ thành công, cấp độ, phẩm chất và cơ hội rèn pháp bảo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_FabaoMake_1">
+			<Desc>Giảm mạnh tốc độ, tỉ lệ thành công, cấp độ, phẩm chất và cơ hội rèn pháp bảo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Treatment_1">
+			<Desc>Tốc độ và hiệu quả hồi phục của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Treatment_1">
+			<Desc>Tốc độ và hiệu quả hồi phục của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Butcher_1">
+			<Desc>Tốc độ và sản lượng thu hoạch của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Butcher_1">
+			<Desc>Tốc độ và sản lượng thu hoạch của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Cooking_1">
+			<Desc>Tốc độ nấu nướng và cấp độ kỹ năng nấu nướng của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Cooking_1">
+			<Desc>Tốc độ nấu nướng và cấp độ kỹ năng nấu nướng của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ConstructionSpeed_1">
+			<Desc>Tốc độ kiến trúc, xây dựng và cấp độ kỹ năng tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ConstructionSpeed_1">
+			<Desc>Tốc độ kiến trúc, xây dựng và cấp độ kỹ năng giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Mining_1">
+			<Desc>Tốc độ và sản lượng khai thác khoáng sản của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Mining_1">
+			<Desc>Tốc độ và sản lượng khai thác khoáng sản của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Coolie_1">
+			<Desc>Tốc độ giải trừ thiên tai, dọn dẹp và di chuyển của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Coolie_1">
+			<Desc>Tốc độ giải trừ thiên tai, dọn dẹp và di chuyển của nhân vật giảm mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_1">
+			<Desc>Cấp độ kỹ năng chiến đấu +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_2">
+			<Desc>Cấp độ kỹ năng chiến đấu +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_3">
+			<Desc>Cấp độ kỹ năng chiến đấu +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_4">
+			<Desc>Kỹ năng thế tục cấp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_5">
+			<Desc>Kỹ năng giao tiếp cấp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_6">
+			<Desc>Kỹ năng giao tiếp cấp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_7">
+			<Desc>Kỹ năng chế tác cấp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_8">
+			<Desc>Kỹ năng chế tác cấp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_9">
+			<Desc>Kỹ năng chế tác cấp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_10">
+			<Desc>Cảm ứng chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_11">
+			<Desc>Cảm ứng chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_12">
+			<Desc>Cảm ứng chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_13">
+			<Desc>Kỹ năng chế tạo/rèn pháp bảo +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_14">
+			<Desc>Tăng kỹ năng chế tạo/rèn pháp bảo của bản thân +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_15">
+			<Desc>Tăng kỹ năng chế tạo/rèn pháp bảo của bản thân +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_16">
+			<Desc>Kỹ năng dược lý/luyện đan +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_17">
+			<Desc>Kỹ năng dược lý/luyện đan +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_18">
+			<Desc>Kỹ năng dược lý/luyện đan +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_19">
+			<Desc>Kỹ năng điều khiển pháp bảo +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_20">
+			<Desc>Kỹ năng điều khiển pháp bảo +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_21">
+			<Desc>Kỹ năng điều khiển pháp bảo +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_22">
+			<Desc>Kỹ năng chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_23">
+			<Desc>Kỹ năng chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_24">
+			<Desc>Kỹ năng chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_25">
+			<Desc>Kỹ năng hộ thể chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_26">
+			<Desc>Kỹ năng hộ thể chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_27">
+			<Desc>Kỹ năng hộ thể chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_28">
+			<Desc>Kỹ năng trận pháp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_29">
+			<Desc>Kỹ năng trận pháp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_30">
+			<Desc>Kỹ năng trận pháp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_31">
+			<Desc>Kỹ năng khai khoáng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_32">
+			<Desc>Kỹ năng khai khoáng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_33">
+			<Desc>Kỹ năng khai khoáng +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_34">
+			<Desc>Kỹ năng nông nghiệp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_35">
+			<Desc>Kỹ năng nông nghiệp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_36">
+			<Desc>Kỹ năng nông nghiệp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_37">
+			<Desc>Kỹ năng xây dựng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_38">
+			<Desc>Kỹ năng xây dựng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_39">
+			<Desc>Kỹ năng xây dựng +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_40">
+			<Desc>Kỹ năng nấu nướng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_41">
+			<Desc>Kỹ năng nấu nướng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Skills_42">
+			<Desc>Kỹ năng nấu nướng +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_1">
+			<Desc>Kỹ năng chiến đấu -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_2">
+			<Desc>Kỹ năng chiến đấu -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_3">
+			<Desc>Kỹ năng chiến đấu -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_4">
+			<Desc>Kỹ năng giao tiếp -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_5">
+			<Desc>Kỹ năng giao tiếp -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_6">
+			<Desc>Kỹ năng giao tiếp -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_7">
+			<Desc>Kỹ năng thủ công -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_8">
+			<Desc>Kỹ năng thủ công -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_9">
+			<Desc>Kỹ năng thủ công -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_10">
+			<Desc>Cảm ứng chân khí -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_11">
+			<Desc>Cảm ứng chân khí -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_12">
+			<Desc>Cảm ứng chân khí -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_13">
+			<Desc>Giảm kỹ năng rèn/chế tạo pháp bảo -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_14">
+			<Desc>Giảm kỹ năng rèn/chế tạo pháp bảo -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_15">
+			<Desc>Giảm kỹ năng rèn/chế tạo pháp bảo -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_16">
+			<Desc>Giảm kỹ năng dược lý/luyện đan -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_17">
+			<Desc>Giảm kỹ năng dược lý/luyện đan -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_18">
+			<Desc>Giảm kỹ năng dược lý/luyện đan -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_19">
+			<Desc>Kỹ năng sử dụng pháp bảo -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_20">
+			<Desc>Kỹ năng sử dụng pháp bảo -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_21">
+			<Desc>Kỹ năng sử dụng pháp bảo -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_22">
+			<Desc>Kỹ năng chân khí -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_23">
+			<Desc>Kỹ năng chân khí -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_24">
+			<Desc>Kỹ năng chân khí -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_25">
+			<Desc>Kỹ năng hộ thể chân khí -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_26">
+			<Desc>Kỹ năng hộ thể chân khí -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_27">
+			<Desc>Kỹ năng hộ thể chân khí -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_28">
+			<Desc>Kỹ năng trận pháp -1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_29">
+			<Desc>Kỹ năng trận pháp -2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_30">
+			<Desc>Kỹ năng trận pháp -3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_31">
+			<Desc>Kỹ năng khai khoáng-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_32">
+			<Desc>Kỹ năng khai khoáng-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_33">
+			<Desc>Kỹ năng khai khoáng-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_34">
+			<Desc>Kỹ năng làm ruộng-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_35">
+			<Desc>Kỹ năng làm ruộng-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_36">
+			<Desc>Kỹ năng làm ruộng-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_37">
+			<Desc>Kỹ năng xây dựng-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_38">
+			<Desc>Kỹ năng xây dựng-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_39">
+			<Desc>Kỹ năng xây dựng-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_40">
+			<Desc>Kỹ năng nấu nướng-1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_41">
+			<Desc>Kỹ năng nấu nướng-2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_Skills_42">
+			<Desc>Kỹ năng nấu nướng-3</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_Quenching_1">
+			<Desc>Tăng mạnh tốc độ rèn thể và tỷ lệ tiến hóa cấp cao của nhân vật</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_1">
+			<Desc>Tăng khả năng chịu tải của trận pháp mức trung bình</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_2">
+			<Desc>Tăng khả năng chịu tải của trận pháp mức cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ZhenEnginePower_1">
+			<Desc>Giảm khả năng chịu tải của trận pháp mức trung bình</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_1">
+			<Desc>Tăng kháng sát thương tất cả thuộc tính</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_2">
+			<Desc>Tăng kháng sát thương thuộc tính Kim</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_3">
+			<Desc>Tăng kháng sát thương thuộc tính Mộc</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_4">
+			<Desc>Tăng kháng sát thương thuộc tính Thủy</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_5">
+			<Desc>Tăng kháng sát thương thuộc tính Hỏa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_ShieldResistance_6">
+			<Desc>Tăng kháng sát thương thuộc tính Thổ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_1">
+			<Desc>Giảm kháng sát thương tất cả thuộc tính</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_2">
+			<Desc>Giảm kháng sát thương thuộc tính Kim</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_3">
+			<Desc>Giảm kháng sát thương thuộc tính Mộc</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_4">
+			<Desc>Giảm kháng sát thương thuộc tính Thủy</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_5">
+			<Desc>Giảm kháng sát thương thuộc tính Hỏa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_ShieldResistance_6">
+			<Desc>Giảm kháng sát thương thuộc tính Thổ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_1">
+			<Desc>Tăng tốc độ tu luyện cơ bản mức trung bình</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_2">
+			<Desc>Tăng tốc độ tu luyện cơ bản mức cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_1">
+			<Desc>Giảm tốc độ tu luyện cơ bản mức trung bình</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_2">
+			<Desc>Giảm mạnh tốc độ tu luyện cơ bản</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_1">
+			<Desc>Tăng mị lực 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_2">
+			<Desc>Tăng mị lực 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_3">
+			<Desc>Tăng mị lực 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_4">
+			<Desc>Tăng thần thức 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_5">
+			<Desc>Tăng thần thức 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_6">
+			<Desc>Tăng thần thức 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_7">
+			<Desc>Tăng cơ duyên 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_8">
+			<Desc>Tăng cơ duyên 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_9">
+			<Desc>Tăng cơ duyên 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_10">
+			<Desc>Tăng ngộ tính 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_11">
+			<Desc>Tăng ngộ tính 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_12">
+			<Desc>Tăng ngộ tính 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_13">
+			<Desc>Tăng thể魄 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_14">
+			<Desc>Tăng thể魄 20%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_15">
+			<Desc>Tăng thể魄 30%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BaseFive_16">
+			<Desc>Tăng ngũ duy 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_1">
+			<Desc>Tăng nhẹ tốc độ hồi phục chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_2">
+			<Desc>Tăng vừa tốc độ hồi phục chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_3">
+			<Desc>Tăng mạnh tốc độ hồi phục chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NpcLingMaxValue_1">
+			<Desc>Tăng giới hạn tu vi tối đa 10%</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NpcFight_ShieldConversionRate_1">
+			<Desc>Điều chỉnh độ mạnh của hộ thân chân khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MaxAge_1">
+			<Desc>Điều chỉnh giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_PracticeRateAddPFromDan_1">
+			<Desc>Điều chỉnh tỷ lệ thành công khi đột phá cảnh giới</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_DeepPracticeSpeedSpecialCoefficient_1">
+			<Desc>Điều chỉnh tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MindStateBaseValue_1">
+			<Desc>Điều chỉnh chỉ số tâm cảnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_1">
+			<Desc>Tăng nhẹ khả năng tích cốc (nhịn ăn uống), tự động hồi phục độ no</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_2">
+			<Desc>Tăng vừa khả năng tích cốc (nhịn ăn uống), tự động hồi phục độ no</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_3">
+			<Desc>Tăng mạnh khả năng tích cốc (nhịn ăn uống), tự động hồi phục độ no</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NutritionConsumeConstant_1">
+			<Desc>Điều chỉnh tốc độ đói</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FatigueConsumeConstant_1">
+			<Desc>Điều chỉnh tốc độ mệt mỏi</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_WaterConsumeConstant_1">
+			<Desc>Điều chỉnh tốc độ tiêu thụ nước</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_MoveSpeed_1">
+			<Desc>Điều chỉnh tốc độ di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_GlobalEfficiency_1">
+			<Desc>Điều chỉnh hiệu suất làm việc</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_NeckCountdownAddV_1">
+			<Desc>Làm chậm thiên kiếp</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_1">
+			<Desc>Điều chỉnh tốc độ lĩnh hội</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_2">
+			<Desc>Điều chỉnh tốc độ lĩnh hội</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_3">
+			<Desc>Điều chỉnh tốc độ lĩnh hội</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_InspirationCoefficient_1">
+			<Desc>Dễ dàng tiếp thu vạn vật hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ComfyTMax_1">
+			<Desc>Tăng khả năng thích nghi với nhiệt độ cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ComfyTMin_1">
+			<Desc>Tăng khả năng thích nghi với nhiệt độ thấp</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_DanMake_1">
+			<Desc>Tăng mạnh tốc độ, tỷ lệ thành công và sản lượng khi luyện đan</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FabaoMake_1">
+			<Desc>Tăng mạnh tốc độ, tỷ lệ thành công, cấp bậc, phẩm chất và cơ hội rèn đúc pháp bảo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Treatment_1">
+			<Desc>Tốc độ và hiệu quả hồi phục của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Butcher_1">
+			<Desc>Tốc độ và sản lượng thu hoạch của nhân vật tăng mạnh</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Cooking_1">
+			<Desc>Tăng mạnh tốc độ nấu ăn của nhân vật</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Handwork_1">
+			<Desc>Tăng mạnh tốc độ khai thác đá, rèn sắt, chế tác, may vá và cộng dồn phẩm chất của nhân vật</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ConstructionSpeed_1">
+			<Desc>Tăng mạnh tốc độ xây dựng</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_PlantWork_1">
+			<Desc>Tăng mạnh tốc độ gieo trồng, thu hoạch, đốn củi và sản lượng thu được</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Mining_1">
+			<Desc>Tăng mạnh tốc độ và sản lượng khai thác mỏ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Coolie_1">
+			<Desc>Tăng mạnh tốc độ giảm nhẹ thiên tai, dọn dẹp và di chuyển</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Experience_1">
+			<Desc>Tăng mạnh tốc độ phi hành thám hiểm, hệ số danh tiếng thám hiểm, tốc độ dò tìm và giá trị ẩn thân</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_1">
+			<Desc>Kỹ năng chiến đấu +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_2">
+			<Desc>Kỹ năng chiến đấu +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_3">
+			<Desc>Kỹ năng chiến đấu +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_4">
+			<Desc>Kỹ năng giao tiếp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_5">
+			<Desc>Kỹ năng giao tiếp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_6">
+			<Desc>Kỹ năng giao tiếp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_7">
+			<Desc>Kỹ năng thủ công +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_8">
+			<Desc>Kỹ năng thủ công +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_9">
+			<Desc>Kỹ năng thủ công +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_10">
+			<Desc>Cảm ứng chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_11">
+			<Desc>Cảm ứng chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_12">
+			<Desc>Cảm ứng chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_13">
+			<Desc>Kỹ năng rèn sắt/chế tạo pháp bảo +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_14">
+			<Desc>Kỹ năng rèn sắt/chế tạo pháp bảo +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_15">
+			<Desc>Kỹ năng rèn sắt/chế tạo pháp bảo +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_16">
+			<Desc>Kỹ năng dược lý/luyện đan +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_17">
+			<Desc>Kỹ năng dược lý/luyện đan +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_18">
+			<Desc>Kỹ năng dược lý/luyện đan +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_19">
+			<Desc>Kỹ năng sử dụng pháp bảo +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_20">
+			<Desc>Kỹ năng sử dụng pháp bảo +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_21">
+			<Desc>Kỹ năng sử dụng pháp bảo +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_22">
+			<Desc>Kỹ năng chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_23">
+			<Desc>Kỹ năng chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_24">
+			<Desc>Kỹ năng chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_25">
+			<Desc>Kỹ năng hộ thể chân khí +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_26">
+			<Desc>Kỹ năng hộ thể chân khí +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_27">
+			<Desc>Kỹ năng hộ thể chân khí +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_28">
+			<Desc>Kỹ năng trận pháp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_29">
+			<Desc>Kỹ năng trận pháp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_30">
+			<Desc>Kỹ năng trận pháp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_31">
+			<Desc>Kỹ năng khai khoáng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_32">
+			<Desc>Kỹ năng khai thác +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_33">
+			<Desc>Kỹ năng khai khoáng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_34">
+			<Desc>Kỹ năng nông nghiệp +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_35">
+			<Desc>Kỹ năng nông nghiệp +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_36">
+			<Desc>Kỹ năng nông nghiệp +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_37">
+			<Desc>Kỹ năng xây dựng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_38">
+			<Desc>Kỹ năng xây dựng +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_39">
+			<Desc>Kỹ năng xây dựng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_40">
+			<Desc>Kỹ năng nấu nướng +1</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_41">
+			<Desc>Kỹ năng nấu nướng +2</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Skills_42">
+			<Desc>Kỹ năng nấu nướng +1 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Quenching_1">
+			<Desc>Tăng mạnh tốc độ rèn luyện thể xác và xác suất tiến hóa cấp cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Tuna_1">
+			<Desc>Tăng nhẹ hiệu suất điều hòa hơi thở</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_Tuna_2">
+			<Desc>Tăng mạnh hiệu suất điều hòa hơi thở</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_RecoveryPower_1">
+			<Desc>Tăng độ dẻo dai tự nhiên của thể xác</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_VisionRadius_1">
+			<Desc>Tăng phạm vi nhận thức của bản thân</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ZhenEnginePower_1">
+			<Desc>Tăng khả năng chịu tải của trận pháp mức cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_1">
+			<Desc>Tăng mạnh kháng tất cả sát thương nguyên tố</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_2">
+			<Desc>Tăng mạnh kháng sát thương hệ Kim</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_3">
+			<Desc>Tăng mạnh kháng sát thương hệ Mộc</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_4">
+			<Desc>Tăng mạnh kháng sát thương hệ Thủy</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_5">
+			<Desc>Tăng mạnh kháng sát thương hệ Hỏa</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_6">
+			<Desc>Tăng mạnh kháng sát thương hệ Thổ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_1">
+			<Desc>Tăng nhẹ tốc độ tu luyện cơ bản</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_2">
+			<Desc>Tăng tốc độ tu luyện cơ bản mức trung bình</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_3">
+			<Desc>Tăng tốc độ tu luyện cơ bản mức cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_1">
+			<Desc>Giảm điểm thưởng Hạt Giống Đạo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_2">
+			<Desc>Giảm điểm thưởng Hạt Giống Đạo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_3">
+			<Desc>Tăng điểm thưởng Hạt Giống Đạo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_4">
+			<Desc>Tăng điểm thưởng Hạt Giống Đạo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_AgeCostSpeed_1">
+			<Desc>Đẩy nhanh tốc độ suy giảm tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Unstable_FabaoNum_1">
+			<Desc>Mở khóa 1 ô Pháp bảo</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_1">
+			<Desc>Cấp kỹ năng toàn diện +2 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_2">
+			<Desc>Cấp kỹ năng Luyện Đan +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_3">
+			<Desc>Cấp kỹ năng Luyện Khí +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_4">
+			<Desc>Cấp kỹ năng Chế tạo +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_5">
+			<Desc>Cấp kỹ năng Thế tục +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_6">
+			<Desc>Cấp kỹ năng Xây dựng +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_7">
+			<Desc>Cấp kỹ năng Khai khoáng +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_8">
+			<Desc>Cấp kỹ năng Giao tiếp -5</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_9">
+			<Desc>Cấp kỹ năng Chiến đấu +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_10">
+			<Desc>Cấp kỹ năng Cảm ứng linh khí +10</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_11">
+			<Desc>Cấp kỹ năng Chiến đấu -5</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_12">
+			<Desc>Cấp kỹ năng Hộ thể linh khí +5 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Skills_13">
+			<Desc>Cấp kỹ năng Pháp lực +10 (Tăng giới hạn)</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_DeepPracticeSpeedSpecialCoefficient_2">
+			<Desc>Giảm mạnh tốc độ tu luyện</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_MaxAge_1">
+			<Desc>Tăng giới hạn tuổi thọ</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_ComfyTMin_1">
+			<Desc>Giảm khả năng thích nghi với nhiệt độ thấp</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_NpcLingMaxValue_1">
+			<Desc>Tăng tối đa cơ sở linh khí</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Quenching_1">
+			<Desc>Giảm mạnh tốc độ hô hấp, rèn thể và tỉ lệ tiến hóa bậc cao</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Experience_1">
+			<Desc>Giảm mạnh tốc độ phi hành mạo hiểm, hệ số danh tiếng, tốc độ thám hiểm và chỉ số ẩn thân</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_MindStateBaseValue_1">
+			<Desc>Giảm mạnh điểm thưởng trạng thái tâm hồn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_Handwork_1">
+			<Desc>Giảm mạnh tốc độ khai thác đá, rèn sắt, xây dựng, may mặc và điểm thưởng phẩm chất</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_ConsumeConstant_1">
+			<Desc>Nhân vật dễ bị đói, khát và mệt mỏi hơn</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_1">
+			<Desc>Tăng tốc độ tu luyện và bế quan</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_2">
+			<Desc>Giảm mạnh tốc độ tu luyện và bế quan</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_1">
+			<Desc>Tăng tốc độ học tập</Desc>
+		</Text>
+		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_2">
+			<Desc>Giảm tốc độ học tập và +5 Cấp kỹ năng sử dụng Pháp bảo (tăng giới hạn)</Desc>
+		</Text>
+	</List>
+</Texts>

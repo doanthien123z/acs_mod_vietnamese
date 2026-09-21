@@ -1,0 +1,47 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Stability">
+			<Descript>Độ ổn định {1}{0:N1}%</Descript>
+			<ToolTips>Trận pháp sẽ mất đi độ ổn định khi bị tấn công. Nếu độ ổn định của trận pháp giảm xuống 0, trận pháp sẽ bị phá hủy.</ToolTips>
+		</Text>
+		<Text Name="FabaoAtkPower">
+			<Descript>Kỹ năng pháp bảo {1}{0:N1}</Descript>
+			<ToolTips>Uy lực pháp bảo của trận nhãn sẽ tăng lên khi vận hành trận pháp.\nKỹ năng pháp bảo sẽ ảnh hưởng đến mức độ gia tăng uy lực pháp bảo của trận nhãn.</ToolTips>
+			<LuaToolTips>string.format("Uy lực pháp bảo của trận nhãn sẽ tăng lên khi vận hành trận pháp.\nKỹ năng pháp bảo sẽ ảnh hưởng đến mức độ gia tăng uy lực pháp bảo của trận nhãn.\nArtifact Power Increase: %.0f%%", (z.FabaoPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="MagicPower">
+			<Descript>Kỹ năng chân khí {1}{0:N1}</Descript>
+			<ToolTips>Chân khí của trận nhãn sẽ tăng lên khi vận hành trận pháp.\nKỹ năng chân khí sẽ ảnh hưởng đến mức độ gia tăng uy lực pháp bảo của trận nhãn.</ToolTips>
+			<LuaToolTips>string.format("Chân khí của trận nhãn sẽ tăng lên khi vận hành trận pháp.\nKỹ năng chân khí sẽ ảnh hưởng đến mức độ gia tăng uy lực pháp bảo của trận nhãn.\nSpell Power Increase: %.0f%%", (z.MagicPowerK_Normal-1)*100)</LuaToolTips>
+		</Text>
+		<Text Name="Sheild">
+			<Descript>Hộ Thể Chân Khí {1}{0:N1}</Descript>
+			<ToolTips>Khi trận pháp bị tấn công, một phần sát thương nhận phải sẽ được trận pháp hấp thụ, phần sát thương còn lại sẽ được chia đều cho tất cả nhân vật trong trận.\nTrận pháp sẽ giảm thiểu sát thương nhận vào, và sát thương cuối cùng sẽ được chia đều cho tất cả nhân vật trong trận.</ToolTips>
+			<LuaToolTips>string.format("Trận pháp sẽ giảm thiểu sát thương nhận vào, và sát thương cuối cùng sẽ được chia đều cho tất cả nhân vật trong trận..\nTrận pháp sẽ giảm thiểu sát thương nhận vào, và sát thương cuối cùng sẽ được chia đều cho tất cả nhân vật trong trận.\nDamage Reduction: %.0f%%", (1-z.EffectDamageP) * 100)</LuaToolTips>
+		</Text>
+		<Text Name="SkillCooldown">
+			<Descript>Sử dụng {1}{0:N1}</Descript>
+			<ToolTips>Khi trận pháp duy trì hoạt động, nó sẽ liên tục tích lũy năng lượng để sử dụng cho việc triển khai các thiên phú đặc biệt. Hơn nữa, chân khí của tất cả nhân vật trong trận sẽ đạt trạng thái cân bằng biến thiên trực tiếp khi trận pháp còn hoạt động.\nHiệu suất vận hành ảnh hưởng đến tốc độ tích lũy năng lượng và chu kỳ cân bằng chân khí.</ToolTips>
+			<LuaToolTips>string.format("Khi trận pháp duy trì hoạt động, nó sẽ liên tục tích lũy năng lượng để sử dụng cho việc triển khai các thiên phú đặc biệt. Hơn nữa, chân khí của tất cả nhân vật trong trận sẽ đạt trạng thái cân bằng biến thiên trực tiếp khi trận pháp còn hoạt động.\nHiệu suất vận hành ảnh hưởng đến tốc độ tích lũy năng lượng và chu kỳ cân bằng chân khí.\nReduction Rate of the Operation Cycle: %.0f%%\nAccumulation Cycle of Insight: %.0f sec\nQi Balance Cycle: %.0f sec", (1-z.EffectZrPointCDP)*100, ZhenMgr:GetZRAddDuration(z), 15 * z.EffectZrPointCDP)</LuaToolTips>
+		</Text>
+		<Text Name="ReduceCost">
+			<Descript>Hiệu suất trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Khi trận pháp được thiết lập, việc duy trì và sử dụng kỹ năng trận pháp sẽ tiêu hao chân khí của tất cả nhân vật trong đội hình. Lượng chân khí tiêu hao để duy trì trận pháp liên quan đến giới hạn chân khí của nhân vật ở vị trí trận nhãn. Lượng chân khí tiêu hao để thi triển thần thông trận pháp liên quan đến uy lực của thần thông đó.\nHiệu suất trận pháp ảnh hưởng đến lượng chân khí tiêu hao cho các hành động bên trong trận.</ToolTips>
+			<LuaToolTips>string.format("Khi trận pháp được thiết lập, việc duy trì và sử dụng kỹ năng trận pháp sẽ tiêu hao chân khí của tất cả nhân vật trong đội hình. Lượng chân khí tiêu hao để duy trì trận pháp liên quan đến giới hạn chân khí của nhân vật ở vị trí trận nhãn. Lượng chân khí tiêu hao để thi triển thần thông trận pháp liên quan đến uy lực của thần thông đó.\nHiệu suất trận pháp ảnh hưởng đến lượng chân khí tiêu hao cho các hành động bên trong trận. \nCurrent Cost Reduced: %.0f%%", (1 - z.EffectCostP)*100)</LuaToolTips>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerup">
+			<Descript>Quy mô trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Quy mô của trận pháp được quyết định bởi số lượng trận nhãn. Số lượng trận nhãn càng nhiều thì quy mô trận pháp càng lớn. Năng lực của trận nhãn sẽ quyết định quy mô tối đa của trận pháp. Nếu nhân vật lập ra trận pháp vượt quá năng lực của bản thân, độ ổn định của trận pháp sẽ giảm sút nghiêm trọng.</ToolTips>
+			<LuaToolTips>string.format("Quy mô của trận pháp được quyết định bởi số lượng trận nhãn. Số lượng trận nhãn càng nhiều thì quy mô trận pháp càng lớn. \nNăng lực của trận nhãn sẽ quyết định quy mô tối đa của trận pháp. Nếu nhân vật lập ra trận pháp vượt quá năng lực của bản thân, độ ổn định của trận pháp sẽ giảm sút nghiêm trọng. \nAdjusted Current Formation Stability: %.0f", z.fStabilityCoreNpcAddv)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPressurePowerup">
+			<Descript>Gánh nặng trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Gánh nặng trận pháp được quyết định bởi độ phức tạp của kết cấu trận pháp. Trận pháp có các trận nhãn phụ nằm cách xa trận nhãn chính sẽ gánh chịu áp lực lớn hơn. Năng lực của trận nhãn chính quyết định gánh nặng tối đa mà trận pháp có thể chịu đựng. Nếu nhân vật làm trận nhãn chính tạo ra trận pháp vượt quá năng lực của mình, gánh nặng của trận pháp cũng sẽ tăng lên tương ứng.</ToolTips>
+			<LuaToolTips>string.format("Gánh nặng trận pháp được quyết định bởi độ phức tạp của kết cấu trận pháp. Trận pháp có các trận nhãn phụ nằm cách xa trận nhãn chính sẽ gánh chịu áp lực lớn hơn.\nNăng lực của trận nhãn chính quyết định gánh nặng tối đa mà trận pháp có thể chịu đựng. Nếu nhân vật làm trận nhãn chính tạo ra trận pháp vượt quá năng lực của mình, gánh nặng của trận pháp cũng sẽ tăng lên tương ứng. \nQi Cost/sec: %.0f", z.CostLingPerSec)</LuaToolTips>
+		</Text>
+		<Text Name="NpcZhenPoint">
+			<Descript>Năng lượng trận pháp {1}{0:N1}</Descript>
+			<ToolTips>Trong quá trình trận pháp vận hành, nó sẽ tích lũy một phần năng lượng, năng lượng này có thể dùng để thi triển thần thông trận pháp. Tuy nhiên, trận pháp có giới hạn tích lũy năng lượng, khi đạt đến giới hạn đó thì năng lượng sẽ không thể tăng thêm được nữa.</ToolTips>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,32 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="affix_1">
+			<Display>Hóa yêu</Display>
+			<Desc>[color=#B0FA6B][size=18] · Tỉ lệ cao linh thú hóa yêu khi bị tiêu diệt[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_2">
+			<Display>Đan khí bão hòa</Display>
+			<Desc>[color=#B0FA6B][size=18] · Luyện đan thành công sẽ tăng ngũ hành linh khí trong cảnh vật, dựa theo phẩm cấp và thuộc tính của đan dược[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_5">
+			<Display>Tế bái yêu thú</Display>
+			<Desc>[color=#B0FA6B][size=18] · Kích hoạt tế bái yêu thú\n · Sử dụng tế bái yêu thú trong tổ đường[/color][/size]</Desc>
+		</Text>
+		<Text Name="affix_3">
+			<Display>Tài nguyên phong phú</Display>
+			<Desc>[size=18] · Tăng lượng vật phẩm rơi từ yêu thú và dã thú\n · Thương nhân sẽ có lượng hàng hóa gấp đôi[/size]</Desc>
+		</Text>
+		<Text Name="affix_4">
+			<Display>Linh sủng</Display>
+			<Desc>[size=18] · Bắt đầu cùng linh sủng Hoa Quyển\n · Tăng hiệu quả dinh dưỡng từ việc nuôi dưỡng linh sủng[/size]</Desc>
+		</Text>
+		<Text Name="challenge_affix_1">
+			<Display>Yêu thú cuồng loạn</Display>
+			<Desc>· Tăng độ khó khi yêu thú tấn công</Desc>
+		</Text>
+		<Text Name="challenge_affix_2">
+			<Display>Thời tiết biến động</Display>
+			<Desc>· Tăng hiệu ứng tiêu cực của thời tiết\n · Tăng độ khó khi tu luyện độ kiếp</Desc>
+		</Text>
+	</List>
+</Texts>

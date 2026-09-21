@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="GongDengXian">
+			<Title>Thiên cấp công pháp</Title>
+			<Desc>Công pháp loại này sẽ giúp Người tiến thẳng vào tiên đạo, mở ra cơ hội trở thành tiên nhân.</Desc>
+		</Text>
+		<Text Name="GongYuanShen">
+			<Title>Công pháp cấp Nguyên Thần</Title>
+			<Desc>Công pháp loại này sẽ mở ra cơ hội cho Người tiến vào Nguyên Anh cảnh.</Desc>
+		</Text>
+		<Text Name="GongJinDan">
+			<Title>Công pháp cấp Kim Đan</Title>
+			<Desc>Công pháp loại này sẽ mở ra cơ hội cho Người tiến vào Kim Đan cảnh.</Desc>
+		</Text>
+		<Text Name="GongFanSu">
+			<Title>Công pháp Địa giai</Title>
+			<Desc>Công pháp loại này chỉ là võ học thông thường, ngay cả việc giúp Người tiến vào Trúc Cơ cảnh cũng không làm được.</Desc>
+		</Text>
+	</List>
+</Texts>

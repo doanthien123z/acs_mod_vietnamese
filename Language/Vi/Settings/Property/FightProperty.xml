@@ -1,0 +1,138 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="NpcFight_BaseHitChance">
+			<DisplayName>Tỷ lệ chính xác tấn công</DisplayName>
+			<Desc>Cơ hội để ngoại môn đệ tử tấn công trúng kẻ địch</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_BaseDodgeChance">
+			<DisplayName>Tỷ lệ né tránh tấn công</DisplayName>
+			<Desc>Cơ hội để tu sĩ luyện thể có thể né tránh đòn tấn công của kẻ địch</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoNum">
+			<DisplayName>Số lượng pháp bảo</DisplayName>
+			<Desc>Số lượng pháp bảo mà nhân vật có thể sử dụng</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverK">
+			<DisplayName>Tỷ lệ hồi phục chân khí của pháp bảo</DisplayName>
+			<Desc>Tỷ lệ hồi phục chân khí của pháp bảo được hấp thụ từ nhân vật</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoPowerAddP">
+			<DisplayName>Chỉ số cộng dồn uy lực của pháp bảo</DisplayName>
+			<Desc>Khả năng gây sát thương của pháp bảo</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoLingRecoverAddP">
+			<DisplayName>Chỉ số cộng dồn hồi phục chân khí của pháp bảo</DisplayName>
+			<Desc>Hồi phục chân khí pháp bảo</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoCoolDownAddP">
+			<DisplayName>Chỉ số cộng dồn tốc độ tấn công của pháp bảo</DisplayName>
+			<Desc>Khoảng thời gian tối thiểu giữa các đợt tấn công bằng pháp bảo</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoMaxLingAddP">
+			<DisplayName>Chỉ số cộng dồn chân khí tối đa của pháp bảo</DisplayName>
+			<Desc>Lượng chân khí tối đa mà pháp bảo có thể đạt được</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelDistanceAddV">
+			<DisplayName>Chỉ số cộng dồn lực đẩy lùi của pháp bảo</DisplayName>
+			<Desc>Khoảng cách văng ngược lại khi hai pháp bảo va chạm</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoFlySpeedAddP">
+			<DisplayName>Chỉ số cộng dồn tốc độ bay của pháp bảo</DisplayName>
+			<Desc>Tốc độ bay của pháp bảo</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTurnSpeedAddP">
+			<DisplayName>Chỉ số cộng dồn tốc độ xoay chuyển của pháp bảo</DisplayName>
+			<Desc>Tốc độ xoay chuyển của pháp bảo</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoRepelResistanceAddV">
+			<DisplayName>Chỉ số cộng dồn kháng đẩy lùi của pháp bảo</DisplayName>
+			<Desc>Khả năng chống lại lực văng ngược khi hai pháp bảo va chạm</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_FabaoTrailingLengthAddP">
+			<DisplayName>Cộng hưởng phạm vi tấn công của pháp bảo</DisplayName>
+			<Desc>Độ dài đường bay khi pháp bảo xuất chiêu</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellPowerAddP">
+			<DisplayName>Cộng hưởng uy lực linh kỹ</DisplayName>
+			<Desc>Uy lực của linh kỹ khi thi triển kỹ năng, tấn công hoặc kỹ năng trị liệu</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellLingCostAddP">
+			<DisplayName>Cộng hưởng tiêu hao chân khí khi thi triển linh kỹ</DisplayName>
+			<Desc>Lượng chân khí cần tiêu hao để thi triển linh kỹ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCastTimeAddP">
+			<DisplayName>Cộng hưởng tốc độ thi triển linh kỹ</DisplayName>
+			<Desc>Thời gian chuẩn bị trước khi tung linh kỹ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_SpellCoolDownAddP">
+			<DisplayName>Cộng hưởng hồi chiêu linh kỹ</DisplayName>
+		</Text>
+		<Text Name="NpcFight_FightSkillSoul">
+			<DisplayName>Linh lực của Nguyên Thần</DisplayName>
+			<Desc>Chỉ người đạt đến cảnh giới tối cao trong đạo linh kỹ mới có thể tạo ra nó. Kết nối nó với linh kỹ mong muốn, linh kỹ đã chọn sẽ tự động thi triển trong chiến đấu</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRate">
+			<DisplayName>Cộng hưởng uy lực hộ thể linh giáp</DisplayName>
+			<DisplayValue>{0:N3} Sát thương/chân khí</DisplayValue>
+			<Desc>Cộng hưởng gia tăng khả năng giảm sát thương nhận phải thông qua hộ thể linh giáp</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldConversionRateAddP">
+			<DisplayName>Cộng hưởng uy lực hộ thể linh giáp</DisplayName>
+			<Desc>Cộng hưởng gia tăng khả năng giảm sát thương nhận phải thông qua hộ thể linh giáp</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenKeyPointNum">
+			<DisplayName>Quy mô trận pháp</DisplayName>
+			<Desc>Phạm vi trận pháp mà nhân vật này làm trung tâm. Càng nhiều nhân vật trong trận pháp, phạm vi trận pháp càng lớn</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ZhenEnginePower">
+			<DisplayName>Gánh nặng trận pháp</DisplayName>
+			<Desc>Gánh nặng của trận pháp khi nhân vật này làm trung tâm. Trận pháp càng phức tạp, gánh nặng lên trận pháp càng lớn</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToJin">
+			<DisplayName>Kháng Kim hệ</DisplayName>
+			<Desc>Giảm sát thương khi tu sĩ chịu sát thương từ Kim hệ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToMu">
+			<DisplayName>Kháng Mộc hệ</DisplayName>
+			<Desc>Giảm sát thương khi tu sĩ chịu sát thương từ Mộc hệ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToShui">
+			<DisplayName>Kháng Thủy hệ</DisplayName>
+			<Desc>Giảm sát thương khi tu sĩ chịu sát thương từ Thủy hệ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToHuo">
+			<DisplayName>Kháng Hỏa hệ</DisplayName>
+			<Desc>Giảm sát thương khi tu sĩ chịu sát thương từ Hỏa hệ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+		<Text Name="NpcFight_ShieldResistanceToTu">
+			<DisplayName>Kháng Thổ hệ</DisplayName>
+			<Desc>Giảm sát thương khi tu sĩ chịu sát thương từ Thổ hệ</Desc>
+			<FunctionKind>Chỉ số thuộc tính trong chiến đấu</FunctionKind>
+		</Text>
+	</List>
+</Texts>

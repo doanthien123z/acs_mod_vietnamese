@@ -1,0 +1,40 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="BottleNeckChance">
+			<Title>Cảnh bình phong thông thường</Title>
+			<Desc>Việc đột phá cảnh giới của cảnh bình phong thông thường có thể thực hiện dễ dàng bằng cách chọn địa điểm phù hợp, cơ hội thành công khi đột phá sẽ rất cao.</Desc>
+		</Text>
+		<Text Name="BottleNeckExplore">
+			<Title>Cảnh bình phong Du Lịch Thế Giới</Title>
+			<Desc>Việc đột phá cảnh giới của cảnh bình phong Du Lịch Thế Giới có thể thực hiện bằng cách phái nhân vật xuất ngoại du lịch để thu thập cảm ngộ và kinh nghiệm.</Desc>
+		</Text>
+		<Text Name="BottleNeckWork">
+			<Title>Cảnh bình phong Phàm Trần</Title>
+			<Desc>Ở trạng thái cảnh bình phong Phàm Trần, nhân vật sẽ mất hết chân khí trong cơ thể và trở thành một phàm nhân. Để đột phá cảnh giới, người đó phải thu thập cảm ngộ và kinh nghiệm từ việc sinh hoạt theo lối sống của một người phàm bình thường.</Desc>
+		</Text>
+		<Text Name="BottleNeckGold">
+			<Title>Cảnh bình phong Kim Đan</Title>
+			<Desc>Cảnh bình phong Kim Đان vô cùng quan trọng trong việc đột phá cảnh giới. Người tu luyện phải phong ấn toàn bộ chân khí trong cơ thể để ngưng kết Kim Đan, cấp bậc của Kim Đan sẽ quyết định năng lực của người tu luyện đó có thể tiến xa đến đâu trong thế giới tu tiên.</Desc>
+		</Text>
+		<Text Name="BottleNeckThunder">
+			<Title>Cảnh bình phong Thiên Kiếp</Title>
+			<Desc>Cảnh bình phong Thiên Kiếp là thử thách vĩ đại của người tu luyện. Nếu đột phá cảnh giới thất bại, nhẹ thì người đó sẽ mất đi toàn bộ căn cơ tu luyện, nặng thì bỏ mạng nơi hoàng tuyền.</Desc>
+		</Text>
+		<Text Name="BottleNeckGod">
+			<Title>Cảnh bình phong Tiên Môn</Title>
+			<Desc>Cảnh bình phong Tiên Môn chính là ải cuối cùng trong quá trình tu luyện trước khi người đó đột phá cảnh giới và phi thăng thành tiên.</Desc>
+		</Text>
+		<Text Name="BottleNeckGodCity">
+			<Title>Cảnh bình phong Thần Linh</Title>
+			<Desc>Sự hình thành của lãnh địa thần thánh là thời khắc quan trọng nhất đối với người tu luyện theo con đường thần đạo. Trạng thái của lãnh địa thần thánh sẽ quyết định giới hạn năng lực có thể đạt tới trong tương lai.</Desc>
+		</Text>
+		<Text Name="BottleNeckFuPractice">
+			<Title>Thượng Cổ Phù Chú</Title>
+			<Desc>Một loại cảnh bình phong đặc biệt dành cho các tu sĩ chuyên tu bùa chú. Khi đột phá cảnh giới, người tu luyện bắt buộc phải sử dụng linh khí trong cơ thể để vẽ ra bùa chú nguyên thủy.</Desc>
+		</Text>
+		<Text Name="BottleNeckDie">
+			<Title>Cảnh bình phong Tử Vong</Title>
+			<Desc>Cảnh bình phong như thế này có nghĩa là người tu luyện đã đi đến đường cùng trên con đường tu tiên của mình.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,149 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Temperature1">
+			<DisplayName>Lạnh thấu xương</DisplayName>
+			<Desc>Cảm thấy lạnh đến mức có thể chết cứng.</Desc>
+			<StoryDesc>Cảm thấy lạnh đến mức khó lòng suy nghĩ được điều gì.</StoryDesc>
+		</Text>
+		<Text Name="Temperature2">
+			<DisplayName>Giá rét</DisplayName>
+			<Desc>Trời lạnh đến mức không thể chịu nổi.</Desc>
+			<StoryDesc>Cảm thấy lạnh đến mức nghĩ rằng cách duy nhất để sưởi ấm là run rẩy thật mạnh.</StoryDesc>
+		</Text>
+		<Text Name="Temperature3">
+			<DisplayName>Giá rét</DisplayName>
+			<Desc>Thời tiết lạnh đến mức khó lòng chịu đựng</Desc>
+			<StoryDesc>Cảm thấy lạnh đến mức phải chà xát đôi tay không ngừng để tạo hơi ấm.</StoryDesc>
+		</Text>
+		<Text Name="Temperature4">
+			<DisplayName>Khá là lạnh</DisplayName>
+			<Desc>Trời hơi lạnh một chút.</Desc>
+			<StoryDesc>Có lẽ cần phải tìm y phục dày để chống lại cái lạnh ở mức này.</StoryDesc>
+		</Text>
+		<Text Name="Temperature5">
+			<DisplayName>Nhiệt độ này thật dễ chịu</DisplayName>
+			<Desc>Không khí vừa vặn, nhiệt độ và gió lướt qua thật hoàn hảo</Desc>
+			<StoryDesc>Cảm thấy linh khí trời đất lúc này vô cùng hoàn mỹ</StoryDesc>
+		</Text>
+		<Text Name="Temperature6">
+			<DisplayName>Hơi nóng một chút</DisplayName>
+			<Desc>Thời tiết này tương đối nóng bức</Desc>
+			<StoryDesc>Cảm thấy nóng đến mức mồ hôi rịn ra trên trán, nếu lúc này có một chiếc quạt trong tay thì thật tốt biết bao</StoryDesc>
+		</Text>
+		<Text Name="Temperature7">
+			<DisplayName>Nóng</DisplayName>
+			<Desc>Cảm thấy nóng nực đến mức mồ hôi vã ra khắp toàn thân</Desc>
+			<StoryDesc>Cảm thấy không thể không ướt đẫm mồ hôi vào lúc này</StoryDesc>
+		</Text>
+		<Text Name="Temperature8">
+			<DisplayName>Nóng chết đi được</DisplayName>
+			<Desc>Nhiệt độ kiểu này thật quá mức chịu đựng</Desc>
+			<StoryDesc>Cảm thấy nóng đến mức y phục ướt đẫm mồ hôi</StoryDesc>
+		</Text>
+		<Text Name="Temperature9">
+			<DisplayName>Nóng vãi chưởng</DisplayName>
+			<Desc>Nóng cực độ, nóng chết đi được, nhiệt độ thế này có thể thiêu sống cả con người</Desc>
+			<StoryDesc>Cảm thấy nóng đến mức thần trí gần như mơ hồ</StoryDesc>
+		</Text>
+		<Text Name="Light1">
+			<DisplayName>Sáng rực</DisplayName>
+			<Desc>Ánh sáng chói lọi đến mức khó lòng mở nổi mắt</Desc>
+			<StoryDesc>Nước mắt giàn giụa vì ánh sáng chói chang, dù có cố dùng tay che mắt cũng chẳng giúp được gì mấy</StoryDesc>
+		</Text>
+		<Text Name="Light2">
+			<DisplayName>Tươi sáng lấp lánh</DisplayName>
+			<Desc>Ánh sáng quá mạnh khiến việc quan sát trở nên khó khăn</Desc>
+			<StoryDesc>Cảm thấy sáng rực đến mức chỉ có thể nheo mắt lại</StoryDesc>
+		</Text>
+		<Text Name="Light3">
+			<DisplayName>Mờ ảo tối tăm</DisplayName>
+			<Desc>Gần như không có ánh sáng chiếu vào, khiến việc nhìn rõ vạn vật trở nên khó khăn</Desc>
+			<StoryDesc>Cảm thấy tối tăm đến mức phải tập trung tinh thần quan sát mọi thứ thật cẩn thận, nếu có chút ánh sáng chiếu vào thì tốt biết mấy...</StoryDesc>
+		</Text>
+		<Text Name="Light4">
+			<DisplayName>U ám</DisplayName>
+			<Desc>Cảm thấy tối đến mức đưa tay ra không thấy năm ngón</Desc>
+			<StoryDesc>Cảm thấy u tối đến mức con đường duy nhất để di chuyển là dùng tay sờ soạng vạn vật xung quanh</StoryDesc>
+		</Text>
+		<Text Name="Light5">
+			<DisplayName>Mờ ảo tối tăm</DisplayName>
+			<Desc>Hoàng hôn buông xuống khiến tâm hồn cảm thấy tĩnh lặng, thư thái</Desc>
+			<StoryDesc>Cảm thấy thật dễ dàng để thả lỏng và tận hưởng khoảnh khắc hoàng hôn</StoryDesc>
+		</Text>
+		<Text Name="Light6">
+			<DisplayName>U ám</DisplayName>
+			<Desc>Cảm thấy tối đến mức đưa tay ra không thấy năm ngón, nhưng lại mang đến cảm giác an toàn kỳ lạ</Desc>
+			<StoryDesc>Cảm thấy thư thái và tận hưởng màn đêm buông xuống</StoryDesc>
+		</Text>
+		<Text Name="Pain1">
+			<DisplayName>Đau đớn thấu xương</DisplayName>
+			<Desc>Đau đớn nhường này, nếu phải chịu đựng nỗi đau như thế này chi bằng ta chết quách đi cho rồi...</Desc>
+			<StoryDesc>Rên rỉ trong đau đớn, tựa như cái chết cận kề</StoryDesc>
+		</Text>
+		<Text Name="Pain2">
+			<DisplayName>Đau đớn vô cùng</DisplayName>
+			<Desc>Nó đau lắm, đau đến mức gần như không thể chịu đựng nổi...</Desc>
+			<StoryDesc>Cảm thấy đau đớn đến mức chỉ biết cắn răng chịu đựng sự thống khổ</StoryDesc>
+		</Text>
+		<Text Name="Pain3">
+			<DisplayName>Đau lắm</DisplayName>
+			<Desc>Đau thật đấy! Khi nào nỗi đau này mới chấm dứt đây?!</Desc>
+			<StoryDesc>Cảm thấy có thể đánh đổi mọi thứ chỉ để nỗi đau này biến mất</StoryDesc>
+		</Text>
+		<Text Name="Pain4">
+			<DisplayName>Đau nhói</DisplayName>
+			<Desc>Đau đến mức phải nghiến răng chịu đựng</Desc>
+			<StoryDesc>Cảm thấy đau đớn đến mức mặt mày tối sầm lại</StoryDesc>
+		</Text>
+		<Text Name="Pain5">
+			<DisplayName>Hơi đau một chút</DisplayName>
+			<Desc>Nó khá đau đớn...</Desc>
+			<StoryDesc>Nhíu mày, hít một hơi thật sâu dường như cũng giúp ích được phần nào</StoryDesc>
+		</Text>
+		<Text Name="Consciousness1">
+			<DisplayName>Tâm trí rối bời</DisplayName>
+			<Desc>Ta là ai? Đây là đâu?... Rốt cuộc chuyện gì đã xảy ra với ta??</Desc>
+			<StoryDesc>Bối rối ngơ ngác..</StoryDesc>
+		</Text>
+		<Text Name="Consciousness2">
+			<DisplayName>Choáng váng mê muội</DisplayName>
+			<Desc>Đầu óc ta quay cuồng... cảm giác chóng mặt như muốn đảo lộn trời đất này thật khó chịu</Desc>
+			<StoryDesc>Thở dài vì cơn chóng mặt</StoryDesc>
+		</Text>
+		<Text Name="Consciousness3">
+			<DisplayName>Hoa mắt như muốn ngất đi</DisplayName>
+			<Desc>Cảm giác đầu óc trống rỗng, không thể suy nghĩ được gì</Desc>
+			<StoryDesc>Cảm thấy không khỏe</StoryDesc>
+		</Text>
+		<Text Name="Consciousness4">
+			<DisplayName>Cơ thể rã rời</DisplayName>
+			<Desc>Ta không muốn làm gì cả, cảm thấy chẳng còn chút sức lực nào...</Desc>
+			<StoryDesc>Ngáp một cái đầy lười biếng vì cơ thể thiếu hụt năng lực</StoryDesc>
+		</Text>
+		<Text Name="GetWet">
+			<DisplayName>Ướt sũng</DisplayName>
+			<Desc>Nếu có một chiếc ô thì tốt biết mấy</Desc>
+			<StoryDesc>Y phục ướt sũng cả rồi... nếu có y phục khô để thay và một đống lửa ấm áp thì tốt quá</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood">
+			<DisplayName>Ác quỷ gào thét</DisplayName>
+			<Desc>Vô số ác quỷ đang gào thét trong tâm trí ta... dường như chúng đang cảm thấy đói khát</Desc>
+			<StoryDesc>Cố gắng chịu đựng tiếng gào thét của ác quỷ trong tâm trí</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_Satisfy">
+			<DisplayName>Thỏa mãn nhất thời</DisplayName>
+			<Desc>Thỏa mãn, cảm giác này quả thực khá dễ chịu</Desc>
+			<StoryDesc>Thở dài vì dục vọng trong lòng</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Ta cảm thấy như linh hồn mình đang bị xé nát... không ngờ lại có nỗi đau đớn như vậy tồn tại</Desc>
+			<StoryDesc>Nghiến răng ken két vì đau đớn</StoryDesc>
+		</Text>
+		<Text Name="AfterAbsorbGong_6">
+			<DisplayName>Nội tâm trống rỗng</DisplayName>
+			<Desc>Cảm giác việc tu luyện không đạt hiệu quả như mong đợi, giống như mọi công sức đều đổ sông đổ biển</Desc>
+			<StoryDesc>Cảm thấy yếu đuối và lạc lối</StoryDesc>
+		</Text>
+	</List>
+</Texts>

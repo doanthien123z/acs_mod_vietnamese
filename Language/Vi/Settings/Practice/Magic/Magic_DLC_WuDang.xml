@@ -1,0 +1,19 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="LsCalmHeart">
+			<DisplayName>Vận khí tịnh tâm</DisplayName>
+			<Desc>Thi triển lên nhân vật đồng minh để họ không cần thức ăn, nước uống hay ngủ nghỉ trong 3 ngày, tuy nhiên tốc độ di chuyển của họ sẽ chậm lại.</Desc>
+			<TargetDesc>Chọn nhân vật đồng minh</TargetDesc>
+		</Text>
+		<Text Name="LsShapeshift">
+			<DisplayName>Phong Ấn Thiên Kiếp</DisplayName>
+			<Desc>Trì hoãn thiên kiếp hóa hình của nhân vật đồng minh bằng cách đánh đổi thọ nguyên.</Desc>
+			<TargetDesc>Chọn nhân vật đồng minh sắp phải đối mặt với thiên kiếp hóa hình.</TargetDesc>
+		</Text>
+		<Text Name="LsLingWater">
+			<DisplayName>Thổ Nhưỡng Tự Nhiên</DisplayName>
+			<Desc>Biến khu vực thành Linh Thổ bằng cách tiêu hao sự sinh trưởng và dinh dưỡng của bản thân. Tuy nhiên, nước ở khu vực lân cận sẽ biến thành nước thường.</Desc>
+			<TargetDesc>Chọn một khoảng đất trống</TargetDesc>
+		</Text>
+	</List>
+</Texts>

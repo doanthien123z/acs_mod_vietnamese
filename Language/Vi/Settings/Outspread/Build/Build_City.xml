@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="Build_Discipline">
+			<DisplayName>Chấp Pháp Đường</DisplayName>
+			<Desc>Chấp Pháp Đường là nơi các đệ tử thực hiện lễ nhập môn và nghi lễ rũ bỏ bụi trần, người phàm cũng có thể đến tham quan. Mở khóa Chấp Pháp Đường cho phép Người duy trì trật tự và trừng trị những kẻ làm càn.</Desc>
+		</Text>
+		<Text Name="Build_Secret">
+			<DisplayName>Mật Đường</DisplayName>
+			<Desc>Mật Đường được ẩn giấu ở một góc khuất, thường không cho người ngoài thăm viếng. Mở khóa Mật Đường sẽ mở lệnh Mưu lược, dùng để gây mất ổn định nội bộ các thế lực đối địch.</Desc>
+		</Text>
+		<Text Name="Build_Sermon">
+			<DisplayName>Thánh Điện</DisplayName>
+			<Desc>Bên trong Thánh Điện có tượng thần được dựng lên để người dân thờ phụng, tạo nguồn an ủi tâm linh và giúp truyền bá giáo lý của tông môn. Mở khóa Thánh Điện sẽ mở lệnh Truyền giáo, dùng để thu phục lòng người, khiến họ thành tâm hướng về tông môn của Người.</Desc>
+		</Text>
+		<Text Name="Build_Recuit">
+			<DisplayName>Linh Tông Sư Điện</DisplayName>
+			<Desc>Linh Sư Đường dùng để thực hiện nghi thức chiêu mộ, những người thích hợp có thể ứng tuyển gia nhập tông môn tại đây. Mở khóa Linh Sư Đường sẽ mở lệnh Chiêu mộ, dùng để tìm kiếm nhân tài cho tông môn.</Desc>
+		</Text>
+	</List>
+</Texts>

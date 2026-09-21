@@ -1,0 +1,20 @@
+<Texts Type="Other">
+	<List>
+		<Text Name="RpgTower">
+			<Title>Ranh giới giữa các thế giới: Vô Tận Chi Địa</Title>
+			<Desc>Cánh cổng không gian bí ẩn ẩn sâu trong kẽ nứt của một thế giới khác, nơi hiện thực và mộng ảo giao thoa, nơi lưu giữ lịch sử hàng triệu năm.</Desc>
+		</Text>
+		<Text Name="RpgQianKun">
+			<Title>Ranh giới giữa các vũ trụ: Nơi chốn cô tịch</Title>
+			<Desc>Hang động bí ẩn nằm trong vũ trụ thu nhỏ, bị phong ấn mạnh mẽ ngăn cản, nhưng cánh cửa đã mở ra nhờ "Thái Ất Bí Lục". Có thứ gì đó đang được che giấu trong đó.</Desc>
+		</Text>
+		<Text Name="RpgArena">
+			<Title>Luyện võ đường</Title>
+			<Desc>Nơi các đệ tử đến luyện tập và giao lưu võ học.</Desc>
+		</Text>
+		<Text Name="RpgArena_YingTian">
+			<Title>Chấn Thiên Tế Đàn</Title>
+			<Desc>Ranh giới tâm linh kết nối các thế giới</Desc>
+		</Text>
+	</List>
+</Texts>

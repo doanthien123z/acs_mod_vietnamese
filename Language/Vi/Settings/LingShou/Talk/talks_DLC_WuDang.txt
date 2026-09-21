@@ -1,0 +1,13 @@
+talk	notarget	int	string	float	thing
+NotEat_Item_WuDang_HuangJingFen	Ta sẽ không ăn Địa Tâm Phấn				
+NotEat_Item_Dan_WuQiNoHunger2	Ta sẽ không dùng đan dược thay thế linh khí				
+NotEat_Item_Dan_SanHuaHuangJing	Ta sẽ không ăn Tam Cốt Đan				
+WannaEat_Item_WuDang_HuangJingFen	Ta muốn ăn Bột Cốt Đất				
+WannaEat_Item_Dan_WuQiNoHunger2	Ta muốn ăn Khí Thay Đan				
+WannaEat_Item_Dan_SanHuaHuangJing	Ta muốn ăn Tam Cốt Đan				
+DoTalkEat_Item_WuDang_HuangJingFen					Ta đang ăn Bột Cốt Đất
+DoTalkEat_Item_Dan_WuQiNoHunger2					Ta đang ăn Khí Thay Đan
+DoTalkEat_Item_Dan_SanHuaHuangJing					Ta đang ăn Tam Cốt Đan
+CantEat_Item_WuDang_HuangJingFen	Ta không thể tìm thấy Bột Cốt Đất				
+CantEat_Item_Dan_WuQiNoHunger2	Ta không thể tìm thấy Khí Thay Đan				
+CantEat_Item_Dan_SanHuaHuangJing	Ta không thể tìm thấy Tam Cốt Đan				
